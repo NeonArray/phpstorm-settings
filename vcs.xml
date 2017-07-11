@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/JUMP-Agency/wp-alumawood" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ocularrhythm/react-todo-redux" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\aarney\PhpstormProjects" />
