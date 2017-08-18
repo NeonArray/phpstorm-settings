@@ -2,6 +2,7 @@
   <option name="AUTODETECT_INDENTS" value="false" />
   <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_SPACE_INSIDE_EMPTY_TAG" value="true" />
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_ASSIGNMENTS" value="true" />
