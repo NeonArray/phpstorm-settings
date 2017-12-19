@@ -66,6 +66,10 @@
           <option name="url" value="https://github.com/ocularrhythm/wordpress-history-server" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://leapagency.visualstudio.com/_git/JumpAgency" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/PhpstormProjects" />
