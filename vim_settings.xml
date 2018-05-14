@@ -1,12 +1,12 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
       <file name="/Dummy.txt" timestamp="1526318579008">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1526327442590">
+      <file name="/PHP Console" timestamp="1526327787125">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526327190186">
@@ -17,12 +17,12 @@
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/factory/factory.class.php" timestamp="1526320662286" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-menu.php" timestamp="1526325332489" />
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" timestamp="1526327476963">
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" timestamp="1526327504386">
         <mark key="'" line="143" column="6" />
-        <mark key="[" line="106" column="61" />
-        <mark key="]" line="117" column="78" />
-        <mark key="." line="117" column="78" />
-        <mark key="^" line="117" column="78" />
+        <mark key="[" line="108" column="8" />
+        <mark key="]" line="107" column="7" />
+        <mark key="." line="107" column="7" />
+        <mark key="^" line="107" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/factory/objects/wp_post.class.php" timestamp="1526319411139">
         <mark key="[" line="77" column="0" />
