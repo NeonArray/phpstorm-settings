@@ -3,20 +3,23 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/Dummy.txt" timestamp="1526318579008">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/PHP Console" timestamp="1526315449674">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526315451277">
-        <mark key="[" line="79" column="50" />
-        <mark key="]" line="79" column="52" />
-        <mark key="^" line="79" column="52" />
-        <mark key="." line="79" column="52" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526318533109">
+        <mark key="[" line="108" column="15" />
+        <mark key="]" line="100" column="23" />
+        <mark key="^" line="100" column="23" />
+        <mark key="." line="100" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" timestamp="1526314309757">
-        <mark key="[" line="81" column="8" />
-        <mark key="]" line="81" column="7" />
-        <mark key="." line="81" column="7" />
-        <mark key="^" line="81" column="7" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" timestamp="1526318567091">
+        <mark key="[" line="96" column="67" />
+        <mark key="]" line="83" column="48" />
+        <mark key="." line="83" column="48" />
+        <mark key="^" line="83" column="48" />
       </file>
     </filemarks>
     <jumps>
