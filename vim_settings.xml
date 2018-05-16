@@ -6,12 +6,12 @@
       <file name="/Dummy.txt" timestamp="1526480615288">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526485583921">
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526486495405">
         <mark key="j" line="41" column="19" />
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="53" column="113" />
-        <mark key="^" line="53" column="113" />
-        <mark key="." line="53" column="113" />
+        <mark key="[" line="82" column="33" />
+        <mark key="]" line="79" column="34" />
+        <mark key="^" line="79" column="34" />
+        <mark key="." line="79" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-plugin.php" timestamp="1526480450531">
         <mark key="i" line="72" column="58" />
@@ -21,7 +21,7 @@
         <mark key="^" line="187" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/media.class.php" timestamp="1526483922760" />
-      <file name="/fragment.php" timestamp="1526481658388">
+      <file name="/fragment.php" timestamp="1526486484714">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
@@ -45,13 +45,13 @@
         <mark key="." line="107" column="7" />
         <mark key="^" line="107" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526485620607">
-        <mark key="[" line="64" column="54" />
-        <mark key="]" line="64" column="56" />
-        <mark key="^" line="64" column="56" />
-        <mark key="." line="64" column="56" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526485857751">
+        <mark key="[" line="71" column="1" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1526485039506">
+      <file name="/PHP Console" timestamp="1526485877523">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
