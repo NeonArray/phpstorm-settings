@@ -13,7 +13,7 @@
         <mark key="." line="138" column="66" />
         <mark key="^" line="138" column="66" />
       </file>
-      <file name="/fragment.php" timestamp="1526475650290">
+      <file name="/fragment.php" timestamp="1526476837306">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
@@ -37,7 +37,7 @@
         <mark key="." line="107" column="7" />
         <mark key="^" line="107" column="7" />
       </file>
-      <file name="/PHP Console" timestamp="1526476565600">
+      <file name="/PHP Console" timestamp="1526477365566">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
@@ -65,11 +65,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526476610487">
-        <mark key="[" line="134" column="8" />
-        <mark key="]" line="134" column="8" />
-        <mark key="^" line="135" column="4" />
-        <mark key="." line="134" column="8" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526477501063">
+        <mark key="[" line="143" column="9" />
+        <mark key="]" line="140" column="48" />
+        <mark key="^" line="140" column="48" />
+        <mark key="." line="140" column="48" />
       </file>
     </filemarks>
     <jumps>
@@ -81,40 +81,40 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZpbmUoICdXUF9QTFVHSU5fRElSJywgJy4nICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkYSA9ICR3cF91cGdyYWRlcjsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWZpbmUoICdXUF9QTFVHSU5fRElSJywgJy4nICk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHJldHVybiB0cnVlOw==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWZpbmUoICdXUF9QTFVHSU5fRElSJywgJy4nICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICApICk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2RldGFpbHMnICA9PiBqc29uX2VuY29kZSggJHBvc3QgKSwK</text>
+        <text encoding="base64">ICAgICAgICApICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3NldmVyaXR5JyA9PiAgJHRoaXMtPmxleGljb25bJ2FjdGlvbnMnXVsnY3JlYXRlZF9pbXBvcnQnXSwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2RldGFpbHMnICA9PiBqc29uX2VuY29kZSggJHBvc3QgKSwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FjdGlvbicgICA9PiAnY3JlYXRlZF9pbXBvcnQnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3NldmVyaXR5JyA9PiAgJHRoaXMtPmxleGljb25bJ2FjdGlvbnMnXVsnY3JlYXRlZF9pbXBvcnQnXSwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3RyaWdnZXInICA9PiAkdGhpcy0+c2x1ZywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2FjdGlvbicgICA9PiAnY3JlYXRlZF9pbXBvcnQnLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gJHRoaXMtPmxvZy0+ZGlzcGF0Y2goIGFycmF5KAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ3RyaWdnZXInICA9PiAkdGhpcy0+c2x1ZywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>$plugin, true, false )</text>
+        <text encoding="base64">IHJldHVybiB0cnVlOw==</text>
       </register>
     </registers>
     <search>
