@@ -6,14 +6,12 @@
       <file name="/Dummy.txt" timestamp="1526399752023">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1526474715466">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
-        <mark key="[" line="45" column="56" />
-        <mark key="]" line="45" column="55" />
-        <mark key="^" line="45" column="55" />
-        <mark key="." line="45" column="55" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-plugin.php" timestamp="1526475367465">
+        <mark key="i" line="72" column="58" />
+        <mark key="[" line="63" column="30" />
+        <mark key="]" line="63" column="30" />
+        <mark key="." line="63" column="30" />
+        <mark key="^" line="63" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/option.class.php" timestamp="1526416195959">
         <mark key="[" line="46" column="7" />
@@ -34,6 +32,15 @@
         <mark key="." line="107" column="7" />
         <mark key="^" line="107" column="7" />
       </file>
+      <file name="/PHP Console" timestamp="1526475386374">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
+        <mark key="[" line="45" column="56" />
+        <mark key="]" line="45" column="55" />
+        <mark key="^" line="45" column="55" />
+        <mark key="." line="45" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" timestamp="1526416096801">
         <mark key="'" line="80" column="12" />
         <mark key="[" line="102" column="4" />
@@ -53,11 +60,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526474695185">
-        <mark key="[" line="73" column="47" />
-        <mark key="]" line="72" column="25" />
-        <mark key="^" line="72" column="25" />
-        <mark key="." line="72" column="25" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526475455934">
+        <mark key="[" line="62" column="6" />
+        <mark key="]" line="69" column="35" />
+        <mark key="^" line="69" column="35" />
+        <mark key="." line="69" column="35" />
       </file>
     </filemarks>
     <jumps>
@@ -69,37 +76,37 @@
     </jumps>
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiBfCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZGVyLT5hZGRfZmlsdGVyKCAnZXh0cmFfcGx1Z2luX2hlYWRlcnMnLCAkdGhpcywgJycgKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0ZXN0X2F0dGFjaF9ob29rcygpIHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZGVyLT5hZGRfZmlsdGVyKCAnZXh0cmFfcGx1Z2luX2hlYWRlcnMnLCAkdGhpcywgJ29uX2ltcG9ydF9zdGFydCcgKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZGVyLT5hZGRfZmlsdGVyKCAnZXh0cmFfcGx1Z2luX2hlYWRlcnMnLCAkdGhpcywgJ29uX2ltcG9ydF9zdGFydCcgKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+bG9hZGVyLT5hZGRfYWN0aW9uKCAnd3BfYWpheF9DbCwgJHRoaXMsICdvbl9pbXBvcnRfc3RhcnQnICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0SG9va3NBZGRlZCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">cHVibGljIGZ1bmN0aW9uIHRlc3RfaXNfbmF0aXZlX29wdGlvbl9wYWdlKCkgewogICAgICAgICRvcHRpb24gPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoIENsdWVcQ29yZVxUcmlnZ2Vyc1xPcHRpb246OmNsYXNzICkKICAgICAgICAgICAgICAgICAgICAgICAtPnNldENvbnN0cnVjdG9yQXJncyggYXJyYXkoICR0aGlzLT5sb2dTdHViLCAkdGhpcy0+bG9hZGVyU3R1YiApICkKICAgICAgICAgICAgICAgICAgICAgICAtPnNldE1ldGhvZHMoIGFycmF5KCAnZ2V0X3JlcXVlc3QnLCAnZ2V0X3NlcnZlcicsICdpc19uYXRpdmVfb3B0aW9uX3BhZ2UnICkgKQogICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0TW9jaygpOwoKICAgICAgICAkb3B0aW9uLT5tZXRob2QoICdnZXRfc2VydmVyJyApLT53aWxsUmV0dXJuT25Db25zZWN1dGl2ZUNhbGxzKAogICAgICAgICAgICBhcnJheSgpLCAvLyBbMV0KICAgICAgICAgICAgYXJyYXkoKSAvLyBbMl0KICAgICAgICApOwogICAgICAgICRvcHRpb24tPm1ldGhvZCggJ2dldF9yZXF1ZXN0JyApLT53aWxsUmV0dXJuT25Db25zZWN1dGl2ZUNhbGxzKAogICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICdvcHRpb25fcGFnZScgPT4gJ2dlbmVyYWwnCiAgICAgICAgICAgICksIC8vIFsxXQogICAgICAgICAgICBhcnJheSgKICAgICAgICAgICAgICAgICdvcHRpb25fcGFnZScgPT4gJ2dlbmVyYWwnLAogICAgICAgICAgICApCiAgICAgICAgKTsKCiAgICAgICAgLy8gWzFdCiAgICAgICAgJHRoaXMtPmFzc2VydEZhbHNlKCAkb3B0aW9uLT5pc19uYXRpdmVfb3B0aW9uX3BhZ2UoICcnICksICdzaG91bGQgcmV0dXJuIGZhbHNlIGlmIG5vdCB2YWxpZCBuYXRpdmUgcGFnZScgKTsKCiAgICAgICAgLy8gWzJdCiAgICAgICAgJHRoaXMtPmFzc2VydEZhbHNlKCAkb3B0aW9uLT5pc19uYXRpdmVfb3B0aW9uX3BhZ2UoICdyZXdyaXRlX3J1bGVzJyApLCAnc2hvdWxkIHJldHVybiBmYWxzZSBpZiByZXdyaXRlX3J1bGVzIGlzIHRoZSBvcHRpb24nICk7CgogICAgICAgICRvcHRpb25fb2JqZWN0ID0gbmV3IENsdWVcQ29yZVxUcmlnZ2Vyc1xPcHRpb24oICR0aGlzLT5sb2dTdHViLCAkdGhpcy0+bG9hZGVyU3R1YiApOwogICAgICAgICR0aGlzLT5hc3NlcnRGYWxzZSggJG9wdGlvbl9vYmplY3QtPmlzX25hdGl2ZV9vcHRpb25fcGFnZSggJycgKSApOwogICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9hZGVyLT5ydW4oKTsK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">YXNzZXJ0RmFsc2UoICRvcHRpb24tPmlzX25hdGl2ZV9vcHRpb25fcGFnZSggJycgKSApOwogICAgfQp9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAkbG9hZGVyID0gJGV4cG9ydC0+Z2V0X2xvYWRlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdvcHRpb25fcGFnZScgPT4gJ2dlbmVyYWwnZGQK</text>
+        <text encoding="base64">ICAgICAgICAkZXhwb3J0LT5hdHRhY2hfaG9va3MoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkoICdhY3Rpb24nID0+ICd1cGRhdGUnICkgIC8vIFszXQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -113,6 +120,7 @@
       <history-search />
       <history-cmd>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
