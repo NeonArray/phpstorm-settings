@@ -18,12 +18,6 @@
         <mark key="^" line="187" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/media.class.php" timestamp="1526483922760" />
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/option.class.php" timestamp="1526416195959">
-        <mark key="[" line="46" column="7" />
-        <mark key="]" line="48" column="6" />
-        <mark key="^" line="48" column="6" />
-        <mark key="." line="48" column="6" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/index.php" timestamp="1526585588950" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526485857751">
         <mark key="[" line="71" column="1" />
@@ -42,6 +36,11 @@
         <mark key="]" line="45" column="55" />
         <mark key="^" line="45" column="55" />
         <mark key="." line="45" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-source/posts/vr-nanodegree.md" timestamp="1526590858814">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526487020027" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/clue-client.php" timestamp="1526480683536" />
@@ -104,19 +103,52 @@
       <jump line="75" column="12" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogM2VtIGF1dG8gM2VtOwo=</text>
+      <register name="1" type="4">
+        <text>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequuntur ducimus error, facilis illo incidunt iure mollitia natus nemo neque
+nihil, nobis officia officiis perspiciatis quae repellat repellendus reprehenderit sapiente sequi sint suscipit ut. Aliquam animi beatae, culpa delectus eos
+expedita fugiat illo ipsam ipsum natus necessitatibus, officiis pariatur quos reiciendis rem sapiente totam! Accusamus dignissimos dolores impedit ipsum
+magni odit repudiandae vero voluptatibus? At culpa deleniti iste molestias officia omnis similique tempora. Alias commodi corporis ducimus et facilis ipsa
+ipsum magni nesciunt quam, repellat sapiente sequi, tempore? Aperiam asperiores, commodi dolore fugiat illum, necessitatibus numquam odit optio possimus
+quae quidem, rem sequi vero. Alias at cupiditate debitis, deserunt explicabo facere ipsam iusto, omnis optio possimus quidem ratione repellat temporibus
+voluptates voluptatum? At non, saepe. Aliquid animi commodi consequatur cum cumque earum error harum inventore iure laboriosam maiores molestias, neque
+nesciunt nisi pariatur quam quibusdam, quisquam ratione repellendus suscipit unde, voluptas voluptatem voluptates. Architecto eaque, eius enim fugiat illum,
+minus nam nemo nostrum, pariatur porro quidem ratione recusandae sed unde voluptatibus! Aliquid esse laudantium molestiae mollitia officia pariatur quae
+repellat temporibus veritatis, vitae. Deleniti enim illo impedit porro quas! Accusantium ad, adipisci asperiores atque aut debitis dignissimos dolorum eius
+expedita explicabo facere hic id illo illum inventore ipsam iure iusto laudantium libero nobis non nostrum numquam obcaecati odio officiis quae quas qui,
+quia sed sint soluta temporibus velit vitae voluptatem voluptates voluptatibus voluptatum. Dicta, fugit, temporibus? Accusamus doloribus eveniet inventore
+magni molestiae mollitia natus nesciunt rerum sed unde? Autem eligendi error minima nobis quo sunt! Delectus doloribus minima reprehenderit! Accusantium
+amet, aperiam asperiores commodi consequuntur distinctio dolorem doloribus ea est eveniet fuga iste laboriosam magni nemo neque odit officiis perspiciatis
+quaerat quasi, quisquam rem repellendus reprehenderit, saepe sunt tempore temporibus velit vero! Aliquid, facere natus? Aliquid explicabo laudantium
+magni</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogM2VtIGF1dG8gM2VtOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequuntur ducimus error, facilis illo incidunt iure mollitia natus nemo neque
+nihil, nobis officia officiis perspiciatis quae repellat repellendus reprehenderit sapiente sequi sint suscipit ut. Aliquam animi beatae, culpa delectus eos
+expedita fugiat illo ipsam ipsum natus necessitatibus, officiis pariatur quos reiciendis rem sapiente totam! Accusamus dignissimos dolores impedit ipsum
+magni odit repudiandae vero voluptatibus? At culpa deleniti iste molestias officia omnis similique tempora. Alias commodi corporis ducimus et facilis ipsa
+ipsum magni nesciunt quam, repellat sapiente sequi, tempore? Aperiam asperiores, commodi dolore fugiat illum, necessitatibus numquam odit optio possimus
+quae quidem, rem sequi vero. Alias at cupiditate debitis, deserunt explicabo facere ipsam iusto, omnis optio possimus quidem ratione repellat temporibus
+voluptates voluptatum? At non, saepe. Aliquid animi commodi consequatur cum cumque earum error harum inventore iure laboriosam maiores molestias, neque
+nesciunt nisi pariatur quam quibusdam, quisquam ratione repellendus suscipit unde, voluptas voluptatem voluptates. Architecto eaque, eius enim fugiat illum,
+minus nam nemo nostrum, pariatur porro quidem ratione recusandae sed unde voluptatibus! Aliquid esse laudantium molestiae mollitia officia pariatur quae
+repellat temporibus veritatis, vitae. Deleniti enim illo impedit porro quas! Accusantium ad, adipisci asperiores atque aut debitis dignissimos dolorum eius
+expedita explicabo facere hic id illo illum inventore ipsam iure iusto laudantium libero nobis non nostrum numquam obcaecati odio officiis quae quas qui,
+quia sed sint soluta temporibus velit vitae voluptatem voluptates voluptatibus voluptatum. Dicta, fugit, temporibus? Accusamus doloribus eveniet inventore
+magni molestiae mollitia natus nesciunt rerum sed unde? Autem eligendi error minima nobis quo sunt! Delectus doloribus minima reprehenderit! Accusantium
+amet, aperiam asperiores commodi consequuntur distinctio dolorem doloribus ea est eveniet fuga iste laboriosam magni nemo neque odit officiis perspiciatis
+quaerat quasi, quisquam rem repellendus reprehenderit, saepe sunt tempore temporibus velit vero! Aliquid, facere natus? Aliquid explicabo laudantium
+magni</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LmhlYWRlciB7Cg==</text>
+        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogM2VtIGF1dG8gM2VtOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">LmhlYWRlciB7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGJhY2tncm91bmRkZGRkCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>: aquamarine;
 }
 
@@ -125,20 +157,17 @@
     height: 100px;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ZGQgICAgOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X2ZpbGVzaXplJyA9PiAkbWV0YVsnYXR0YWNobWVudF9maWxlc2l6ZSddLAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X21pbWUnICAgICA9PiAkbWV0YVsnYXR0YWNobWVudF9taW1lJ10sCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X2ZpbGVuYW1lJyA9PiAkbWV0YVsnYXR0YWNobWVudF9maWxlbmFtZSddLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X3RpdGxlJyAgICA9PiAkbWV0YVsnYXR0YWNobWVudF90aXRsZSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X2ZpbGVuYW1lJyA9PiAkbWV0YVsnYXR0YWNobWVudF9maWxlbmFtZSddLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
