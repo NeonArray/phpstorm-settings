@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1526480615288">
+      <file name="/Dummy.txt" timestamp="1526486914703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526486495405">
@@ -51,7 +51,7 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1526485877523">
+      <file name="/PHP Console" timestamp="1526566182319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
@@ -61,6 +61,7 @@
         <mark key="." line="45" column="55" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-file-edits.php" timestamp="1526483915538" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526487020027" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" timestamp="1526416096801">
         <mark key="'" line="80" column="12" />
         <mark key="[" line="102" column="4" />
@@ -87,6 +88,7 @@
         <mark key="^" line="62" column="6" />
         <mark key="." line="50" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/includes/file.php" timestamp="1526487186256" />
     </filemarks>
     <jumps>
       <jump line="68" column="45" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" />
