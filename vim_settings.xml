@@ -3,19 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526650508690">
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526650862162">
         <mark key="j" line="41" column="19" />
-        <mark key="[" line="45" column="3" />
-        <mark key="]" line="45" column="75" />
-        <mark key="^" line="45" column="75" />
-        <mark key="." line="45" column="75" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-plugin.php" timestamp="1526480450531">
-        <mark key="i" line="72" column="58" />
-        <mark key="[" line="187" column="63" />
-        <mark key="]" line="187" column="55" />
-        <mark key="." line="187" column="55" />
-        <mark key="^" line="187" column="55" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="79" column="88" />
+        <mark key="^" line="79" column="88" />
+        <mark key="." line="79" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/media.class.php" timestamp="1526483922760" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/index.php" timestamp="1526585588950" />
@@ -25,7 +18,7 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1526650378211">
+      <file name="/PHP Console" timestamp="1526656367183">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1526586372217">
@@ -42,8 +35,15 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526650275890" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526650868442" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/clue-client.php" timestamp="1526480683536" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/post.class.php" timestamp="1526653663927">
+        <mark key="'" line="21" column="9" />
+        <mark key="[" line="97" column="0" />
+        <mark key="]" line="109" column="51" />
+        <mark key="." line="109" column="51" />
+        <mark key="^" line="109" column="51" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/factory/objects/wp_post.class.php" timestamp="1526319411139">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -57,10 +57,10 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/includes/file.php" timestamp="1526487186256" />
-      <file name="/Dummy.txt" timestamp="1526650313952">
+      <file name="/Dummy.txt" timestamp="1526654171476">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1526486484714">
+      <file name="/fragment.php" timestamp="1526650703235">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
         <mark key="." line="0" column="39" />
@@ -76,6 +76,13 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-post.php" timestamp="1526656413341">
+        <mark key="w" line="47" column="76" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="185" column="33" />
+        <mark key="^" line="185" column="33" />
+        <mark key="." line="185" column="33" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1526588827611">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -88,11 +95,18 @@
         <mark key="." line="3" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-file-edits.php" timestamp="1526649935389" />
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/client.class.php" timestamp="1526481260217">
-        <mark key="[" line="69" column="27" />
-        <mark key="]" line="69" column="26" />
-        <mark key="^" line="69" column="26" />
-        <mark key="." line="69" column="26" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" timestamp="1526416096801">
+        <mark key="'" line="80" column="12" />
+        <mark key="[" line="102" column="4" />
+        <mark key="]" line="99" column="4" />
+        <mark key="^" line="99" column="4" />
+        <mark key="." line="99" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/client.class.php" timestamp="1526651961781">
+        <mark key="[" line="75" column="27" />
+        <mark key="]" line="75" column="24" />
+        <mark key="^" line="75" column="24" />
+        <mark key="." line="75" column="24" />
       </file>
     </filemarks>
     <jumps>
@@ -101,73 +115,38 @@
       <jump line="143" column="6" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" />
       <jump line="73" column="69" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" />
       <jump line="75" column="12" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" />
+      <jump line="21" column="9" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/post.class.php" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequuntur ducimus error, facilis illo incidunt iure mollitia natus nemo neque
-nihil, nobis officia officiis perspiciatis quae repellat repellendus reprehenderit sapiente sequi sint suscipit ut. Aliquam animi beatae, culpa delectus eos
-expedita fugiat illo ipsam ipsum natus necessitatibus, officiis pariatur quos reiciendis rem sapiente totam! Accusamus dignissimos dolores impedit ipsum
-magni odit repudiandae vero voluptatibus? At culpa deleniti iste molestias officia omnis similique tempora. Alias commodi corporis ducimus et facilis ipsa
-ipsum magni nesciunt quam, repellat sapiente sequi, tempore? Aperiam asperiores, commodi dolore fugiat illum, necessitatibus numquam odit optio possimus
-quae quidem, rem sequi vero. Alias at cupiditate debitis, deserunt explicabo facere ipsam iusto, omnis optio possimus quidem ratione repellat temporibus
-voluptates voluptatum? At non, saepe. Aliquid animi commodi consequatur cum cumque earum error harum inventore iure laboriosam maiores molestias, neque
-nesciunt nisi pariatur quam quibusdam, quisquam ratione repellendus suscipit unde, voluptas voluptatem voluptates. Architecto eaque, eius enim fugiat illum,
-minus nam nemo nostrum, pariatur porro quidem ratione recusandae sed unde voluptatibus! Aliquid esse laudantium molestiae mollitia officia pariatur quae
-repellat temporibus veritatis, vitae. Deleniti enim illo impedit porro quas! Accusantium ad, adipisci asperiores atque aut debitis dignissimos dolorum eius
-expedita explicabo facere hic id illo illum inventore ipsam iure iusto laudantium libero nobis non nostrum numquam obcaecati odio officiis quae quas qui,
-quia sed sint soluta temporibus velit vitae voluptatem voluptates voluptatibus voluptatum. Dicta, fugit, temporibus? Accusamus doloribus eveniet inventore
-magni molestiae mollitia natus nesciunt rerum sed unde? Autem eligendi error minima nobis quo sunt! Delectus doloribus minima reprehenderit! Accusantium
-amet, aperiam asperiores commodi consequuntur distinctio dolorem doloribus ea est eveniet fuga iste laboriosam magni nemo neque odit officiis perspiciatis
-quaerat quasi, quisquam rem repellendus reprehenderit, saepe sunt tempore temporibus velit vero! Aliquid, facere natus? Aliquid explicabo laudantium
-magni</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSggJHBvc3QtPm9uX2VkaXRfcG9zdCggJycsICcnLCAkd3BfcG9zdCApLCAnc2hvdWxkIGNhbGwgZGlzcGF0Y2ggYW5kIHJldHVybiB0cnVlJyApOwo=</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid commodi consequuntur ducimus error, facilis illo incidunt iure mollitia natus nemo neque
-nihil, nobis officia officiis perspiciatis quae repellat repellendus reprehenderit sapiente sequi sint suscipit ut. Aliquam animi beatae, culpa delectus eos
-expedita fugiat illo ipsam ipsum natus necessitatibus, officiis pariatur quos reiciendis rem sapiente totam! Accusamus dignissimos dolores impedit ipsum
-magni odit repudiandae vero voluptatibus? At culpa deleniti iste molestias officia omnis similique tempora. Alias commodi corporis ducimus et facilis ipsa
-ipsum magni nesciunt quam, repellat sapiente sequi, tempore? Aperiam asperiores, commodi dolore fugiat illum, necessitatibus numquam odit optio possimus
-quae quidem, rem sequi vero. Alias at cupiditate debitis, deserunt explicabo facere ipsam iusto, omnis optio possimus quidem ratione repellat temporibus
-voluptates voluptatum? At non, saepe. Aliquid animi commodi consequatur cum cumque earum error harum inventore iure laboriosam maiores molestias, neque
-nesciunt nisi pariatur quam quibusdam, quisquam ratione repellendus suscipit unde, voluptas voluptatem voluptates. Architecto eaque, eius enim fugiat illum,
-minus nam nemo nostrum, pariatur porro quidem ratione recusandae sed unde voluptatibus! Aliquid esse laudantium molestiae mollitia officia pariatur quae
-repellat temporibus veritatis, vitae. Deleniti enim illo impedit porro quas! Accusantium ad, adipisci asperiores atque aut debitis dignissimos dolorum eius
-expedita explicabo facere hic id illo illum inventore ipsam iure iusto laudantium libero nobis non nostrum numquam obcaecati odio officiis quae quas qui,
-quia sed sint soluta temporibus velit vitae voluptatem voluptates voluptatibus voluptatum. Dicta, fugit, temporibus? Accusamus doloribus eveniet inventore
-magni molestiae mollitia natus nesciunt rerum sed unde? Autem eligendi error minima nobis quo sunt! Delectus doloribus minima reprehenderit! Accusantium
-amet, aperiam asperiores commodi consequuntur distinctio dolorem doloribus ea est eveniet fuga iste laboriosam magni nemo neque odit officiis perspiciatis
-quaerat quasi, quisquam rem repellendus reprehenderit, saepe sunt tempore temporibus velit vero! Aliquid, facere natus? Aliquid explicabo laudantium
-magni</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0VHJ1ZSggJHBvc3QtPm9uX2VkaXRfcG9zdCggJycsICcnLCAkd3BfcG9zdCApLCAnc2hvdWxkIGNhbGwgZGlzcGF0Y2ggYW5kIHJldHVybiB0cnVlJyApOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdyaWQtdGVtcGxhdGUtcm93czogM2VtIGF1dG8gM2VtOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBbNF0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">LmhlYWRlciB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmRkZGRkCg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoICRwb3N0LT5vbl9lZGl0X3Bvc3QoICcnLCAnJywgJHdwX3Bvc3QgKSwgJ3Nob3VsZCByZXR1cm4gZmFsc2UgaWYgZ2V0X3Bvc3RfdHlwZSBpcyBpbiAkc2tpcF9wb3N0dHlwZXMgYXJyYXknICk7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>: aquamarine;
-}
-
-.logo {
-    display: block;
-    height: 100px;
-}</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBbM10K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZGQgICAgOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X2ZpbGVzaXplJyA9PiAkbWV0YVsnYXR0YWNobWVudF9maWxlc2l6ZSddLAo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0RmFsc2UoICRwb3N0LT5vbl9lZGl0X3Bvc3QoICcnLCAnJywgJHdwX3Bvc3QgKSwgJ3Nob3VsZCByZXR1cm4gZmFsc2UgaWYgd3BfaXNfcG9zdF9yZXZpc2lvbiBpcyB0cnVlJyApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X21pbWUnICAgICA9PiAkbWV0YVsnYXR0YWNobWVudF9taW1lJ10sCg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBbMl0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRhY2htZW50X2ZpbGVuYW1lJyA9PiAkbWV0YVsnYXR0YWNobWVudF9maWxlbmFtZSddLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -184,6 +163,8 @@ magni</text>
       <history-search />
       <history-cmd>
         <entry>q</entry>
+        <entry>W</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
