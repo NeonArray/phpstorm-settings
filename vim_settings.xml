@@ -79,12 +79,14 @@
         <mark key="]" line="3" column="19" />
         <mark key="." line="3" column="19" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/composer.json" timestamp="1526660500548" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/.gitignore" timestamp="1526473135296">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/phpunit.xml.dist" timestamp="1526662814406" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-post.php" timestamp="1526656413341">
         <mark key="w" line="47" column="76" />
         <mark key="[" line="184" column="0" />
@@ -92,6 +94,8 @@
         <mark key="^" line="185" column="33" />
         <mark key="." line="185" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/bootstrap.php" timestamp="1526662976315" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-client.php" timestamp="1526663567992" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1526588827611">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
