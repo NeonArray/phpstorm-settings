@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526486495405">
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526650508690">
         <mark key="j" line="41" column="19" />
-        <mark key="[" line="82" column="33" />
-        <mark key="]" line="79" column="34" />
-        <mark key="^" line="79" column="34" />
-        <mark key="." line="79" column="34" />
+        <mark key="[" line="45" column="3" />
+        <mark key="]" line="45" column="75" />
+        <mark key="^" line="45" column="75" />
+        <mark key="." line="45" column="75" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-plugin.php" timestamp="1526480450531">
         <mark key="i" line="72" column="58" />
@@ -25,7 +25,7 @@
         <mark key="^" line="71" column="0" />
         <mark key="." line="71" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1526566182319">
+      <file name="/PHP Console" timestamp="1526650378211">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1526586372217">
@@ -42,7 +42,7 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526487020027" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526650275890" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/clue-client.php" timestamp="1526480683536" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/factory/objects/wp_post.class.php" timestamp="1526319411139">
         <mark key="[" line="77" column="0" />
@@ -57,7 +57,7 @@
         <mark key="." line="50" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/includes/file.php" timestamp="1526487186256" />
-      <file name="/Dummy.txt" timestamp="1526486914703">
+      <file name="/Dummy.txt" timestamp="1526650313952">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1526486484714">
@@ -87,7 +87,7 @@
         <mark key="^" line="3" column="5" />
         <mark key="." line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-file-edits.php" timestamp="1526483915538" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-file-edits.php" timestamp="1526649935389" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/client.class.php" timestamp="1526481260217">
         <mark key="[" line="69" column="27" />
         <mark key="]" line="69" column="26" />
