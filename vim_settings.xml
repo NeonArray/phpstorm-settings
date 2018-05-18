@@ -30,6 +30,9 @@
         <mark key="^" line="45" column="55" />
         <mark key="." line="45" column="55" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1526658504635">
+        <mark key="[" line="21" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-source/posts/vr-nanodegree.md" timestamp="1526590858814">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -59,6 +62,12 @@
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/includes/file.php" timestamp="1526487186256" />
       <file name="/Dummy.txt" timestamp="1526654171476">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/queue.class.php" timestamp="1526658689226">
+        <mark key="[" line="38" column="5" />
+        <mark key="]" line="23" column="3" />
+        <mark key="^" line="23" column="3" />
+        <mark key="." line="23" column="3" />
       </file>
       <file name="/fragment.php" timestamp="1526650703235">
         <mark key="[" line="0" column="0" />
