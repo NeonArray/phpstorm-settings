@@ -31,6 +31,7 @@
         <mark key="." line="3445" column="33" />
         <mark key="^" line="3445" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1526928308446" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-admin/theme-editor.php" timestamp="1526910076894" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/clue-client.php" timestamp="1526924960222">
         <mark key="[" line="29" column="87" />
@@ -69,7 +70,7 @@
         <mark key="." line="41" column="4" />
         <mark key="^" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/http.class.php" timestamp="1526925265548">
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/http.class.php" timestamp="1526928386607">
         <mark key="[" line="52" column="187" />
         <mark key="]" line="52" column="186" />
         <mark key="^" line="52" column="186" />
@@ -106,6 +107,7 @@
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userRoutes.js" timestamp="1526927967347" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" timestamp="1526416096801">
         <mark key="'" line="80" column="12" />
         <mark key="[" line="102" column="4" />
@@ -116,18 +118,12 @@
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/core.class.php" timestamp="1526917251183">
         <mark key="[" line="31" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1526926047244">
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1526928548743" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1526927989206">
         <mark key="[" line="29" column="20" />
         <mark key="]" line="29" column="18" />
         <mark key="." line="29" column="18" />
         <mark key="^" line="29" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526915076887">
-        <mark key="j" line="42" column="19" />
-        <mark key="[" line="83" column="69" />
-        <mark key="]" line="85" column="18" />
-        <mark key="^" line="85" column="18" />
-        <mark key="." line="85" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/media.class.php" timestamp="1526483922760" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-export.php" timestamp="1526920407863" />
@@ -137,7 +133,7 @@
         <mark key="^" line="87" column="77" />
         <mark key="." line="87" column="77" />
       </file>
-      <file name="/PHP Console" timestamp="1526925294816">
+      <file name="/PHP Console" timestamp="1526928391181">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
@@ -146,8 +142,14 @@
         <mark key="^" line="45" column="55" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1526915687224">
-        <mark key="[" line="21" column="18" />
+      <file name="/JavaScript Console" timestamp="1526928295540">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1526928687934">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="7" />
+        <mark key="^" line="40" column="7" />
+        <mark key="." line="40" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/gulpfile.js" timestamp="1526678826109">
         <mark key="[" line="1" column="0" />
