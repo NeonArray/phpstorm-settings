@@ -4,7 +4,7 @@
     <property name="created">2016-12-02T10:34:50</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2016.3.0.0</property>
-    <property name="modified">2018-05-14T13:10:18</property>
+    <property name="modified">2018-05-22T11:48:55</property>
     <property name="originalScheme">Monokai</property>
   </metaInfo>
   <option name="EDITOR_FONT_SIZE" value="15" />
@@ -870,8 +870,7 @@
     </option>
     <option name="LINE_PARTIAL_COVERAGE">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ee8b" />
+        <option name="BACKGROUND" value="a3600" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
