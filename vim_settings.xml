@@ -123,6 +123,13 @@
         <mark key="^" line="7" column="22" />
         <mark key="." line="33" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/editor.class.php" timestamp="1526994840615">
+        <mark key="j" line="42" column="19" />
+        <mark key="[" line="123" column="5" />
+        <mark key="]" line="46" column="0" />
+        <mark key="^" line="46" column="0" />
+        <mark key="." line="46" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/media.class.php" timestamp="1526483922760" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-export.php" timestamp="1526920407863" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526914676662">
@@ -131,7 +138,7 @@
         <mark key="^" line="87" column="77" />
         <mark key="." line="87" column="77" />
       </file>
-      <file name="/PHP Console" timestamp="1526993508709">
+      <file name="/PHP Console" timestamp="1526994838358">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1526935296431">
@@ -169,7 +176,7 @@
         <mark key="^" line="166" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/img/github.svg" timestamp="1526784525379" />
-      <file name="/Dummy.txt" timestamp="1526654171476">
+      <file name="/Dummy.txt" timestamp="1526994761147">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-post.php" timestamp="1526908731585" />
