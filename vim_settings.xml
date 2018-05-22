@@ -12,7 +12,7 @@
         <mark key="^" line="2" column="18" />
         <mark key="." line="2" column="18" />
       </file>
-      <file name="/a.dummy" timestamp="1526917119333">
+      <file name="/a.dummy" timestamp="1526997290187">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/index.php" timestamp="1526585588950" />
@@ -48,6 +48,11 @@
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526997374190">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/factory/objects/wp_post.class.php" timestamp="1526319411139">
         <mark key="[" line="77" column="0" />
@@ -112,13 +117,6 @@
         <mark key="." line="42" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userRoutes.js" timestamp="1526927967347" />
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" timestamp="1526416096801">
-        <mark key="'" line="80" column="12" />
-        <mark key="[" line="102" column="4" />
-        <mark key="]" line="99" column="4" />
-        <mark key="^" line="99" column="4" />
-        <mark key="." line="99" column="4" />
-      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/core.class.php" timestamp="1526917251183">
         <mark key="[" line="31" column="30" />
       </file>
@@ -144,7 +142,7 @@
         <mark key="^" line="87" column="77" />
         <mark key="." line="87" column="77" />
       </file>
-      <file name="/PHP Console" timestamp="1526995319999">
+      <file name="/PHP Console" timestamp="1526997062928">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1526935296431">
@@ -173,13 +171,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
         <mark key="^" line="49" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/post.class.php" timestamp="1526910622994">
-        <mark key="'" line="21" column="9" />
-        <mark key="[" line="138" column="51" />
-        <mark key="]" line="166" column="36" />
-        <mark key="." line="166" column="36" />
-        <mark key="^" line="166" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/img/github.svg" timestamp="1526784525379" />
       <file name="/Dummy.txt" timestamp="1526994761147">
@@ -239,18 +230,20 @@
         <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/themes/clue-legacy/src/crimes/vectors/class-file-edits.php" timestamp="1526913234435" />
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/client.class.php" timestamp="1526996592836">
-        <mark key="'" line="77" column="3" />
-        <mark key="[" line="27" column="20" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="72" column="53" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/client.class.php" timestamp="1526997767371">
+        <mark key="'" line="73" column="3" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/package.json" timestamp="1526677519179">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/loader.class.php" timestamp="1526997783019">
+        <mark key="[" line="42" column="5" />
       </file>
     </filemarks>
     <jumps>
@@ -264,7 +257,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -273,31 +266,31 @@
         <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiAzcHggc29saWQgdmFyKC0tc2Vjb25kYXJ5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAqIERpc3BsYXkgY2FsbGJhY2sgZm9yIHRoZSBzdWJtZW51IHBhZ2UuCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAqLwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAqIEFkZHMgYSBzdWJtZW51IHBhZ2UgdW5kZXIgYSBjdXN0b20gcG9zdCB0eXBlIHBhcmVudC4K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8qKgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">MQoyCjMKNAo1CjYKNwo4CjkKMTAKMTEKMTIKMTMKMTQKMTUKMTYKMTcKMTgKMTkKMjAKMjEKMjIKMjMKMjQKMjUK</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">CX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CQl3cF9lbnF1ZXVlX3NjcmlwdCggJHRoaXMtPnBsdWdpbl9uYW1lLCBwbHVnaW5fZGlyX3VybCggX19GSUxFX18gKSAuICdqcy9wbHVnaW4tbmFtZS1wdWJsaWMuanMnLCBhcnJheSggJ2pxdWVyeScgKSwgJHRoaXMtPnZlcnNpb24sIGZhbHNlICk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkgKi8K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQkgKiBjbGFzcy4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Ly8gICAgICAgIHJldHVybiAnZXlKaGJHY2lPaUpJVXpJMU5pSXNJblI1Y0NJNklrcFhWQ0o5LmV5SmZhV1FpT2lJMVlqQXpNVEkwWkRNM01tWmlOV1JqWVRBMU5EazJaR0lpTENKaFkyTmxjM01pT2lKaGRYUm9JaXdpYVdGMElqb3hOVEkyT1RJM09UUTVmUS5oSHNaQWpNMlFHMFl1MHdubGE2OUJOUWZXVzhqaWxIdzNpOHZWOFhjMEZJJzsK</text>
+        <text encoding="base64">CQkgKiBiZXR3ZWVuIHRoZSBkZWZpbmVkIGhvb2tzIGFuZCB0aGUgZnVuY3Rpb25zIGRlZmluZWQgaW4gdGhpcwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
