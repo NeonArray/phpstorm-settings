@@ -15,6 +15,12 @@
       <file name="/a.dummy" timestamp="1526998736665">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1527079263915">
+        <mark key="[" line="73" column="64" />
+        <mark key="]" line="15" column="54" />
+        <mark key="^" line="15" column="54" />
+        <mark key="." line="15" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.yaml" timestamp="1526679139206">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -177,8 +183,8 @@
       <file name="/JavaScript Console" timestamp="1526932803188">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1527014177118">
-        <mark key="[" line="20" column="2" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1527079475870">
+        <mark key="[" line="78" column="0" />
         <mark key="]" line="47" column="60" />
         <mark key="^" line="47" column="60" />
         <mark key="." line="47" column="60" />
@@ -208,7 +214,6 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/cousin-willies/wp-e-commerce/wpsc-admin/admin.php" timestamp="1527022758026" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/phpunit.xml.dist" timestamp="1527014467593">
         <mark key="[" line="11" column="72" />
       </file>
