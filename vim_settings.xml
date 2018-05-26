@@ -165,6 +165,12 @@
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/user.class.php" timestamp="1527007706521">
         <mark key="[" line="41" column="70" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/game.js" timestamp="1527263829816">
+        <mark key="[" line="99" column="0" />
+        <mark key="]" line="99" column="0" />
+        <mark key="^" line="104" column="5" />
+        <mark key="." line="99" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526914676662">
         <mark key="[" line="87" column="73" />
         <mark key="]" line="87" column="77" />
@@ -295,40 +301,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BfaGFzaGVyID0gbmV3IFxQYXNzd29yZEhhc2goIDgsIHRydWUgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmFuZCA9IGdhbWUucm5kLmJldHdlZW4oMTAsIFZJRVdQT1JUX0hFSUdIVCAtIDEwKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>,         // Title</text>
+        <text>this</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBib3JkZXItYm90dG9tOiAzcHggc29saWQgdmFyKC0tc2Vjb25kYXJ5KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkd3BfaGFzaGVyID0gbmV3IFxQYXNzd29yZEhhc2goIDgsIHRydWUgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgcmFuZCA9IGdhbWUucm5kLmJldHdlZW4oMTAsIFZJRVdQT1JUX0hFSUdIVCAtIDEwKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkoICR0aGlzLCAnc2VjcmV0X2NhbGxiYWNrJyApLAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgIH0gPSB0aGlzOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGhpcyB9ID0gdGhpczsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgdGhpcyB9ID0gdGhpczsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAkd3BfaGFzaGVyID0gbmV3IFxQYXNzd29yZEhhc2goIDgsIHRydWUgKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXJyYXkoICR0aGlzLCAnc2VjcmV0X2NhbGxiYWNrJyApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXNjX2F0dHIoICRjbGllbnRfaWQgKQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzxpbnB1dCB0eXBlPSJ0ZXh0IiBpZD0iY2xpZW50X2lkIiBuYW1lPSJjbHVlX29wdGlvbnNbY2xpZW50X2lkXSIgdmFsdWU9IiVzIiAvPicsCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludGYoCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
