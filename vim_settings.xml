@@ -3,18 +3,18 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1527692665758">
-        <mark key="'" line="122" column="0" />
-        <mark key="[" line="9" column="18" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-        <mark key="^" line="62" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1527695862201">
+        <mark key="'" line="123" column="0" />
+        <mark key="[" line="93" column="50" />
+        <mark key="]" line="93" column="48" />
+        <mark key="." line="93" column="48" />
+        <mark key="^" line="93" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/index.pcss" timestamp="1527692230799">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="13" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/index.pcss" timestamp="1527696104034">
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="29" column="28" />
+        <mark key="." line="29" column="28" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/options.class.php" timestamp="1527007723073">
         <mark key="[" line="123" column="42" />
@@ -34,6 +34,11 @@
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.yaml" timestamp="1526679139206">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger.php" timestamp="1526909456022">
         <mark key="[" line="34" column="37" />
         <mark key="]" line="35" column="15" />
@@ -51,6 +56,11 @@
         <mark key="]" line="3445" column="33" />
         <mark key="." line="3445" column="33" />
         <mark key="^" line="3445" column="33" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1526931846312">
+        <mark key="[" line="117" column="0" />
+        <mark key="]" line="117" column="0" />
+        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/scene.js" timestamp="1527300814548">
         <mark key="[" line="32" column="40" />
@@ -82,15 +92,22 @@
         <mark key="^" line="62" column="6" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_archive.pcss" timestamp="1527692922427">
-        <mark key="[" line="11" column="0" />
-        <mark key="^" line="11" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_archive.pcss" timestamp="1527696955682">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="21" />
+        <mark key="^" line="41" column="21" />
+        <mark key="." line="41" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/partials/client-public-display.php" timestamp="1526998634436">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="7" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1527696521606">
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/package.json" timestamp="1527615565700">
         <mark key="[" line="24" column="0" />
@@ -163,11 +180,11 @@
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_single.pcss" timestamp="1527693944465">
-        <mark key="[" line="31" column="21" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
-        <mark key="^" line="62" column="7" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_single.pcss" timestamp="1527695357400">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="86" column="0" />
+        <mark key="." line="86" column="0" />
+        <mark key="^" line="88" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/callout/index.pcss" timestamp="1527684619178">
         <mark key="]" line="4" column="0" />
@@ -196,6 +213,11 @@
         <mark key="]" line="15" column="0" />
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/archives.html" timestamp="1527696237095">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526914676662">
         <mark key="[" line="87" column="73" />
@@ -227,11 +249,21 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="49" column="61" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/_font-families.pcss" timestamp="1526777959258">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1527604461323">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1527003782744">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="39" />
+        <mark key="." line="0" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/.gitignore" timestamp="1526473135296">
         <mark key="[" line="3" column="0" />
@@ -239,11 +271,11 @@
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1527624032746">
-        <mark key="[" line="12" column="19" />
-        <mark key="]" line="18" column="0" />
-        <mark key="^" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1527696043740">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.php" timestamp="1526679109558">
         <mark key="[" line="6" column="11" />
@@ -281,6 +313,11 @@
         <mark key="." line="10" column="26" />
         <mark key="^" line="10" column="26" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/public/css/clue-client.css" timestamp="1527002506563">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/package.json" timestamp="1526677519179">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -310,40 +347,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PjwvYT5U</text>
       </register>
       <register name="0" type="4">
-        <text>item-title&quot;</text>
+        <text encoding="base64">LnBvc3QtY2F0ZWdvcnkgewogICAgY29sb3I6IHZhcigtLXdoaXRlKTsKICAgIGRpc3BsYXk6IGlubGluZTsKICAgIGZvbnQtc2l6ZTogLjg1ZW07CiAgICBmb250LXdlaWdodDogODAwOwogICAgbGVmdDogLTE1cHg7CiAgICBwYWRkaW5nOiA1LjcxcHggMTNweCAxOC43MXB4IDE2cHg7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICB0ZXh0LXRyYW5zZm9ybTogdXBwZXJjYXNlOwogICAgei1pbmRleDogMTsKCiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgZm9udC1zaXplOiAxZW07CiAgICB9CgogICAgJl9fdnIgICAgICAgeyBiYWNrZ3JvdW5kOiB2YXIoLS1yZWQpOyB9CiAgICAmX19nZW5lcmFsICB7IGJhY2tncm91bmQ6IHZhcigtLXB1cnBsZSk7IH0KICAgICZfX3dlYiAgICAgIHsgYmFja2dyb3VuZDogdmFyKC0tcHJpbWFyeSk7IH0KICAgICZfX3NvZnR3YXJlIHsgYmFja2dyb3VuZDogdmFyKC0teWVsbG93KTsgY29sb3I6IHZhcigtLWJsYWNrKTsgfQp9CgoucG9zdC10aXRsZSB7CiAgICBmb250LXNpemU6IDEuNmVtOwogICAgZm9udC13ZWlnaHQ6IDgwMDsKICAgIGxpbmUtaGVpZ2h0OiAxLjE7CiAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICB6LWluZGV4OiAyOwoKICAgIEBtZWRpYSAoLS10YWJsZXQpIHsKICAgICAgICBmb250LXNpemU6IDJlbTsKICAgIH0KCiAgICAmLS1saW5rIHsKICAgICAgICBjb2xvcjogdmFyKC0tYmxhY2spOwogICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKICAgICAgICB3aWxsLWNoYW5nZTogdGV4dC1zaGFkb3c7CgogICAgICAgICY6LS1ob3ZlciB7CiAgICAgICAgICAgIGNvbG9yOiB2YXIoLS1ibHVlKTsKICAgICAgICAgICAgdGV4dC1zaGFkb3c6IDEzcHggOHB4IDAgdmFyKC0tZ3JheS1saWdodCk7CiAgICAgICAgICAgIHRyYW5zaXRpb246IC4yNXMgdGV4dC1zaGFkb3cgbGluZWFyOwogICAgICAgIH0KICAgIH0KfQoKLnBvc3QtZGF0ZSB7CiAgICBib3JkZXItdG9wOiAxcHggc29saWQgdmFyKC0tZ3JheS1saWdodCk7CiAgICBjb2xvcjogdmFyKC0tZ3JheS1kYXJrKTsKICAgIGZvbnQtc2l6ZTogMWVtOwogICAgZm9udC13ZWlnaHQ6IDUwMDsKICAgIGxpbmUtaGVpZ2h0OiAxLjE7CiAgICBtYXJnaW4tdG9wOiAxZW07CiAgICBwYWRkaW5nLXRvcDogLjVlbTsKfQ==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">ICAgIGRpc3BsYXk6IGlubGluZTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDAgIWltcG9ydGFudDsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIGZsZXg6IDE7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB7ez4gb3V0ZGF0ZWQtY29udGVudC13YXJuaW5nIH19Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZGRhZ25pPzwvcD4K</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CnZvbHVwdGF0ZXMgdm9sdXB0YXR1bT8gQXQgbm9uLCBzYWVwZS4gQWxpcXVpZCBhbmltaSBjb21tb2RpIGNvbnNlcXVhdHVyIGN1bSBjdW1xdWUgZWFydW0gZXJyb3IgaGFydW0gaW52ZW50b3JlIGl1cmUgbGFib3Jpb3NhbSBtYWlvcmVzIG1vbGVzdGlhcywgbmVxdWUKbmVzY2l1bnQgbmlzaSBwYXJpYXR1ciBxdWFtIHF1aWJ1c2RhbSwgcXVpc3F1YW0gcmF0aW9uZSByZXBlbGxlbmR1cyBzdXNjaXBpdCB1bmRlLCB2b2x1cHRhcyB2b2x1cHRhdGVtIHZvbHVwdGF0ZXMuIEFyY2hpdGVjdG8gZWFxdWUsIGVpdXMgZW5pbSBmdWdpYXQgaWxsdW0sCm1pbnVzIG5hbSBuZW1vIG5vc3RydW0sIHBhcmlhdHVyIHBvcnJvIHF1aWRlbSByYXRpb25lIHJlY3VzYW5kYWUgc2VkIHVuZGUgdm9sdXB0YXRpYnVzISBBbGlxdWlkIGVzc2UgbGF1ZGFudGl1bSBtb2xlc3RpYWUgbW9sbGl0aWEgb2ZmaWNpYSBwYXJpYXR1ciBxdWFlCnJlcGVsbGF0IHRlbXBvcmlidXMgdmVyaXRhdGlzLCB2aXRhZS4gRGVsZW5pdGkgZW5pbSBpbGxvIGltcGVkaXQgcG9ycm8gcXVhcyEgQWNjdXNhbnRpdW0gYWQsIGFkaXBpc2NpIGFzcGVyaW9yZXMgYXRxdWUgYXV0IGRlYml0aXMgZGlnbmlzc2ltb3MgZG9sb3J1bSBlaXVzCmV4cGVkaXRhIGV4cGxpY2FibyBmYWNlcmUgaGljIGlkIGlsbG8gaWxsdW0gaW52ZW50b3JlIGlwc2FtIGl1cmUgaXVzdG8gbGF1ZGFudGl1bSBsaWJlcm8gbm9iaXMgbm9uIG5vc3RydW0gbnVtcXVhbSBvYmNhZWNhdGkgb2RpbyBvZmZpY2lpcyBxdWFlIHF1YXMgcXVpLApxdWlhIHNlZCBzaW50IHNvbHV0YSB0ZW1wb3JpYnVzIHZlbGl0IHZpdGFlIHZvbHVwdGF0ZW0gdm9sdXB0YXRlcyB2b2x1cHRhdGlidXMgdm9sdXB0YXR1bS4gRGljdGEsIGZ1Z2l0LCB0ZW1wb3JpYnVzPyBBY2N1c2FtdXMgZG9sb3JpYnVzIGV2ZW5pZXQgaW52ZW50b3JlCm1hZ25pIG1vbGVzdGlhZSBtb2xsaXRpYSBuYXR1cyBuZXNjaXVudCByZXJ1bSBzZWQgdW5kZT8gQXV0ZW0gZWxpZ2VuZGkgZXJyb3IgbWluaW1hIG5vYmlzIHF1byBzdW50ISBEZWxlY3R1cyBkb2xvcmlidXMgbWluaW1hIHJlcHJlaGVuZGVyaXQhIEFjY3VzYW50aXVtCmFtZXQsIGFwZXJpYW0gYXNwZXJpb3JlcyBjb21tb2RpIGNvbnNlcXV1bnR1ciBkaXN0aW5jdGlvIGRvbG9yZW0gZG9sb3JpYnVzIGVhIGVzdCBldmVuaWV0IGZ1Z2EgaXN0ZSBsYWJvcmlvc2FtIG1hZ25pIG5lbW8gbmVxdWUgb2RpdCBvZmZpY2lpcyBwZXJzcGljaWF0aXMKcXVhZXJhdCBxdWFzaSwgcXVpc3F1YW0gcmVtIHJlcGVsbGVuZHVzIHJlcHJlaGVuZGVyaXQsIHNhZXBlIHN1bnQgdGVtcG9yZSB0ZW1wb3JpYnVzIHZlbGl0IHZlcm8hIEFsaXF1aWQsIGZhY2VyZSBuYXR1cz8gQWxpcXVpZCBleHBsaWNhYm8gbGF1ZGFudGl1bQptYWduaT88L3A+CjxwcmU+PGNvZGUgY2xhc3M9ImxhbmctamF2YXNjcmlwdCI+Y29uc29sZS5sb2coJiMzOTtibGVoJiMzOTspOwokKGZ1bmN0aW9uICgpIHt9KQo8L2NvZGU+PC9wcmU+CjxwcmU+PGNvZGUgY2xhc3M9ImxhbmctYmFzaCI+eWFybiBhZGQgc29tZXRoaW5nCjwvY29kZT48L3ByZT4KPHByZT48Y29kZSBjbGFzcz0ibGFuZy1waHAiPmFycmF5X21lcmdlX3JlY3Vyc2l2ZSggJmFtcDskdGhpcywgJHRoYXQgKTsKPC9jb2RlPjwvcHJlPgo8cD5Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdC4gQWxpcXVpZCBjb21tb2RpIGNvbnNlcXV1bnR1ciBkdWNpbXVzIGVycm9yLCBmYWNpbGlzIGlsbG8gaW5jaWR1bnQgaXVyZSBtb2xsaXRpYSBuYXR1cyBuZW1vIG5lcXVlCm5paGlsLCBub2JpcyBvZmZpY2lhIG9mZmljaWlzIHBlcnNwaWNpYXRpcyBxdWFlIHJlcGVsbGF0IHJlcGVsbGVuZHVzIHJlcHJlaGVuZGVyaXQgc2FwaWVudGUgc2VxdWkgc2ludCBzdXNjaXBpdCB1dC4gQWxpcXVhbSBhbmltaSBiZWF0YWUsIGN1bHBhIGRlbGVjdHVzIGVvcwpleHBlZGl0YSBmdWdpYXQgaWxsbyBpcHNhbSBpcHN1bSBuYXR1cyBuZWNlc3NpdGF0aWJ1cywgb2ZmaWNpaXMgcGFyaWF0dXIgcXVvcyByZWljaWVuZGlzIHJlbSBzYXBpZW50ZSB0b3RhbSEgQWNjdXNhbXVzIGRpZ25pc3NpbW9zIGRvbG9yZXMgaW1wZWRpdCBpcHN1bQptYWduaSBvZGl0IHJlcHVkaWFuZGFlIHZlcm8gdm9sdXB0YXRpYnVzPyBBdCBjdWxwYSBkZWxlbml0aSBpc3RlIG1vbGVzdGlhcyBvZmZpY2lhIG9tbmlzIHNpbWlsaXF1ZSB0ZW1wb3JhLiBBbGlhcyBjb21tb2RpIGNvcnBvcmlzIGR1Y2ltdXMgZXQgZmFjaWxpcyBpcHNhCmlwc3VtIG1hZ25pIG5lc2NpdW50IHF1YW0sIHJlcGVsbGF0IHNhcGllbnRlIHNlcXVpLCB0ZW1wb3JlPyBBcGVyaWFtIGFzcGVyaW9yZXMsIGNvbW1vZGkgZG9sb3JlIGZ1Z2lhdCBpbGx1bSwgbmVjZXNzaXRhdGlidXMgbnVtcXVhbSBvZGl0IG9wdGlvIHBvc3NpbXVzCnF1YWUgcXVpZGVtLCByZW0gc2VxdWkgdmVyby4gQWxpYXMgYXQgY3VwaWRpdGF0ZSBkZWJpdGlzLCBkZXNlcnVudCBleHBsaWNhYm8gZmFjZXJlIGlwc2FtIGl1c3RvLCBvbW5pcyBvcHRpbyBwb3NzaW11cyBxdWlkZW0gcmF0aW9uZSByZXBlbGxhdCB0ZW1wb3JpYnVzCnZvbHVwdGF0ZXMgdm9sdXB0YXR1bT8gQXQgbm9uLCBzYWVwZS4gQWxpcXVpZCBhbmltaSBjb21tb2RpIGNvbnNlcXVhdHVyIGN1bSBjdW1xdWUgZWFydW0gZXJyb3IgaGFydW0gaW52ZW50b3JlIGl1cmUgbGFib3Jpb3NhbSBtYWlvcmVzIG1vbGVzdGlhcywgbmVxdWUKbmVzY2l1bnQgbmlzaSBwYXJpYXR1ciBxdWFtIHF1aWJ1c2RhbSwgcXVpc3F1YW0gcmF0aW9uZSByZXBlbGxlbmR1cyBzdXNjaXBpdCB1bmRlLCB2b2x1cHRhcyB2b2x1cHRhdGVtIHZvbHVwdGF0ZXMuIEFyY2hpdGVjdG8gZWFxdWUsIGVpdXMgZW5pbSBmdWdpYXQgaWxsdW0sCm1pbnVzIG5hbSBuZW1vIG5vc3RydW0sIHBhcmlhdHVyIHBvcnJvIHF1aWRlbSByYXRpb25lIHJlY3VzYW5kYWUgc2VkIHVuZGUgdm9sdXB0YXRpYnVzISBBbGlxdWlkIGVzc2UgbGF1ZGFudGl1bSBtb2xlc3RpYWUgbW9sbGl0aWEgb2ZmaWNpYSBwYXJpYXR1ciBxdWFlCnJlcGVsbGF0IHRlbXBvcmlidXMgdmVyaXRhdGlzLCB2aXRhZS4gRGVsZW5pdGkgZW5pbSBpbGxvIGltcGVkaXQgcG9ycm8gcXVhcyEgQWNjdXNhbnRpdW0gYWQsIGFkaXBpc2NpIGFzcGVyaW9yZXMgYXRxdWUgYXV0IGRlYml0aXMgZGlnbmlzc2ltb3MgZG9sb3J1bSBlaXVzCmV4cGVkaXRhIGV4cGxpY2FibyBmYWNlcmUgaGljIGlkIGlsbG8gaWxsdW0gaW52ZW50b3JlIGlwc2FtIGl1cmUgaXVzdG8gbGF1ZGFudGl1bSBsaWJlcm8gbm9iaXMgbm9uIG5vc3RydW0gbnVtcXVhbSBvYmNhZWNhdGkgb2RpbyBvZmZpY2lpcyBxdWFlIHF1YXMgcXVpLApxdWlhIHNlZCBzaW50IHNvbHV0YSB0ZW1wb3JpYnVzIHZlbGl0IHZpdGFlIHZvbHVwdGF0ZW0gdm9sdXB0YXRlcyB2b2x1cHRhdGlidXMgdm9sdXB0YXR1bS4gRGljdGEsIGZ1Z2l0LCB0ZW1wb3JpYnVzPyBBY2N1c2FtdXMgZG9sb3JpYnVzIGV2ZW5pZXQgaW52ZW50b3JlCm1hZ25pIG1vbGVzdGlhZSBtb2xsaXRpYSBuYXR1cyBuZXNjaXVudCByZXJ1bSBzZWQgdW5kZT8gQXV0ZW0gZWxpZ2VuZGkgZXJyb3IgbWluaW1hIG5vYmlzIHF1byBzdW50ISBEZWxlY3R1cyBkb2xvcmlidXMgbWluaW1hIHJlcHJlaGVuZGVyaXQhIEFjY3VzYW50aXVtCmFtZXQsIGFwZXJpYW0gYXNwZXJpb3JlcyBjb21tb2RpIGNvbnNlcXV1bnR1ciBkaXN0aW5jdGlvIGRvbG9yZW0gZG9sb3JpYnVzIGVhIGVzdCBldmVuaWV0IGZ1Z2EgaXN0ZSBsYWJvcmlvc2FtIG1hZ25pIG5lbW8gbmVxdWUgb2RpdCBvZmZpY2lpcyBwZXJzcGljaWF0aXMKcXVhZXJhdCBxdWFzaSwgcXVpc3F1YW0gcmVtIHJlcGVsbGVuZHVzIHJlcHJlaGVuZGVyaXQsIHNhZXBlIHN1bnQgdGVtcG9yZSB0ZW1wb3JpYnVzIHZlbGl0IHZlcm8hIEFsaXF1aWQsIGZhY2VyZSBuYXR1cz8gQWxpcXVpZCBleHBsaWNhYm8gbGF1ZGFudGl1bQpt</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnBvc3QtYm9keSB7Cg==</text>
+        <text encoding="base64">cXVhZSBxdWlkZW0sIHJlbSBzZXF1aSB2ZXJvLiBBbGlhcyBhdCBjdXBpZGl0YXRlIGRlYml0aXMsIGRlc2VydW50IGV4cGxpY2FibyBmYWNlcmUgaXBzYW0gaXVzdG8sIG9tbmlzIG9wdGlvIHBvc3NpbXVzIHF1aWRlbSByYXRpb25lIHJlcGVsbGF0IHRlbXBvcmlidXMK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFsaWduLXNlbGY6IGNlbnRlcjsK</text>
+        <text encoding="base64">aXBzdW0gbWFnbmkgbmVzY2l1bnQgcXVhbSwgcmVwZWxsYXQgc2FwaWVudGUgc2VxdWksIHRlbXBvcmU/IEFwZXJpYW0gYXNwZXJpb3JlcywgY29tbW9kaSBkb2xvcmUgZnVnaWF0IGlsbHVtLCBuZWNlc3NpdGF0aWJ1cyBudW1xdWFtIG9kaXQgb3B0aW8gcG9zc2ltdXMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDAlOwo=</text>
+        <text encoding="base64">bWFnbmkgb2RpdCByZXB1ZGlhbmRhZSB2ZXJvIHZvbHVwdGF0aWJ1cz8gQXQgY3VscGEgZGVsZW5pdGkgaXN0ZSBtb2xlc3RpYXMgb2ZmaWNpYSBvbW5pcyBzaW1pbGlxdWUgdGVtcG9yYS4gQWxpYXMgY29tbW9kaSBjb3Jwb3JpcyBkdWNpbXVzIGV0IGZhY2lsaXMgaXBzYQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
