@@ -41,6 +41,9 @@
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/layout.ejs" timestamp="1528118458381">
+        <mark key="'" line="17" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.yaml" timestamp="1526679139206">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -409,6 +412,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
       <jump line="22" column="15" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
       <jump line="72" column="7" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" />
+      <jump line="17" column="6" filename="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/layout.ejs" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
