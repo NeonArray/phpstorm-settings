@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1527771869963">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1528203904798">
         <mark key="'" line="116" column="16" />
         <mark key="[" line="118" column="0" />
         <mark key="]" line="118" column="0" />
@@ -113,6 +113,11 @@
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" timestamp="1528137696898">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/clue-client.php" timestamp="1526999119533">
         <mark key="[" line="28" column="29" />
@@ -473,6 +478,7 @@
       <jump line="72" column="7" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" />
       <jump line="17" column="6" filename="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/layout.ejs" />
       <jump line="15" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/layout.ejs" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -512,7 +518,7 @@
         <text encoding="base64">PGRpdiBjbGFzcz0icG9zdHMiPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -531,8 +537,8 @@
         <entry>e</entry>
         <entry>ww</entry>
         <entry>s</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
