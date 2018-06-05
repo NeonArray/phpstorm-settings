@@ -16,13 +16,6 @@
         <mark key="." line="58" column="11" />
         <mark key="^" line="58" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/base.html.twig" timestamp="1527776010230">
-        <mark key="a" line="42" column="3" />
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="^" line="46" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/footer.ejs" timestamp="1528124676064">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -131,6 +124,12 @@
         <mark key="^" line="12" column="13" />
         <mark key="." line="24" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/src/gulpfile.js" timestamp="1528204837836">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="9" column="49" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/factory/objects/wp_post.class.php" timestamp="1526319411139">
         <mark key="[" line="77" column="0" />
         <mark key="]" line="77" column="0" />
@@ -225,6 +224,12 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/layouts/default.html" timestamp="1527773686720">
         <mark key="[" line="3" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/index.html" timestamp="1528204496636">
+        <mark key="[" line="4" column="133" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/app.scss" timestamp="1527870405702">
         <mark key="[" line="2" column="0" />
@@ -482,43 +487,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0pICU+Cg==</text>
+        <text encoding="base64">Y29uc3QgcGFuaW5pID0gcmVxdWlyZSgncGFuaW5pJyk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>x</text>
+        <text encoding="base64">CQ==</text>
       </register>
       <register name="0" type="4">
         <text>.category_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0pICU+Cg==</text>
+        <text encoding="base64">Y29uc3QgcGFuaW5pID0gcmVxdWlyZSgncGFuaW5pJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHBvc3QuY2F0ZWdvcmllcy5mb3JFYWNoKGZ1bmN0aW9uIChjYXRlZ29yeSkgeyAlPgo=</text>
+        <text encoding="base64">Y29uc3Qgcm0gPSByZXF1aXJlKCdyaW1yYWYnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlLSBsaXN0X2NhdGVnb3JpZXMocG9zdC5jYXRlZ29yaWVzLCB7IGRlcHRoOiAxIH0pICU+Cg==</text>
+        <text encoding="base64">Z3VscC50YXNrKCdkZWZhdWx0JywgZ3VscC5zZXJpZXMoJ2J1aWxkJywgc2VydmVyLCB3YXRjaCkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIH0pICU+Cg==</text>
+        <text encoding="base64">Z3VscC50YXNrKCd3YXRjaCcsIGd1bHAuc2VyaWVzKCdkZWZhdWx0Jywgd2F0Y2gpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8JT0gYSAlPgo=</text>
+        <text encoding="base64">CWd1bHAud2F0Y2goJ3NyYy97bGF5b3V0cyxwYXJ0aWFsc30vKiovKi5odG1sJykub24oJ2FsbCcsIGd1bHAuc2VyaWVzKHJlc2V0SHRtbCwgaHRtbCwgYnJvd3Nlci5yZWxvYWQpKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwlIHBvc3QuY2F0ZWdvcmllcy5lYWNoKGZ1bmN0aW9uIChhKSB7ICU+Cg==</text>
+        <text encoding="base64">CWd1bHAud2F0Y2goJ3NyYy9wYWdlcy8qKi8qLm1kJykub24oJ2FsbCcsIGd1bHAuc2VyaWVzKGh0bWwsIGJyb3dzZXIucmVsb2FkKSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8JS0gcGFydGlhbCgnX3BhcnRpYWwvYXJ0aWNsZS1jYXJkJywge3Bvc3Q6IHBvc3QsIGluZGV4OiB0cnVlfSkgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwlLSBwYXJ0aWFsKCdnb29nbGUtYW5hbHl0aWNzJykgJT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icG9zdHMiPgo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -537,8 +542,8 @@
         <entry>e</entry>
         <entry>ww</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
