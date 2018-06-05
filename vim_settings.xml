@@ -3,23 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1528203904798">
-        <mark key="'" line="116" column="16" />
-        <mark key="[" line="118" column="0" />
-        <mark key="]" line="118" column="0" />
-        <mark key="." line="118" column="0" />
-        <mark key="^" line="32" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/index.pcss" timestamp="1527705798417">
-        <mark key="[" line="58" column="27" />
-        <mark key="]" line="58" column="11" />
-        <mark key="." line="58" column="11" />
-        <mark key="^" line="58" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/footer.ejs" timestamp="1528124676064">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/theme.yml" timestamp="1528213901696">
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/options.class.php" timestamp="1527007723073">
         <mark key="[" line="123" column="42" />
@@ -27,35 +13,15 @@
         <mark key="^" line="120" column="24" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1527600400393">
-        <mark key="[" line="17" column="43" />
-        <mark key="]" line="18" column="61" />
-        <mark key="^" line="18" column="61" />
-        <mark key="." line="18" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/option.class.php" timestamp="1527079694938">
-        <mark key="[" line="42" column="10" />
-        <mark key="]" line="42" column="7" />
-        <mark key="^" line="42" column="7" />
-        <mark key="." line="42" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
-        <mark key="[" line="2" column="5" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/layout.ejs" timestamp="1528124773178">
-        <mark key="'" line="15" column="5" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-        <mark key="^" line="15" column="5" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/post/list.html" timestamp="1528214198013" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/config.toml" timestamp="1528213310601">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="17" column="20" />
+        <mark key="^" line="17" column="20" />
+        <mark key="." line="17" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/_layouts/default.html" timestamp="1528137178007">
         <mark key="[" line="9" column="48" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.yaml" timestamp="1526679139206">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/outdated-content-warning.html" timestamp="1527712414122">
         <mark key="[" line="0" column="20" />
@@ -72,16 +38,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="32" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1527771194753">
-        <mark key="[" line="46" column="48" />
-        <mark key="]" line="46" column="49" />
-        <mark key="^" line="46" column="49" />
-        <mark key="." line="46" column="49" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/_config.yml" timestamp="1528123572037">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/summary.html" timestamp="1528214280301">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-includes/general-template.php" timestamp="1526909719870">
         <mark key="[" line="3445" column="32" />
@@ -89,34 +49,229 @@
         <mark key="." line="3445" column="33" />
         <mark key="^" line="3445" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1526931846312">
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="." line="117" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" timestamp="1527775970239">
-        <mark key="'" line="26" column="15" />
-        <mark key="[" line="26" column="98" />
-        <mark key="]" line="26" column="99" />
-        <mark key="." line="26" column="99" />
-        <mark key="^" line="26" column="99" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/scene.js" timestamp="1527300814548">
         <mark key="[" line="32" column="40" />
         <mark key="]" line="32" column="40" />
         <mark key="^" line="32" column="40" />
         <mark key="." line="32" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" timestamp="1528137696898">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/list.html" timestamp="1528214389776">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="5" column="3" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/clue-client.php" timestamp="1526999119533">
         <mark key="[" line="28" column="29" />
         <mark key="]" line="28" column="28" />
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526480573203">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="^" line="62" column="6" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_archive.pcss" timestamp="1527704709508">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="13" column="10" />
+        <mark key="." line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1527711029090">
+        <mark key="[" line="22" column="25" />
+        <mark key="]" line="28" column="37" />
+        <mark key="." line="28" column="37" />
+        <mark key="^" line="28" column="37" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/body/index.pcss" timestamp="1527619898430">
+        <mark key="[" line="2" column="1" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/gulpfile.js" timestamp="1528209919140">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/_default/baseof.html" timestamp="1528214060421">
+        <mark key="[" line="51" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/index.html" timestamp="1528204496636">
+        <mark key="[" line="4" column="133" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/app.scss" timestamp="1527870405702">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="0" column="8" />
+        <mark key="^" line="0" column="8" />
+        <mark key="." line="0" column="8" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/gulpfile.js" timestamp="1527685691746">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="43" />
+        <mark key="^" line="11" column="43" />
+        <mark key="." line="11" column="43" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/theme.toml" timestamp="1528213728060">
+        <mark key="]" line="3" column="19" />
+        <mark key="^" line="3" column="19" />
+        <mark key="." line="3" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_single.pcss" timestamp="1527699264943">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/my-first-post.md" timestamp="1528214582299">
+        <mark key="[" line="5" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1526932706949">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="7" column="22" />
+        <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/package.json" timestamp="1528205771749">
+        <mark key="[" line="41" column="25" />
+        <mark key="]" line="41" column="23" />
+        <mark key="^" line="41" column="23" />
+        <mark key="." line="41" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/public/partials/client-public-display.php" timestamp="1527014558593">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="15" column="38" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/gulpfile.js" timestamp="1527773634912">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="41" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528213994004">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="12" column="17" />
+        <mark key="^" line="12" column="17" />
+        <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/after-footer.ejs" timestamp="1528123739647">
+        <mark key="[" line="0" column="17" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526914676662">
+        <mark key="[" line="87" column="73" />
+        <mark key="]" line="87" column="77" />
+        <mark key="^" line="87" column="77" />
+        <mark key="." line="87" column="77" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" timestamp="1528214652618">
+        <mark key="[" line="0" column="19" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" timestamp="1528214023676">
+        <mark key="[" line="10" column="26" />
+        <mark key="]" line="10" column="24" />
+        <mark key="^" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1527079475870">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="47" column="60" />
+        <mark key="^" line="47" column="60" />
+        <mark key="." line="47" column="60" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/gulpfile.js" timestamp="1526678826109">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="49" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1527604461323">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/_config.yml" timestamp="1528126293571">
+        <mark key="[" line="55" column="31" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="9" column="11" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/src/webpack.config.js" timestamp="1528205435846">
+        <mark key="'" line="15" column="42" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-navigation.html" timestamp="1528213179790" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1527709233286">
+        <mark key="[" line="19" column="24" />
+        <mark key="]" line="24" column="0" />
+        <mark key="^" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/import.class.php" timestamp="1526916628928">
+        <mark key="[" line="60" column="27" />
+        <mark key="]" line="60" column="25" />
+        <mark key="^" line="60" column="25" />
+        <mark key="." line="60" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-client.php" timestamp="1527014615732">
+        <mark key="[" line="26" column="40" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="58" column="63" />
+        <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1527692468986">
+        <mark key="[" line="6" column="21" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/header.html" timestamp="1527709342315">
+        <mark key="[" line="2" column="51" />
+        <mark key="]" line="2" column="65" />
+        <mark key="." line="2" column="65" />
+        <mark key="^" line="2" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/ui.js" timestamp="1527300885074">
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="12" />
+        <mark key="^" line="5" column="12" />
+        <mark key="." line="5" column="12" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/index.pcss" timestamp="1527705798417">
+        <mark key="[" line="58" column="27" />
+        <mark key="]" line="58" column="11" />
+        <mark key="." line="58" column="11" />
+        <mark key="^" line="58" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1527600400393">
+        <mark key="[" line="17" column="43" />
+        <mark key="]" line="18" column="61" />
+        <mark key="^" line="18" column="61" />
+        <mark key="." line="18" column="61" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/option.class.php" timestamp="1527079694938">
+        <mark key="[" line="42" column="10" />
+        <mark key="]" line="42" column="7" />
+        <mark key="^" line="42" column="7" />
+        <mark key="." line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
+        <mark key="[" line="2" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1527771194753">
+        <mark key="[" line="46" column="48" />
+        <mark key="]" line="46" column="49" />
+        <mark key="^" line="46" column="49" />
+        <mark key="." line="46" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -136,29 +291,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526480573203">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="^" line="62" column="6" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_archive.pcss" timestamp="1527704709508">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="10" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/partials/client-public-display.php" timestamp="1526998634436">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="7" />
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1527711029090">
-        <mark key="[" line="22" column="25" />
-        <mark key="]" line="28" column="37" />
-        <mark key="." line="28" column="37" />
-        <mark key="^" line="28" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/package.json" timestamp="1527615565700">
         <mark key="[" line="24" column="0" />
@@ -205,23 +342,6 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/source/_posts/hello-world.md" timestamp="1528126170918">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/body/index.pcss" timestamp="1527619898430">
-        <mark key="[" line="2" column="1" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/plugins/_prism.pcss" timestamp="1527711944617">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/gulpfile.js" timestamp="1528206025454">
-        <mark key="[" line="45" column="81" />
-        <mark key="]" line="45" column="51" />
-        <mark key="^" line="45" column="51" />
-        <mark key="." line="45" column="51" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1526926100785">
         <mark key="[" line="5" column="24" />
         <mark key="]" line="5" column="13" />
@@ -231,47 +351,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/layouts/default.html" timestamp="1527773686720">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/index.html" timestamp="1528204496636">
-        <mark key="[" line="4" column="133" />
-        <mark key="]" line="12" column="0" />
-        <mark key="^" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/app.scss" timestamp="1527870405702">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="0" column="8" />
-        <mark key="^" line="0" column="8" />
-        <mark key="." line="0" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/gulpfile.js" timestamp="1527685691746">
-        <mark key="[" line="11" column="54" />
-        <mark key="]" line="11" column="43" />
-        <mark key="^" line="11" column="43" />
-        <mark key="." line="11" column="43" />
-      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-import.php" timestamp="1526916923584">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="3" />
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" timestamp="1527873084404">
-        <mark key="'" line="72" column="7" />
-        <mark key="[" line="127" column="13" />
-        <mark key="]" line="127" column="12" />
-        <mark key="^" line="127" column="12" />
-        <mark key="." line="127" column="12" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_single.pcss" timestamp="1527699264943">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="6" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/callout/index.pcss" timestamp="1527709223015">
-        <mark key="[" line="2" column="23" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/index.pcss" timestamp="1527699272485">
         <mark key="[" line="0" column="0" />
@@ -285,52 +369,14 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="31" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1526932706949">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="7" column="22" />
-        <mark key="." line="33" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/source/_posts/test-post.md" timestamp="1528126208345">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="6" column="2" />
         <mark key="^" line="6" column="2" />
         <mark key="." line="6" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/package.json" timestamp="1528205771749">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="41" column="23" />
-        <mark key="^" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/public/partials/client-public-display.php" timestamp="1527014558593">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/gulpfile.js" timestamp="1527773634912">
-        <mark key="[" line="30" column="33" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="9" column="41" />
-        <mark key="." line="8" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/archives.html" timestamp="1527696237095">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/after-footer.ejs" timestamp="1528123739647">
-        <mark key="[" line="0" column="17" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-editor.php" timestamp="1526914676662">
-        <mark key="[" line="87" column="73" />
-        <mark key="]" line="87" column="77" />
-        <mark key="^" line="87" column="77" />
-        <mark key="." line="87" column="77" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/partials/header.html" timestamp="1527775638572">
         <mark key="[" line="11" column="16" />
@@ -347,42 +393,11 @@
         <mark key="^" line="45" column="55" />
         <mark key="." line="45" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1527079475870">
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="47" column="60" />
-        <mark key="^" line="47" column="60" />
-        <mark key="." line="47" column="60" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/gulpfile.js" timestamp="1526678826109">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="49" column="61" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/_font-families.pcss" timestamp="1526777959258">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1527604461323">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="5" column="34" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/_config.yml" timestamp="1528126293571">
-        <mark key="[" line="55" column="31" />
-        <mark key="]" line="11" column="0" />
-        <mark key="^" line="9" column="11" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/src/webpack.config.js" timestamp="1528205435846">
-        <mark key="'" line="15" column="42" />
-      </file>
-      <file name="/fragment.php" timestamp="1527003782744">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="39" />
-        <mark key="." line="0" column="39" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/baseof.html" timestamp="1528214321396">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="^" line="17" column="12" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/.gitignore" timestamp="1526473135296">
         <mark key="[" line="3" column="0" />
@@ -396,23 +411,11 @@
         <mark key="." line="11" column="15" />
         <mark key="^" line="11" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1527709233286">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="24" column="0" />
-        <mark key="." line="24" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.php" timestamp="1526679109558">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="10" />
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
-      </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/import.class.php" timestamp="1526916628928">
-        <mark key="[" line="60" column="27" />
-        <mark key="]" line="60" column="25" />
-        <mark key="^" line="60" column="25" />
-        <mark key="." line="60" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1527703505358">
         <mark key="[" line="3" column="29" />
@@ -423,23 +426,9 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/tags/index.pcss" timestamp="1527704581440">
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/src/package.json" timestamp="1528205592458" />
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-client.php" timestamp="1527014615732">
-        <mark key="[" line="26" column="40" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="58" column="63" />
-        <mark key="." line="60" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1527692468986">
-        <mark key="[" line="6" column="21" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
-        <mark key="^" line="16" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-favicon.html" timestamp="1528214307148">
+        <mark key="[" line="0" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/gulpfile.js" timestamp="1528122191814">
         <mark key="[" line="11" column="54" />
@@ -447,34 +436,17 @@
         <mark key="^" line="11" column="52" />
         <mark key="." line="11" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/header.html" timestamp="1527709342315">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="65" />
-        <mark key="." line="2" column="65" />
-        <mark key="^" line="2" column="65" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/archive.ejs" timestamp="1528127349099">
         <mark key="[" line="6" column="107" />
         <mark key="]" line="5" column="74" />
         <mark key="." line="5" column="74" />
         <mark key="^" line="5" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/public/css/clue-client.css" timestamp="1527002506563">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/package.json" timestamp="1526677519179">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
         <mark key="^" line="1" column="15" />
         <mark key="." line="24" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/ui.js" timestamp="1527300885074">
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="12" />
-        <mark key="^" line="5" column="12" />
-        <mark key="." line="5" column="12" />
       </file>
     </filemarks>
     <jumps>
@@ -501,46 +473,50 @@
       <jump line="15" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/layout.ejs" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" />
       <jump line="15" column="42" filename="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/src/webpack.config.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
+      <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJyaW1yYWYiOiAiXjIuNi4yIgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">CQ==</text>
+        <text>mystyle</text>
       </register>
       <register name="0" type="4">
         <text>.category_</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJyaW1yYWYiOiAiXjIuNi4yIgo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJwYW5pbmkiOiAiXjEuNi4yIiwK</text>
+        <text encoding="base64">ICAgICAgICA8IS0tIE5vdGUgdGhhdCAuRGF0YS5QYWdlcyBpcyB0aGUgZXF1aXZhbGVudCBvZiAuU2l0ZS5QYWdlcyBvbiB0aGUgaG9tZXBhZ2UgdGVtcGxhdGUuIC0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICJndWxwLWNvcHkiOiAiXjEuMS4wIiwK</text>
+        <text encoding="base64">ICAgIDxkaXY+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJicm93c2VyLXN5bmMiOiAiXjIuMjMuNiIsCg==</text>
+        <text encoding="base64">ICAgICAgICB7ey5Db250ZW50fX0KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Y29uc3QgcGFuaW5pID0gcmVxdWlyZSgncGFuaW5pJyk7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImhvbWVwYWdlLWNvbnRlbnQiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3Qgcm0gPSByZXF1aXJlKCdyaW1yYWYnKTsK</text>
+        <text encoding="base64">ICAgIDwvaGVhZGVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCdkZWZhdWx0JywgZ3VscC5zZXJpZXMoJ2J1aWxkJywgc2VydmVyLCB3YXRjaCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICB7eyBlbmQgfX0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Z3VscC50YXNrKCd3YXRjaCcsIGd1bHAuc2VyaWVzKCdkZWZhdWx0Jywgd2F0Y2gpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ic3VidGl0bGUiPnt7Ln19PC9zcGFuPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CWd1bHAud2F0Y2goJ3NyYy97bGF5b3V0cyxwYXJ0aWFsc30vKiovKi5odG1sJykub24oJ2FsbCcsIGd1bHAuc2VyaWVzKHJlc2V0SHRtbCwgaHRtbCwgYnJvd3Nlci5yZWxvYWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICA8aDE+e3suVGl0bGV9fTwvaDE+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
