@@ -83,6 +83,9 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/_index.md" timestamp="1528230366478">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526480573203">
         <mark key="[" line="50" column="0" />
         <mark key="]" line="50" column="0" />
@@ -202,6 +205,9 @@
         <mark key="^" line="20" column="37" />
         <mark key="." line="20" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/contact/_index.md" timestamp="1528229936503">
+        <mark key="[" line="0" column="5" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1527079475870">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="47" column="60" />
@@ -251,6 +257,9 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/blog.html" timestamp="1528230452249">
+        <mark key="[" line="1" column="9" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/tags/index.pcss" timestamp="1527704581440">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -282,6 +291,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/first-post.md" timestamp="1528224358752">
         <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/projects/_index.md" timestamp="1528229994778">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/public/css/clue-client.css" timestamp="1527002506563">
         <mark key="[" line="0" column="0" />
@@ -524,9 +536,13 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/archetypes/default.md" timestamp="1528223671453">
         <mark key="[" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/contact/contact.html" timestamp="1528227895107">
-        <mark key="[" line="1" column="8" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/contact/contact.html" timestamp="1528229892071">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/projects/projects.html" timestamp="1528230438283" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/package.json" timestamp="1526677519179">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -565,7 +581,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text />
+        <text encoding="base64">CjxkaXYgY2xhc3M9InBvc3RzIj4KICAgIHt7IHJhbmdlIC5EYXRhLlBhZ2VzIH19CiAgICAgICAgPGFydGljbGUgY2xhc3M9InBvc3QiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LWNhdGVnb3J5IHBvc3QtY2F0ZWdvcnlfX3NvZnR3YXJlIj4KCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LXRpdGxlIj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwb3N0LXRpdGxlLS1saW5rIiBocmVmPSJ7eyAuUGVybWFsaW5rIH19Ij4KICAgICAgICAgICAgICAgICAgICB7eyAuVGl0bGUgfX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDx0aW1lIGNsYXNzPSJwb3N0LWRhdGUiPgogICAgICAgICAgICAgICAge3sgLkRhdGUuRm9ybWF0ICIyMDA2IE1heSwgMDIiIH19CiAgICAgICAgICAgIDwvdGltZT4KICAgICAgICA8L2FydGljbGU+CiAgICB7eyBlbmQgfX0KPC9kaXY+</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -573,35 +589,35 @@
       <register name="0" type="4">
         <text encoding="base64">eyA=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CjxkaXYgY2xhc3M9InBvc3RzIj4KICAgIHt7IHJhbmdlIC5EYXRhLlBhZ2VzIH19CiAgICAgICAgPGFydGljbGUgY2xhc3M9InBvc3QiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LWNhdGVnb3J5IHBvc3QtY2F0ZWdvcnlfX3NvZnR3YXJlIj4KCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LXRpdGxlIj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwb3N0LXRpdGxlLS1saW5rIiBocmVmPSJ7eyAuUGVybWFsaW5rIH19Ij4KICAgICAgICAgICAgICAgICAgICB7eyAuVGl0bGUgfX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDx0aW1lIGNsYXNzPSJwb3N0LWRhdGUiPgogICAgICAgICAgICAgICAge3sgLkRhdGUuRm9ybWF0ICIyMDA2IE1heSwgMDIiIH19CiAgICAgICAgICAgIDwvdGltZT4KICAgICAgICA8L2FydGljbGU+CiAgICB7eyBlbmQgfX0KPC9kaXY+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgdGFnOiAidGFncyIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">dGF4b25vbWllczoK</text>
+        <text encoding="base64">ICAgdGFnOiAidGFncyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgc29mdHdhcmU6ICJibG9nL3NvZnR3YXJlIgo=</text>
+        <text encoding="base64">dGF4b25vbWllczoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgZ2VuZXJhbDogImJsb2cvZ2VuZXJhbCIK</text>
+        <text encoding="base64">ICAgc29mdHdhcmU6ICJibG9nL3NvZnR3YXJlIgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgd2ViOiAiYmxvZy93ZWIiCg==</text>
+        <text encoding="base64">ICAgZ2VuZXJhbDogImJsb2cvZ2VuZXJhbCIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgdmlydHVhbF9yZWFsaXR5OiAiYmxvZy92aXJ0dWFsLXJlYWxpdHkiCg==</text>
+        <text encoding="base64">ICAgd2ViOiAiYmxvZy93ZWIiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC0gIkdlbmVyYWwiCg==</text>
+        <text encoding="base64">ICAgdmlydHVhbF9yZWFsaXR5OiAiYmxvZy92aXJ0dWFsLXJlYWxpdHkiCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gIlNvZnR3YXJlIgo=</text>
+        <text encoding="base64">ICAgIC0gIkdlbmVyYWwiCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
