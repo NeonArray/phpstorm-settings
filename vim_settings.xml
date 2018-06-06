@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/theme.yml" timestamp="1528216595350">
+        <mark key="[" line="5" column="5" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/footer.ejs" timestamp="1528124676064">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -14,8 +19,10 @@
         <mark key="^" line="120" column="24" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/_index.md" timestamp="1528222529436">
-        <mark key="[" line="3" column="11" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/_index.md" timestamp="1528231540324">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/_layouts/default.html" timestamp="1528137178007">
         <mark key="[" line="9" column="48" />
@@ -36,6 +43,9 @@
         <mark key="]" line="35" column="15" />
         <mark key="^" line="35" column="15" />
         <mark key="." line="35" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/vr/_index.md" timestamp="1528231457333">
+        <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/head.ejs" timestamp="1528126021092">
         <mark key="[" line="4" column="0" />
@@ -117,7 +127,7 @@
         <mark key="^" line="7" column="29" />
         <mark key="." line="7" column="29" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/_default/baseof.html" timestamp="1528214060421">
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/_default/baseof.html" timestamp="1528231898090">
         <mark key="[" line="51" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/index.html" timestamp="1528204496636">
@@ -150,11 +160,19 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/second-post.md" timestamp="1528224370832">
         <mark key="[" line="3" column="11" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/post/single.html" timestamp="1528231688022">
+        <mark key="[" line="1" column="18" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1526932706949">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="7" column="22" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/vr/first-post.md" timestamp="1528232765813">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/package.json" timestamp="1528205771749">
         <mark key="[" line="41" column="25" />
@@ -174,8 +192,8 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528225115495">
-        <mark key="[" line="19" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
+        <mark key="[" line="25" column="18" />
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="19" />
         <mark key="^" line="23" column="19" />
@@ -198,6 +216,11 @@
         <mark key="[" line="1" column="4" />
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" timestamp="1528215614820">
+        <mark key="[" line="0" column="22" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" timestamp="1528216505829">
         <mark key="[" line="20" column="54" />
@@ -240,6 +263,9 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/general/_index.md" timestamp="1528231471796">
+        <mark key="[" line="1" column="16" />
+      </file>
       <file name="/fragment.php" timestamp="1527003782744">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="39" />
@@ -257,7 +283,7 @@
         <mark key="^" line="60" column="25" />
         <mark key="." line="60" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/blog.html" timestamp="1528230452249">
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/blog.html" timestamp="1528231210439">
         <mark key="[" line="1" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/tags/index.pcss" timestamp="1527704581440">
@@ -270,6 +296,9 @@
         <mark key="]" line="60" column="0" />
         <mark key="^" line="58" column="63" />
         <mark key="." line="60" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
+        <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1527692468986">
         <mark key="[" line="6" column="21" />
@@ -300,10 +329,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/single.html" timestamp="1528226338666">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/single.html" timestamp="1528237379176">
+        <mark key="[" line="23" column="26" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/ui.js" timestamp="1527300885074">
         <mark key="[" line="5" column="12" />
@@ -328,6 +357,9 @@
         <mark key="]" line="42" column="7" />
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/single.html" timestamp="1528231559049">
+        <mark key="[" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
         <mark key="[" line="2" column="5" />
@@ -460,11 +492,26 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/second-post.md" timestamp="1528224436558">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/copy.html" timestamp="1528237367046">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="0" column="24" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" timestamp="1528236874062">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="21" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/partials/header.html" timestamp="1527775638572">
         <mark key="[" line="11" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
+        <mark key="[" line="1" column="16" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1526935296431">
         <mark key="[" line="29" column="95" />
@@ -477,6 +524,12 @@
         <mark key="]" line="45" column="55" />
         <mark key="^" line="45" column="55" />
         <mark key="." line="45" column="55" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/baseof.html" timestamp="1528236811368">
+        <mark key="[" line="29" column="11" />
+        <mark key="]" line="13" column="64" />
+        <mark key="^" line="13" column="20" />
+        <mark key="." line="13" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/.gitignore" timestamp="1526473135296">
         <mark key="[" line="3" column="0" />
@@ -492,6 +545,11 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/third-post.md" timestamp="1528224455365">
         <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/third-post.md" timestamp="1528237409576">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.php" timestamp="1526679109558">
         <mark key="[" line="6" column="11" />
@@ -578,46 +636,48 @@
       <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" />
+      <jump line="4" column="8" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CjxkaXYgY2xhc3M9InBvc3RzIj4KICAgIHt7IHJhbmdlIC5EYXRhLlBhZ2VzIH19CiAgICAgICAgPGFydGljbGUgY2xhc3M9InBvc3QiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LWNhdGVnb3J5IHBvc3QtY2F0ZWdvcnlfX3NvZnR3YXJlIj4KCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LXRpdGxlIj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwb3N0LXRpdGxlLS1saW5rIiBocmVmPSJ7eyAuUGVybWFsaW5rIH19Ij4KICAgICAgICAgICAgICAgICAgICB7eyAuVGl0bGUgfX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDx0aW1lIGNsYXNzPSJwb3N0LWRhdGUiPgogICAgICAgICAgICAgICAge3sgLkRhdGUuRm9ybWF0ICIyMDA2IE1heSwgMDIiIH19CiAgICAgICAgICAgIDwvdGltZT4KICAgICAgICA8L2FydGljbGU+CiAgICB7eyBlbmQgfX0KPC9kaXY+</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LSBzb2Z0d2FyZQo=</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="0" type="4">
-        <text encoding="base64">eyA=</text>
+        <text encoding="base64">PGxpbmsgaHJlZj0ne3sgImNzcy9zdHlsZS5jc3MiIHwgcmVsVVJMIH19JyByZWw9InN0eWxlc2hlZXQiPg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CjxkaXYgY2xhc3M9InBvc3RzIj4KICAgIHt7IHJhbmdlIC5EYXRhLlBhZ2VzIH19CiAgICAgICAgPGFydGljbGUgY2xhc3M9InBvc3QiPgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LWNhdGVnb3J5IHBvc3QtY2F0ZWdvcnlfX3NvZnR3YXJlIj4KCiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IGNsYXNzPSJwb3N0LXRpdGxlIj4KICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJwb3N0LXRpdGxlLS1saW5rIiBocmVmPSJ7eyAuUGVybWFsaW5rIH19Ij4KICAgICAgICAgICAgICAgICAgICB7eyAuVGl0bGUgfX0KICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDx0aW1lIGNsYXNzPSJwb3N0LWRhdGUiPgogICAgICAgICAgICAgICAge3sgLkRhdGUuRm9ybWF0ICIyMDA2IE1heSwgMDIiIH19CiAgICAgICAgICAgIDwvdGltZT4KICAgICAgICA8L2FydGljbGU+CiAgICB7eyBlbmQgfX0KPC9kaXY+</text>
+      <register name="1" type="2">
+        <text encoding="base64">LSBzb2Z0d2FyZQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2F0ZWdvcmllczoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgdGFnOiAidGFncyIK</text>
+        <text encoding="base64">ZHJhZnQ6IHRydWVkZAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">dGF4b25vbWllczoK</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgc29mdHdhcmU6ICJibG9nL3NvZnR3YXJlIgo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0icG9zdC1ib2R5Ij4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZ2VuZXJhbDogImJsb2cvZ2VuZXJhbCIK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0idGVzdCI+PC9kaXZkZD5kZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgd2ViOiAiYmxvZy93ZWIiCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgdmlydHVhbF9yZWFsaXR5OiAiYmxvZy92aXJ0dWFsLXJlYWxpdHkiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IC5UYWJsZU9mQ29udGVudHMgfX0tLT4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC0gIkdlbmVyYWwiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPCEtLTxwPlRhYmxlIG9mIENvbnRlbnRzOjwvcD4tLT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
