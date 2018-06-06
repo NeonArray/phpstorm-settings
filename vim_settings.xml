@@ -547,10 +547,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/third-post.md" timestamp="1528224455365">
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/third-post.md" timestamp="1528250604993">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/third-post.md" timestamp="1528252294143">
+        <mark key="[" line="5" column="3" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="1" column="7" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.php" timestamp="1526679109558">
         <mark key="[" line="6" column="11" />
@@ -642,7 +643,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">e3slIGhpZ2hsaWdodCBwaHAgJX19Cg==</text>
+        <text encoding="base64">IyBUZXN0aW5nIFdvcmRQcmVzcyBQbHVnaW5zIHdpdGggUEhQVW5pdCBhbmQgV1AgTW9jawo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -651,34 +652,34 @@
         <text encoding="base64">PGxpbmsgaHJlZj0ne3sgImNzcy9zdHlsZS5jc3MiIHwgcmVsVVJMIH19JyByZWw9InN0eWxlc2hlZXQiPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">e3slIGhpZ2hsaWdodCBwaHAgJX19Cg==</text>
+        <text encoding="base64">IyBUZXN0aW5nIFdvcmRQcmVzcyBQbHVnaW5zIHdpdGggUEhQVW5pdCBhbmQgV1AgTW9jawo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LSBzb2Z0d2FyZQo=</text>
+        <text encoding="base64">e3slIC9zeW50YXggJX19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Y2F0ZWdvcmllczoK</text>
+        <text encoding="base64">e3slIHN5bnRheCBiYXNoICV9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZHJhZnQ6IHRydWVkZAo=</text>
+        <text encoding="base64">e3slIHN5bnRheCBwaHAgJX19Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">e3slIGNvcHkgJX19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0icG9zdC1ib2R5Ij4K</text>
+        <text encoding="base64">e3slIHN5bnRheCBwaHAgJX19Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0idGVzdCI+PC9kaXZkZD5kZAo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">e3slIGNvcHkgJX19Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPCEtLXt7IC5UYWJsZU9mQ29udGVudHMgfX0tLT4K</text>
+        <text encoding="base64">e3slIGNvcHkgJX19Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
