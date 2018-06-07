@@ -13,7 +13,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_173148_create_tracker_table.php" timestamp="1528307447644" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/options.class.php" timestamp="1527007723073">
         <mark key="[" line="123" column="42" />
         <mark key="]" line="117" column="0" />
@@ -25,7 +24,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_172218_create_trackers_table.php" timestamp="1528305744620" />
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_173009_create_tracker_table.php" timestamp="1528307443456">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="27" />
@@ -113,11 +111,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/_index.md" timestamp="1528230366478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_190134_create_trackers_table.php" timestamp="1528377586939">
-        <mark key="[" line="16" column="33" />
-        <mark key="]" line="10" column="5" />
-        <mark key="^" line="10" column="5" />
-        <mark key="." line="10" column="5" />
+      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_190134_create_trackers_table.php" timestamp="1528379667897">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="32" column="37" />
+        <mark key="^" line="32" column="37" />
+        <mark key="." line="32" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/plugin.class.php" timestamp="1526480573203">
         <mark key="[" line="50" column="0" />
@@ -131,7 +129,6 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/gohugo-amp/theme.toml" timestamp="1528217249822" />
       <file name="$USER_HOME$/Documents/projects/sloth/resources/views/dashboard.blade.php" timestamp="1528307387761">
         <mark key="[" line="13" column="47" />
         <mark key="]" line="30" column="0" />
@@ -189,10 +186,11 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/session/view.blade.php" timestamp="1528333822349">
-        <mark key="[" line="3" column="27" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/session/view.blade.php" timestamp="1528383240582">
+        <mark key="[" line="14" column="31" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="23" column="17" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_single.pcss" timestamp="1528290261997">
         <mark key="[" line="41" column="0" />
@@ -209,8 +207,10 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/post/single.html" timestamp="1528231688022">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/TrackerSession.php" timestamp="1528337692719">
-        <mark key="[" line="8" column="6" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/TrackerSession.php" timestamp="1528381329217">
+        <mark key="[" line="8" column="42" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1526932706949">
         <mark key="[" line="33" column="0" />
@@ -246,11 +246,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528377125276">
-        <mark key="[" line="38" column="27" />
-        <mark key="]" line="38" column="27" />
-        <mark key="." line="38" column="27" />
-        <mark key="^" line="38" column="45" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528382806391">
+        <mark key="[" line="42" column="33" />
+        <mark key="]" line="42" column="24" />
+        <mark key="." line="42" column="24" />
+        <mark key="^" line="42" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -277,10 +277,10 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Tracker.php" timestamp="1528337666757">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Tracker.php" timestamp="1528381320090">
+        <mark key="[" line="7" column="1" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" timestamp="1528215614820">
         <mark key="[" line="0" column="22" />
@@ -296,7 +296,6 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/contact/_index.md" timestamp="1528229936503">
         <mark key="[" line="0" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/auth/register.blade.php" timestamp="1528301410468" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1527079475870">
         <mark key="[" line="78" column="0" />
         <mark key="]" line="47" column="60" />
@@ -433,7 +432,6 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_175458_create_tracker_table.php" timestamp="1528308717861" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1527600400393">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="18" column="61" />
@@ -457,17 +455,17 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_220206_add_tracker_session_table.php" timestamp="1528377609933">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="22" column="10" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_220206_add_tracker_session_table.php" timestamp="1528379662042">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="25" />
+        <mark key="^" line="17" column="25" />
+        <mark key="." line="17" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" timestamp="1528333659491">
-        <mark key="[" line="55" column="147" />
-        <mark key="]" line="55" column="51" />
-        <mark key="." line="55" column="51" />
-        <mark key="^" line="55" column="51" />
+      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" timestamp="1528382413600">
+        <mark key="[" line="53" column="44" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+        <mark key="^" line="72" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1527771194753">
         <mark key="[" line="46" column="48" />
@@ -576,7 +574,6 @@
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528299907467">
         <mark key="[" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/_default/terms.html" timestamp="1528223012487" />
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/DashboardController.php" timestamp="1528309373638">
         <mark key="[" line="28" column="67" />
         <mark key="]" line="28" column="47" />
@@ -630,11 +627,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackedSessionController.php" timestamp="1528375787688">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="25" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackedSessionController.php" timestamp="1528380495140">
+        <mark key="[" line="20" column="37" />
+        <mark key="]" line="23" column="4" />
+        <mark key="." line="23" column="4" />
+        <mark key="^" line="23" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/routes/api.php" timestamp="1528330712818">
         <mark key="[" line="19" column="2" />
@@ -714,14 +711,12 @@
         <mark key="^" line="4" column="1" />
         <mark key="." line="4" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/src/package.json" timestamp="1528205592458" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/archetypes/default.md" timestamp="1528216971067">
         <mark key="[" line="5" column="16" />
         <mark key="]" line="5" column="3" />
         <mark key="^" line="5" column="3" />
         <mark key="." line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/config/cors.php" timestamp="1528316420097" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-favicon.html" timestamp="1528214307148">
         <mark key="[" line="0" column="8" />
       </file>
@@ -755,7 +750,6 @@
         <mark key="^" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/projects/projects.html" timestamp="1528230438283" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/package.json" timestamp="1526677519179">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -797,43 +791,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd0cmFja2luZ19pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IGZsZXgtY29sdW1uIj4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIj5BcmNoaXZlPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSI+UmUtT3BlbjwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXNzaW9uOjp3aGVyZSgndHJhY2tpbmdfaWQnLCAkcmVxdWVzdC0+Z2V0KCdpZCcpKS0+Z2V0KCk7</text>
+        <text encoding="base64">ImlkPSJuYXYtdGFiIiByb2xlPSJ0YWJsaXN0Ij4=</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wQ29sdW1uKCd0cmFja2luZ19pZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IGZsZXgtY29sdW1uIj4KICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9Im5hdi1pdGVtIj4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgY2xhc3M9Im5hdi1saW5rIj5BcmNoaXZlPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbSI+UmUtT3BlbjwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgPC91bD4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5zdHJpbmcoJ3RyYWNraW5nX2lkJyktPnVuaXF1ZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IGZsZXgtY29sdW1uIiBpZD0ibmF2LXRhYiIgcm9sZT0idGFibGlzdCI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5pbmNyZW1lbnRzKCdpZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0ibmF2IGZsZXgtY29sdW1uIiBpZD0ibmF2LXRhYiIgcm9sZT0idGFibGlzdCI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CQkJLT5nZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJLT5qb2luKCd0cmFja2VyX3Nlc3Npb25zJywgJ3RyYWNrZXJzLnRyYWNraW5nX2lkJywgJz0nLCAndHJhY2tlcl9zZXNzaW9ucy50cmFja2luZ19pZCcpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdHJhY2tlciA9IFRyYWNrZXI6OmZpbmQoMSkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0YWItcGFuZSBmYWRlIHNob3cgYWN0aXZlIiBpZD0ibmF2LWNvbXBsZXRlIiByb2xlPSJ0YWJwYW5lbCIgYXJpYS1sYWJlbGxlZGJ5PSJuYXYtY29tcGxldGUtdGFiIj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InRhYi1jb250ZW50IiBpZD0ibmF2LXRhYkNvbnRlbnQiPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHA+e3sgJGl0ZW0tPmNsaWVudF9ncm91cCB9fTwvcD4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dXBkYXRlKFsnc3RhdHVzJyA9PiB0cnVlXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgJGl0ZW0tPnN0YXR1cyB9fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
