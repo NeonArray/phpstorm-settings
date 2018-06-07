@@ -98,7 +98,7 @@
         <mark key="." line="5" column="3" />
         <mark key="^" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_225343_add_foreign_key_to_tracker_sessions.php" timestamp="1528338349641">
+      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_225343_add_foreign_key_to_tracker_sessions.php" timestamp="1528375670220">
         <mark key="[" line="17" column="33" />
         <mark key="]" line="16" column="39" />
         <mark key="." line="16" column="39" />
@@ -246,11 +246,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528337019387">
-        <mark key="[" line="37" column="64" />
-        <mark key="]" line="18" column="27" />
-        <mark key="." line="18" column="27" />
-        <mark key="^" line="18" column="27" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528375916387">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="32" />
+        <mark key="." line="37" column="32" />
+        <mark key="^" line="37" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -624,11 +624,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackedSessionController.php" timestamp="1528336680703">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="17" column="4" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackedSessionController.php" timestamp="1528375787688">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="25" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/routes/api.php" timestamp="1528330712818">
         <mark key="[" line="19" column="2" />
@@ -791,7 +791,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAJJHRhYmxlLT5zdHJpbmcoJ3RyYWNraW5nX2lkJylkOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="-" type="4">
         <text>(string) Str::uuid(</text>
@@ -800,34 +800,34 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAJJHRhYmxlLT5zdHJpbmcoJ3RyYWNraW5nX2lkJylkOwo=</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxUcmFja2VyU2Vzc2lvbjsK</text>
+        <text encoding="base64">CiAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXBkYXRlZCA9ICR0aGlzLT51cGRhdGVfc3RhdHVzKCRyZXF1ZXN0LT5pbnB1dCgnaWQnKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+dXBkYXRlKFsnc3RhdHVzJyA9PiB0cnVlXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC0+d2hlcmUoJ3RyYWNraW5nX2lkJywgJGlkKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIAlyZXR1cm4gREI6OnRhYmxlKCd0cmFja2VycycpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRhYmxlLT5kcm9wSWZFeGlzdHMoJ3RyYWNrZXJfc2Vzc2lvbnMnKTsK</text>
+        <text encoding="base64">ICAgIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCd0cmFja2VyX3Nlc3Npb25zJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgZnVuY3Rpb24gdXBkYXRlX3N0YXR1cyhzdHJpbmcgJGlkKTogYm9vbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB7eyAkdHJhY2tlciB9fQo=</text>
+        <text encoding="base64">ICAgICAgICAJJHRhYmxlLT5zdHJpbmcoJ3RyYWNraW5nX2lkJylkOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICBqCg==</text>
+        <text encoding="base64">dXNlIEFwcFxUcmFja2VyU2Vzc2lvbjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
