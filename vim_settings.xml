@@ -204,8 +204,8 @@
         <mark key="^" line="11" column="43" />
         <mark key="." line="11" column="43" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/session/view.blade.php" timestamp="1528399325507">
-        <mark key="[" line="15" column="16" />
+      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/session/view.blade.php" timestamp="1528401441781">
+        <mark key="[" line="6" column="58" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
         <mark key="^" line="28" column="15" />
@@ -592,8 +592,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528400441263">
-        <mark key="[" line="8" column="55" />
+      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528401432142">
+        <mark key="[" line="8" column="30" />
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
@@ -616,7 +616,7 @@
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528299907467">
         <mark key="[" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/DashboardController.php" timestamp="1528400478214">
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/DashboardController.php" timestamp="1528400908377">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="28" column="47" />
         <mark key="." line="28" column="47" />
