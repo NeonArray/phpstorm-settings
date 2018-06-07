@@ -24,6 +24,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="/a.dummy" timestamp="1528400465032">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_173009_create_tracker_table.php" timestamp="1528307443456">
         <mark key="[" line="19" column="36" />
         <mark key="]" line="19" column="27" />
@@ -164,8 +167,8 @@
         <mark key="^" line="10" column="46" />
         <mark key="." line="10" column="46" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/SurveyController.php" timestamp="1528398992654">
-        <mark key="[" line="19" column="27" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/SurveyController.php" timestamp="1528400484829">
+        <mark key="[" line="16" column="42" />
         <mark key="]" line="19" column="32" />
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
@@ -261,11 +264,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528396813618">
-        <mark key="[" line="38" column="14" />
-        <mark key="]" line="46" column="24" />
-        <mark key="." line="46" column="24" />
-        <mark key="^" line="46" column="24" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528400501092">
+        <mark key="[" line="22" column="38" />
+        <mark key="]" line="22" column="42" />
+        <mark key="." line="22" column="42" />
+        <mark key="^" line="22" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -412,6 +415,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/RegisterController.php" timestamp="1528392013217">
         <mark key="[" line="30" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/sloth/README.md" timestamp="1528400173997">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/header.html" timestamp="1527709342315">
         <mark key="[" line="2" column="51" />
@@ -586,8 +592,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528395908673">
-        <mark key="[" line="15" column="23" />
+      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528400441263">
+        <mark key="[" line="8" column="55" />
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
@@ -610,8 +616,8 @@
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528299907467">
         <mark key="[" line="27" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/DashboardController.php" timestamp="1528309373638">
-        <mark key="[" line="28" column="67" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/DashboardController.php" timestamp="1528400478214">
+        <mark key="[" line="29" column="25" />
         <mark key="]" line="28" column="47" />
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
