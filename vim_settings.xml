@@ -92,7 +92,7 @@
         <mark key="^" line="28" column="28" />
         <mark key="." line="28" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_190134_create_trackers_table.php" timestamp="1528318325993">
+      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_190134_create_trackers_table.php" timestamp="1528330688898">
         <mark key="[" line="20" column="44" />
         <mark key="]" line="16" column="11" />
         <mark key="^" line="16" column="11" />
@@ -205,11 +205,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528317795201">
-        <mark key="[" line="15" column="42" />
-        <mark key="]" line="19" column="16" />
-        <mark key="." line="19" column="16" />
-        <mark key="^" line="19" column="55" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528330793513">
+        <mark key="[" line="17" column="81" />
+        <mark key="]" line="17" column="82" />
+        <mark key="." line="17" column="82" />
+        <mark key="^" line="17" column="100" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -372,10 +372,10 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" timestamp="1528317730036">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" timestamp="1528331210022">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1527771194753">
         <mark key="[" line="46" column="48" />
@@ -521,7 +521,7 @@
         <mark key="." line="11" column="60" />
         <mark key="^" line="11" column="60" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/routes/api.php" timestamp="1528316446994">
+      <file name="$USER_HOME$/Documents/projects/sloth/routes/api.php" timestamp="1528330712818">
         <mark key="[" line="19" column="2" />
         <mark key="]" line="19" column="3" />
         <mark key="^" line="19" column="3" />
@@ -660,43 +660,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXBkYXRlX3N0YXR1cyhqc29uX2RlY29kZSgkcmVxdWVzdFsnaWQnXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3stLTxpbnB1dCBpZD0iY2xpZW50X2dyb3VwIiBwbGFjZWhvbGRlcj0iQ2xpZW50IElkZW50aWZpZXIiIHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2x7eyAkZXJyb3JzLT5oYXMoJ2NsaWVudF9ncm91cCcpID8gJyBpcy1pbnZhbGlkJyA6ICcnIH19IiBuYW1lPSJjbGllbnRfZ3JvdXAiIHZhbHVlPSJ7eyBvbGQoJ2NsaWVudF9ncm91cCcpIH19IiByZXF1aXJlZCBhdXRvZm9jdXMgLz4tLX19Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHBsYWNlaG9sZGVyPSJSZWNpcGllbnQncyB1c2VybmFtZSIgYXJpYS1sYWJlbD0iUmVjaXBpZW50J3MgdXNlcm5hbWUiIGFyaWEtZGVzY3JpYmVkYnk9ImJhc2ljLWFkZG9uMiI+</text>
+        <text>(string) Str::uuid(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9ImltZy92aXJ0dWFsLXJlYWxpdHkuc3ZnIiBoZWlnaHQ9IjE4NCIgd2lkdGg9IjE4NCIgLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXBkYXRlX3N0YXR1cyhqc29uX2RlY29kZSgkcmVxdWVzdFsnaWQnXSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3stLTxpbnB1dCBpZD0iY2xpZW50X2dyb3VwIiBwbGFjZWhvbGRlcj0iQ2xpZW50IElkZW50aWZpZXIiIHR5cGU9InRleHQiIGNsYXNzPSJmb3JtLWNvbnRyb2x7eyAkZXJyb3JzLT5oYXMoJ2NsaWVudF9ncm91cCcpID8gJyBpcy1pbnZhbGlkJyA6ICcnIH19IiBuYW1lPSJjbGllbnRfZ3JvdXAiIHZhbHVlPSJ7eyBvbGQoJ2NsaWVudF9ncm91cCcpIH19IiByZXF1aXJlZCBhdXRvZm9jdXMgLz4tLX19Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEFwcFxUcmFja2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+dXBkYXRlX3N0YXR1cyhqc29uX2RlY29kZSgkcmVxdWVzdFsnaWQnXSkpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">dXNlIEFwcFxUcmFja2VyOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxTdHI7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">JHRyYWNrZXIgPSBuZXcgVHJhY2tlcjsKICAgICAgICAkdHJhY2tlci0+c3RhdHVzID0gOwogICAgICAgICR0cmFja2VyLT5jbGllbnRfZ3JvdXAgPSAkcmVxdWVzdC0+Y2xpZW50X2dyb3VwOwogICAgICAgICR0cmFja2VyLT51cmwgPSAnaHR0cHM6Ly90ZXN0LnRlc3Q/Yz0nIC4gJHJlcXVlc3QtPmNsaWVudF9ncm91cCAuICcmJyAuIChzdHJpbmcpIFN0cjo6dXVpZCgpOwoKICAgICAgICAkdHJhY2tlci0+c2F2ZSgpOw==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBcQmFycnl2ZGhcQ29yc1xIYW5kbGVDb3JzOjpjbGFzcywK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBcQmFycnl2ZGhcQ29yc1xIYW5kbGVDb3JzOjpjbGFzcywK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBjb25maWcoJ2FwcC5uYW1lJywgJ1Nsb3RoJykgfX0K</text>
+        <text encoding="base64">ICAgICAgICBcQmFycnl2ZGhcQ29yc1xIYW5kbGVDb3JzOjpjbGFzcywK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7eyBjb25maWcoJ2FwcC5uYW1lJywgJ1Nsb3RoJykgfX0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC90YWJsZWRkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
