@@ -152,7 +152,7 @@
         <mark key="." line="28" column="37" />
         <mark key="^" line="28" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/LoginController.php" timestamp="1528299893515">
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/LoginController.php" timestamp="1528468861277">
         <mark key="[" line="27" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/body/index.pcss" timestamp="1527619898430">
@@ -264,11 +264,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528400501092">
-        <mark key="[" line="22" column="38" />
-        <mark key="]" line="22" column="42" />
-        <mark key="." line="22" column="42" />
-        <mark key="^" line="22" column="42" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528469721636">
+        <mark key="[" line="30" column="42" />
+        <mark key="]" line="20" column="42" />
+        <mark key="." line="20" column="42" />
+        <mark key="^" line="20" column="42" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -295,10 +295,10 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Tracker.php" timestamp="1528381320090">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Tracker.php" timestamp="1528468876661">
+        <mark key="[" line="10" column="33" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" timestamp="1528215614820">
         <mark key="[" line="0" column="22" />
@@ -592,8 +592,8 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528401432142">
-        <mark key="[" line="8" column="30" />
+      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528469237154">
+        <mark key="[" line="13" column="25" />
         <mark key="]" line="16" column="18" />
         <mark key="^" line="16" column="18" />
         <mark key="." line="16" column="18" />
@@ -693,7 +693,7 @@
         <mark key="^" line="29" column="87" />
         <mark key="." line="29" column="87" />
       </file>
-      <file name="/PHP Console" timestamp="1528395549070">
+      <file name="/PHP Console" timestamp="1528469724887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
