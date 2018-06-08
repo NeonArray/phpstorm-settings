@@ -141,8 +141,8 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/dashboard.blade.php" timestamp="1528307387761">
-        <mark key="[" line="13" column="47" />
+      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/dashboard.blade.php" timestamp="1528471628043">
+        <mark key="[" line="7" column="69" />
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
@@ -264,11 +264,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528469721636">
-        <mark key="[" line="30" column="42" />
-        <mark key="]" line="20" column="42" />
-        <mark key="." line="20" column="42" />
-        <mark key="^" line="20" column="42" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528471949854">
+        <mark key="[" line="34" column="28" />
+        <mark key="]" line="34" column="32" />
+        <mark key="." line="34" column="32" />
+        <mark key="^" line="34" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -295,10 +295,11 @@
         <mark key="]" line="1" column="5" />
         <mark key="." line="1" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Tracker.php" timestamp="1528468876661">
-        <mark key="[" line="10" column="33" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Tracker.php" timestamp="1528471900457">
+        <mark key="[" line="15" column="69" />
+        <mark key="]" line="15" column="63" />
+        <mark key="." line="15" column="63" />
+        <mark key="^" line="15" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" timestamp="1528215614820">
         <mark key="[" line="0" column="22" />
@@ -494,7 +495,7 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_220206_add_tracker_session_table.php" timestamp="1528379662042">
+      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_220206_add_tracker_session_table.php" timestamp="1528471291719">
         <mark key="[" line="17" column="27" />
         <mark key="]" line="17" column="25" />
         <mark key="^" line="17" column="25" />
@@ -593,10 +594,9 @@
         <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528469237154">
-        <mark key="[" line="13" column="25" />
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+        <mark key="]" line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+        <mark key="." line="14" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1526926100785">
         <mark key="[" line="5" column="24" />
@@ -627,6 +627,11 @@
         <mark key="]" line="42" column="3" />
         <mark key="^" line="42" column="3" />
         <mark key="." line="42" column="3" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_151909_add_session_table.php" timestamp="1528471385138">
+        <mark key="[" line="15" column="31" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/blog.html" timestamp="1528226349265">
         <mark key="[" line="1" column="4" />
@@ -693,7 +698,7 @@
         <mark key="^" line="29" column="87" />
         <mark key="." line="29" column="87" />
       </file>
-      <file name="/PHP Console" timestamp="1528469724887">
+      <file name="/PHP Console" timestamp="1528471755884">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
@@ -842,7 +847,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPk1vdXNlIEV2ZW50OiB7eyAkaXRlbS0+bW91c2VfZXZlbnRzIH19PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="-" type="4">
         <text>public fun</text>
@@ -851,34 +856,34 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPk1vdXNlIEV2ZW50OiB7eyAkaXRlbS0+bW91c2VfZXZlbnRzIH19PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxociAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
+        <text encoding="base64">ICAgICAgICBTY2hlbWE6OnRhYmxlKCdzZXNzaW9uJywgZnVuY3Rpb24gKEJsdWVwcmludCAkdGFibGUpIHsK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IAoKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPk1vdXNlIEV2ZW50OiB7eyAkaXRlbS0+bW91c2VfZXZlbnRzIH19PC9wPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxociAvPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IAoKICA=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CX0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdGhpcy0+bWlkZGxld2FyZSgnYXV0aCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
