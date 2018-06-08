@@ -111,8 +111,11 @@
         <mark key="^" line="13" column="10" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/dashboard.blade.php" timestamp="1528471628043">
-        <mark key="[" line="7" column="69" />
+      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/dashboard.blade.php" timestamp="1528480103831">
+        <mark key="[" line="6" column="61" />
+        <mark key="]" line="6" column="60" />
+        <mark key="^" line="6" column="60" />
+        <mark key="." line="6" column="60" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1527711029090">
         <mark key="[" line="22" column="25" />
@@ -215,11 +218,11 @@
         <mark key="^" line="9" column="41" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528474536402">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="6" column="32" />
-        <mark key="." line="6" column="32" />
-        <mark key="^" line="6" column="32" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackerController.php" timestamp="1528479142827">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="7" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/config.yml" timestamp="1528233154819">
         <mark key="[" line="25" column="18" />
@@ -263,8 +266,8 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="49" column="61" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/Session.php" timestamp="1528474371464">
-        <mark key="[" line="15" column="34" />
+      <file name="$USER_HOME$/Documents/projects/sloth/app/Session.php" timestamp="1528479078139">
+        <mark key="[" line="16" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1527604461323">
         <mark key="[" line="5" column="0" />
@@ -496,10 +499,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/source/_posts/hello-world.md" timestamp="1528126170918">
         <mark key="[" line="1" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528469237154">
-        <mark key="]" line="16" column="18" />
-        <mark key="^" line="16" column="18" />
-        <mark key="." line="16" column="18" />
+      <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528480272162">
+        <mark key="[" line="10" column="69" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1526926100785">
         <mark key="[" line="5" column="24" />
@@ -578,7 +582,7 @@
         <mark key="^" line="23" column="4" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/routes/api.php" timestamp="1528474327776">
+      <file name="$USER_HOME$/Documents/projects/sloth/routes/api.php" timestamp="1528478966851">
         <mark key="[" line="24" column="27" />
         <mark key="]" line="24" column="26" />
         <mark key="^" line="24" column="26" />
@@ -602,7 +606,7 @@
         <mark key="^" line="29" column="87" />
         <mark key="." line="29" column="87" />
       </file>
-      <file name="/PHP Console" timestamp="1528471755884">
+      <file name="/PHP Console" timestamp="1528478999603">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" timestamp="1526399732012">
@@ -769,28 +773,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXERCOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBpbmRleChSZXF1ZXN0ICRyZXF1ZXN0KQoJfQo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CQldKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJJ3RyYWNrZXInID0+ICR0cmFja2VyLAo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CQlyZXR1cm4gdmlldygnc2Vzc2lvbi52aWV3JywgWwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CXB1YmxpYyBmdW5jdGlvbiBpbmRleChSZXF1ZXN0ICRyZXF1ZXN0KQoJfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CQldKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJJ3RyYWNrZXInID0+ICR0cmFja2VyLAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CQlyZXR1cm4gdmlldygnc2Vzc2lvbi52aWV3JywgWwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkkdHJhY2tlciA9IFNlc3Npb246OmdldF9zZXNzaW9uKCRyZXF1ZXN0LT5nZXQoJ2lkJykpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
