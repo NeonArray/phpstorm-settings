@@ -18,6 +18,9 @@
         <mark key="^" line="19" column="27" />
         <mark key="." line="19" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/index.blade.php" timestamp="1528484332784">
+        <mark key="[" line="2" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/_layouts/default.html" timestamp="1528137178007">
         <mark key="[" line="9" column="48" />
       </file>
@@ -633,8 +636,11 @@
         <mark key="^" line="81" column="24" />
         <mark key="." line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/routes/web.php" timestamp="1528481315855">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/routes/web.php" timestamp="1528484226054">
+        <mark key="[" line="16" column="22" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_160844_remove_tracker_sessions_table.php" timestamp="1528474131679">
         <mark key="[" line="15" column="10" />
