@@ -820,12 +820,12 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/view.blade.php" timestamp="1528819786476">
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/view.blade.php" timestamp="1528821113620">
         <mark key="'" line="8" column="21" />
-        <mark key="[" line="10" column="47" />
-        <mark key="]" line="10" column="21" />
-        <mark key="." line="10" column="21" />
-        <mark key="^" line="10" column="21" />
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="13" column="47" />
+        <mark key="." line="13" column="47" />
+        <mark key="^" line="13" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/TrackerTableSeeder.php" timestamp="1528820009413">
         <mark key="[" line="29" column="0" />
