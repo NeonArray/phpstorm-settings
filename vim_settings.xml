@@ -3,13 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/index.blade.php" timestamp="1528810147377">
-        <mark key="^" line="17" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_11_162403_add_uid_column_to_tracker_table.php" timestamp="1528734249642">
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_11_162403_add_uid_column_to_tracker_table.php" timestamp="1528813758017">
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="/a.dummy" timestamp="1528554923422">
+      <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/index.blade.php" timestamp="1528484332784">
@@ -69,11 +66,6 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/view.blade.php" timestamp="1528731291125">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/gulpfile.js" timestamp="1527685691746">
         <mark key="[" line="11" column="54" />
         <mark key="]" line="11" column="43" />
@@ -98,11 +90,6 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/post/single.html" timestamp="1528231688022">
         <mark key="[" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/app/TrackerSession.php" timestamp="1528473866723">
-        <mark key="[" line="8" column="42" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/create.blade.php" timestamp="1528808713501">
         <mark key="[" line="5" column="29" />
@@ -173,11 +160,6 @@
         <mark key="^" line="5" column="34" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/groups.blade.php" timestamp="1528721274818">
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/first-post.md" timestamp="1528224449941">
         <mark key="[" line="3" column="11" />
       </file>
@@ -219,6 +201,11 @@
         <mark key="." line="2" column="65" />
         <mark key="^" line="2" column="65" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/surveys/index.blade.php" timestamp="1528813397371">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/projects/_index.md" timestamp="1528229994778">
         <mark key="[" line="0" column="0" />
       </file>
@@ -252,11 +239,11 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/DatabaseSeeder.php" timestamp="1528507819656">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-        <mark key="^" line="15" column="0" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/DatabaseSeeder.php" timestamp="1528814244258">
+        <mark key="[" line="14" column="48" />
+        <mark key="]" line="14" column="17" />
+        <mark key="." line="14" column="17" />
+        <mark key="^" line="14" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Controllers/ProjectController.php" timestamp="1528811124818">
         <mark key="[" line="7" column="1" />
@@ -318,11 +305,11 @@
         <mark key="^" line="72" column="35" />
         <mark key="." line="77" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/app/Providers/RouteServiceProvider.php" timestamp="1528731606770">
-        <mark key="[" line="29" column="29" />
-        <mark key="]" line="28" column="46" />
-        <mark key="." line="28" column="46" />
-        <mark key="^" line="28" column="46" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/app/Providers/RouteServiceProvider.php" timestamp="1528812441120">
+        <mark key="[" line="30" column="27" />
+        <mark key="]" line="30" column="44" />
+        <mark key="." line="30" column="44" />
+        <mark key="^" line="30" column="44" />
       </file>
       <file name="&lt;0c8b7721-eddf-4c7f-87ae-cec82675f77f&gt;/var/www/html/templates/Black/html/recommended.html" timestamp="1528377870353">
         <mark key="[" line="21" column="36" />
@@ -333,7 +320,7 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Project.php" timestamp="1528739605362">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/app/Tracker.php" timestamp="1528810758573">
+      <file name="$USER_HOME$/Documents/projects/webstishio/app/Tracker.php" timestamp="1528812866582">
         <mark key="'" line="26" column="31" />
         <mark key="[" line="21" column="33" />
         <mark key="]" line="21" column="5" />
@@ -370,16 +357,14 @@
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528299907467">
         <mark key="[" line="27" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/ProjectTableSeeder.php" timestamp="1528814402976">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/DashboardController.php" timestamp="1528400908377">
         <mark key="[" line="29" column="25" />
         <mark key="]" line="28" column="47" />
         <mark key="." line="28" column="47" />
         <mark key="^" line="28" column="47" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_151909_add_session_table.php" timestamp="1528471385138">
-        <mark key="[" line="15" column="31" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/_default/blog.html" timestamp="1528226349265">
         <mark key="[" line="1" column="4" />
@@ -392,6 +377,9 @@
         <mark key="]" line="30" column="27" />
         <mark key="." line="30" column="27" />
         <mark key="^" line="30" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/app/Surveys.php" timestamp="1528812852009">
+        <mark key="[" line="6" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/copy.html" timestamp="1528237367046">
         <mark key="[" line="3" column="0" />
@@ -425,11 +413,6 @@
         <mark key="]" line="83" column="0" />
         <mark key="^" line="81" column="24" />
         <mark key="." line="83" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/create.blade.php" timestamp="1528808846098">
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_160844_remove_tracker_sessions_table.php" timestamp="1528474131679">
         <mark key="[" line="15" column="10" />
@@ -607,6 +590,9 @@
         <mark key="^" line="6" column="60" />
         <mark key="." line="6" column="60" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/index.blade.php" timestamp="1528813402474">
+        <mark key="[" line="3" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1527711029090">
         <mark key="[" line="22" column="25" />
         <mark key="]" line="28" column="37" />
@@ -628,8 +614,14 @@
         <mark key="^" line="19" column="32" />
         <mark key="." line="19" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_12_131842_add_archived_column_to_groups.php" timestamp="1528809570080">
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_12_131842_add_archived_column_to_groups.php" timestamp="1528813695213">
         <mark key="[" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/app/Survey.php" timestamp="1528813515838">
+        <mark key="[" line="8" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Controllers/SurveyController.php" timestamp="1528812922642">
+        <mark key="[" line="8" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/_default/baseof.html" timestamp="1528231898090">
         <mark key="[" line="51" column="34" />
@@ -649,8 +641,8 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/second-post.md" timestamp="1528224370832">
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/layouts/app.blade.php" timestamp="1528809913145">
-        <mark key="[" line="63" column="63" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/layouts/app.blade.php" timestamp="1528812715315">
+        <mark key="[" line="105" column="33" />
         <mark key="]" line="63" column="60" />
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="60" />
@@ -666,11 +658,6 @@
         <mark key="]" line="41" column="23" />
         <mark key="^" line="41" column="23" />
         <mark key="." line="41" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/tests/Unit/TestAPI.php" timestamp="1528742774570">
-        <mark key="[" line="9" column="4" />
-        <mark key="]" line="9" column="4" />
-        <mark key="." line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/public/partials/client-public-display.php" timestamp="1527014558593">
         <mark key="[" line="15" column="0" />
@@ -693,8 +680,17 @@
         <mark key="^" line="9" column="11" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_143608_add_groups_table.php" timestamp="1528813700297">
+        <mark key="[" line="17" column="33" />
+      </file>
       <file name="/fragment.php" timestamp="1528737816567">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/GroupTableSeeder.php" timestamp="1528814386278">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1527709233286">
         <mark key="[" line="19" column="24" />
@@ -741,14 +737,17 @@
       <file name="$USER_HOME$/Documents/projects/sloth/README.md" timestamp="1528400173997">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_08_191151_add_trackers_table.php" timestamp="1528728905224">
-        <mark key="[" line="16" column="26" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_08_191151_add_trackers_table.php" timestamp="1528813709873">
+        <mark key="[" line="19" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/first-post.md" timestamp="1528224358752">
         <mark key="[" line="3" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/index.blade.php" timestamp="1528809637559">
         <mark key="[" line="18" column="65" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/surveys/view.blade.php" timestamp="1528813479480">
+        <mark key="[" line="6" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_174945_create_trackers_table.php" timestamp="1528310545997">
         <mark key="[" line="18" column="36" />
@@ -762,21 +761,17 @@
         <mark key="." line="10" column="20" />
         <mark key="^" line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_08_191806_add_surveys_table.php" timestamp="1528727890743">
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_08_191806_add_surveys_table.php" timestamp="1528813631830">
         <mark key="[" line="16" column="37" />
-        <mark key="]" line="22" column="23" />
-        <mark key="^" line="22" column="23" />
-        <mark key="." line="22" column="23" />
+        <mark key="]" line="23" column="23" />
+        <mark key="^" line="23" column="23" />
+        <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/view.blade.php" timestamp="1528730475547">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/sloth/resources/views/layouts/app.blade.php" timestamp="1528473689419">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/TrackerTableSeeder.php" timestamp="1528814749811">
+        <mark key="[" line="25" column="86" />
+        <mark key="]" line="25" column="85" />
+        <mark key="^" line="25" column="85" />
+        <mark key="." line="25" column="85" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_220206_add_tracker_session_table.php" timestamp="1528473802617">
         <mark key="[" line="17" column="27" />
@@ -784,19 +779,22 @@
         <mark key="^" line="17" column="25" />
         <mark key="." line="17" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/SurveyTableSeeder.php" timestamp="1528814577764">
+        <mark key="[" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" timestamp="1528398726061">
         <mark key="[" line="53" column="44" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
         <mark key="^" line="72" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_141920_add_projects_table.php" timestamp="1528728370536">
-        <mark key="[" line="16" column="39" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_141920_add_projects_table.php" timestamp="1528813716050">
+        <mark key="[" line="18" column="33" />
         <mark key="]" line="16" column="37" />
         <mark key="^" line="16" column="37" />
         <mark key="." line="16" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_11_180753_add_complete_column_to_project.php" timestamp="1528740490842">
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_11_180753_add_complete_column_to_project.php" timestamp="1528813723539">
         <mark key="[" line="16" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/partials/client-public-display.php" timestamp="1526998634436">
@@ -850,6 +848,9 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/SessionTableSeeder.php" timestamp="1528814735360">
+        <mark key="[" line="14" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-import.php" timestamp="1526916923584">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="3" />
@@ -883,12 +884,6 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/second-post.md" timestamp="1528224436558">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/view.blade.php" timestamp="1528731673689">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/archived.blade.php" timestamp="1528810524901" />
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/TrackedSessionController.php" timestamp="1528474500948">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -913,11 +908,11 @@
       <file name="/PHP Console" timestamp="1528749658015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/routes/web.php" timestamp="1528811073963">
-        <mark key="[" line="10" column="48" />
-        <mark key="]" line="10" column="44" />
-        <mark key="^" line="10" column="44" />
-        <mark key="." line="10" column="44" />
+      <file name="$USER_HOME$/Documents/projects/webstishio/routes/web.php" timestamp="1528812239067">
+        <mark key="[" line="31" column="45" />
+        <mark key="]" line="31" column="47" />
+        <mark key="^" line="31" column="47" />
+        <mark key="." line="31" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_205447_add_tracking_id_to_trackers_table.php" timestamp="1528334092669">
         <mark key="[" line="16" column="14" />
@@ -979,44 +974,44 @@
       <jump line="8" column="19" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/index.blade.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>f9bb373f-0005-4350-be51-8603b79bb810\'</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>f9bb373f-0005-4350-be51-8603b79bb810\'</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPjwvdGg+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3RyPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPjwvdGg+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdmlldygndHJhY2tlcnMudHJhY2tlcnMnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPlN0YXR1czwvdGg+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPlRyYWNraW5nIENvZGU8L3RoPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBmdW5jdGlvbiB0cmFja2Vyc192aWV3KFJlcXVlc3QgJHJlcXVlc3QpCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHN1cnZleS0+dXJsIH19PC90ZD4K</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">QGV4dGVuZHMoJ2xheW91dHMuYXBwJykKCkBzZWN0aW9uKCdjb250ZW50JykKICAgIDxkaXYgY2xhc3M9ImNvbnRhaW5lciI+CiAgICAgICAgPGRpdiBjbGFzcz0icm93Ij4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29sIj4KICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJGdyb3VwcykgPiAwKQogICAgICAgICAgICAgICAgICAgIEBmb3JlYWNoKCRncm91cHMgYXMgJGdyb3VwKQogICAgICAgICAgICAgICAgICAgICAgICA8cD5Hcm91cDoge3sgJGdyb3VwLT5uYW1lIH19PC9wPgogICAgICAgICAgICAgICAgICAgIEBlbmRmb3JlYWNoCiAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICA8L2Rpdj4KQGVuZHNlY3Rpb24=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHN1cnZleS0+Y29tcGxldGUgfX08L3RkPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPHRoIHNjb3BlPSJjb2wiPkdyb3VwPC90aD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdGFibGU+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHByb2plY3QtPm5hbWUgfX08L3RkPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L3Rib2R5Pgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
