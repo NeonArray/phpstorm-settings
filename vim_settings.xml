@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/index.blade.php" timestamp="1528920242484">
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/index.blade.php" timestamp="1528981193816">
         <mark key="'" line="38" column="21" />
-        <mark key="[" line="5" column="29" />
-        <mark key="]" line="38" column="21" />
-        <mark key="." line="38" column="21" />
-        <mark key="^" line="38" column="21" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
@@ -412,7 +412,7 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/create.blade.php" timestamp="1528832160341">
+      <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/create.blade.php" timestamp="1528980798371">
         <mark key="[" line="29" column="28" />
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
@@ -1096,28 +1096,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Um91dGU6OmRlbGV0ZSgndjEvZ3JvdXAve2lkfScsICdHcm91cENvbnRyb2xsZXJAZGVsZXRlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBjc3JmCg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CgoKCn0gICBwdWJsaWMgZnVuY3Rpb24gZGVsZXRlKFxBcHBcR3JvdXAgJGdyb3VwKQogICAgewogICAgICAgIA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPGZvcm0gbWV0aG9kPSJQT1NUIiBhY3Rpb249Int7IHJvdXRlKCdncm91cHMnLCBbJ2FjdGlvbicgPT4gJ2RlbGV0J10pIH19Ij4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">JHBhZ2luYXRpb25fc3RlcCA9IDI1Owo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Um91dGU6OmRlbGV0ZSgndjEvZ3JvdXAve2lkfScsICdHcm91cENvbnRyb2xsZXJAZGVsZXRlJyk7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CgoKCn0gICBwdWJsaWMgZnVuY3Rpb24gZGVsZXRlKFxBcHBcR3JvdXAgJGdyb3VwKQogICAgewogICAgICAgIA==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">dXNlIElsbHVtaW5hdGVcU3VwcG9ydFxGYWNhZGVzXFN0b3JhZ2U7Cg==</text>
+        <text encoding="base64">JHBhZ2luYXRpb25fc3RlcCA9IDI1Owo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+c25hcHNob3Rfd2Vic2l0ZSgkcmVxdWVzdC0+dXJsKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
