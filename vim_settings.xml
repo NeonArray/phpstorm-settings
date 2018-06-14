@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1529000461127">
-        <mark key="[" line="19" column="5" />
-        <mark key="]" line="19" column="0" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="19" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1529001127017">
+        <mark key="'" line="21" column="21" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="^" line="20" column="25" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/index.blade.php" timestamp="1528981193816">
         <mark key="'" line="38" column="21" />
@@ -1081,10 +1082,11 @@
       <jump line="38" column="21" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/index.blade.php" />
       <jump line="38" column="36" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/index.blade.php" />
       <jump line="55" column="1" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_header.pcss" />
+      <jump line="21" column="21" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>&quot;&quot;</text>
@@ -1093,27 +1095,30 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvYXNpZGU+Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDwvYXNpZGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxhc2lkZSBjbGFzcz0iYXNpZGUiPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">ICAgIDxhc2lkZSBjbGFzcz0iYXNpZGUiPgo=</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">LnBvc3QtaGVhZGVyLS1yaWdodCB7CiAgICBhbGlnbi1zZWxmOiBjZW50ZXI7CiAgICBqdXN0aWZ5LXNlbGY6IGNlbnRlcjsKICAgIHBhZGRpbmc6IDAgMTBweDsKCiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgcGFkZGluZzogMDsKICAgICAgICB3aWR0aDogY2FsYygoMTAwJSAvIDMpICogMik7CiAgICB9Cn0K</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.post-header {
     display: flex;
     flex-direction: column;
@@ -1140,11 +1145,8 @@
     }
 }</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">LmNvZGUtYmxvY2sgfiAucG9zdC1ib2R5LS1jb3B5IHsK</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LmNvZGUtYmxvY2sgfiAucG9zdC1ib2R5LS1jb3B5IHsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
