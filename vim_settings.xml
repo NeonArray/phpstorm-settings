@@ -176,10 +176,11 @@
       <file name="$USER_HOME$/Documents/projects/sloth/app/Session.php" timestamp="1528479078139">
         <mark key="[" line="16" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1529339715924">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1529345049405">
+        <mark key="[" line="3" column="26" />
+        <mark key="]" line="3" column="21" />
+        <mark key="." line="3" column="21" />
+        <mark key="^" line="3" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/groups.blade.php" timestamp="1528721274818">
         <mark key="[" line="4" column="24" />
@@ -492,13 +493,13 @@
       <file name="/Dummy.txt" timestamp="1528991903891">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_header.pcss" timestamp="1529344049288">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_header.pcss" timestamp="1529345662114">
         <mark key="'" line="121" column="4" />
         <mark key="i" line="28" column="4" />
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="10" column="23" />
-        <mark key="." line="14" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/third-post.md" timestamp="1528224455365">
         <mark key="[" line="3" column="11" />
@@ -658,10 +659,12 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/index.blade.php" timestamp="1528813402474">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1529344942581">
-        <mark key="[" line="66" column="32" />
-        <mark key="]" line="77" column="0" />
-        <mark key="." line="77" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1529345486492">
+        <mark key="'" line="12" column="3" />
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="11" column="3" />
+        <mark key="." line="11" column="3" />
+        <mark key="^" line="11" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/LoginController.php" timestamp="1528468861277">
         <mark key="[" line="27" column="34" />
@@ -743,11 +746,11 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/index.pcss" timestamp="1529339729211">
-        <mark key="[" line="0" column="22" />
-        <mark key="]" line="0" column="18" />
-        <mark key="^" line="0" column="18" />
-        <mark key="." line="0" column="18" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/index.pcss" timestamp="1529345655868">
+        <mark key="[" line="3" column="14" />
+        <mark key="]" line="3" column="12" />
+        <mark key="^" line="3" column="12" />
+        <mark key="." line="3" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/after-footer.ejs" timestamp="1528123739647">
         <mark key="[" line="0" column="17" />
@@ -1096,6 +1099,9 @@
       <jump line="21" column="21" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_header.pcss" />
       <jump line="103" column="4" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_header.pcss" />
+      <jump line="13" column="21" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" />
+      <jump line="64" column="13" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" />
+      <jump line="12" column="3" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1138,7 +1144,7 @@
         <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHVybCgiZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhkcFpIUm9QU0kzTUNJZ2FHVnBaMmgwUFNJM01DSStDanh5WldOMElIZHBaSFJvUFNJM01DSWdhR1ZwWjJoMFBTSTNNQ0lnWm1sc2JEMGlkSEpoYm5Od1lYSmxiblFpUGp3dmNtVmpkRDRLUEdjZ2RISmhibk5tYjNKdFBTSnliM1JoZEdVb05EVXBJajRLUEhKbFkzUWdkMmxrZEdnOUlqazVJaUJvWldsbmFIUTlJakkxSWlCbWFXeHNQU0lqWldWbElqNDhMM0psWTNRK0NqeHlaV04wSUhrOUlpMDFNQ0lnZDJsa2RHZzlJams1SWlCb1pXbG5hSFE5SWpJMUlpQm1hV3hzUFNJalpXVmxJajQ4TDNKbFkzUStDand2Wno0S1BDOXpkbWMrIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1157,8 +1163,8 @@
         <entry>s</entry>
         <entry>W</entry>
         <entry>ew</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
