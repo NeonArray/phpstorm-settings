@@ -265,11 +265,6 @@
         <mark key="^" line="55" column="1" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/index.pcss" timestamp="1529328777057">
-        <mark key="[" line="66" column="26" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/.env" timestamp="1528312222409">
         <mark key="[" line="11" column="20" />
         <mark key="]" line="11" column="16" />
@@ -311,11 +306,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/aside/index.pcss" timestamp="1529339991682">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="4" column="22" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/aside/index.pcss" timestamp="1529349136337">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="14" column="22" />
+        <mark key="." line="14" column="22" />
+        <mark key="^" line="14" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1527771194753">
         <mark key="[" line="46" column="48" />
@@ -368,19 +363,8 @@
         <mark key="." line="41" column="4" />
         <mark key="^" line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/header/index.pcss" timestamp="1529343948686">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="16" column="8" />
-        <mark key="." line="16" column="8" />
-        <mark key="^" line="16" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/source/_posts/hello-world.md" timestamp="1528126170918">
         <mark key="[" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/plugins/_prism.pcss" timestamp="1529328154347">
-        <mark key="[" line="18" column="18" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/routes/web.php" timestamp="1528510111478">
         <mark key="[" line="10" column="69" />
@@ -516,8 +500,8 @@
         <mark key="^" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1529339733746">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1529349980905">
+        <mark key="[" line="6" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/body/index.pcss" timestamp="1526778836528">
         <mark key="[" line="5" column="0" />
@@ -659,9 +643,9 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/index.blade.php" timestamp="1528813402474">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1529345486492">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1529349625459">
         <mark key="'" line="12" column="3" />
-        <mark key="[" line="58" column="21" />
+        <mark key="[" line="63" column="0" />
         <mark key="]" line="11" column="3" />
         <mark key="." line="11" column="3" />
         <mark key="^" line="11" column="3" />
@@ -746,11 +730,11 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/index.pcss" timestamp="1529345655868">
-        <mark key="[" line="3" column="14" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/index.pcss" timestamp="1529350017451">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="1" column="12" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/after-footer.ejs" timestamp="1528123739647">
         <mark key="[" line="0" column="17" />
@@ -815,10 +799,11 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1529342364746">
-        <mark key="[" line="20" column="2" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1529350295231">
+        <mark key="[" line="55" column="50" />
+        <mark key="]" line="55" column="48" />
+        <mark key="^" line="55" column="48" />
+        <mark key="." line="55" column="48" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/2018/second-post.md" timestamp="1528226262349">
         <mark key="[" line="5" column="10" />
@@ -1105,7 +1090,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JpZC1jb2x1bW4tZ2FwOiAxMHB4Owo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1114,37 +1099,37 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JpZC1jb2x1bW4tZ2FwOiAxMHB4Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JpZC10ZW1wbGF0ZS1hcmVhczoKICAgICAgICAgICAgICAgICAgICAiaGVhZGVyIGhlYWRlciBoZWFkZXIgaGVhZGVyIGhlYWRlciIK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">Ci5wb3N0IHsKICAgIAp9Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZ3JpZC1jb2x1bW4tZ2FwOiAxMHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZ3JpZC1yb3ctZ2FwOiAxNXB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGltcG9ydCAiaGVhZGVyL2luZGV4LnBjc3MiOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIGdyaWQtYXJlYTogaGVhZGVyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMzBweDsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0LWFsaWduCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IHVybCgiZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCNGJXeHVjejBpYUhSMGNEb3ZMM2QzZHk1M015NXZjbWN2TWpBd01DOXpkbWNpSUhkcFpIUm9QU0kzTUNJZ2FHVnBaMmgwUFNJM01DSStDanh5WldOMElIZHBaSFJvUFNJM01DSWdhR1ZwWjJoMFBTSTNNQ0lnWm1sc2JEMGlkSEpoYm5Od1lYSmxiblFpUGp3dmNtVmpkRDRLUEdjZ2RISmhibk5tYjNKdFBTSnliM1JoZEdVb05EVXBJajRLUEhKbFkzUWdkMmxrZEdnOUlqazVJaUJvWldsbmFIUTlJakkxSWlCbWFXeHNQU0lqWldWbElqNDhMM0psWTNRK0NqeHlaV04wSUhrOUlpMDFNQ0lnZDJsa2RHZzlJams1SWlCb1pXbG5hSFE5SWpJMUlpQm1hV3hzUFNJalpXVmxJajQ4TDNKbFkzUStDand2Wno0S1BDOXpkbWMrIik7Cg==</text>
+        <text encoding="base64">ICAgIEBtZWRpYSAoLS10YWJsZXQpIHsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1163,8 +1148,8 @@
         <entry>s</entry>
         <entry>W</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
