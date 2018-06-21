@@ -219,9 +219,9 @@
         <mark key="." line="16" column="51" />
       </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529592578371">
-        <mark key="[" line="266" column="4" />
-        <mark key="]" line="266" column="4" />
-        <mark key="." line="266" column="4" />
+        <mark key="[" line="269" column="4" />
+        <mark key="]" line="269" column="4" />
+        <mark key="." line="269" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -1068,6 +1068,9 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/weapon.js" timestamp="1529593525137">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
