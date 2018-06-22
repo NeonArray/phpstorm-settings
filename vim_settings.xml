@@ -228,10 +228,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529685592789">
-        <mark key="[" line="108" column="4" />
-        <mark key="]" line="104" column="0" />
-        <mark key="." line="104" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529687163479">
+        <mark key="[" line="140" column="31" />
+        <mark key="]" line="140" column="28" />
+        <mark key="." line="140" column="28" />
+        <mark key="^" line="140" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -1090,11 +1091,11 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/weapon.js" timestamp="1529598181552">
-        <mark key="[" line="9" column="15" />
-        <mark key="]" line="7" column="6" />
-        <mark key="^" line="7" column="6" />
-        <mark key="." line="7" column="6" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/weapon.js" timestamp="1529686963685">
+        <mark key="[" line="15" column="48" />
+        <mark key="]" line="10" column="6" />
+        <mark key="^" line="10" column="6" />
+        <mark key="." line="10" column="6" />
       </file>
     </filemarks>
     <jumps>
