@@ -8,6 +8,9 @@
         <mark key="." line="24" column="1" />
         <mark key="^" line="24" column="1" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1529692886375">
+        <mark key="[" line="3" column="20" />
+      </file>
       <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
       </file>
@@ -233,10 +236,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529691494785">
-        <mark key="[" line="111" column="23" />
-        <mark key="]" line="111" column="0" />
-        <mark key="." line="111" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529693038098">
+        <mark key="[" line="58" column="21" />
+        <mark key="]" line="312" column="6" />
+        <mark key="^" line="312" column="6" />
+        <mark key="." line="312" column="6" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -647,7 +651,6 @@
         <mark key="^" line="62" column="6" />
         <mark key="." line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/title.js" timestamp="1529587484169" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/article/_archive.pcss" timestamp="1529344875360">
         <mark key="[" line="10" column="1" />
         <mark key="]" line="10" column="0" />
@@ -1164,28 +1167,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAgPSBnYW1lLmFkZC5ncmFwaGljcygwLCAwKTsK</text>
+        <text encoding="base64">bGV0IGNoZWF0X21vZGUgPSBmYWxzZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuZW5kRmlsbCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuYmVnaW5GaWxsKDB4RkYzM2ZmKTsK</text>
+        <text encoding="base64">ICAgIHVpX3Bvd2VydXAgPSBnYW1lLmFkZC5ncmFwaGljcygwLCAwKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHtGSVJFX0xJTUlUX1NDQVRURVJFRH0gZnJvbSAiLi4vY29uZmlnIjsK</text>
+        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuZW5kRmlsbCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNIT09UX1NQRUVELAo=</text>
+        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuYmVnaW5GaWxsKDB4RkYzM2ZmKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEJVTExFVF9TUEVFRCwK</text>
+        <text encoding="base64">aW1wb3J0IHtGSVJFX0xJTUlUX1NDQVRURVJFRH0gZnJvbSAiLi4vY29uZmlnIjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFBMQVlFUl9TUGRFRUQsCg==</text>
+        <text encoding="base64">ICAgIFNIT09UX1NQRUVELAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBMQVlFUl9TUEVFRCA9IDg7Cg==</text>
+        <text encoding="base64">ICAgIEJVTExFVF9TUEVFRCwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
