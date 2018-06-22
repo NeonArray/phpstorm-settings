@@ -65,6 +65,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/trackers.blade.php" timestamp="1528484641674">
         <mark key="[" line="3" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/config.js" timestamp="1529689988007">
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/body/index.pcss" timestamp="1528996418183">
         <mark key="[" line="9" column="15" />
         <mark key="]" line="3" column="0" />
@@ -228,11 +233,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529688526767">
-        <mark key="[" line="140" column="66" />
-        <mark key="]" line="55" column="45" />
-        <mark key="^" line="55" column="45" />
-        <mark key="." line="55" column="45" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529690498441">
+        <mark key="[" line="111" column="23" />
+        <mark key="]" line="111" column="0" />
+        <mark key="." line="111" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -1091,11 +1095,10 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/weapon.js" timestamp="1529687935049">
-        <mark key="[" line="20" column="37" />
-        <mark key="]" line="14" column="0" />
-        <mark key="^" line="13" column="40" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/weapon.js" timestamp="1529690317389">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -1146,7 +1149,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdhbWUubG9hZC5pbWFnZSgnc3RhclAnLCAnYXNzZXRzL3N0YXItcHVycGxlLnBuZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>ship</text>
@@ -1155,34 +1158,34 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdhbWUubG9hZC5pbWFnZSgnc3RhclAnLCAnYXNzZXRzL3N0YXItcHVycGxlLnBuZycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdhbWUubG9hZC5pbWFnZSgnc3RhckInLCAnYXNzZXRzL3N0YXItYmx1ZS5wbmcnKTsK</text>
+        <text encoding="base64">ICAgIHVpX3Bvd2VydXAgPSBnYW1lLmFkZC5ncmFwaGljcygwLCAwKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHdwbi5zZXRCdWxsZXRGcmFtZXMoMCwgMiwgZmFsc2UsIHRydWUpOwo=</text>
+        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuZW5kRmlsbCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuYW5jaG9yLnNldCgwLjUpOwo=</text>
+        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuYmVnaW5GaWxsKDB4RkYzM2ZmKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAuc2V0UmVjdGFuZ2xlKDkwLCA1MCwgMCwgMCwgMCk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IHtGSVJFX0xJTUlUX1NDQVRURVJFRH0gZnJvbSAiLi4vY29uZmlnIjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAgPSBuZXcgUGhhc2VyLlBoeXNpY3MuQm94MkQuQm9keShnYW1lLCBudWxsLCAzNDUsIFZJRVdQT1JUX0hFSUdIVCAvIDIsIDAuNSk7Cg==</text>
+        <text encoding="base64">ICAgIFNIT09UX1NQRUVELAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJVTExFVF9TUEVFRCwK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHVpX3Bvd2VydXAgPSBuZXcgUGhhc2VyLlJlY3RhbmdsZShnYW1lLndvcmxkLmxlZnQgKyAyMCwgIDMwLCAxMDApOwo=</text>
+        <text encoding="base64">ICAgIFBMQVlFUl9TUGRFRUQsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGNvbnN0IFBMQVlFUl9TUEVFRCA9IDg7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
