@@ -8,10 +8,11 @@
         <mark key="." line="24" column="1" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1529953726144">
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1529954980441">
+        <mark key="[" line="23" column="4" />
+        <mark key="]" line="35" column="14" />
+        <mark key="." line="35" column="14" />
+        <mark key="^" line="35" column="14" />
       </file>
       <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
@@ -1177,28 +1178,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVpX2hlYWx0aDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJlbW92ZUhlYXJ0cyh0aGlzLCB1aV9oZWFsdGgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy51aV9oZWFsdGggPSBbXTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gZGVjcmVhc2VIZWFsdGgodWlfaGVhbHRoKSB7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaHAgcmVtb3ZlZCcpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIH0gZWxzZSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGhlYXJ0LmtpbGwoKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnaHAgYWRkZWQnKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGhlYXJ0ID0gdWlfaGVhbHRoLnBvcCgpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChQbGF5ZXJBdHRyaWJ1dGVzLmdldEhlYWx0aCgpID4gdWlfaGVhbHRoX2dyb3VwLmNvdW50TGl2aW5nKCkpIHsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gcmVtb3ZlSGVhcnRzKGdhbWUsIHVpX2hlYWx0aCkgewo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZUhlYXJ0cyh0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
