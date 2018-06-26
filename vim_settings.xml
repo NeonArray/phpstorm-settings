@@ -8,11 +8,11 @@
         <mark key="." line="24" column="1" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1530017264884">
-        <mark key="[" line="41" column="23" />
-        <mark key="]" line="41" column="23" />
-        <mark key="." line="41" column="23" />
-        <mark key="^" line="29" column="45" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1530020003369">
+        <mark key="[" line="9" column="7" />
+        <mark key="]" line="37" column="94" />
+        <mark key="." line="37" column="94" />
+        <mark key="^" line="37" column="94" />
       </file>
       <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
@@ -239,11 +239,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1530018209613">
-        <mark key="[" line="269" column="41" />
-        <mark key="]" line="271" column="0" />
-        <mark key="^" line="22" column="12" />
-        <mark key="." line="271" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1530020120734">
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="91" column="15" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -435,6 +435,9 @@
         <mark key="]" line="31" column="27" />
         <mark key="." line="31" column="27" />
         <mark key="^" line="31" column="27" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/index.js" timestamp="1530019904858">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Surveys.php" timestamp="1528812852009">
         <mark key="[" line="6" column="13" />
@@ -1163,7 +1166,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgIHBsYXllci5oZWFsdGggLT0gMTsK</text>
+        <text encoding="base64">aW1wb3J0IFNjb3JlS2VlcGVyIGZyb20gJy4uL2RpcmVjdG9yL3Njb3JlS2VlcGVyLmpzJzsK</text>
       </register>
       <register name="-" type="4">
         <text>updateScore</text>
@@ -1172,34 +1175,34 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgIHBsYXllci5oZWFsdGggLT0gMTsK</text>
+        <text encoding="base64">aW1wb3J0IFNjb3JlS2VlcGVyIGZyb20gJy4uL2RpcmVjdG9yL3Njb3JlS2VlcGVyLmpzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgIGhlYXJ0LmtpbGwoKTsK</text>
+        <text encoding="base64">aW1wb3J0IFBsYXllciBmcm9tICcuLi9kaXJlY3Rvci9wbGF5ZXIuanMnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgIGNvbnN0IGhlYXJ0ID0gdWlfaGVhbHRoLnBvcCgpOwo=</text>
+        <text encoding="base64">Ly8gICAgIHBsYXllci5oZWFsdGggLT0gMTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Ly8gICAgIGhlYXJ0LmtpbGwoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBQbGF5ZXJBdHRyaWJ1dGVzLmRlY3JlYXNlSGVhbHRoKDEpOwo=</text>
+        <text encoding="base64">Ly8gICAgIGNvbnN0IGhlYXJ0ID0gdWlfaGVhbHRoLnBvcCgpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIChnYW1lLmlucHV0LmtleWJvYXJkLmlzRG93bihQaGFzZXIuS2V5Q29kZS5XKSkgewo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJBdHRyaWJ1dGVzLmRlY3JlYXNlSGVhbHRoKDEpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGlmIChnYW1lLmlucHV0LmtleWJvYXJkLmlzRG93bihQaGFzZXIuS2V5Q29kZS5XKSkgewo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBQbGF5ZXJBdHRyaWJ1dGVzLmluY3JlYXNlSGVhbHRoKDEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
