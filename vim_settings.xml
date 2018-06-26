@@ -239,11 +239,11 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1529948864746">
-        <mark key="[" line="267" column="35" />
-        <mark key="]" line="22" column="0" />
-        <mark key="^" line="20" column="7" />
-        <mark key="." line="22" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1530018209613">
+        <mark key="[" line="269" column="41" />
+        <mark key="]" line="271" column="0" />
+        <mark key="^" line="22" column="12" />
+        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -1162,8 +1162,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/levels/01.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>updateScore</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Ly8gICAgIHBsYXllci5oZWFsdGggLT0gMTsK</text>
       </register>
       <register name="-" type="4">
         <text>updateScore</text>
@@ -1172,44 +1172,34 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgIHBsYXllci5oZWFsdGggLT0gMTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gICAgIGhlYXJ0LmtpbGwoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGlmICgpCg==</text>
+        <text encoding="base64">Ly8gICAgIGNvbnN0IGhlYXJ0ID0gdWlfaGVhbHRoLnBvcCgpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnVuY3Rpb24gdXBkYXRlSGVhbHRoKCkge2RkZAo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCB1aV9oZWFsdGggPSBbXTsK</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJBdHRyaWJ1dGVzLmRlY3JlYXNlSGVhbHRoKDEpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmNvbnN0IFVJID0gZnVuY3Rpb24gKGdhbWUpIHsKICAgIAogICAgY29uc3QgVUkgPSB7CiAgICAgICAgdWlfaGVhbHRoOiBbXSwKICAgICAgICB1aV9zY29yZTogdW5kZWZpbmVkLAogICAgICAgIAogICAgICAgIGNyZWF0ZUhlYXJ0czogZnVuY3Rpb24gKCkge30sCiAgICAgICAgYWRkSGVhcnRzOiBmdW5jdGlvbiAoKSB7fSwKICAgICAgICByZW1vdmVIZWFydHM6IGZ1bmN0aW9uICgpIHt9LAogICAgICAgIAogICAgICAgIHVwZGF0ZVNjb3JlOiBmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgIHRoaXMudWlfc2NvcmUuc2V0VGV4dChzY29yZSk7CiAgICAgICAgfSwKICAgIH07CiAgICAKICAgIHJldHVybiBVSTsKfSgpOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGlmIChnYW1lLmlucHV0LmtleWJvYXJkLmlzRG93bihQaGFzZXIuS2V5Q29kZS5XKSkgewo=</text>
       </register>
-      <register name="7" type="4">
-        <text>function createHearts(game) {
-
-}
-
-function addHealth() {
-
-}
-
-function updateScore(score, ui_score) {
-    ui_score.setText(score);
-}</text>
-      </register>
-      <register name="8" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHVpX2hlYWx0aDsK</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJBdHRyaWJ1dGVzLmluY3JlYXNlSGVhbHRoKDEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
