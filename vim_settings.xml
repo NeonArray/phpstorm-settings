@@ -8,11 +8,11 @@
         <mark key="." line="24" column="1" />
         <mark key="^" line="24" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1530020003369">
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="37" column="94" />
-        <mark key="." line="37" column="94" />
-        <mark key="^" line="37" column="94" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1530028501505">
+        <mark key="[" line="36" column="7" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="32" column="94" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
@@ -265,8 +265,11 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/signals.js" timestamp="1529958674311">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/signals.js" timestamp="1530028331035">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="1" column="19" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/projects/_index.md" timestamp="1528229994778">
         <mark key="[" line="0" column="0" />
@@ -647,8 +650,8 @@
         <mark key="." line="16" column="39" />
         <mark key="^" line="16" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/scoreKeeper.js" timestamp="1529946653038">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/scoreKeeper.js" timestamp="1530028627682">
+        <mark key="[" line="6" column="32" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="9" column="0" />
         <mark key="." line="9" column="0" />
@@ -678,13 +681,6 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/index.blade.php" timestamp="1528813402474">
         <mark key="[" line="3" column="13" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archives.html" timestamp="1529509291057">
-        <mark key="'" line="12" column="3" />
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="9" column="19" />
-        <mark key="." line="9" column="19" />
-        <mark key="^" line="9" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/LoginController.php" timestamp="1528468861277">
         <mark key="[" line="27" column="34" />
@@ -1107,6 +1103,9 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/composer.json" timestamp="1528834479035">
         <mark key="[" line="10" column="33" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/player.js" timestamp="1530028607332">
+        <mark key="[" line="7" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_archive.pcss" timestamp="1529509525457">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1166,7 +1165,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFNjb3JlS2VlcGVyIGZyb20gJy4uL2RpcmVjdG9yL3Njb3JlS2VlcGVyLmpzJzsK</text>
+        <text encoding="base64">fSBmcm9tICcuLi9kaXJlY3Rvci9zaWduYWxzLmpzJzsK</text>
       </register>
       <register name="-" type="4">
         <text>updateScore</text>
@@ -1175,34 +1174,34 @@
         <text encoding="base64">PHRhYmxlIGNsYXNzPSJ0YWJsZSB0YWJsZS1zdHJpcGVkIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+U3RhdHVzPC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+Q2xpZW50PC90aD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGggc2NvcGU9ImNvbCI+VHJhY2tpbmcgQ29kZTwvdGg+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0Ym9keT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEBpZiAoY291bnQoJHRyYWNrZXJzKSA+IDApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGZvcmVhY2ggKCR0cmFja2VycyBhcyAkdHJhY2tlcikKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQGlmICgkdHJhY2tlci0+c3RhdHVzKQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0ZD57eyAkdHJhY2tlci0+Y2xpZW50X2dyb3VwIH19PC90ZD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGQ+e3sgJHRyYWNrZXItPnVybCB9fTwvdGQ+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3RyPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kaWYKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBAZW5kZm9yZWFjaAogICAgICAgICAgICAgICAgICAgICAgICAgICAgQGVuZGlmCiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L3Rib2R5PgogICAgICAgICAgICAgICAgICAgICAgICA8L3RhYmxlPg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFNjb3JlS2VlcGVyIGZyb20gJy4uL2RpcmVjdG9yL3Njb3JlS2VlcGVyLmpzJzsK</text>
+        <text encoding="base64">fSBmcm9tICcuLi9kaXJlY3Rvci9zaWduYWxzLmpzJzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IFBsYXllciBmcm9tICcuLi9kaXJlY3Rvci9wbGF5ZXIuanMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gICAgIHBsYXllci5oZWFsdGggLT0gMTsK</text>
+        <text encoding="base64">ICAgIHVpX3JlZHVjZUhlYWx0aCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gICAgIGhlYXJ0LmtpbGwoKTsK</text>
+        <text encoding="base64">ICAgIHVpX2FkZEhlYWx0aCwK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gICAgIGNvbnN0IGhlYXJ0ID0gdWlfaGVhbHRoLnBvcCgpOwo=</text>
+        <text encoding="base64">ICAgIHVpX3VwZGF0ZVNjb3JlLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQbGF5ZXJBdHRyaWJ1dGVzLmRlY3JlYXNlSGVhbHRoKDEpOwo=</text>
+        <text encoding="base64">Y29uc3QgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmIChnYW1lLmlucHV0LmtleWJvYXJkLmlzRG93bihQaGFzZXIuS2V5Q29kZS5XKSkgewo=</text>
+        <text encoding="base64">aW1wb3J0IFNjb3JlS2VlcGVyIGZyb20gJy4uL2RpcmVjdG9yL3Njb3JlS2VlcGVyLmpzJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBsYXllciBmcm9tICcuLi9kaXJlY3Rvci9wbGF5ZXIuanMnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
