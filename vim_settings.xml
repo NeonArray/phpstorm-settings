@@ -82,12 +82,11 @@
         <mark key="^" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" timestamp="1530044449916">
-        <mark key="'" line="21" column="1" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="56" column="11" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" timestamp="1530104776020">
+        <mark key="'" line="22" column="1" />
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/layouts/index.html" timestamp="1528204496636">
         <mark key="[" line="4" column="133" />
@@ -246,10 +245,10 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1530044376373">
-        <mark key="[" line="211" column="45" />
-        <mark key="]" line="244" column="0" />
-        <mark key="." line="244" column="0" />
+      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1530104844175">
+        <mark key="[" line="212" column="15" />
+        <mark key="]" line="212" column="15" />
+        <mark key="." line="212" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -466,7 +465,6 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/audio.js" timestamp="1530043314734" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
       </file>
@@ -1113,7 +1111,6 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/composer.json" timestamp="1528834479035">
         <mark key="[" line="10" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/player.js" timestamp="1530041321370" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_archive.pcss" timestamp="1529509525457">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="12" column="0" />
@@ -1175,11 +1172,11 @@
       <jump line="21" column="1" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>egame</text>
       </register>
       <register name="-" type="4">
-        <text>audio</text>
+        <text>egame</text>
       </register>
       <register name="0" type="4">
         <text>function</text>
