@@ -362,11 +362,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530110483015">
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530114951547">
+        <mark key="'" line="125" column="24" />
+        <mark key="[" line="48" column="5" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -1183,10 +1183,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/levels/01.json" />
       <jump line="42" column="16" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" />
       <jump line="21" column="1" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" />
+      <jump line="117" column="24" filename="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">bGV0IGNvcmRTZWN0aW9uID0gW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1195,34 +1196,34 @@
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">bGV0IGNvcmRTZWN0aW9uID0gW107Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIF0sIFBoYXNlci5QaHlzaWNzLkFSQ0FERSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnkgPSBwbGF5ZXIuY2VudGVyWTsK</text>
+        <text encoding="base64">ICAgICAgICBnYW1lLmxheWVycy5lbmVteQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnggPSBwbGF5ZXIuY2VudGVyWDsK</text>
+        <text encoding="base64">ICAgICAgICBnYW1lLmxheWVycy5jb3JkLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnkgPSBwbGF5ZXIuY2VudGVyWTsK</text>
+        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5lbmFibGUoWwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnggPSBwbGF5ZXIuY2VudGVyWDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnN0YXJ0KGZhbHNlLCAwLCA1KTsK</text>
+        <text encoding="base64">ICAgIGdhbWUubGF5ZXJzLmNvcmQuYWRkKGNvcmRJdGVtKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLndpZHRoID0gNTsK</text>
+        <text encoding="base64">ICAgIGxldCBjb3JkSXRlbSA9IGFkZENvcmRTZWN0aW9uKGdhbWUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLmhlaWdodCA9IDU7Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBjb3JkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
