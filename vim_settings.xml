@@ -362,10 +362,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530109517743">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530110483015">
+        <mark key="[" line="36" column="8" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -1185,7 +1186,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNvcmRTZWN0aW9uID0gW107Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1194,34 +1195,34 @@
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">bGV0IGNvcmRTZWN0aW9uID0gW107Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLmdyYXZpdHkgPSAwOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBsYXllci5ib2R5LmNvbGxpZGVXb3JsZEJvdW5kcyA9IHRydWU7Cg==</text>
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnkgPSBwbGF5ZXIuY2VudGVyWTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5zdGFydFN5c3RlbShQaGFzZXIuUGh5c2ljcy5BUkNBREUpOwo=</text>
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnggPSBwbGF5ZXIuY2VudGVyWDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5lbmFibGUocGxheWVyLCBQaGFzZXIuUGh5c2ljcy5BUkNBREUpOwo=</text>
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnkgPSBwbGF5ZXIuY2VudGVyWTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnggPSBwbGF5ZXIuY2VudGVyWDsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBsYXllci5yb3RhdGlvbiA9IHBsYXllci5ib2R5LmFuZ2xlOwo=</text>
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnN0YXJ0KGZhbHNlLCAwLCA1KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAvLyBlbWl0dGVyID0gZ2FtZS5hZGQuZW1pdHRlcihwbGF5ZXIuY2VudGVyWCwgcGxheWVyLmNlbnRlclksIDEwMCk7CiAgICAvLyBlbWl0dGVyLm1ha2VQYXJ0aWNsZXMoJ3N0YXInKTsKICAgIC8vIGVtaXR0ZXIuc2V0QWxwaGEoMSk7CiAgICAvLyBlbWl0dGVyLm1pblBhcnRpY2xlU2NhbGUgPSAwLjQ7CiAgICAvLyBlbWl0dGVyLm1heFBhcnRpY2xlU2NhbGUgPSAwLjg7CiAgICAvLyBlbWl0dGVyLnN0YXJ0KGZhbHNlLCAyMDAwLCAxMDAsIDApOwogICAgLy8gZW1pdHRlci54ID0gcGxheWVyLmNlbnRlclg7CiAgICAvLyBlbWl0dGVyLnkgPSBwbGF5ZXIuY2VudGVyWTs=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLndpZHRoID0gNTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBsYXllclRyYWlsLnN0YXJ0KHRydWUsIDQwMDAsIDIwKTsK</text>
+        <text encoding="base64">ICAgIHBsYXllclRyYWlsLmhlaWdodCA9IDU7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
