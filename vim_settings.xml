@@ -110,7 +110,6 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/my-first-post.md" timestamp="1528214582299">
         <mark key="[" line="5" column="3" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/.gitignore" timestamp="1530106017553" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/post/single.html" timestamp="1528231688022">
         <mark key="[" line="1" column="18" />
       </file>
@@ -365,12 +364,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530131035969">
-        <mark key="'" line="164" column="24" />
-        <mark key="[" line="49" column="35" />
-        <mark key="]" line="50" column="29" />
-        <mark key="^" line="50" column="29" />
-        <mark key="." line="50" column="29" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530190734533">
+        <mark key="'" line="105" column="24" />
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -551,7 +549,6 @@
         <mark key="^" line="90" column="0" />
         <mark key="." line="90" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/components/enemy.js" timestamp="1530118774571" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/quiet/quiet.php" timestamp="1526679109558">
         <mark key="[" line="6" column="11" />
         <mark key="]" line="6" column="10" />
@@ -663,7 +660,6 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528818962970">
         <mark key="[" line="27" column="39" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/package.json" timestamp="1530105904716" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-includes/general-template.php" timestamp="1526909719870">
         <mark key="[" line="3445" column="32" />
         <mark key="]" line="3445" column="33" />
@@ -1194,40 +1190,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5wMi5jcmVhdGVSZXZvbHV0ZUNvbnN0cmFpbnQodG9wLCBbMCwgLTEwXSwgcGxheWVyLCBbMCwgMTBdLCAyMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>;</text>
       </register>
       <register name="0" type="4">
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5wMi5jcmVhdGVSZXZvbHV0ZUNvbnN0cmFpbnQodG9wLCBbMCwgLTEwXSwgcGxheWVyLCBbMCwgMTBdLCAyMDAwKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5wMi5lbmFibGUocGxheWVyLCBmYWxzZSk7Cg==</text>
+        <text encoding="base64">ICAgIGdhbWUucGh5c2ljcy5hcmNhZGUuZW5hYmxlKGdhbWUubGF5ZXJzLnBsYXllcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vICBMZW5ndGgsIHhBbmNob3IsIHlBbmNob3IK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvLyAgYm91bmRhcnkgPSBnYW1lLmFkZC5jaXJjbGUob3V0bGV0LmNlbnRlclgsIG91dGxldC5jZW50ZXJZLCBjb3JkT2Zmc2V0ICogcGxheWVyQ29yZFNlY3Rpb25Db3VudCk7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIGxldCB0b3AgPSB7IHg6IDUwLCB5OiA1MCB9Owo=</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJDb3JkW2ldLnkgPSAocGxheWVyQ29yZFBhdGhbaSAqIGNvcmRPZmZzZXRdKS55Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBQbGF5ZXJDb3JkW2ldLnggPSAocGxheWVyQ29yZFBhdGhbaSAqIGNvcmRPZmZzZXRdKS54Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBwcmV2aW91c1JlY3RhbmdsZTsK</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAxOyBpIDw9IHBsYXllckNvcmRTZWN0aW9uQ291bnQgLSAxOyBpKyspIHsK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
