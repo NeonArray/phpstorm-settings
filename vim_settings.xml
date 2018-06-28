@@ -364,11 +364,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530209137054">
-        <mark key="'" line="159" column="24" />
-        <mark key="[" line="121" column="39" />
-        <mark key="]" line="125" column="0" />
-        <mark key="." line="125" column="0" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530212085622">
+        <mark key="'" line="155" column="24" />
+        <mark key="[" line="117" column="5" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -469,6 +469,11 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Surveys.php" timestamp="1528812852009">
         <mark key="[" line="6" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/enemy.js" timestamp="1530211242839">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/test-post.html" timestamp="1529330183278">
         <mark key="[" line="26" column="0" />
@@ -928,10 +933,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/ai.js" timestamp="1530196721062">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/ai.js" timestamp="1530210293549">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/weapons.js" timestamp="1529597118156">
         <mark key="[" line="3" column="1" />
@@ -1195,7 +1201,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IG5lZWQ=</text>
@@ -1204,34 +1210,34 @@
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmIChhaS5uZWVkc0FuZ2xlKSB7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhaS5sYXN0Um90YXRpb25JblByb3hpbWl0eSA9IHRydWU7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIChvYmplY3QuKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhaS5pc0luUHJveGltaXR5ID0gdHJ1ZTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZnVuY3Rpb25zTmV3QW5nbGUob2JqZWN0KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhaS5uZWVkc0FuZ2xlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhaS5uZWVkc0FuZ2xlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBhaS5pc0lucHIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdhbWUuZXZlbnRzID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICBhaS5uZWVkc0FuZ2xlID0gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
