@@ -364,12 +364,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530207034825">
-        <mark key="'" line="208" column="24" />
-        <mark key="[" line="176" column="11" />
-        <mark key="]" line="123" column="0" />
-        <mark key="^" line="87" column="48" />
-        <mark key="." line="123" column="0" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530209137054">
+        <mark key="'" line="159" column="24" />
+        <mark key="[" line="121" column="39" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -1196,16 +1195,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGVuZW15VGltZXIuc3RhcnQoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IG5lZWQ=</text>
       </register>
       <register name="0" type="4">
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGVuZW15VGltZXIuc3RhcnQoKTsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1214,25 +1213,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGlmIChvYmplY3QuKSB7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb25zTmV3QW5nbGUob2JqZWN0KSB7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGVuZW15VGltZXIubG9vcCg2MDAwLCBzdG9wUHVyc3VpdCwgdGhpcywgZ2FtZSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVuZW15VGltZXIgPSBnYW1lLnRpbWUuY3JlYXRlKGZhbHNlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdhbWUuZXZlbnRzID0ge307Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
