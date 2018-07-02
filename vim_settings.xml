@@ -365,11 +365,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530560283738">
-        <mark key="[" line="80" column="26" />
-        <mark key="]" line="80" column="27" />
-        <mark key="." line="80" column="27" />
-        <mark key="^" line="80" column="27" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" timestamp="1530561554994">
+        <mark key="[" line="78" column="2" />
+        <mark key="]" line="78" column="2" />
+        <mark key="^" line="78" column="2" />
+        <mark key="." line="78" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/public/clue-public.class.php" timestamp="1526998577975">
         <mark key="[" line="41" column="5" />
@@ -1212,7 +1212,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">RW5lbXkucHJvdG90eXBlLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1221,31 +1221,31 @@
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">RW5lbXkucHJvdG90eXBlLgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIGZvciAobGV0IGkgPSAwOyBpIDwgZW5lbWllcy5sZW5ndGg7IGkrKykgewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmICh0aGlzLmlzQ29sbGlkaW5nKSB7Cg==</text>
+        <text encoding="base64">RW5lbXkucHJvdG90eXBlLgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aWYgKCh0aGlzLmdhbWVPYmplY3QsIHRoaXMucGxheWVyKSkgewogICAgICAgIHRoaXMuZ2FtZU9iamVjdC5yb3RhdGlvbiA9IHRoaXMuZ2FtZS5waHlzaWNzLmFyY2FkZS5hbmdsZUJldHdlZW4odGhpcy5nYW1lT2JqZWN0LCB0aGlzLnBsYXllcik7CiAgICAgICAgdGhpcy5nYW1lLnBoeXNpY3MuYXJjYWRlLm1vdmVUb09iamVjdCh0aGlzLmdhbWVPYmplY3QsIHRoaXMucGxheWVyLCA1MCk7CiAgICAgICAgdGhpcy5nYW1lT2JqZWN0Lmxhc3RBbmdsZUluUHJveGltaXR5ID0gdHJ1ZTsKICAgICAgICB0aGlzLmdhbWVPYmplY3QubmVlZHNBbmdsZSA9IHRydWU7CiAgICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneWVzJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmlzQ29sbGlkaW5nKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fTsK</text>
+        <text encoding="base64">aWYgKCh0aGlzLmdhbWVPYmplY3QsIHRoaXMucGxheWVyKSkgewogICAgICAgIHRoaXMuZ2FtZU9iamVjdC5yb3RhdGlvbiA9IHRoaXMuZ2FtZS5waHlzaWNzLmFyY2FkZS5hbmdsZUJldHdlZW4odGhpcy5nYW1lT2JqZWN0LCB0aGlzLnBsYXllcik7CiAgICAgICAgdGhpcy5nYW1lLnBoeXNpY3MuYXJjYWRlLm1vdmVUb09iamVjdCh0aGlzLmdhbWVPYmplY3QsIHRoaXMucGxheWVyLCA1MCk7CiAgICAgICAgdGhpcy5nYW1lT2JqZWN0Lmxhc3RBbmdsZUluUHJveGltaXR5ID0gdHJ1ZTsKICAgICAgICB0aGlzLmdhbWVPYmplY3QubmVlZHNBbmdsZSA9IHRydWU7CiAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
