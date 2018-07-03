@@ -1,5 +1,8 @@
 <code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="160" />
+  <JSCodeStyleSettings>
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+  </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
     <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
     <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
