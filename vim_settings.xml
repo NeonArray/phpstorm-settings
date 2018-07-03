@@ -24,6 +24,12 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="8" column="27" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/p3-spark-chase/index.html" timestamp="1530628102359">
+        <mark key="[" line="5" column="17" />
+        <mark key="]" line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/summary.html" timestamp="1528215760710">
         <mark key="[" line="1" column="50" />
         <mark key="]" line="1" column="48" />
@@ -130,6 +136,11 @@
         <mark key="." line="21" column="62" />
         <mark key="^" line="21" column="62" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/p3-spark-chase/src/scenes/main.js" timestamp="1530628604645">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_160304_add_sessions_table.php" timestamp="1528473806498">
         <mark key="[" line="15" column="29" />
       </file>
@@ -200,6 +211,12 @@
         <mark key="[" line="11" column="15" />
         <mark key="]" line="36" column="0" />
         <mark key="." line="36" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/p3-spark-chase/src/index.js" timestamp="1530628622457">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/index.pcss" timestamp="1529345049405">
         <mark key="[" line="3" column="26" />
@@ -432,6 +449,13 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528299907467">
         <mark key="[" line="27" column="34" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/p3-spark-chase/src/config.js" timestamp="1530627779587">
+        <mark key="'" line="8" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="15" />
+        <mark key="." line="0" column="15" />
+        <mark key="^" line="0" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/webpack.config.js" timestamp="1530105982866">
         <mark key="[" line="34" column="0" />
@@ -1222,10 +1246,11 @@
       <jump line="42" column="16" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" />
       <jump line="21" column="1" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/player.js" />
       <jump line="117" column="24" filename="$USER_HOME$/Documents/projects/spark-chase/src/scenes/main.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/p3-spark-chase/src/config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1234,34 +1259,34 @@
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSkK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcnKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdXRUJHTF9SRU5ERVJFUic6IEpTT04uc3RyaW5naWZ5KHRydWUpLAo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ck1haW4uQm9vdCA9IGZ1bmN0aW9uICgpIHt9OwoKTWFpbi5Cb290LnByb3RvdHlwZS5jb25zdHJ1Y3RvciA9IE1haW4uQm9vdDsKCk1haW4uQm9vdC5wcm90b3R5cGUgPSB7CgogICAgcHJlbG9hZDogZnVuY3Rpb24gKCkgewogICAgfSwKCiAgICBjcmVhdGU6IGZ1bmN0aW9uICgpIHsKICAgIH0sCgogICAgdXBkYXRlOiBmdW5jdGlvbiAoKSB7CgogICAgfQp9OwoKZXhwb3J0IGRlZmF1bHQgTWFpbjs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdDQU5WQVNfUkVOREVSRVInOiBKU09OLnN0cmluZ2lmeSh0cnVlKSwK</text>
+        <text encoding="base64">Y29uc3QgTWFpbiA9IHt9Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbmV3IHdlYnBhY2suRGVmaW5lUGx1Z2luKHsK</text>
+        <text encoding="base64">Z2FtZS5zY2VuZS5zdGFydCgnZ2FtZVN0YXRlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWQuaW1hZ2UoJ2ZhY2UnLCAnYXNzZXRzL3BpY3MvYnctZmFjZS5wbmcnKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWNQYXRoOiBCVUlMRF9ESVIsCiAgICAgICAgZmlsZW5hbWU6ICdhc3NldHMvanMvYnVuZGxlLmpzJywK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmZhY2UgPSB0aGlzLmFkZC5pbWFnZSg0MDAsIDMwMCwgJ2ZhY2UnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhcmVudDogJycsCg==</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFudGlhbGlhczogZmFsc2UsCg==</text>
+        <text encoding="base64">ICAgIHVwZGF0ZSwK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Y29uc3QgUEhBU0VSX0RJUiA9IHBhdGguam9pbihfX2Rpcm5hbWUsICcvbm9kZV9tb2R1bGVzL3BoYXNlcicpOwo=</text>
+        <text encoding="base64">ICAgIGNyZWF0ZSwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
