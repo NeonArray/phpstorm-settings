@@ -324,7 +324,6 @@
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
       </file>
-      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/debug.log" timestamp="1530799891858" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/single.html" timestamp="1528231559049">
         <mark key="[" line="1" column="11" />
       </file>
@@ -421,8 +420,8 @@
         <mark key="." line="14" column="15" />
         <mark key="^" line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/config.js" timestamp="1530806621583">
-        <mark key="[" line="1" column="25" />
+      <file name="$USER_HOME$/Documents/projects/spark-chase/src/config.js" timestamp="1530811051244">
+        <mark key="[" line="0" column="46" />
         <mark key="]" line="7" column="0" />
         <mark key="^" line="6" column="7" />
         <mark key="." line="7" column="0" />
