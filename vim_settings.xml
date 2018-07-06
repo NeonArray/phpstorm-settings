@@ -12,6 +12,9 @@
       <file name="/a.dummy" timestamp="1528812858012">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/archives.html" timestamp="1530903990257">
+        <mark key="[" line="1" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/index.blade.php" timestamp="1528484332784">
         <mark key="[" line="2" column="19" />
       </file>
@@ -224,6 +227,12 @@
         <mark key="]" line="11" column="20" />
         <mark key="^" line="11" column="20" />
         <mark key="." line="11" column="20" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/README.md" timestamp="1530903924129">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="66" />
+        <mark key="^" line="0" column="66" />
+        <mark key="." line="0" column="66" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_12_133404_add_archived_column_to_trackers.php" timestamp="1528810481461">
         <mark key="[" line="28" column="14" />
