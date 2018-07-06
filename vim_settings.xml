@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1530907572553" />
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1530038424329">
         <mark key="[" line="59" column="3" />
         <mark key="]" line="4" column="0" />
@@ -763,8 +764,8 @@
         <mark key="^" line="15" column="38" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-all.html" timestamp="1530812951665">
-        <mark key="[" line="9" column="17" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-all.html" timestamp="1530907532602">
+        <mark key="[" line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/spark-chase/src/a.php" timestamp="1530217939545">
         <mark key="[" line="477" column="0" />
