@@ -631,8 +631,11 @@
       <file name="$USER_HOME$/Documents/projects/spark-chase/src/utility.js" timestamp="1530623808874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/outdated-content-warning.html" timestamp="1529008395735">
-        <mark key="[" line="0" column="21" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/outdated-content-warning.html" timestamp="1531338948425">
+        <mark key="[" line="1" column="72" />
+        <mark key="]" line="1" column="72" />
+        <mark key="." line="1" column="72" />
+        <mark key="^" line="1" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger.php" timestamp="1526909456022">
         <mark key="[" line="34" column="37" />
@@ -1173,43 +1176,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsK</text>
+        <text encoding="base64">ICAgIDxkaXZzZGNsYXNzPSJjYWxsb3V0LWRheXMiPjM2NSBkYXlzPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="4">
         <text>function</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsK</text>
+        <text encoding="base64">ICAgIDxkaXZzZGNsYXNzPSJjYWxsb3V0LWRheXMiPjM2NSBkYXlzPC9kaXY+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+        <text encoding="base64">ICAgIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIGp1c3RpZnktc2VsZjogY2VudGVyOwo=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdhbWUuaW5wdXQucG9pbnRlcjEubW92ZW1lbnRYKTsKICAgIGlmIChnYW1lLmlucHV0LnBvaW50ZXIxLm1vdmVtZW50WCkgewoKICAgIH0=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdhbWUuaW5wdXQucG9pbnRlcjEucmF3TW92ZW1lbnRZKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdhbWUuaW5wdXQucG9pbnRlcjEucmF3TW92ZW1lbnRYKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGdhbWUuc2NhbGUucGFnZUFsaWduVmVydGljYWxseSA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
