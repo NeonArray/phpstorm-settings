@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1531413913972">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1531493575545">
         <mark key="[" line="11" column="21" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -263,7 +263,7 @@
       <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/m.php" timestamp="1530797771808">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_header.pcss" timestamp="1531428222688">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_header.pcss" timestamp="1531493127734">
         <mark key="[" line="91" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1530323991762">
@@ -482,11 +482,10 @@
         <mark key="." line="49" column="0" />
         <mark key="^" line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_single.pcss" timestamp="1531413288586">
-        <mark key="[" line="0" column="12" />
-        <mark key="]" line="4" column="4" />
-        <mark key="^" line="4" column="4" />
-        <mark key="." line="4" column="4" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_single.pcss" timestamp="1531493692046">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/test-post.html" timestamp="1529330183278">
         <mark key="[" line="26" column="0" />
@@ -552,6 +551,12 @@
       </file>
       <file name="/Dummy.txt" timestamp="1528991903891">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_page-post.pcss" timestamp="1531493541201">
+        <mark key="[" line="0" column="11" />
+        <mark key="]" line="10" column="31" />
+        <mark key="^" line="10" column="31" />
+        <mark key="." line="10" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/third-post.md" timestamp="1528224455365">
         <mark key="[" line="3" column="11" />
@@ -872,6 +877,11 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_archive-all.pcss" timestamp="1531493399686">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/seeds/GroupTableSeeder.php" timestamp="1528818714724">
         <mark key="[" line="23" column="28" />
         <mark key="]" line="23" column="27" />
@@ -908,12 +918,7 @@
         <mark key="^" line="16" column="25" />
         <mark key="." line="16" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1531492353128">
-        <mark key="[" line="0" column="7" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="9" column="27" />
-        <mark key="." line="69" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/index.pcss" timestamp="1531493412955" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/2018/second-post.md" timestamp="1528226262349">
         <mark key="[" line="5" column="10" />
       </file>
@@ -1249,25 +1254,25 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwdnc7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGlzcGxheTogZ3JpZDsK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4LWZsb3c6IHJvdyB3cmFwOwo=</text>
+        <text encoding="base64">ICAgIC5oZWFkZXIgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBmbGV4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBncmlkOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
