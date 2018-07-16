@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1531494565140">
-        <mark key="[" line="42" column="15" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/post.html" timestamp="1531754902190">
+        <mark key="[" line="44" column="111" />
         <mark key="]" line="42" column="15" />
         <mark key="." line="42" column="15" />
         <mark key="^" line="42" column="15" />
@@ -179,11 +179,12 @@
         <mark key="^" line="87" column="77" />
         <mark key="." line="87" column="77" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive.html" timestamp="1531509201744">
-        <mark key="[" line="60" column="100" />
-        <mark key="]" line="18" column="29" />
-        <mark key="." line="18" column="29" />
-        <mark key="^" line="18" column="29" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive.html" timestamp="1531754287095">
+        <mark key="'" line="81" column="5" />
+        <mark key="[" line="81" column="0" />
+        <mark key="]" line="81" column="5" />
+        <mark key="." line="81" column="5" />
+        <mark key="^" line="81" column="5" />
       </file>
       <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-config.php" timestamp="1530798400750">
         <mark key="[" line="83" column="24" />
@@ -246,9 +247,9 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/first-post.md" timestamp="1528224449941">
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-category.html" timestamp="1531502647136">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-category.html" timestamp="1531754263920">
         <mark key="'" line="16" column="19" />
-        <mark key="[" line="26" column="53" />
+        <mark key="[" line="81" column="11" />
         <mark key="]" line="27" column="56" />
         <mark key="." line="27" column="56" />
         <mark key="^" line="27" column="56" />
@@ -271,6 +272,13 @@
         <mark key="^" line="0" column="66" />
         <mark key="." line="0" column="66" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-navigation.html" timestamp="1531756862141">
+        <mark key="'" line="10" column="59" />
+        <mark key="[" line="13" column="24" />
+        <mark key="]" line="13" column="19" />
+        <mark key="." line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_12_133404_add_archived_column_to_trackers.php" timestamp="1528810481461">
         <mark key="[" line="28" column="14" />
         <mark key="]" line="16" column="51" />
@@ -291,8 +299,10 @@
         <mark key="." line="180" column="37" />
         <mark key="^" line="180" column="37" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/tags/index.pcss" timestamp="1531511092474">
-        <mark key="[" line="22" column="15" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/tags/index.pcss" timestamp="1531754098724">
+        <mark key="[" line="17" column="15" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -362,8 +372,8 @@
         <mark key="^" line="11" column="16" />
         <mark key="." line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_base.pcss" timestamp="1531494330716">
-        <mark key="[" line="7" column="35" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_base.pcss" timestamp="1531754997213">
+        <mark key="[" line="37" column="1" />
         <mark key="]" line="7" column="30" />
         <mark key="^" line="7" column="30" />
         <mark key="." line="7" column="30" />
@@ -398,11 +408,12 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1531419975027">
-        <mark key="[" line="12" column="26" />
-        <mark key="]" line="11" column="24" />
-        <mark key="^" line="11" column="24" />
-        <mark key="." line="11" column="24" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" timestamp="1531754255778">
+        <mark key="'" line="116" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="116" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Controllers/Auth/LoginController.php" timestamp="1528818967370">
         <mark key="[" line="27" column="39" />
@@ -582,11 +593,11 @@
       <file name="/Dummy.txt" timestamp="1531494770759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_page-post.pcss" timestamp="1531494461280">
-        <mark key="[" line="11" column="30" />
-        <mark key="]" line="16" column="1" />
-        <mark key="^" line="16" column="1" />
-        <mark key="." line="16" column="1" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_page-post.pcss" timestamp="1531754975764">
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="17" column="1" />
+        <mark key="^" line="17" column="1" />
+        <mark key="." line="17" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/third-post.md" timestamp="1528224455365">
         <mark key="[" line="3" column="11" />
@@ -606,8 +617,8 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/category/vr.html" timestamp="1531414023788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1531497727843">
-        <mark key="[" line="7" column="18" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1531755182278">
+        <mark key="[" line="8" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/spark-chase/webpack.config.js" timestamp="1530801454782">
         <mark key="[" line="70" column="0" />
@@ -647,8 +658,10 @@
         <mark key="^" line="5" column="4" />
         <mark key="." line="5" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/projects.html" timestamp="1531501538721">
-        <mark key="[" line="9" column="17" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/projects.html" timestamp="1531754298415">
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/archive.ejs" timestamp="1528127349099">
         <mark key="[" line="6" column="107" />
@@ -923,11 +936,11 @@
         <mark key="^" line="23" column="27" />
         <mark key="." line="23" column="27" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1531752630068">
-        <mark key="[" line="28" column="34" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/variables.pcss" timestamp="1531754063954">
+        <mark key="[" line="35" column="34" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/import.class.php" timestamp="1526916628928">
         <mark key="[" line="60" column="27" />
@@ -967,6 +980,12 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/first-post.md" timestamp="1528224358752">
         <mark key="[" line="3" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/post-navigation/index.pcss" timestamp="1531757406558">
+        <mark key="[" line="30" column="12" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/surveys/view.blade.php" timestamp="1528813479480">
         <mark key="[" line="6" column="33" />
@@ -1114,6 +1133,9 @@
         <mark key="^" line="31" column="34" />
         <mark key="." line="31" column="34" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/footer/index.pcss" timestamp="1531754149139">
+        <mark key="[" line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/source/_posts/test-post.md" timestamp="1528126208345">
         <mark key="[" line="3" column="5" />
         <mark key="]" line="6" column="2" />
@@ -1177,9 +1199,11 @@
         <mark key="^" line="16" column="1" />
         <mark key="." line="16" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/page/index.pcss" timestamp="1531752602111">
-        <mark key="[" line="30" column="24" />
-        <mark key="^" line="33" column="17" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/page/index.pcss" timestamp="1531754601820">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="32" column="17" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_205447_add_tracking_id_to_trackers_table.php" timestamp="1528334092669">
         <mark key="[" line="16" column="14" />
@@ -1198,6 +1222,9 @@
         <mark key="]" line="3" column="5" />
         <mark key="." line="3" column="5" />
         <mark key="^" line="3" column="5" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/footer.html" timestamp="1531754200562">
+        <mark key="[" line="1" column="10" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-favicon.html" timestamp="1528214307148">
         <mark key="[" line="0" column="8" />
@@ -1282,10 +1309,14 @@
       <jump line="14" column="19" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-category.html" />
       <jump line="11" column="10" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-block.html" />
       <jump line="40" column="14" filename="$USER_HOME$/Documents/projects/spark-wordpress-resources/_layouts/default.html" />
+      <jump line="113" column="4" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" />
+      <jump line="118" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" />
+      <jump line="81" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive.html" />
+      <jump line="5" column="59" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-navigation.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -1294,7 +1325,7 @@
         <text encoding="base64">PGRpdiBjbGFzcz0ic2hvdy1mb3ItbW9iaWxlIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2F0ZWdvcnktYmxvY2tzIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzZWN0aW9uLWxhYmVsIj5DYXRlZ29yaWVzPC9wPgoKICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2F0ZWdvcmllcyBsaXN0LXVuc3R5bGVkIj4KICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIGFsdD0iTWFuIHdlYXJpbmcgYSB2aXJ0dWFsIHJlYWxpdHkgaGVhZHNldCIgc3JjPSJ7eyByb290IH19aW1nL3ZyLnN2ZyIgaGVpZ2h0PSIzMDAiIHdpZHRoPSIzMDAiIGNsYXNzPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgVlIKICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBhbHQ9Ik1hbiB3ZWFyaW5nIGEgdmlydHVhbCByZWFsaXR5IGhlYWRzZXQiIHNyYz0ie3sgcm9vdCB9fWltZy9zb2Z0d2FyZS5zdmciIGhlaWdodD0iMzAwIiB3aWR0aD0iMzAwIiBjbGFzcz0icG9zdC1jYXRlZ29yeS0taW1hZ2UiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNvZnR3YXJlCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvd2ViLnN2ZyIgaGVpZ2h0PSIzMDAiIHdpZHRoPSIzMDAiIGNsYXNzPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgV2ViCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvZ2VuZXJhbC5zdmciIGhlaWdodD0iMzAwIiB3aWR0aD0iMzAwIiBjbGFzcz0icG9zdC1jYXRlZ29yeS0taW1hZ2UiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdlbmVyYWwKICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -1303,25 +1334,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vYmFja2dyb3VuZC1pbWFnZTogbGluZWFyLWdyYWRpZW50KDEwOS42ZGVnLCByZ2JhKDE1NCwyMjcsMjI2LDEpIDExLjIlLCByZ2JhKDEwNSwyMTAsMjE2LDEpIDkxLjElKTsK</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgIHslIGlmIHNpdGUuZ29vZ2xlX2FuYWx5dGljcyAlfQogICAgPHNjcmlwdD4KICAgICAgKGZ1bmN0aW9uKGkscyxvLGcscixhLG0pe2lbJ0dvb2dsZUFuYWx5dGljc09iamVjdCddPXI7aVtyXT1pW3JdfHxmdW5jdGlvbigpewogICAgICAoaVtyXS5xPWlbcl0ucXx8W10pLnB1c2goYXJndW1lbnRzKX0saVtyXS5sPTEqbmV3IERhdGUoKTthPXMuY3JlYXRlRWxlbWVudChvKSwKICAgICAgbT1zLmdldEVsZW1lbnRzQnlUYWdOYW1lKG8pWzBdO2EuYXN5bmM9MTthLnNyYz1nO20ucGFyZW50Tm9kZS5pbnNlcnRCZWZvcmUoYSxtKQogICAgICB9KSh3aW5kb3csZG9jdW1lbnQsJ3NjcmlwdCcsJ2h0dHBzOi8vd3d3Lmdvb2dsZS1hbmFseXRpY3MuY29tL2FuYWx5dGljcy5qcycsJ2dhJyk7CiAgICAgIGdhKCdjcmVhdGUnLCAne3sgc2l0ZS5nb29nbGVfYW5hbHl0aWNzIH19JywgJ2F1dG8nKTsKICAgICAgZ2EoJ3NlbmQnLCAncGFnZXZpZXcnKTsKICAgIDwvc2NyaXB0PgogICAgeyUgZW5kaWYgJX0=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">fQo=</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LnBvc3QtbmF2aWdhdGlvbiB7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">LnBvc3QtbmF2aWdhdGlvbgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Lm1ldGEgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGZsZXgtZGlyZWN0aW9uOiByb3c7Cg==</text>
+        <text encoding="base64">LnBvc3QtbmF2aWdhdGlvbgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGRpc3BsYXk6IGZsZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
