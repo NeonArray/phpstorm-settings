@@ -616,7 +616,7 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/category/vr.html" timestamp="1531414023788">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1531764295736">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1531835080463">
         <mark key="[" line="0" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/projects/spark-chase/webpack.config.js" timestamp="1530801454782">
@@ -1193,11 +1193,12 @@
         <mark key="^" line="5" column="32" />
         <mark key="." line="5" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/helpers/code-block.js" timestamp="1531834373157">
-        <mark key="'" line="34" column="25" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/helpers/code-block.js" timestamp="1531834601433">
+        <mark key="'" line="32" column="25" />
+        <mark key="[" line="13" column="13" />
+        <mark key="]" line="13" column="13" />
+        <mark key="." line="13" column="13" />
+        <mark key="^" line="13" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/page/index.pcss" timestamp="1531754601820">
         <mark key="[" line="31" column="0" />
@@ -1365,7 +1366,7 @@
         <text encoding="base64">ICAgICAgICBnYW1lLnN0YXRlLmFkZCgnZ2FtZVN0YXRlJywgZ2FtZVN0YXRlKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1386,8 +1387,8 @@
         <entry>ew</entry>
         <entry>yiw</entry>
         <entry>yow</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
