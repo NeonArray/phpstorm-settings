@@ -274,9 +274,8 @@
         <mark key="^" line="0" column="66" />
         <mark key="." line="0" column="66" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-navigation.html" timestamp="1531756862141">
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-navigation.html" timestamp="1531845604104">
         <mark key="'" line="10" column="59" />
-        <mark key="[" line="13" column="24" />
         <mark key="]" line="13" column="19" />
         <mark key="." line="13" column="19" />
         <mark key="^" line="13" column="19" />
@@ -692,8 +691,8 @@
         <mark key="^" line="120" column="24" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/plugins/_highlight.pcss" timestamp="1531835994725">
-        <mark key="[" line="5" column="19" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/plugins/_highlight.pcss" timestamp="1531845883435">
+        <mark key="[" line="50" column="21" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
@@ -832,10 +831,10 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/archived.blade.php" timestamp="1528827714566">
         <mark key="[" line="25" column="74" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/2018/07/some-post.html" timestamp="1531832741707">
-        <mark key="[" line="19" column="28" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/2018/07/some-post.html" timestamp="1531845470391">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/web-post.html" timestamp="1529330302473">
         <mark key="[" line="4" column="19" />
@@ -1257,10 +1256,8 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/posts.html" timestamp="1531424579731">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/js/index.js" timestamp="1531842556400">
-        <mark key="[" line="20" column="55" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/js/index.js" timestamp="1531846123596">
+        <mark key="[" line="16" column="0" />
         <mark key="^" line="16" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/footer/index.pcss" timestamp="1531766425129">
