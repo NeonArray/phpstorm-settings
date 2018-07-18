@@ -77,9 +77,9 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" timestamp="1530816011250">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" timestamp="1531940090059">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" timestamp="1531942691540">
         <mark key="'" line="5" column="13" />
-        <mark key="[" line="4" column="12" />
+        <mark key="[" line="10" column="41" />
         <mark key="]" line="4" column="8" />
         <mark key="^" line="4" column="8" />
         <mark key="." line="4" column="8" />
@@ -410,7 +410,7 @@
         <mark key="^" line="42" column="7" />
         <mark key="." line="42" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" timestamp="1531940246483">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" timestamp="1531941437338">
         <mark key="[" line="1" column="146" />
         <mark key="]" line="1" column="119" />
         <mark key="^" line="1" column="119" />
@@ -619,6 +619,9 @@
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-config.php" timestamp="1531942639669">
+        <mark key="[" line="79" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/third-post.md" timestamp="1528224455365">
         <mark key="[" line="3" column="11" />
@@ -1168,9 +1171,6 @@
         <mark key="]" line="13" column="4" />
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/package.json" timestamp="1531919313099">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-import.php" timestamp="1526916923584">
         <mark key="[" line="42" column="0" />
