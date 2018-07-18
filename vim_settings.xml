@@ -9,6 +9,7 @@
         <mark key="." line="48" column="0" />
         <mark key="^" line="42" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/gulpfile.babel.js" timestamp="1531919356861" />
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/components/ui.js" timestamp="1530038424329">
         <mark key="[" line="59" column="3" />
         <mark key="]" line="4" column="0" />
@@ -810,6 +811,9 @@
         <mark key="]" line="30" column="0" />
         <mark key="." line="30" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/gulpfile.babel.js" timestamp="1531918888953">
+        <mark key="[" line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/web-post.html" timestamp="1529330302473">
         <mark key="[" line="4" column="19" />
       </file>
@@ -1091,6 +1095,9 @@
         <mark key="." line="13" column="4" />
         <mark key="^" line="13" column="4" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/package.json" timestamp="1531919313099">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-import.php" timestamp="1526916923584">
         <mark key="[" line="42" column="0" />
         <mark key="]" line="42" column="3" />
@@ -1300,6 +1307,7 @@
       <jump line="5" column="59" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-navigation.html" />
       <jump line="12" column="25" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/helpers/code-block.js" />
       <jump line="40" column="74" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/helpers/code-block.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
