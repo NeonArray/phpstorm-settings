@@ -190,7 +190,7 @@
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/director/controls.js" timestamp="1530032307650">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1528737816567">
+      <file name="/fragment.php" timestamp="1532005134846">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/blog.html" timestamp="1528231210439">
@@ -204,10 +204,10 @@
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/home.php" timestamp="1532004589445">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/home.php" timestamp="1532005266161">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/archive.blade.php" timestamp="1528827886960">
         <mark key="[" line="27" column="74" />
@@ -276,11 +276,10 @@
         <mark key="." line="95" column="17" />
         <mark key="^" line="95" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" timestamp="1531941437338">
-        <mark key="[" line="1" column="146" />
-        <mark key="]" line="1" column="119" />
-        <mark key="^" line="1" column="119" />
-        <mark key="." line="1" column="119" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" timestamp="1532005893646">
+        <mark key="[" line="0" column="7" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/single.html" timestamp="1528231559049">
         <mark key="[" line="1" column="11" />
@@ -374,7 +373,7 @@
         <mark key="]" line="7" column="37" />
         <mark key="." line="7" column="37" />
       </file>
-      <file name="/PHP Console" timestamp="1528825379440">
+      <file name="/PHP Console" timestamp="1532005236172">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
@@ -391,10 +390,10 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/home.twig" timestamp="1531946786404">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/home.twig" timestamp="1532005356825">
         <mark key="[" line="14" column="46" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_160844_remove_tracker_sessions_table.php" timestamp="1528474131679">
         <mark key="[" line="15" column="10" />
@@ -439,7 +438,7 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/2018/third-post.md" timestamp="1528226112493">
         <mark key="[" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/lib/class-timber-functions.php" timestamp="1531946109212">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/lib/class-timber-functions.php" timestamp="1532004702112">
         <mark key="[" line="56" column="0" />
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
@@ -549,28 +548,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dmFyX2R1bXAoIGdldF9maWVsZF9vYmplY3RzKCkgKTsK</text>
+        <text encoding="base64">ICAgIGJhY2tncm91bmQ6IGF0dHIoZGF0YS1iYWNrZ3JvdW5kKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JGZpZWxkcyA9IGdldF9maWVsZF9vYmplY3RzKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgcG9zdC5oZXJvX3JlYWRfbW9yZSB9fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cHJpbnRfciggZ2V0X2ZpZWxkcygkcG9zdC0+SUQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAge3sgZHVtcChwb3N0Lmhlcm9fcmVhZF9tb3JlLnRpdGxlKSB9fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">cHJpbnRfcig7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgeyN7eyBwb3N0LmNvbnRlbnQgfX0jfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JGNvbnRleHRbJ29wdHMnXSA9IGdldF9maWVsZHMoICRwb3N0ICk7Cg==</text>
+        <text encoding="base64">JGNvbnRleHRbJ2EnXSA9IGdldF9maWVsZF9vYmplY3RzKCRwb3N0LT5JRCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQlwcmludF9yKGdldF9maWVsZHMoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CQkkY29udGV4dFsnZmllbGRzJ10gPSBnZXRfZmllbGRzKCk7Cg==</text>
+        <text encoding="base64">dmFyX2R1bXAoIGdldF9maWVsZF9vYmplY3RzKCkgKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cHJpbnRfciggZ2V0X29wdGlvbignJykpOwo=</text>
+        <text encoding="base64">JGZpZWxkcyA9IGdldF9maWVsZF9vYmplY3RzKCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
