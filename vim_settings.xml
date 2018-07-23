@@ -224,9 +224,9 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1528819076447">
         <mark key="[" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-internal.php" timestamp="1532370550658">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-internal.php" timestamp="1532371939265">
         <mark key="j" line="2" column="1" />
-        <mark key="[" line="2" column="1" />
+        <mark key="[" line="13" column="48" />
         <mark key="]" line="2" column="1" />
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="58" />
@@ -404,8 +404,11 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/page.twig" timestamp="1531944370611">
         <mark key="[" line="9" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/article/_index.scss" timestamp="1532369593660">
-        <mark key="[" line="3" column="16" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/article/_index.scss" timestamp="1532372202970">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Project.php" timestamp="1528832323409">
         <mark key="[" line="24" column="48" />
@@ -440,9 +443,6 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" timestamp="1532351765717">
         <mark key="[" line="79" column="23" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/article/_post-single.scss" timestamp="1532365928164">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/callout/index.pcss" timestamp="1531494643419">
         <mark key="[" line="7" column="20" />
