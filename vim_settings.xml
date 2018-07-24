@@ -189,8 +189,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/resource-card.twig" timestamp="1532451771883">
-        <mark key="[" line="16" column="78" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/resource-card.twig" timestamp="1532456295502">
+        <mark key="[" line="13" column="42" />
         <mark key="]" line="5" column="17" />
         <mark key="^" line="5" column="17" />
         <mark key="." line="5" column="17" />
@@ -297,11 +297,12 @@
       <file name="/fragment.php" timestamp="1532005134846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" timestamp="1532454542426">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" timestamp="1532456861040">
         <mark key="'" line="46" column="0" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/blog.html" timestamp="1528231210439">
         <mark key="[" line="1" column="9" />
@@ -784,16 +785,8 @@
       <jump line="780" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>}
-
-.article-title--separator {
-    @include branded_hr;
-
-    height: 5px;
-    margin-bottom: 50px;
-    max-width: 320px;
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -804,7 +797,16 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>}
 
 .article-title--separator {
@@ -815,32 +817,23 @@
     max-width: 320px;
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">e3sgZHVtcChwcm9kdWN0cykgfX0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlYWRlcj4K</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aGVhZGVyPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2hlYWRlcj4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIHBsdWdpbl9kaXJfcGF0aCggX19GSUxFX18gKSAuICdzaG9ydGNvZGVzL3ZjcnBjX2Rvd25sb2FkLnBocCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8aGVhZGVyPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZV9vbmNlIHBsdWdpbl9kaXJfcGF0aCggX19GSUxFX18gKSAuICdzaG9ydGNvZGVzL3ZjcnBjX3Byb2R1Y3RfY2FyZC5waHAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGxpZ2h0Ym94MiBmcm9tICdsaWdodGJveDInOyAvLyBlc2xpbnQtZGlzYWJsZS1saW5lIG5vLXVudXNlZC12YXJzCg==</text>
+        <text encoding="base64">cmVxdWlyZV9vbmNlIHBsdWdpbl9kaXJfcGF0aCggX19GSUxFX18gKSAuICdzaG9ydGNvZGVzL3ZjcnBjX2Rvd25sb2FkLnBocCc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
