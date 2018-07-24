@@ -85,11 +85,12 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/_index.md" timestamp="1528230366478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcas-title.php" timestamp="1532446856028">
-        <mark key="'" line="1" column="0" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcas-title.php" timestamp="1532448859553">
+        <mark key="'" line="45" column="0" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="45" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/footer.php" timestamp="1532104144818">
         <mark key="[" line="17" column="8" />
@@ -148,6 +149,9 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/style.css" timestamp="1532101737418">
         <mark key="[" line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcrpc_product_card.php" timestamp="1532448942511">
+        <mark key="[" line="71" column="70" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" timestamp="1532096816079">
         <mark key="[" line="121" column="10" />
@@ -282,9 +286,9 @@
       <file name="/fragment.php" timestamp="1532005134846">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" timestamp="1532446897043">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" timestamp="1532448910136">
         <mark key="'" line="48" column="0" />
-        <mark key="[" line="7" column="0" />
+        <mark key="[" line="8" column="65" />
         <mark key="]" line="48" column="0" />
         <mark key="." line="48" column="0" />
       </file>
@@ -551,7 +555,7 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532377783847">
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532447478227">
         <mark key="[" line="12" column="110" />
         <mark key="]" line="12" column="119" />
         <mark key="^" line="12" column="119" />
@@ -741,46 +745,47 @@
       <jump line="277" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" />
       <jump line="18" column="98" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-product.twig" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcas-title.php" />
+      <jump line="49" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcas-title.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknaG9sZGVyJyA9PiAnZGl2JywK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">PHA+U3VzcGVuZGlzc2UgZGljdHVtIGZldWdpYXQgbmlzbCB1dCBkYXBpYnVzLiAgVml2YW11cyBoZW5kcmVyaXQgYXJjdSBzZWQgZXJhdCBtb2xlc3RpZSB2ZWhpY3VsYS4gVXQgaW4gbnVsbGEgZW5pbS4gUGhhc2VsbHVzIG1vbGVzdGllIG1hZ25hIG5vbiBlc3QgYmliZW5kdW0gbm9uIHZlbmVuYXRpcyBuaXNsIHRlbXBvci4gIFNlZCBhdWN0b3IgbmVxdWUgZXUgdGVsbHVzIHJob25jdXMgdXQgZWxlaWZlbmQgbmliaCBwb3J0dGl0b3IuPC9wPg==</text>
       </register>
       <register name="0" type="4">
-        <text encoding="base64">PGRpdiBjbGFzcz0ic2hvdy1mb3ItbW9iaWxlIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2F0ZWdvcnktYmxvY2tzIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzZWN0aW9uLWxhYmVsIj5DYXRlZ29yaWVzPC9wPgoKICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2F0ZWdvcmllcyBsaXN0LXVuc3R5bGVkIj4KICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIGFsdD0iTWFuIHdlYXJpbmcgYSB2aXJ0dWFsIHJlYWxpdHkgaGVhZHNldCIgc3JjPSJ7eyByb290IH19aW1nL3ZyLnN2ZyIgaGVpZ2h0PSIzMDAiIHdpZHRoPSIzMDAiIGNsYXNzPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgVlIKICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBhbHQ9Ik1hbiB3ZWFyaW5nIGEgdmlydHVhbCByZWFsaXR5IGhlYWRzZXQiIHNyYz0ie3sgcm9vdCB9fWltZy9zb2Z0d2FyZS5zdmciIGhlaWdodD0iMzAwIiB3aWR0aD0iMzAwIiBjbGFzcz0icG9zdC1jYXRlZ29yeS0taW1hZ2UiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNvZnR3YXJlCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvd2ViLnN2ZyIgaGVpZ2h0PSIzMDAiIHdpZHRoPSIzMDAiIGNsYXNzPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgV2ViCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvZ2VuZXJhbC5zdmciIGhlaWdodD0iMzAwIiB3aWR0aD0iMzAwIiBjbGFzcz0icG9zdC1jYXRlZ29yeS0taW1hZ2UiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdlbmVyYWwKICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJCQknaG9sZGVyJyA9PiAnZGl2JywK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ki8K</text>
+        <text encoding="base64">CQkJCQkndmFsdWUnID0+IF9fKCAnTGluayB0byB0aGUgcHJvZHVjdCcgKSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiBGaWxlIGZvciBjcmVhdGluZyBUaXRsZSBDb21wb25lbnQK</text>
+        <text encoding="base64">CQkJCQknY2xhc3MnID0+ICcnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyoqCg==</text>
+        <text encoding="base64">CQkJCQknaG9sZGVyJyA9PiAnZGl2JywK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Kgo=</text>
+        <text encoding="base64">ZnVuY3Rpb24gdmNycGNfcHJvZHVjdF9jYXJkX2Z1bmN0aW9uCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">cHJpbnRfcigkYXR0cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CWlmICggJGF0dHNbJ2xpbmsnXSAgKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">CXByaW50X3IoICRhdHRzWydsaW5rJ10gKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">CXByaW50X3IoICRhdHRzWydpbWFnZSddICk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
