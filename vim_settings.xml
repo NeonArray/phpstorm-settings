@@ -343,8 +343,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" timestamp="1532369471679">
-        <mark key="[" line="9" column="32" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" timestamp="1532376275949">
+        <mark key="'" line="19" column="67" />
+        <mark key="[" line="8" column="40" />
+        <mark key="]" line="19" column="67" />
+        <mark key="." line="19" column="67" />
+        <mark key="^" line="19" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/page/index.pcss" timestamp="1531918609223">
         <mark key="[" line="31" column="41" />
@@ -441,8 +445,8 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/partial/menu.twig" timestamp="1531933559329">
         <mark key="[" line="4" column="136" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" timestamp="1532351765717">
-        <mark key="[" line="79" column="23" />
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" timestamp="1532375762612">
+        <mark key="[" line="83" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/callout/index.pcss" timestamp="1531494643419">
         <mark key="[" line="7" column="20" />
@@ -486,6 +490,15 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/partials/header.html" timestamp="1527775638572">
         <mark key="[" line="11" column="16" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/app.scss" timestamp="1532373447222">
+        <mark key="[" line="64" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/product-card/_index.scss" timestamp="1532377992190">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="51" column="32" />
+        <mark key="." line="51" column="32" />
+        <mark key="^" line="51" column="32" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/spark-chase/src/index.js" timestamp="1530631529408">
         <mark key="[" line="7" column="37" />
         <mark key="]" line="7" column="37" />
@@ -501,6 +514,12 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532377783847">
+        <mark key="[" line="12" column="110" />
+        <mark key="]" line="12" column="119" />
+        <mark key="^" line="12" column="119" />
+        <mark key="." line="12" column="119" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/README.md" timestamp="1531920979599">
         <mark key="[" line="0" column="0" />
@@ -524,6 +543,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1531494770759">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/newsletter-widget.twig" timestamp="1532378220950">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/c.php" timestamp="1530797669763">
         <mark key="[" line="81" column="0" />
@@ -661,68 +685,48 @@
       <jump line="30" column="9" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/footer.twig" />
       <jump line="2" column="3" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/footer-menu.twig" />
       <jump line="5" column="8" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-news.twig" />
+      <jump line="18" column="54" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" />
+      <jump line="19" column="67" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>* This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages
- * and that other 'pages' on your WordPress site will use a
- * different template.
- *
- * To generate specific templates for your pages you can use:
- *      /mytheme/views/page-mypage.twig (which will still route through this PHP file)
- * OR
- *      /mytheme/page-mypage.php (in which case you'll want to duplicate this file and save to the above path)
- *
- * Methods for TimberHelper can be found in the /lib sub-directory
- *</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="0" type="4">
         <text encoding="base64">PGRpdiBjbGFzcz0ic2hvdy1mb3ItbW9iaWxlIj4KICAgICAgICAgICAgPGRpdiBjbGFzcz0iY2F0ZWdvcnktYmxvY2tzIj4KICAgICAgICAgICAgICAgIDxwIGNsYXNzPSJzZWN0aW9uLWxhYmVsIj5DYXRlZ29yaWVzPC9wPgoKICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iY2F0ZWdvcmllcyBsaXN0LXVuc3R5bGVkIj4KICAgICAgICAgICAgICAgICAgICA8bGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDxhIGhyZWY9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8aW1nIGFsdD0iTWFuIHdlYXJpbmcgYSB2aXJ0dWFsIHJlYWxpdHkgaGVhZHNldCIgc3JjPSJ7eyByb290IH19aW1nL3ZyLnN2ZyIgaGVpZ2h0PSIzMDAiIHdpZHRoPSIzMDAiIGNsYXNzPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgVlIKICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICAgICAgPGxpPgogICAgICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBhbHQ9Ik1hbiB3ZWFyaW5nIGEgdmlydHVhbCByZWFsaXR5IGhlYWRzZXQiIHNyYz0ie3sgcm9vdCB9fWltZy9zb2Z0d2FyZS5zdmciIGhlaWdodD0iMzAwIiB3aWR0aD0iMzAwIiBjbGFzcz0icG9zdC1jYXRlZ29yeS0taW1hZ2UiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIFNvZnR3YXJlCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvd2ViLnN2ZyIgaGVpZ2h0PSIzMDAiIHdpZHRoPSIzMDAiIGNsYXNzPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgV2ViCiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4KICAgICAgICAgICAgICAgICAgICA8L2xpPgogICAgICAgICAgICAgICAgICAgIDxsaT4KICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvZ2VuZXJhbC5zdmciIGhlaWdodD0iMzAwIiB3aWR0aD0iMzAwIiBjbGFzcz0icG9zdC1jYXRlZ29yeS0taW1hZ2UiLz4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIEdlbmVyYWwKICAgICAgICAgICAgICAgICAgICAgICAgPC9hPgogICAgICAgICAgICAgICAgICAgIDwvbGk+CiAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="1" type="4">
-        <text>* This is the template that displays all pages by default.
- * Please note that this is the WordPress construct of pages
- * and that other 'pages' on your WordPress site will use a
- * different template.
- *
- * To generate specific templates for your pages you can use:
- *      /mytheme/views/page-mypage.twig (which will still route through this PHP file)
- * OR
- *      /mytheme/page-mypage.php (in which case you'll want to duplicate this file and save to the above path)
- *
- * Methods for TimberHelper can be found in the /lib sub-directory
- *</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICogVGhlIHRlbXBsYXRlIGZvciBkaXNwbGF5aW5nIGFsbCBwYWdlcy4K</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9oMT4K</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGgxPgo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImNvbHVtbiI+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IHBvc3QudGl0bGUgfCBlKCdlc2NfaHRtbCcpIH19Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Ci5ycGMtZG93biB7CiAgICBAaW5jbHVkZSBtdWktc2xpZGUoCiAgICAgICAgJHN0YXRlOiBibG9jaywKICAgICAgICAkZGlyZWN0aW9uOiBkb3duLAogICAgICAgICRhbW91bnQ6IDEwMCUsCiAgICAgICAgJGZhZGU6IGZhbHNlLAogICAgICAgICRkdXJhdGlvbjogLjI1cywKICAgICAgICAkdGltaW5nOiBlYXNlLAogICAgICAgICRkZWxheTogbnVsbAogICAgKTsKfQoKLnJwYy1vdXQgewogICAgQGluY2x1ZGUgbXVpLXNsaWRlKAogICAgICAgICRzdGF0ZTogbm9uZSwKICAgICAgICAkZGlyZWN0aW9uOiB1cCwKICAgICAgICAkYW1vdW50OiAxMDAlLAogICAgICAgICRmYWRlOiBmYWxzZSwKICAgICAgICAkZHVyYXRpb246IC4yNXMsCiAgICAgICAgJHRpbWluZzogZWFzZSwKICAgICAgICAkZGVsYXk6IG51bGwKICAgICk7Cn0=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IGJsb2NrIDAuMjVzIGVhc2UtaW4tOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQo=</text>
+        <text encoding="base64">ICAgIHRyYW5zaXRpb246IG5vbmUgMC4yNXMgZWFzZS1pbi1vdXQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
