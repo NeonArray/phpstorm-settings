@@ -21,11 +21,6 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-products.php" timestamp="1532455444655">
         <mark key="[" line="9" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/plugins/index.pcss" timestamp="1531856238031">
-        <mark key="[" line="28" column="27" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/surveys/take.blade.php" timestamp="1528817035522">
         <mark key="[" line="6" column="59" />
       </file>
@@ -39,11 +34,6 @@
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/footer.php" timestamp="1532104144818">
-        <mark key="[" line="17" column="8" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/section/_page-resources.scss" timestamp="1532357153338">
         <mark key="[" line="25" column="16" />
@@ -59,16 +49,6 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/post/single.html" timestamp="1528231688022">
         <mark key="[" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/navigation/index.pcss" timestamp="1531509003022">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/package.json" timestamp="1532440187564">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/resource-card.twig" timestamp="1532460744365">
         <mark key="[" line="13" column="36" />
@@ -91,11 +71,6 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-news.php" timestamp="1532361321221">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_160304_add_sessions_table.php" timestamp="1528473806498">
         <mark key="[" line="15" column="29" />
       </file>
@@ -117,8 +92,11 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page.php" timestamp="1532362439791">
         <mark key="[" line="22" column="29" />
       </file>
-      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-config.php" timestamp="1530798400750">
-        <mark key="[" line="83" column="24" />
+      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-config.php" timestamp="1532618448550">
+        <mark key="[" line="83" column="23" />
+        <mark key="]" line="83" column="23" />
+        <mark key="^" line="83" column="23" />
+        <mark key="." line="83" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/contact/_index.md" timestamp="1528229936503">
         <mark key="[" line="0" column="5" />
@@ -147,23 +125,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/archived.blade.php" timestamp="1528484746572">
         <mark key="[" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/m.php" timestamp="1530797771808">
-        <mark key="[" line="18" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_header.pcss" timestamp="1531497805761">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/home.php" timestamp="1532005266161">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/tags/index.pcss" timestamp="1531754098724">
-        <mark key="[" line="17" column="15" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/m.php" timestamp="1532618335241">
+        <mark key="[" line="10" column="8" />
+        <mark key="]" line="28" column="4" />
+        <mark key="^" line="28" column="4" />
+        <mark key="." line="28" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -195,23 +161,8 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/projects/_index.md" timestamp="1528229994778">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page.twig" timestamp="1532369336747">
-        <mark key="[" line="8" column="24" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" timestamp="1532453402301">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/page/index.pcss" timestamp="1531918609223">
         <mark key="[" line="31" column="41" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/typography/index.pcss" timestamp="1531509365953">
-        <mark key="[" line="45" column="1" />
-        <mark key="]" line="97" column="0" />
-        <mark key="." line="97" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/footer/_index.scss" timestamp="1532109424504">
         <mark key="[" line="35" column="29" />
@@ -219,21 +170,11 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/grid/_base.pcss" timestamp="1531857090751">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/TODO.md" timestamp="1532104939257">
         <mark key="[" line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/config.yml" timestamp="1532440485066">
         <mark key="[" line="12" column="51" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" timestamp="1532097479157">
-        <mark key="[" line="5" column="3" />
-        <mark key="]" line="5" column="3" />
-        <mark key="." line="5" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/blog/single.html" timestamp="1528231559049">
         <mark key="[" line="1" column="11" />
@@ -267,11 +208,6 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Project.php" timestamp="1528832323409">
         <mark key="[" line="24" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/index.php" timestamp="1532104062376">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/tags/css.html" timestamp="1532528214846">
         <mark key="[" line="1" column="16" />
       </file>
@@ -296,31 +232,11 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Surveys.php" timestamp="1528812852009">
         <mark key="[" line="6" column="13" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/post/_single.pcss" timestamp="1531501303236">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/app.scss" timestamp="1532453721321">
-        <mark key="[" line="51" column="45" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/src/index.js" timestamp="1530631529408">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="37" />
-        <mark key="." line="7" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/search-modal.twig" timestamp="1532111890230">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
@@ -330,11 +246,6 @@
         <mark key="]" line="12" column="119" />
         <mark key="^" line="12" column="119" />
         <mark key="." line="12" column="119" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/README.md" timestamp="1531920979599">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_08_160844_remove_tracker_sessions_table.php" timestamp="1528474131679">
         <mark key="[" line="15" column="10" />
@@ -350,16 +261,6 @@
       <file name="/Dummy.txt" timestamp="1531494770759">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/product/_index.scss" timestamp="1532438024034">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/breadcrumbs.twig" timestamp="1532439704913">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-config.php" timestamp="1531942639669">
         <mark key="[" line="79" column="19" />
       </file>
@@ -372,47 +273,17 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/index.pcss" timestamp="1531835080463">
         <mark key="[" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/spark-chase/webpack.config.js" timestamp="1530801454782">
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/typography/_breadcrumbs.scss" timestamp="1532441093808">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/2018/third-post.md" timestamp="1528226112493">
         <mark key="[" line="5" column="9" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/lib/class-timber-functions.php" timestamp="1532105179457">
-        <mark key="[" line="39" column="78" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/projects.html" timestamp="1531754298415">
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="114" column="0" />
-        <mark key="." line="114" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/public/assets/levels/01.json" timestamp="1529677332617">
         <mark key="[" line="1" column="17" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/archetypes/default.md" timestamp="1528223671453">
         <mark key="[" line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-tags.html" timestamp="1532528430282">
-        <mark key="[" line="9" column="20" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/plugins/_highlight.pcss" timestamp="1531845883435">
-        <mark key="[" line="50" column="21" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-products.twig" timestamp="1532455805455">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/navigation/_index.scss" timestamp="1531932046727">
         <mark key="[" line="1" column="23" />
@@ -432,11 +303,6 @@
       <file name="$USER_HOME$/Documents/projects/spark-chase/src/utility.js" timestamp="1530623808874">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/blockquote/_index.scss" timestamp="1532109125216">
-        <mark key="[" line="18" column="7" />
-        <mark key="]" line="18" column="7" />
-        <mark key="." line="18" column="7" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/blog.html" timestamp="1529335259984">
         <mark key="[" line="0" column="0" />
       </file>
@@ -455,12 +321,7 @@
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_165648_create_trackers_table.php" timestamp="1528305715435">
         <mark key="[" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/single.twig" timestamp="1532366100450">
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
-      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/membee-login.php" timestamp="1532615408668">
+      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/membee-login.php" timestamp="1532617417406">
         <mark key="[" line="37" column="106" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Middleware/Cors.php" timestamp="1528397665627">
@@ -503,11 +364,6 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/2018/07/some-post.html" timestamp="1531845470391">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/partial/hero-card.twig" timestamp="1532097772442">
         <mark key="[" line="0" column="20" />
       </file>
@@ -520,11 +376,6 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/style.css" timestamp="1532101737418">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcrpc_product_card.php" timestamp="1532451814390">
-        <mark key="[" line="36" column="46" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" timestamp="1532096816079">
         <mark key="[" line="121" column="10" />
         <mark key="]" line="511" column="48" />
@@ -534,21 +385,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/second-post.md" timestamp="1528224370832">
         <mark key="[" line="3" column="11" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/template-home.php" timestamp="1531943955135">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-all.html" timestamp="1531336252193">
         <mark key="[" line="20" column="37" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/blog.html" timestamp="1531424573116">
         <mark key="[" line="1" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/hero/_hero-header.scss" timestamp="1532442526913">
-        <mark key="[" line="102" column="18" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/layout/_partial/after-footer.ejs" timestamp="1528123739647">
         <mark key="[" line="0" column="17" />
@@ -568,12 +409,9 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/helpers/date.js" timestamp="1531423066983">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/repository-masters/ingen-wordpress/lib/class-config.php" timestamp="1532524608929">
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" timestamp="1532617723513">
+        <mark key="'" line="204" column="0" />
       </file>
-      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" timestamp="1532615518428" />
       <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/membee-login.php" timestamp="1532615307702">
         <mark key="'" line="58" column="50" />
         <mark key="[" line="63" column="29" />
@@ -632,16 +470,6 @@
       <file name="$USER_HOME$/Documents/projects/sloth/src/app/app.component.ts" timestamp="1528296842552">
         <mark key="[" line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/pages/_product.scss" timestamp="1532445501254">
-        <mark key="[" line="35" column="9" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1532103326439">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/mixins/_index.scss" timestamp="1532355020688">
         <mark key="[" line="0" column="0" />
       </file>
@@ -666,11 +494,6 @@
         <mark key="^" line="15" column="0" />
         <mark key="." line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/data/posts.json" timestamp="1531850399421">
-        <mark key="[" line="36" column="5" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/layouts/default.html" timestamp="1527773686720">
         <mark key="[" line="3" column="22" />
       </file>
@@ -688,16 +511,6 @@
       </file>
       <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/v.php" timestamp="1532615594590">
         <mark key="[" line="202" column="8" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/js/app.js" timestamp="1532453521567">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/wordpress-wysiwyg/_index.scss" timestamp="1532443036912">
-        <mark key="[" line="16" column="4" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/elements/footer/index.pcss" timestamp="1531754149139">
         <mark key="[" line="3" column="0" />
@@ -720,11 +533,6 @@
       <file name="/PHP Console" timestamp="1532450542816">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcrpc_download.php" timestamp="1532452006880">
-        <mark key="[" line="46" column="36" />
-        <mark key="]" line="52" column="0" />
-        <mark key="." line="52" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
         <mark key="[" line="15" column="1" />
       </file>
@@ -737,24 +545,16 @@
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_205447_add_tracking_id_to_trackers_table.php" timestamp="1528334092669">
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/newsletter-widget.twig" timestamp="1532378220950">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/c.php" timestamp="1530797669763">
-        <mark key="[" line="81" column="0" />
+      <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/c.php" timestamp="1532618281338">
+        <mark key="[" line="206" column="0" />
+        <mark key="]" line="206" column="0" />
+        <mark key="." line="206" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/article/_post-summary.scss" timestamp="1532365912845">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
         <mark key="^" line="4" column="0" />
         <mark key="." line="5" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/footer.html" timestamp="1531769959365">
-        <mark key="[" line="0" column="4" />
-        <mark key="]" line="0" column="4" />
-        <mark key="." line="0" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-favicon.html" timestamp="1528214307148">
         <mark key="[" line="0" column="8" />
@@ -868,10 +668,11 @@
       <jump line="59" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/layouts/default.html" />
       <jump line="171" column="3" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/v.php" />
       <jump line="58" column="50" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/membee-login.php" />
+      <jump line="204" column="0" filename="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -882,35 +683,35 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci5wb3N0LWJvZHktLWNvcHkgYSB7CiAgICBib3JkZXItYm90dG9tOiA0cHggc29saWQgdmFyKC0tcHJpbWFyeSk7CiAgICBjb2xvcjogdmFyKC0tbGluay1jb2xvcik7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKCiAgICAvKgogICAgICogVE9ETzogTWFrZSBuaWNlIHRyYW5zaXRpb24KICAgICAqLwogICAgJjotLWhvdmVyIHsKICAgICAgICBib3JkZXI6IG5vbmU7CiAgICB9Cn0KCg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">Ci5wb3N0LWJvZHktLWNvcHkgYSB7CiAgICBib3JkZXItYm90dG9tOiA0cHggc29saWQgdmFyKC0tcHJpbWFyeSk7CiAgICBjb2xvcjogdmFyKC0tbGluay1jb2xvcik7CiAgICBmb250LXdlaWdodDogYm9sZDsKICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsKCiAgICAvKgogICAgICogVE9ETzogTWFrZSBuaWNlIHRyYW5zaXRpb24KICAgICAqLwogICAgJjotLWhvdmVyIHsKICAgICAgICBib3JkZXI6IG5vbmU7CiAgICB9Cn0KCg==</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Ci5zZWN0aW9uLWxhYmVsIHsKICAgIGZvbnQtc2l6ZTogMTJweDsKICAgIGZvbnQtd2VpZ2h0OiA4MDA7CiAgICB0ZXh0LWFsaWduOiBjZW50ZXI7Cn0KCi5tYWluLXRpdGxlIHsKICAgIGNvbG9yOiB2YXIoLS1zZWNvbmRhcnkpOwogICAgZm9udC1zaXplOiAzZW07CiAgICBtYXJnaW4tYm90dG9tOiA0NXB4OwogICAgdGV4dC1zaGFkb3c6IDVweCA2cHggMCB2YXIoLS1wcmltYXJ5KTsKfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">QGltcG9ydCAicmVzZXQucGNzcyI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
+        <text encoding="base64">QGltcG9ydCAicmVzZXQucGNzcyI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDA7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
