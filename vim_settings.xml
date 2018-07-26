@@ -85,8 +85,8 @@
         <mark key="^" line="10" column="12" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/pcss/index.pcss" timestamp="1532611835426">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/pcss/index.pcss" timestamp="1532612774214">
+        <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -253,8 +253,10 @@
         <mark key="." line="144" column="0" />
         <mark key="^" line="141" column="57" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/pcss/_navigation.pcss" timestamp="1532611658453">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/pcss/_navigation.pcss" timestamp="1532613169933">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Controllers/Auth/LoginController.php" timestamp="1528818967370">
         <mark key="[" line="27" column="39" />
@@ -600,6 +602,9 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/2018/first-post.md" timestamp="1528225449523">
         <mark key="[" line="4" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/pcss/_body.pcss" timestamp="1532612755631">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/sloth/README.md" timestamp="1528400173997">
         <mark key="[" line="0" column="0" />
       </file>
@@ -755,8 +760,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/posts.html" timestamp="1531424579731">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/partials/header.html" timestamp="1532611700278">
-        <mark key="[" line="0" column="20" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/partials/header.html" timestamp="1532612541564">
+        <mark key="[" line="16" column="16" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
       </file>
     </filemarks>
     <jumps>
@@ -856,7 +864,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">KiB7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -868,34 +876,34 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">KiB7Cg==</text>
+        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHBvc2l0aW9uOiByZWxhdGllCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW46IDA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC0tei1kcm9wZG93bjogNDsK</text>
+        <text encoding="base64">ICAgIEBtZWRpYSAoLS10YWJsZXQpIHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBpbmxpbmU7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCAiaGVscGVycy9pbmRleC5wY3NzIjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">QGltcG9ydCAiY29tcG9uZW50cy9pbmRleC5wY3NzIjsK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
