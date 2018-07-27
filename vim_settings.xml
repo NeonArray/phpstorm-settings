@@ -223,7 +223,7 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1528819076447">
         <mark key="[" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1532711176898">
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1532712949771">
         <mark key="[" line="62" column="11" />
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
@@ -353,8 +353,10 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/TODO.md" timestamp="1532104939257">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1532711556708">
-        <mark key="[" line="73" column="10" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1532712838978">
+        <mark key="[" line="116" column="19" />
+        <mark key="]" line="116" column="0" />
+        <mark key="." line="116" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/config.yml" timestamp="1532440485066">
         <mark key="[" line="12" column="51" />
@@ -476,8 +478,14 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/second-post.md" timestamp="1528224436558">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/user.class.php" timestamp="1532713109097">
+        <mark key="[" line="121" column="64" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-jekyll/Gemfile" timestamp="1528137298429">
         <mark key="[" line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/README.md" timestamp="1532712999990">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
@@ -681,7 +689,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9zZXJ2ZXJfY29udGV4dCcgKS0+d2lsbFJldHVybiggYXJyYXkoKSApOwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -693,34 +701,34 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9zZXJ2ZXJfY29udGV4dCcgKS0+d2lsbFJldHVybiggYXJyYXkoKSApOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+dXNlcl9lbWFpbCA9ICdhYXJuZXlAdGVzdC5sb2NhbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9wZXJwZXRyYXRvcl9jb250ZXh0JyApLT53aWxsUmV0dXJuKCBhcnJheSgpICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+dXNlcl9sb2dpbiA9ICdhYXJvbic7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+SUQgPSAxOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBzdGRDbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+dXNlcl9lbWFpbCA9ICdhYXJuZXlAdGVzdC5sb2NhbCc7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">JHVzZXJTdHViID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCBDbHVlXENvcmVcVXRpbHNcUGFwZXJ0cmFpbDo6Y2xhc3MgKQogICAgICAgICAgICAgICAgICAgICAgICAtPnNldENvbnN0cnVjdG9yQXJncyggYXJyYXkoICR0aGlzLT5odHRwTW9jayApICkKICAgICAgICAgICAgICAgICAgICAgICAgLT5zZXRNZXRob2RzKCBhcnJheSggJ2dldF91c2VyX2NvbnRleHQnICkgKQogICAgICAgICAgICAgICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkdXNlci0+dXNlcl9sb2dpbiA9ICdhYXJvbic7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbCA9IG5ldyAoICR0aGlzLT5odHRwTW9jayApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlci0+SUQgPSAxOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRwYXBlcnRyYWlsID0gbmV3IFBhcGVydHJhaWwoICR0aGlzLT5odHRwTW9jayApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBzdGRDbGFzcygpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">JHVzZXJTdHViID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCBDbHVlXENvcmVcVXRpbHNcUGFwZXJ0cmFpbDo6Y2xhc3MgKQogICAgICAgICAgICAgICAgICAgICAgICAtPnNldENvbnN0cnVjdG9yQXJncyggYXJyYXkoICR0aGlzLT5odHRwTW9jayApICkKICAgICAgICAgICAgICAgICAgICAgICAgLT5zZXRNZXRob2RzKCBhcnJheSggJ2dldF91c2VyX2NvbnRleHQnICkgKQogICAgICAgICAgICAgICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
