@@ -223,8 +223,10 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Middleware/RedirectIfAuthenticated.php" timestamp="1528819076447">
         <mark key="[" line="20" column="34" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1532705349420">
-        <mark key="[" line="58" column="28" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/utils/papertrail.class.php" timestamp="1532707018815">
+        <mark key="[" line="56" column="10" />
+        <mark key="]" line="58" column="0" />
+        <mark key="." line="58" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/search-form.twig" timestamp="1532111107319">
         <mark key="[" line="5" column="22" />
@@ -350,11 +352,10 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/TODO.md" timestamp="1532104939257">
         <mark key="[" line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1532706218573">
-        <mark key="[" line="112" column="68" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-        <mark key="^" line="108" column="71" />
+      <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-papertrail.php" timestamp="1532706959474">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/config.yml" timestamp="1532440485066">
         <mark key="[" line="12" column="51" />
@@ -681,7 +682,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0TWV0aG9kcyggYXJyYXkoICdnZXRfc2VydmVyX2NvbnRleHQnICkgKQo=</text>
+        <text encoding="base64">cmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -693,34 +694,34 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0TWV0aG9kcyggYXJyYXkoICdnZXRfc2VydmVyX2NvbnRleHQnICkgKQo=</text>
+        <text encoding="base64">cmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgICRwYXBlcnRyYWlsID0gbmV3IFBhcGVydHJhaWwoICR0aGlzLT5odHRwTW9jayApOwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0TW9jaygpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0Q29uc3RydWN0b3JBcmdzKCBhcnJheSggJHRoaXMtPmh0dHBNb2NrICkgKQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgJHBhcGVydHJhaWwgPSAkdGhpcy0+Z2V0ZGRkTW9ja0J1aWxkZXIoIENsdWVcQ29yZVxVdGlsc1xQYXBlcnRyYWlsOjpjbGFzcyApCiAgICAgICAgICAgICAgICAgICAgICAgICAtPnNldENvbnN0cnVjdG9yQXJncyggYXJyYXkoICR0aGlzLT5odHRwTW9jayApICkKICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0TWV0aG9kcyggYXJyYXkoICdwb3N0JyApICkKICAgICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0TW9jaygpOwogICAgICAgICRwYXBlcnRyYWlsLT5tZXRob2QoICdwb3N0JyApLT53aWxsUmV0dXJuKCB0cnVlICk7</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc2VydmVyU3R1YiA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlciggQ2x1ZVxDb3JlXFV0aWxzXFBhcGVydHJhaWw6OmNsYXNzICkK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0TWV0aG9kcyggYXJyYXkoICdnZXRfc2VydmVyX2NvbnRleHQnICkgKQo=</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0TWV0aG9kcyggYXJyYXkoICdnZXRfc2VydmVyX2NvbnRleHQnICkgKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0TW9jaygpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICkgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgIC0+c2V0Q29uc3RydWN0b3JBcmdzKCBhcnJheSggJHRoaXMtPmh0dHBNb2NrICkgKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAnaHR0cF9zZXJ2ZXInID0+IGFycmF5KCksCg==</text>
+        <text encoding="base64">ICAgICAgICAkc2VydmVyU3R1YiA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlciggQ2x1ZVxDb3JlXFV0aWxzXFBhcGVydHJhaWw6OmNsYXNzICkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
