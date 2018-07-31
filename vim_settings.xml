@@ -97,6 +97,12 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/page-internal-hero.twig" timestamp="1532365281070">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/clue-client.php" timestamp="1532982725505">
+        <mark key="[" line="97" column="45" />
+        <mark key="]" line="97" column="44" />
+        <mark key="^" line="97" column="44" />
+        <mark key="." line="97" column="44" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Survey.php" timestamp="1528813515838">
         <mark key="[" line="8" column="27" />
       </file>
@@ -154,6 +160,11 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/home.php" timestamp="1532362447397">
         <mark key="[" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/public/partials/client-public-display.php" timestamp="1532983307917">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/resource-card/_index.scss" timestamp="1532357317747">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="7" column="0" />
@@ -202,9 +213,6 @@
         <mark key="^" line="83" column="23" />
         <mark key="." line="83" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/v.php" timestamp="1532614785973">
-        <mark key="'" line="171" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/contact/_index.md" timestamp="1528229936503">
         <mark key="[" line="0" column="5" />
       </file>
@@ -223,17 +231,20 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="36" column="5" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/client.class.php" timestamp="1532983451132">
+        <mark key="[" line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/search-form.twig" timestamp="1532111107319">
         <mark key="[" line="5" column="22" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/http.class.php" timestamp="1532982634445">
+        <mark key="[" line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/helpers/date.js" timestamp="1531423066983">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Session.php" timestamp="1528479078139">
         <mark key="[" line="16" column="34" />
-      </file>
-      <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" timestamp="1532617723513">
-        <mark key="'" line="204" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/first-post.md" timestamp="1528224449941">
         <mark key="[" line="3" column="11" />
@@ -303,6 +314,12 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/pcss/_body.pcss" timestamp="1532612755631">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/options.class.php" timestamp="1532983503211">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="^" line="88" column="22" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/RegisterController.php" timestamp="1528392013217">
         <mark key="[" line="30" column="34" />
@@ -485,7 +502,7 @@
         <mark key="." line="51" column="32" />
         <mark key="^" line="51" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1532981778925">
+      <file name="/PHP Console" timestamp="1532982292545">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
@@ -675,7 +692,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9zZXJ2ZXJfY29udGV4dCcgKS0+d2lsbFJldHVybiggYXJyYXkoKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGxheV9vcHRpb25zX3BhZ2UoKTsK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -687,34 +704,34 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9zZXJ2ZXJfY29udGV4dCcgKS0+d2lsbFJldHVybiggYXJyYXkoKSApOwo=</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+ZGlzcGxheV9vcHRpb25zX3BhZ2UoKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9wZXJwZXRyYXRvcl9jb250ZXh0JyApLT53aWxsUmV0dXJuKCBhcnJheSgpICk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiAvPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA/Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8P3BocAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+dXNlcl9lbWFpbCA9ICdhYXJuZXlAdGVzdC5sb2NhbCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzZXR0aW5nc19maWVsZHMoICdjbHVlX29wdGlvbnNfZ3JvdXAnICk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+dXNlcl9sb2dpbiA9ICdhYXJvbic7Cg==</text>
+        <text encoding="base64">Ly8gICAgICAgIGRvX3NldHRpbmdzX3NlY3Rpb25zKCAnY2x1ZS1vcHRpb25zLWFkbWluJyApOwovLyAgICAgICAgc3VibWl0X2J1dHRvbigpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlci0+SUQgPSAxOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9zZXJ2ZXJfY29udGV4dCcgKS0+d2lsbFJldHVybiggYXJyYXkoKSApOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlciA9IG5ldyBzdGRDbGFzcygpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcGFwZXJ0cmFpbDMtPm1ldGhvZCggJ2dldF9wZXJwZXRyYXRvcl9jb250ZXh0JyApLT53aWxsUmV0dXJuKCBhcnJheSgpICk7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">JHVzZXJTdHViID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCBDbHVlXENvcmVcVXRpbHNcUGFwZXJ0cmFpbDo6Y2xhc3MgKQogICAgICAgICAgICAgICAgICAgICAgICAtPnNldENvbnN0cnVjdG9yQXJncyggYXJyYXkoICR0aGlzLT5odHRwTW9jayApICkKICAgICAgICAgICAgICAgICAgICAgICAgLT5zZXRNZXRob2RzKCBhcnJheSggJ2dldF91c2VyX2NvbnRleHQnICkgKQogICAgICAgICAgICAgICAgICAgICAgICAtPmdldE1vY2soKTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
