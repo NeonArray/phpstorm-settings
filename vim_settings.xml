@@ -137,8 +137,8 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/style.css" timestamp="1532101737418">
         <mark key="[" line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/README.md" timestamp="1533135047073">
-        <mark key="[" line="54" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/README.md" timestamp="1533148603040">
+        <mark key="[" line="25" column="5" />
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
@@ -507,14 +507,15 @@
         <mark key="." line="51" column="32" />
         <mark key="^" line="51" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1533052877190">
+      <file name="/PHP Console" timestamp="1533139708232">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533148539916">
+        <mark key="[" line="29" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/test/eventModel.test.js" timestamp="1533134600481" />
-      <file name="$USER_HOME$/Documents/projects/clue-server/test/users.test.js" timestamp="1533134233767" />
       <file name="/JavaScript Console" timestamp="1533134128637">
         <mark key="[" line="0" column="0" />
       </file>
