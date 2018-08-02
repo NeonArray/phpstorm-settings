@@ -363,6 +363,9 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
+      <file name="/fragment.js" timestamp="1533227544527">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/TODO.md" timestamp="1532104939257">
         <mark key="[" line="8" column="0" />
       </file>
@@ -403,8 +406,8 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-product.php" timestamp="1532436599268">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533225961824">
-        <mark key="[" line="42" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533227742142">
+        <mark key="[" line="48" column="40" />
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -483,7 +486,7 @@
       <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/v.php" timestamp="1532615594590">
         <mark key="[" line="202" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533224777759">
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533227653446">
         <mark key="[" line="38" column="45" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -538,7 +541,7 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533226587934">
+      <file name="/JavaScript Console" timestamp="1533227747932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532447478227">
