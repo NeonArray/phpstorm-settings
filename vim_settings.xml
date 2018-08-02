@@ -453,8 +453,12 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/layouts/default.html" timestamp="1527773686720">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1533214906413">
-        <mark key="[" line="19" column="17" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1533220894540">
+        <mark key="'" line="43" column="19" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="46" column="19" />
+        <mark key="^" line="46" column="19" />
+        <mark key="." line="46" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528299907467">
         <mark key="[" line="27" column="34" />
@@ -709,6 +713,9 @@
       <jump line="58" column="50" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/membee-login.php" />
       <jump line="204" column="0" filename="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" />
       <jump line="63" column="20" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/core.class.php" />
+      <jump line="46" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
+      <jump line="47" column="2" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
+      <jump line="43" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
