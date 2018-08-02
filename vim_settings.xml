@@ -166,6 +166,9 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/home.php" timestamp="1532362447397">
         <mark key="[" line="10" column="29" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1533230613382">
+        <mark key="[" line="50" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/public/partials/client-public-display.php" timestamp="1532983307917">
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -363,7 +366,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="/fragment.js" timestamp="1533229828117">
+      <file name="/fragment.js" timestamp="1533230233870">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/TODO.md" timestamp="1532104939257">
@@ -406,7 +409,7 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-product.php" timestamp="1532436599268">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533229970812">
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533230607107">
         <mark key="[" line="48" column="22" />
         <mark key="]" line="48" column="22" />
         <mark key="." line="48" column="22" />
@@ -461,7 +464,7 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/layouts/default.html" timestamp="1527773686720">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1533220894540">
+      <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1533230956883">
         <mark key="'" line="43" column="19" />
         <mark key="[" line="2" column="21" />
         <mark key="]" line="46" column="19" />
@@ -486,11 +489,7 @@
       <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/v.php" timestamp="1532615594590">
         <mark key="[" line="202" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533227653446">
-        <mark key="[" line="38" column="45" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533230155863" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-http.php" timestamp="1532704012464">
         <mark key="[" line="26" column="33" />
         <mark key="]" line="9" column="0" />
@@ -541,7 +540,7 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533229802325">
+      <file name="/JavaScript Console" timestamp="1533230131658">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532447478227">
