@@ -36,6 +36,7 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/blog.html" timestamp="1529335259984">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/middleware/authenticate.js" timestamp="1533235467720" />
       <file name="$USER_HOME$/Documents/projects/webstishio/app/Http/Controllers/Auth/ResetPasswordController.php" timestamp="1528818962970">
         <mark key="[" line="27" column="39" />
       </file>
@@ -51,7 +52,7 @@
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_165648_create_trackers_table.php" timestamp="1528305715435">
         <mark key="[" line="17" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1533134097038">
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1533234976759">
         <mark key="[" line="72" column="26" />
         <mark key="]" line="61" column="18" />
         <mark key="^" line="61" column="18" />
@@ -83,6 +84,7 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/_index.md" timestamp="1528230366478">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventRoutes.js" timestamp="1533235529460" />
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/section/_page-resources.scss" timestamp="1532357153338">
         <mark key="[" line="25" column="16" />
         <mark key="]" line="22" column="0" />
@@ -143,6 +145,7 @@
         <mark key="]" line="54" column="0" />
         <mark key="." line="54" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/middleware/errorHandler.js" timestamp="1533235439759" />
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" timestamp="1532096816079">
         <mark key="[" line="121" column="10" />
         <mark key="]" line="511" column="48" />
@@ -168,7 +171,7 @@
         <mark key="[" line="10" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventModel.js" timestamp="1533230613382">
-        <mark key="[" line="50" column="1" />
+        <mark key="[" line="42" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/public/partials/client-public-display.php" timestamp="1532983307917">
         <mark key="[" line="15" column="0" />
@@ -410,13 +413,16 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-product.php" timestamp="1532436599268">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533231082855">
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533234600594">
         <mark key="[" line="48" column="22" />
         <mark key="]" line="48" column="22" />
         <mark key="." line="48" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/bin/www" timestamp="1533235423924">
+        <mark key="[" line="2" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/hero/_index.scss" timestamp="1532441396284">
         <mark key="[" line="0" column="0" />
@@ -481,6 +487,7 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/partial/menu.twig" timestamp="1531933559329">
         <mark key="[" line="4" column="136" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userRoutes.js" timestamp="1533235612065" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/components/callout/index.pcss" timestamp="1531494643419">
         <mark key="[" line="7" column="20" />
       </file>
@@ -490,7 +497,7 @@
       <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/v.php" timestamp="1532615594590">
         <mark key="[" line="202" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533230155863" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533234964995" />
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-http.php" timestamp="1532704012464">
         <mark key="[" line="26" column="33" />
         <mark key="]" line="9" column="0" />
@@ -535,13 +542,13 @@
       <file name="/PHP Console" timestamp="1533139708232">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533148611353">
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533235711774">
         <mark key="[" line="29" column="88" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533230131658">
+      <file name="/JavaScript Console" timestamp="1533235366659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532447478227">
