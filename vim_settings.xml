@@ -362,9 +362,6 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/surveys/view.blade.php" timestamp="1528813479480">
         <mark key="[" line="6" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/test/events.test.js" timestamp="1533134680822">
-        <mark key="^" line="85" column="21" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/typography/_index.scss" timestamp="1532440955056">
         <mark key="[" line="0" column="0" />
       </file>
@@ -485,9 +482,9 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/layouts/default.html" timestamp="1527773686720">
         <mark key="[" line="3" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1533236653144">
+      <file name="$USER_HOME$/Documents/projects/clue-server/package.json" timestamp="1533314616117">
         <mark key="'" line="43" column="19" />
-        <mark key="[" line="13" column="22" />
+        <mark key="[" line="2" column="21" />
         <mark key="]" line="46" column="19" />
         <mark key="^" line="46" column="19" />
         <mark key="." line="46" column="19" />
@@ -597,6 +594,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_205447_add_tracking_id_to_trackers_table.php" timestamp="1528334092669">
         <mark key="[" line="16" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/CHANGELOG.md" timestamp="1533314626901">
+        <mark key="[" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Http/Controllers/HomeController.php" timestamp="1528391365522">
         <mark key="[" line="6" column="0" />
