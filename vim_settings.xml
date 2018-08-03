@@ -383,7 +383,7 @@
         <mark key="^" line="19" column="23" />
         <mark key="." line="19" column="23" />
       </file>
-      <file name="/fragment.js" timestamp="1533235856666">
+      <file name="/fragment.js" timestamp="1533303028265">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/ingen-wordpress/TODO.md" timestamp="1532104939257">
@@ -426,10 +426,11 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/page-product.php" timestamp="1532436599268">
         <mark key="[" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533239427547">
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" timestamp="1533305385094">
+        <mark key="'" line="53" column="22" />
+        <mark key="[" line="71" column="6" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/groups.blade.php" timestamp="1528484480339">
         <mark key="[" line="3" column="13" />
@@ -510,11 +511,12 @@
       <file name="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/v.php" timestamp="1532615594590">
         <mark key="[" line="202" column="8" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533239735167">
-        <mark key="[" line="39" column="48" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
-        <mark key="^" line="34" column="7" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" timestamp="1533304771624">
+        <mark key="'" line="42" column="21" />
+        <mark key="[" line="37" column="18" />
+        <mark key="]" line="37" column="14" />
+        <mark key="." line="37" column="14" />
+        <mark key="^" line="37" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-utils-http.php" timestamp="1532704012464">
         <mark key="[" line="26" column="33" />
@@ -545,6 +547,9 @@
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/README.md" timestamp="1532713285005">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="vm:749" timestamp="1533302658283">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
       </file>
@@ -560,10 +565,13 @@
       <file name="/PHP Console" timestamp="1533139708232">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533301185561">
+        <mark key="[" line="29" column="90" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533235366659">
+      <file name="/JavaScript Console" timestamp="1533305142401">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/product-card.twig" timestamp="1532447478227">
@@ -650,8 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="45" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-menu.php" />
-      <jump line="77" column="7" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" />
       <jump line="143" column="6" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/menu.class.php" />
       <jump line="73" column="69" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" />
       <jump line="75" column="12" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" />
@@ -750,13 +756,15 @@
       <jump line="46" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
       <jump line="47" column="2" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
       <jump line="43" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
+      <jump line="41" column="21" filename="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" />
+      <jump line="52" column="22" filename="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>console.log(&quot;Successfully added&quot;);</text>
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -765,34 +773,34 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0pOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmluZEJ5VG9rZW46ICcgKyBlKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRva2VuOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB1cGRhdGU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRva2VuOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2FkZFVzZXI6ICcgKyB0b2tlbik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">LnRoZW4oKCkgPT4gewogICAgICAgIHJldHVybiB0b2tlbjsKICAgIH0pLmNhdGNoKCgpID0+IHsKICAgICAgICBjb25zb2xlLmxvZygnZXJyb3InKTsKICAgIH0pOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAudGhlbih0b2tlbiA9PiB1c2VyLnVwZGF0ZVRva2VuKHRva2VuKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7Cg==</text>
+        <text encoding="base64">ICAgIHRva2VuOiBTdHJpbmcsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRva2VuKTsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">dGhpcy51cGRhdGUodGhpcywgdG9rZW4sIChlcnIsIGRvYykgPT4gewogICAgICAgIHJldHVybiB0b2tlbjsKICAgIH0pOw==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgLnRoZW4ocmVzID0+IHsKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgbmV4dChuZXcgQXBwbGljYXRpb25FcnJvcig0MDAsICdBdXRoIHRva2VuIGNvdWxkIG5vdCBiZSB1cGRhdGVkJywgdHJ1ZSkpOwogICAgICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAgICAgcmV0dXJuIHRva2VuOwogICAgICAgICAgICB9CiAgICAgICAgKQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
