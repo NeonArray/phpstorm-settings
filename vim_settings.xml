@@ -173,11 +173,10 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/archived.blade.php" timestamp="1528484746572">
         <mark key="[" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirRoutes.js" timestamp="1533575508855">
-        <mark key="[" line="12" column="35" />
-        <mark key="]" line="13" column="13" />
-        <mark key="." line="13" column="13" />
-        <mark key="^" line="13" column="13" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirRoutes.js" timestamp="1533577549778">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/m.php" timestamp="1532618335241">
         <mark key="[" line="10" column="8" />
@@ -331,7 +330,7 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533575153791">
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533577588098">
         <mark key="[" line="15" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
@@ -652,7 +651,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533311117785">
+      <file name="/JavaScript Console" timestamp="1533577570085">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
@@ -813,8 +812,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/severity.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgLCAoZXJyLCByZWNvcmQpID0+IHsKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnIpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlY29yZC5nZXRJZCgpKTsKICAgICAgICB9KTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -825,35 +824,35 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgCiAgICAgICAgLCAoZXJyLCByZWNvcmQpID0+IHsKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnIpOwogICAgICAgICAgICAgICAgcmV0dXJuOwogICAgICAgICAgICB9CiAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlY29yZC5nZXRJZCgpKTsKICAgICAgICB9KTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CkFpcnRhYmxlLmNvbmZpZ3VyZSh7CiAgICAKfSk=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKCB2ZXJzaW9uX2NvbXBhcmUoIHBocHZlcnNpb24oKSwgJzcuMC4yMicsICc8JyApICkgewogICAgICAgICAgICAkaHRtbCA9ICc8ZGl2IGNsYXNzPSJlcnJvciI+JzsKICAgICAgICAgICAgJGh0bWwgLj0gJzxwPic7CiAgICAgICAgICAgICRodG1sIC49IF8oICdDbHVlIGNsaWVudCByZXF1aXJlcyBQSFAgdmVyc2lvbiA3LjAuMjIgb3IgZ3JlYXRlcicgKTsKICAgICAgICAgICAgJGh0bWwgLj0gJzwvcD4nOwogICAgICAgICAgICAkaHRtbCAuPSAnPC9kaXY+JzsKICAgICAgICAgICAgZWNobyAkaHRtbDsKICAgICAgICB9Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB9IC8vIGVuZCBwbHVnaW5fZGVhY3RpdmF0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdXNlcjogYXdhaXQgdXNlciwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VydmVyOiBhd2FpdCBzZXJ2ZXIsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGllKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoIGZhbHNlID09IGRlbGV0ZV9vcHRpb24oICdkdmFuY2VkX2dvb2dsZV9hbmFseXRpY3MnICkgKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
