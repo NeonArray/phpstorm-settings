@@ -173,10 +173,10 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/archived.blade.php" timestamp="1528484746572">
         <mark key="[" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirRoutes.js" timestamp="1533579714992">
-        <mark key="[" line="3" column="49" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirRoutes.js" timestamp="1533582107138">
+        <mark key="[" line="14" column="39" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/m.php" timestamp="1532618335241">
         <mark key="[" line="10" column="8" />
@@ -330,10 +330,10 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533580978878">
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533581715264">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
@@ -653,7 +653,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533580968542">
+      <file name="/JavaScript Console" timestamp="1533582086520">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
@@ -814,8 +814,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/severity.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmFwcC5nZXQoJy8nLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5zZW5kKCdoaScpOwp9KTs=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -826,37 +826,35 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmFwcC5nZXQoJy8nLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5zZW5kKCdoaScpOwp9KTs=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">cmVxdWlyZSgnLi9jb21wb25lbnRzL2V2ZW50L2V2ZW50QWlyUm91dGVzLmpzJykoYXBwKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBldmVudCA9IGZ1bmN0aW9uIChyZXEpIHsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgQWlydGFibGUgPSByZXF1aXJlKCcuL2RiL2FpcnRhYmxlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXMuc2VuZChldmVudCk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>app.post('/api/v1/event', function (req, res, next) {
-
-});</text>
+        <text encoding="base64">CmFwcC5wb3N0KCcvYXBpL3YxL2V2ZW50JywgYXN5bmMgZnVuY3Rpb24gKHJlcSwgcmVzKSB7CiAgICByZXR1cm4gYXdhaXQgYmFzZSgnRXZlbnRzJykuY3JlYXRlKHsKICAgICAgICAnZGF0ZSc6IHJlcS5ib2R5LmRhdGUsCiAgICAgICAgJ3RyaWdnZXInOiByZXEuYm9keS50cmlnZ2VyLAogICAgICAgICdhY3Rpb24nOiByZXEuYm9keS5hY3Rpb24sCiAgICAgICAgJ3NldmVyaXR5JzogcmVxLmJvZHkuc2V2ZXJpdHksCiAgICAgICAgJ2NsaWVudCc6IHJlcS5ib2R5LmNsaWVudCwKICAgIH0pLnRoZW4oKGlkKSA9PiByZXMuc2VuZChpZCkpLmNhdGNoKChlcnIpID0+IHJlcy5zZW5kKGVycikpOwp9KTs=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmFwcC5nZXQoJy8nLCBmdW5jdGlvbiAocmVxLCByZXMsIG5leHQpIHsKICAgIHJlcy5zZW5kKCdoaScpOwp9KTs=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">cmVxdWlyZSgnLi9jb21wb25lbnRzL2V2ZW50L2V2ZW50QWlyUm91dGVzLmpzJykoYXBwKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgQWlydGFibGUgPSByZXF1aXJlKCcuL2RiL2FpcnRhYmxlJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
