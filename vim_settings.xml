@@ -285,7 +285,7 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/navigation/_desktop.scss" timestamp="1532115030366">
         <mark key="[" line="50" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/db/mongoose.js" timestamp="1533214797919">
+      <file name="$USER_HOME$/Documents/projects/clue-server/db/mongoose.js" timestamp="1533570567396">
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -677,6 +677,9 @@
         <mark key="^" line="4" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/triggers/import.class.php" timestamp="1533573939595">
+        <mark key="[" line="61" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-favicon.html" timestamp="1528214307148">
         <mark key="[" line="0" column="8" />
       </file>
@@ -690,6 +693,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/posts.html" timestamp="1531424579731">
         <mark key="[" line="1" column="19" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/db/airtable.js" timestamp="1533570919654">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/partials/header.html" timestamp="1533319707652">
         <mark key="[" line="16" column="18" />
