@@ -62,7 +62,7 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/page-internal-hero.twig" timestamp="1532365281070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/clue-client.php" timestamp="1533567929795" />
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/clue-client.php" timestamp="1533568117952" />
       <file name="$USER_HOME$/Documents/projects/clue-server/node_modules/mongodb/package.json" timestamp="1533231555861" />
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/my-first-post.md" timestamp="1528214582299">
         <mark key="[" line="5" column="3" />
@@ -150,8 +150,8 @@
         <mark key="^" line="93" column="22" />
         <mark key="." line="93" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/http.class.php" timestamp="1533561091981">
-        <mark key="[" line="61" column="25" />
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/http.class.php" timestamp="1533569809811">
+        <mark key="[" line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/sloth/app/Session.php" timestamp="1528479078139">
         <mark key="[" line="16" column="34" />
