@@ -62,11 +62,11 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/page-internal-hero.twig" timestamp="1532365281070">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/clue-client.php" timestamp="1533562956085">
-        <mark key="[" line="28" column="29" />
-        <mark key="]" line="97" column="44" />
-        <mark key="^" line="97" column="44" />
-        <mark key="." line="97" column="44" />
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/clue-client.php" timestamp="1533565933433">
+        <mark key="[" line="28" column="53" />
+        <mark key="]" line="28" column="21" />
+        <mark key="^" line="28" column="21" />
+        <mark key="." line="28" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/posts/my-first-post.md" timestamp="1528214582299">
         <mark key="[" line="5" column="3" />
@@ -201,7 +201,7 @@
       <file name="$USER_HOME$/Documents/projects/sloth/database/migrations/2018_06_06_215019_add_detailed_columns_to_trackers_table.php" timestamp="1528334087753">
         <mark key="[" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/options.class.php" timestamp="1533561809929">
+      <file name="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/options.class.php" timestamp="1533564970761">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
@@ -640,7 +640,7 @@
         <mark key="." line="51" column="32" />
         <mark key="^" line="51" column="32" />
       </file>
-      <file name="/PHP Console" timestamp="1533561763837">
+      <file name="/PHP Console" timestamp="1533565932777">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/test/eventModel.test.js" timestamp="1533317846404">
