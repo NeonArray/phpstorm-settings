@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/components/plugins/_index.scss" timestamp="1532439824468">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1533234976759">
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventController.js" timestamp="1533647258538">
         <mark key="[" line="72" column="26" />
         <mark key="]" line="61" column="18" />
         <mark key="^" line="61" column="18" />
@@ -131,12 +131,10 @@
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/archived.blade.php" timestamp="1528484746572">
         <mark key="[" line="3" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirRoutes.js" timestamp="1533587488231">
-        <mark key="a" line="28" column="41" />
-        <mark key="[" line="37" column="12" />
-        <mark key="]" line="37" column="12" />
-        <mark key="^" line="30" column="53" />
-        <mark key="." line="37" column="12" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirRoutes.js" timestamp="1533647333629">
+        <mark key="[" line="2" column="36" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/web/_index.md" timestamp="1528231465159">
         <mark key="[" line="1" column="16" />
@@ -260,10 +258,10 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/software/_index.md" timestamp="1528231450678">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533581715264">
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533647291014">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/database/migrations/2018_06_09_142657_alter_tracker_columns.php" timestamp="1528554728052">
         <mark key="[" line="16" column="48" />
@@ -506,6 +504,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/second-post.md" timestamp="1528224436558">
         <mark key="[" line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirController.js" timestamp="1533647215054">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/partials/header.html" timestamp="1527775638572">
         <mark key="[" line="11" column="16" />
       </file>
@@ -517,7 +520,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533588263306">
+      <file name="/JavaScript Console" timestamp="1533647464561">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
@@ -553,8 +556,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages/posts.html" timestamp="1531424579731">
         <mark key="[" line="1" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/db/airtable.js" timestamp="1533579693891">
-        <mark key="o" line="4" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/db/airtable.js" timestamp="1533647455982">
+        <mark key="[" line="3" column="2" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="o" line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -660,8 +666,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/severity.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29uc3QgQWlydGFibGUgPSByZXF1aXJlKCcuLi8uLi9kYi9haXJ0YWJsZScpOwo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -672,44 +678,35 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">InBsdWdpbl9uYW1lIjogIldvcmRQcmVzcyBJbXBvcnRlciIsCiAgICAgICAgICAgICJwbHVnaW5fdXJpIjogImh0dHBzOi8vd29yZHByZXNzLm9yZy9wbHVnaW5zL3dvcmRwcmVzcy1pbXBvcnRlci8iLAogICAgICAgICAgICAicGx1Z2luX3ZlcnNpb24iOiAiMC42LjQiLAogICAgICAgICAgICAicGx1Z2luX2F1dGhvciI6ICI8YSBocmVmPVxcXCJodHRwczovL3dvcmRwcmVzcy5vcmcvXFxcIj53b3JkcHJlc3Nkb3Rvcmc8XFwvYT4iLAogICAgICAgICAgICAicGx1Z2luX2F1dGhvcl91cmkiOiAiaHR0cHM6Ly93b3JkcHJlc3Mub3JnLyIsCiAgICAgICAgICAgICJwbHVnaW5fbmV0d29ya193aWRlIjogImZhbHNlIiw=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29uc3QgQWlydGFibGUgPSByZXF1aXJlKCcuLi8uLi9kYi9haXJ0YWJsZScpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICJFdmVudHMiOiBbCiAgICAgICAgICAgICAgICAicmVjbklFZzdvQ2tRSDdMdTAiCiAgICAgICAgICAgIF0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICdtZXRhJzogewogICAgICAgICAgICAgICAgLy8gJ3NlcnZlcic6IHsKICAgICAgICAgICAgICAgIC8vICAgICAnaHR0cF9hZGRyZXNzJzogJycsCiAgICAgICAgICAgICAgICAvLyAgICAgJ2h0dHBfcmVmZXJyZXInOiAnJywKICAgICAgICAgICAgICAgIC8vIH0KICAgICAgICAgICAgfSw=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Ly8gY29uc3QgbW9uZ29vc2UgPSByZXF1aXJlKCdtb25nb29zZScpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>const eventMetaPre = async function (eventMeta) {
-            const server = Airtable
-
-            const user = Airtable
-
-            return {
-                server: await server,
-                user: await user,
-            };
-        };</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gY29uc3QgRXZlbnQgPSByZXF1aXJlKCcuL2V2ZW50TW9kZWwnKTsKLy8gY29uc3QgeyBPYmplY3RJRCB9ID0gcmVxdWlyZSgnbW9uZ29kYicpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgY29uc3QgZXZlbnRJRCA9IGFzeW5jIGZ1bmN0aW9uICgpIHs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">Y29uc3QgTXIgPSByZXF1aXJlKCcuLi9oZWxwZXJzL3ZhbGlkYXRpb24nKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9Owo=</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBldmVudCA9IGZ1bmN0aW9uIChyZXEpIHsK</text>
+      <register name="8" type="4">
+        <text encoding="base64">Ci8qKgogKiBDcmVhdGUgYW4gYXJyYXkgb2YgZXZlbnQgSUQncwogKgogKiBAcGFyYW0gZXZlbnRzIGFycmF5IFRoZSBhcnJheSBvZiBldmVudHMuCiAqLwovLyBmdW5jdGlvbiBjcmVhdGVFdmVudElEcyhldmVudHMpIHsKLy8KLy8gICAgIGlmIChBcnJheS5pc0FycmF5KGV2ZW50cykpIHsKLy8gICAgICAgICByZXR1cm4gZXZlbnRzLm1hcChpID0+IGkuaWQpOwovLyAgICAgfQovLwovLyAgICAgcmV0dXJuIGV2ZW50cy5pZDsKLy8gfQoKCi8qKgogKiBDcmVhdGUgYW4gZXJyb3IgcmVwb3J0LgogKgogKiBAcGFyYW0gZXJyIG9iamVjdCBUaGUgZXJyb3Igb2JqZWN0LgogKiBAcmV0dXJucyB7QXJyYXl9CiAqLwpmdW5jdGlvbiBjcmVhdGVFcnJvclJlcG9ydChlcnIpIHsKICAgIGNvbnN0IGVycm9ycyA9IFtdOwoKICAgIF8uZm9yT3duKGVyci5lcnJvcnMsICh2YWx1ZSkgPT4gewogICAgICAgIGVycm9ycy5wdXNoKHZhbHVlLm1lc3NhZ2UpOwogICAgfSk7CgogICAgcmV0dXJuIGVycm9yczsKfQoKLyoqCiAqIFJldHVybiBhbGwgZXZlbnRzIGZvdW5kIGluIGRhdGFiYXNlLgogKgogKiBAcGFyYW0gcmVxIG9iamVjdCBUaGUgZXhwcmVzcyByZXF1ZXN0IG9iamVjdC4KICogQHBhcmFtIHJlcyBvYmplY3QgVGhlIGV4cHJlc3MgcmVzcG9uc2Ugb2JqZWN0LgogKiBAcGFyYW0gbmV4dCBmdW5jdGlvbiBUaGUgZXhwcmVzcyBuZXh0IGZ1bmN0aW9uLgogKi8KbW9kdWxlLmV4cG9ydHMuZmluZEFsbEV2ZW50cyA9IGZ1bmN0aW9uIGZpbmRBbGxFdmVudHMocmVxLCByZXMsIG5leHQpIHsKICAgIGNvbnN0IExJTUlUID0gTXIuY2xlYW4uaW50KHJlcS5xdWVyeS5MSU1JVCkgfHwgNTA7CiAgICBjb25zdCBPRkZTRVQgPSBNci5jbGVhbi5pbnQocmVxLnF1ZXJ5Lk9GRlNFVCkgfHwgMDsKICAgIGNvbnN0IFdIRVJFID0gTXIuY2xlYW4uZGF0ZVN0cmluZyhyZXEucXVlcnkuV0hFUkUpIHx8IHVuZGVmaW5lZDsKICAgIGNvbnN0IFNPUlQgPSBNci5jbGVhbi5zdHJpbmdXaXRoRGFzaChyZXEucXVlcnkuU09SVCkgfHwgJyc7CiAgICBsZXQgcXVlcnkgPSB7fTsKCiAgICAvLyBUaGlzIGlzIGZvciBwYWdpbmF0aW9uIHB1cnBvc2VzLgogICAgaWYgKFdIRVJFKSB7CiAgICAgICAgcXVlcnkgPSB7IGRhdGU6IHsgJGx0ZTogV0hFUkUgfSB9OwogICAgfQoKICAgIEV2ZW50CiAgICAgICAgLmZpbmQocXVlcnkpCiAgICAgICAgLnNraXAoT0ZGU0VUKQogICAgICAgIC5saW1pdChMSU1JVCkKICAgICAgICAuc29ydChTT1JUKQogICAgICAgIC5leGVjKChlcnIsIGV2ZW50cykgPT4gewoKICAgICAgICAgICAgaWYgKGVyciB8fCAhZXZlbnRzIHx8ICFldmVudHMubGVuZ3RoKSB7CiAgICAgICAgICAgICAgICBuZXh0KG5ldyBBcHBsaWNhdGlvbkVycm9yKDQwNCwgJ05vIGV2ZW50cyBmb3VuZC4nLCB0cnVlKSk7CiAgICAgICAgICAgICAgICByZXR1cm47CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgIC8vIENyZWF0ZSBhbiBpbmRleCBmb3IgcGFnaW5hdGlvbiBieSBhY2Nlc3NpbmcgdGhlIGxhc3QgaXRlbSBpbiB0aGUgcmV0dXJuZWQgZXZlbnRzCiAgICAgICAgICAgIC8vIGFycmF5LiBUaGVuIHBhc3MgdGhpcyBhcyBhIGhlYWRlciB0aGF0IGNhbiBiZSB1c2VkIHRvIHNldCB0aGUgc3RhcnRpbmcgcG9pbnQgZm9yCiAgICAgICAgICAgIC8vIHRoZSBuZXh0IHJlcXVlc3QuCiAgICAgICAgICAgIGNvbnN0IGluZGV4ID0gZXZlbnRzW2V2ZW50cy5sZW5ndGggLSAxXS5kYXRlOwogICAgICAgICAgICByZXMuaGVhZGVyKCd4LXBhZ2luYXRlZC1pbmRleCcsIGluZGV4KS5zdGF0dXMoMjAwKS5zZW5kKGV2ZW50cyk7CiAgICAgICAgICAgIG5leHQoKTsKICAgICAgICB9KTsKfTsKCgovKioKICogRmluZCBhbiBldmVudCBieSBpdHMgSUQuCiAqCiAqIEBwYXJhbSByZXEgb2JqZWN0IFRoZSBleHByZXNzIHJlcXVlc3Qgb2JqZWN0LgogKiBAcGFyYW0gcmVzIG9iamVjdCBUaGUgZXhwcmVzcyByZXNwb25zZSBvYmplY3QuCiAqIEBwYXJhbSBuZXh0IGZ1bmN0aW9uIFRoZSBleHByZXNzIG5leHQgZnVuY3Rpb24uCiAqLwptb2R1bGUuZXhwb3J0cy5maW5kRXZlbnRCeUlkID0gZnVuY3Rpb24gZmluZEV2ZW50QnlJZChyZXEsIHJlcywgbmV4dCkgewogICAgY29uc3QgSUQgPSBNci5jbGVhbi5zdHJpbmcocmVxLnBhcmFtcy5pZCk7CgogICAgaWYgKCFtb25nb29zZS5UeXBlcy5PYmplY3RJZC5pc1ZhbGlkKElEKSkgewogICAgICAgIG5leHQobmV3IEFwcGxpY2F0aW9uRXJyb3IoNDIyLCAnVGhlIHJlc291cmNlIElEIGlzIG9mIGFuIGluY29ycmVjdCBsZW5ndGgsIHNob3VsZCBiZSAxMiBvciAyNCBjaGFyYWN0ZXJzLicsIHRydWUpKTsKICAgICAgICByZXR1cm47CiAgICB9CgogICAgRXZlbnQuZmluZE9uZSh7CiAgICAgICAgJ19pZCc6IG5ldyBPYmplY3RJRChJRCksCiAgICB9KS50aGVuKChsb2dJdGVtKSA9PiB7CgogICAgICAgIGlmICghbG9nSXRlbSkgewogICAgICAgICAgICBuZXh0KG5ldyBBcHBsaWNhdGlvbkVycm9yKDQwNCwgJ0FuIGV2ZW50IHdpdGggdGhhdCBJRCBjb3VsZCBub3QgYmUgZm91bmQuJywgdHJ1ZSkpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQoKICAgICAgICByZXMuc3RhdHVzKDIwMCkuc2VuZChsb2dJdGVtKTsKICAgICAgICBuZXh0KCk7CiAgICB9KTsKfTs=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAvLwogICAgLy8gVGhlIGNyZWF0ZSBtZXRob2QgaXMgYSBzaG9ydGN1dCBmb3Igc2F2aW5nIGFuIGFycmF5IG9mIGRvY3VtZW50cwogICAgLy8gRXZlbnQuY3JlYXRlIGlzIHRoZSBzYW1lIGFzIGBuZXcgRXZlbnQocmVxLmJvZHkpLnNhdmUoKQogICAgLy8KICAgIC8vIHNvdXJjZTogaHR0cDovL21vbmdvb3NlanMuY29tL2RvY3MvYXBpLmh0bWwjbW9kZWxfTW9kZWwtY3JlYXRlCiAgICAvLwogICAgRXZlbnQuY3JlYXRlKHJlcS5ib2R5LCAoZXJyLCBldmVudHMpID0+IHsKCiAgICAgICAgCiAgICAgICAgLy8KICAgICAgICAvLyBXaGVuIHRoZSBgcmV0dXJuYCBzdGF0ZW1lbnQgaXMgbWlzc2luZywgdGhlIGFwcCBjcmFzaGVzIHRocm93aW5nIGEgIkNhbid0IHNldCBoZWFkZXJzCiAgICAgICAgLy8gYWZ0ZXIgdGhleSBhcmUgc2VudCIgZXJyb3IuIFRoZSBzb2x1dGlvbiBpcyB0byByZXR1cm4gYWZ0ZXIgY2FsbGluZyBuZXh0KCksIHdoaWNoIGlzCiAgICAgICAgLy8gaW50ZXJlc3RpbmcgYmVjYXVzZSBuZXh0IHNob3VsZCBiZSB0ZXJtaW5hdGluZyB0aGUgZXhlY3V0aW9uLgogICAgICAgIC8vCiAgICAgICAgLy8gc291cmNlOiBodHRwczovL3N0YWNrb3ZlcmZsb3cuY29tL3F1ZXN0aW9ucy8yNjMwNzkyMC9yZXMtanNvbi1jYW50LXNldC1oZWFkZXJzLWFmdGVyLXRoZXktYXJlLXNlbnQKICAgICAgICAvLwogICAgICAgIGlmIChlcnIpIHsKICAgICAgICAgICAgbmV4dChuZXcgQXBwbGljYXRpb25FcnJvcig0MDAsIGNyZWF0ZUVycm9yUmVwb3J0KGVyciksIHRydWUpKTsKICAgICAgICAgICAgcmV0dXJuOwogICAgICAgIH0KCiAgICAgICAgcmVzLnN0YXR1cygyMDApLnNlbmQoewogICAgICAgICAgICBzdWNjZXNzOiAnU3VjY2VzcycsCiAgICAgICAgICAgIGlkOiBjcmVhdGVFdmVudElEcyhldmVudHMpLAogICAgICAgIH0pOwogICAgICAgIG5leHQoKTsKICAgIH0pOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
