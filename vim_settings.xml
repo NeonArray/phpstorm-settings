@@ -42,10 +42,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/vr/_index.md" timestamp="1528231457333">
         <mark key="[" line="1" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/middleware/authenticate.js" timestamp="1533655721118">
-        <mark key="[" line="32" column="28" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/middleware/authenticate.js" timestamp="1533668498828">
+        <mark key="[" line="36" column="0" />
+        <mark key="]" line="36" column="0" />
+        <mark key="." line="36" column="0" />
+        <mark key="^" line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pages-compiled/blog.html" timestamp="1529335259984">
         <mark key="[" line="0" column="0" />
@@ -455,7 +456,7 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/src/partials/header.html" timestamp="1527775638572">
         <mark key="[" line="11" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533652235450">
+      <file name="$USER_HOME$/Documents/projects/clue-server/app.js" timestamp="1533666612698">
         <mark key="[" line="41" column="0" />
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
@@ -472,7 +473,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533655607721">
+      <file name="/JavaScript Console" timestamp="1533668490243">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
@@ -644,8 +645,8 @@
       <jump line="30" column="0" filename="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/severity.class.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIChub3NjcmlwdCkg4oCUPgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIC8vIH0sIGZ1bmN0aW9uIGRvbmUoZXJyKSB7CiAgICAvLyAgICAgaWYgKGVycikgewogICAgLy8gICAgICAgICAvLwogICAgLy8gICAgIH0KICAgIC8vCiAgICAvLyAgICAgcmV0dXJuIHZhbGlkOwogICAgLy8gfSk7</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -656,35 +657,39 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIChub3NjcmlwdCkg4oCUPgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIC8vIH0sIGZ1bmN0aW9uIGRvbmUoZXJyKSB7CiAgICAvLyAgICAgaWYgKGVycikgewogICAgLy8gICAgICAgICAvLwogICAgLy8gICAgIH0KICAgIC8vCiAgICAvLyAgICAgcmV0dXJuIHZhbGlkOwogICAgLy8gfSk7</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIChub3NjcmlwdCkg4oCUPgo=</text>
+        <text encoding="base64">Y29uc3QgVXNlciA9IHJlcXVpcmUoJy4uL3VzZXIvdXNlck1vZGVsJyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLSBHb29nbGUgVGFnIE1hbmFnZXIgKG5vc2NyaXB0KSAtLT4gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwhLS0gRmFjZWJvb2sgUGl4ZWwgQ29kZSAtLT4K</text>
+        <text encoding="base64">ICAgIHN0dWZmLnRoZW4oKGEpID0+IGEpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">CTwhLS0gRW5kIEdvb2dsZSBUYWcgTWFuYWdlciAtLT4K</text>
+      <register name="5" type="4">
+        <text>if (valid) {
+            req.user = 'test';
+            req.token = token;
+            next();
+        }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">CTwhLS0gR29vZ2xlIFRhZyBNYW5hZ2VyIC0tPiAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgYSA9IHY7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHZhbGlkOwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">LnRoZW4oKHYpID0+IHsKICAgICAgICBsZXQgYSA9IHY7CiAgICAgICAgcmV0dXJuIHY7CiAgICB9KQ==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhd2FpdCBpc1ZhbGlkOwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">IC8vIC8vIFVzZXIKICAgIC8vICAgICAuZmluZEJ5VG9rZW4odG9rZW4pCiAgICAvLyAgICAgLnRoZW4oKHVzZXIpID0+IHsKICAgIC8vCiAgICAvLyAgICAgICAgIGlmICghdXNlcikgewogICAgLy8gICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVqZWN0KCk7CiAgICAvLyAgICAgICAgIH0KICAgIC8vCiAgICAvLyAgICAgICAgIHJlcS51c2VyID0gdXNlcjsKICAgIC8vICAgICAgICAgcmVxLnRva2VuID0gdG9rZW47CiAgICAvLyAgICAgICAgIG5leHQoKTsKICAgIC8vICAgICB9KQogICAgLy8gICAgIC5jYXRjaCgoKSA9PiBuZXh0KG5ldyBBcHBsaWNhdGlvbkVycm9yKDQwMSwgJ1VuYXV0aG9yaXplZCBBY2Nlc3M6IEFQSSBUb2tlbiBJbnZhbGlkJywgdHJ1ZSkpKTs=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG5leHQoZ2V0KHRva2VuKSk7Cg==</text>
+        <text encoding="base64">PCEtLSBFbmQgR29vZ2xlIFRhZyBNYW5hZ2VyIChub3NjcmlwdCkg4oCUPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
