@@ -438,10 +438,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/second-post.md" timestamp="1528224436558">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirController.js" timestamp="1533651423423">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirController.js" timestamp="1533674828352">
+        <mark key="[" line="46" column="35" />
+        <mark key="]" line="46" column="35" />
+        <mark key="." line="46" column="35" />
+        <mark key="^" line="46" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/user.class.php" timestamp="1532713249156">
         <mark key="[" line="121" column="64" />
@@ -478,7 +479,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533673411242">
+      <file name="/JavaScript Console" timestamp="1533674614779">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
