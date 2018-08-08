@@ -556,6 +556,12 @@
         <mark key="." line="1" column="0" />
         <mark key="o" line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/partials/header.html" timestamp="1533751639584">
+        <mark key="[" line="27" column="9" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="75" column="12" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/tests/unit/test-trigger-option.php" />
@@ -661,7 +667,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICBwYWRkaW5nLXRvcDogMS40cmVtOw==</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text />
@@ -673,34 +679,34 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICBwYWRkaW5nLXRvcDogMS40cmVtOw==</text>
+        <text encoding="base64">PGxpIGNsYXNzPSJuYXYtaXRlbSI+CiAgICAgICAgICAgIDxhIGNsYXNzPSJuYXYtaXRlbS1saW5rIiBocmVmPSJodHRwczovL3R3aXR0ZXIuY29tL2FnYXJuZXkiIHRhcmdldD0iX2JsYW5rIiByZWw9Im5vb3BlbmVyIG5vZm9sbG93IiB0aXRsZT0iVHdpdHRlciBQcm9maWxlIj4KICAgICAgICAgICAgICAgIDxpbWcgc3JjPSJ7eyByb290IH19aW1nL3R3aXR0ZXIuc3ZnIiBhbHQ9IlR3aXR0ZXIgUHJvZmlsZSIgaGVpZ2h0PSIxOCIgLz4KICAgICAgICAgICAgPC9hPgogICAgICAgIDwvbGk+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBwYWRkaW5nLXRvcDogMS40cmVtOw==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBmbGV4LWRpcmVjdGlvbjogcm93Owo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CgogICAgLyoKICAgICAqIEJlY2F1c2UgdGhlIGJ1bGxldCBpcyBvdXRzaWRlIG9mIHRoZSBsaXN04oCZcwogICAgICogY29udGFpbmVyLCBpbmRlbnQgdGhlIGxpc3QgZW50aXJlbHkKICAgICAqLw==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBPYmplY3Qua2V5cygpOyAgICAK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGlmIChyZXEuYm9keS5tZXRhLmxlbmd0aCAmJiByZXEuYm9keS5tZXRhLnNlcnZlci5sZW5ndGgpIHsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAiZXhwcmVzcy1tb25nby1zYW5pdGl6ZSI6ICIxLjMuMiIsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLnVzZShtb25nb1Nhbml0aXplKCkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAiZXhwcmVzcy1tb25nby1zYW5pdGl6ZSI6ICIxLjMuMiIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
