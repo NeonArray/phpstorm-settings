@@ -20,11 +20,11 @@
         <mark key="]" line="486" column="33" />
         <mark key="." line="486" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/layouts/single.html" timestamp="1533759137064">
-        <mark key="[" line="49" column="41" />
-        <mark key="]" line="69" column="0" />
-        <mark key="^" line="71" column="14" />
-        <mark key="." line="69" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/layouts/single.html" timestamp="1533760923692">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="^" line="69" column="14" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/webstishio/resources/views/dashboard/index.blade.php" timestamp="1528484332784">
         <mark key="[" line="2" column="19" />
@@ -680,7 +680,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -692,25 +692,25 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogNTBweDsKICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ez4gb3V0ZGF0ZWQtY29udGVudC13YXJuaW5nIH19Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDI1cHg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogNTBweDsKICAgIH0=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDI1cHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
