@@ -461,11 +461,11 @@
       <file name="$USER_HOME$/Documents/projects/or-hugo/content/blog/2018/second-post.md" timestamp="1528224436558">
         <mark key="[" line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirController.js" timestamp="1533910904409">
-        <mark key="[" line="83" column="29" />
-        <mark key="]" line="83" column="28" />
-        <mark key="." line="83" column="28" />
-        <mark key="^" line="83" column="28" />
+      <file name="$USER_HOME$/Documents/projects/clue-server/components/event/eventAirController.js" timestamp="1533912047369">
+        <mark key="[" line="133" column="0" />
+        <mark key="]" line="133" column="0" />
+        <mark key="." line="133" column="0" />
+        <mark key="^" line="143" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/user.class.php" timestamp="1532713249156">
         <mark key="[" line="121" column="64" />
@@ -502,7 +502,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="/JavaScript Console" timestamp="1533910666233">
+      <file name="/JavaScript Console" timestamp="1533912054571">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/pcss/helpers/index.pcss" timestamp="1532528474473">
@@ -686,7 +686,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGhhc19jYXRlZ29yeSgpKSB7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjYXQtbGlua3MiPjw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlc2NfaHRtbF9lKCdpbiAnLCAndHVsaXAtd3AnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV9jYXRlZ29yeSgnLCAnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8P3BocCB9ID8+</text>
+        <text />
       </register>
       <register name="-" type="4">
         <text />
@@ -698,34 +698,40 @@
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGhhc19jYXRlZ29yeSgpKSB7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjYXQtbGlua3MiPjw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlc2NfaHRtbF9lKCdpbiAnLCAndHVsaXAtd3AnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV9jYXRlZ29yeSgnLCAnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8P3BocCB9ID8+</text>
+        <text encoding="base64">ICAgbGV0IGFkZHJlc3MgPSAnJzsKICAgIGxldCByZWZlcnJlciA9ICcnOwoKICAgIHRyeSB7CgogICAgfSBjYXRjaCAoZSkgewogICAgICAgIGNv</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>{
+        'date': req.body.date,
+        'trigger': req.body.trigger || '',
+        'action': req.body.action || '',
+        'severity': req.body.severity || '',
+        'client': req.body.client || '',
+    }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ez4gb3V0ZGF0ZWQtY29udGVudC13YXJuaW5nIH19Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKGhhc19jYXRlZ29yeSgpKSB7ID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJjYXQtbGlua3MiPjw/cGhwCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBlc2NfaHRtbF9lKCdpbiAnLCAndHVsaXAtd3AnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHRoZV9jYXRlZ29yeSgnLCAnKTsKICAgICAgICAgICAgICAgICAgICAgICAgICAgID8+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8P3BocCB9ID8+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogNTBweDsKICAgIH0=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ez4gb3V0ZGF0ZWQtY29udGVudC13YXJuaW5nIH19Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDI1cHg7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">IAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogNTBweDsKICAgIH0=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1ib3R0b206IDI1cHg7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
