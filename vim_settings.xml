@@ -15,11 +15,11 @@
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/style.css" timestamp="1532100216948">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/style.css" timestamp="1534258246332">
-        <mark key="[" line="354" column="46" />
-        <mark key="]" line="354" column="41" />
-        <mark key="." line="354" column="41" />
-        <mark key="^" line="354" column="41" />
+      <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/style.css" timestamp="1534260217191">
+        <mark key="[" line="343" column="1" />
+        <mark key="]" line="337" column="0" />
+        <mark key="." line="337" column="0" />
+        <mark key="^" line="337" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/layouts/single.html" timestamp="1533760923692">
         <mark key="[" line="64" column="0" />
@@ -356,10 +356,10 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-hexo/themes/yoda/build/index.html" timestamp="1528125231098">
         <mark key="[" line="2" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/search.php" timestamp="1533824098316">
-        <mark key="[" line="23" column="7" />
-        <mark key="]" line="23" column="7" />
-        <mark key="." line="23" column="7" />
+      <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/search.php" timestamp="1534260205566">
+        <mark key="[" line="17" column="64" />
+        <mark key="]" line="17" column="64" />
+        <mark key="." line="17" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/section/_index.scss" timestamp="1532093754769">
         <mark key="[" line="0" column="0" />
@@ -695,8 +695,9 @@
       <jump line="102" column="59" filename="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/header.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>background:url('http://ptg.staging.ribbitt
+                .com/wp-content/uploads/2017/03/quality-systems-header-background.jpg') no-repeat center;&quot;</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -707,35 +708,36 @@
       <register name="0" type="4">
         <text encoding="base64">YXJyYXkoCgkJCQkJJ3R5cGUnID0+ICd0ZXh0ZmllbGQnLAoJCQkJCSdob2xkZXInID0+ICdkaXYnLAoJCQkJCSdjbGFzcycgPT4gJycsCgkJCQkJJ2hlYWRpbmcnID0+IF9fKCAndGl0bGUnICksCgkJCQkJJ3BhcmFtX25hbWUnID0+ICd0aXRsZScsCgkJCQkJJ3ZhbHVlJyA9PiBfXyggJ3RpdGxlIG9mIHRoZSBwcm9kdWN0JyApLAoJCQkJCSdkZXNjcmlwdGlvbicgPT4gX18oICd0aXRsZScgKSwKCQkJCSks</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text>background:url('http://ptg.staging.ribbitt
+                .com/wp-content/uploads/2017/03/quality-systems-header-background.jpg') no-repeat center;&quot;</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIC5ob21lX2JveF93cmFwLndwYl9yb3cgLnZjX2NvbC1zbS0yIHsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0KfQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC5ob21lX2JveF93cmFwLndwYl9yb3cgLnZjX2NvbC1zbS0yIHsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogNDklOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBkaXNwbGF5OiBibG9jazsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC5ob21lX2JveF93cmFwLndwYl9yb3cgLnZjX2NvbC1zbS0yIHsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0KfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC5ob21lX2JveF93cmFwLndwYl9yb3cgLnZjX2NvbC1zbS0yIHsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB3aWR0aDogNDklOwo=</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBmbG9hdDogbm9uZTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
