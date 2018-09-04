@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
+      <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="temp-write-test-1502998737" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
