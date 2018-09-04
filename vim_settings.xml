@@ -90,6 +90,11 @@
       <file name="/Dummy.txt" timestamp="1535654342775">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/functions.php" timestamp="1536086245733">
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/derby-dinner-playhouse/wp-content/themes/ingen-wordpress/functions.php" timestamp="1534348811928">
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -125,6 +130,12 @@
         <mark key="[" line="6" column="1" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-content/themes/challenger/functions.php" timestamp="1536086395952">
+        <mark key="[" line="77" column="24" />
+        <mark key="]" line="94" column="30" />
+        <mark key="." line="94" column="30" />
+        <mark key="^" line="94" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/websites/derby-dinner-playhouse/wp-content/themes/nedry-ingen-wordpress/templates/base.twig" timestamp="1534358462374">
         <mark key="'" line="85" column="12" />
@@ -263,8 +274,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/Documents/websites/ingen/wp-content/themes/nedry-ingen-wordpress/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDMzcHg7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmRlZmluZSgnREtBTVBfVVNFUklEJywgMSk7IC8vIFVzZXIgSUQgb2YgeW91ciBBY2NvdW50CgphZGRfYWN0aW9uKCdkZWxldGVfdXNlcicsIGZ1bmN0aW9uKCRpZCkgewogICAgaWYgKCRpZCA9PSBES0FNUF9VU0VSSUQpIHsKICAgICAgICBkaWUoJ0FyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBkbyB0aGlzPycpOwogICAgfQp9KTs=</text>
       </register>
       <register name="-" type="4">
         <text>div</text>
@@ -275,35 +286,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDMzcHg7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmRlZmluZSgnREtBTVBfVVNFUklEJywgMSk7IC8vIFVzZXIgSUQgb2YgeW91ciBBY2NvdW50CgphZGRfYWN0aW9uKCdkZWxldGVfdXNlcicsIGZ1bmN0aW9uKCRpZCkgewogICAgaWYgKCRpZCA9PSBES0FNUF9VU0VSSUQpIHsKICAgICAgICBkaWUoJ0FyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBkbyB0aGlzPycpOwogICAgfQp9KTs=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogLTQ1cHg7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">CmRlZmluZSgnREtBTVBfVVNFUklEJywgMSk7IC8vIFVzZXIgSUQgb2YgeW91ciBBY2NvdW50CgphZGRfYWN0aW9uKCdkZWxldGVfdXNlcicsIGZ1bmN0aW9uKCRpZCkgewogICAgaWYgKCRpZCA9PSBES0FNUF9VU0VSSUQpIHsKICAgICAgICBkaWUoJ0FyZSB5b3Ugc3VyZSB5b3Ugd2FudCB0byBkbyB0aGlzPycpOwogICAgfQp9KTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAtNDVweDsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDMzcHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwcHg7Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogLTQ1cHg7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMHB4Owo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAtNDVweDsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMDsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiAwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDBweDsK</text>
+        <text encoding="base64">ICAgIG1hcmdpbi1yaWdodDogMHB4Owo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1hcmdpbjogMDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxwPjxhIGhyZWY9IiMiPkNsaWNrIGhlcmUgZm9yIG1vcmUgaW5mby48L2E+PC9wPgo=</text>
+        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDBweDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
