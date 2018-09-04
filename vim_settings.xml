@@ -57,10 +57,11 @@
       <file name="$USER_HOME$/Documents/websites/ingen/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1534782789482">
         <mark key="[" line="58" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-config.php" timestamp="1535653912788">
-        <mark key="]" line="89" column="0" />
-        <mark key="^" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-config.php" timestamp="1536090828153">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="84" column="21" />
+        <mark key="^" line="84" column="21" />
+        <mark key="." line="84" column="21" />
       </file>
       <file name="$USER_HOME$/Documents/websites/derby-dinner-playhouse/wp-content/themes/nedry-ingen-wordpress/src/js/app.js" timestamp="1534360811940">
         <mark key="[" line="6" column="0" />
@@ -87,6 +88,7 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/parts/home/slider.php" timestamp="1536087750137" />
       <file name="/Dummy.txt" timestamp="1535654342775">
         <mark key="[" line="0" column="0" />
       </file>
@@ -136,6 +138,9 @@
         <mark key="]" line="94" column="30" />
         <mark key="." line="94" column="30" />
         <mark key="^" line="94" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/custom.php" timestamp="1536090429379">
+        <mark key="[" line="119" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/websites/derby-dinner-playhouse/wp-content/themes/nedry-ingen-wordpress/templates/base.twig" timestamp="1534358462374">
         <mark key="'" line="85" column="12" />
