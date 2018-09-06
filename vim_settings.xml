@@ -24,7 +24,7 @@
       <file name="$USER_HOME$/Documents/websites/ingen/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1534782789482">
         <mark key="[" line="58" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-config.php" timestamp="1536178148657">
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-config.php" timestamp="1536179215548">
         <mark key="[" line="82" column="24" />
         <mark key="]" line="84" column="21" />
         <mark key="^" line="84" column="21" />
@@ -74,8 +74,10 @@
       <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1535658448286">
         <mark key="[" line="10" column="0" />
       </file>
-      <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/wp-config.php" timestamp="1535654858578">
+      <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/wp-config.php" timestamp="1536242821530">
         <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="34" />
+        <mark key="." line="82" column="34" />
       </file>
     </filemarks>
     <jumps>
