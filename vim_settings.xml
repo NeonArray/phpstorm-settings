@@ -31,16 +31,17 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="14" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single.php" timestamp="1536331417120" />
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/custom.php" timestamp="1536162391726">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" timestamp="1536330446228">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="5" column="4" />
-        <mark key="]" line="0" column="3" />
-        <mark key="." line="0" column="3" />
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" timestamp="1536331432337">
+        <mark key="'" line="27" column="4" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
         <mark key="^" line="0" column="3" />
       </file>
       <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1536246100363">
@@ -208,8 +209,8 @@
       <jump line="29" column="4" filename="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29weSBwcm9kdWN0X19jb3B5IgogICAgICAgICAgICAgICAgIGNvbD0iMTIiIGNvbC1tZWQ9IjciCiAgICAgICAgICAgID4KCQkgICAgICAgIDw/cGhwIHRoZV9jb250ZW50KCk7ID8+CgkJICAgICAgICAKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNvbnNvbGUubG9nKCI8P3BocCBlY2hvICRkYXRhOyA/PiIpOw==</text>
@@ -220,41 +221,41 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0iY29weSBwcm9kdWN0X19jb3B5IgogICAgICAgICAgICAgICAgIGNvbD0iMTIiIGNvbC1tZWQ9IjciCiAgICAgICAgICAgID4KCQkgICAgICAgIDw/cGhwIHRoZV9jb250ZW50KCk7ID8+CgkJICAgICAgICAKICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2Pg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">YWRkX2ZpbHRlcignc2hvd19hZG1pbl9iYXInLCAnX19yZXR1cm5fZmFsc2UnKTsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci8qKgogKiBUZW1wbGF0ZSBOYW1lOiBQYWdlLSBCYXNpYwogKi8=</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>//		$ch = curl_init();
 //		curl_setopt($ch, CURLOPT_URL, get_stylesheet_directory_uri() . '/inc/reps.json');
 //		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 //		curl_setopt($ch, CURLOPT_SSLVERSION,3);
 //		$data = curl_exec ($ch);</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNfYXJyYXkoJGRhdGEpIHx8IGlzX29iamVjdCgkZGF0YSkpIHsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50X3IoZ2V0X3N0eWxlc2hlZXRfZGlyZWN0b3J5X3VyaSgpIC4gJy9pbmMvcmVwcy5qc29uJyk7Cg==</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>finally {
 	    var_dump($data);
     }</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAKCgkvLyRkYXRhRmlsZSA9IGdldF9maWVsZCgncmVwbG9jYXRvcl9maWxlJywgJ29wdGlvbicpOwoJLy8kZGF0YSA9IGNzdl90b19hcnJheSgkZGF0YUZpbGVbJ3VybCddKTsKCiAgICAvLyRyZXBJZCA9IGlzc2V0KCRkYXRhWyR6aXBdKSA/ICRkYXRhWyR6aXBdIDogIkNBVENIQUxMIjs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
