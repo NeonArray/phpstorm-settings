@@ -8,6 +8,9 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
+        <mark key="[" line="9" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/ingen-nedry/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1534778010328">
         <mark key="[" line="38" column="36" />
       </file>
@@ -32,6 +35,13 @@
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" timestamp="1536330446228">
+        <mark key="'" line="23" column="4" />
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="3" />
       </file>
       <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1536246100363">
         <mark key="[" line="10" column="0" />
@@ -71,10 +81,10 @@
       <file name="/Dummy.txt" timestamp="1535654342775">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/functions.php" timestamp="1536086245733">
-        <mark key="[" line="76" column="0" />
-        <mark key="]" line="76" column="0" />
-        <mark key="." line="76" column="0" />
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/functions.php" timestamp="1536330635111">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
         <mark key="[" line="27" column="64" />
@@ -83,7 +93,11 @@
         <mark key="'" line="0" column="26" />
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/posttypes.php" timestamp="1536330389913" />
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/header.php" timestamp="1536258695800" />
+      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-content/themes/challenger/functions.php" timestamp="1536086395952">
         <mark key="[" line="77" column="24" />
         <mark key="]" line="94" column="30" />
@@ -92,9 +106,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
-      <jump line="19" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
-      <jump line="14" column="23" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
       <jump line="22" column="15" filename="$USER_HOME$/Documents/projects/ocular-rhythm/user/themes/ocular-rhythm/templates/partials/navigation.html.twig" />
       <jump line="72" column="7" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/_settings.scss" />
@@ -192,14 +203,13 @@
       <jump line="85" column="12" filename="$USER_HOME$/Documents/websites/derby-dinner-playhouse/wp-content/themes/nedry-ingen-wordpress/templates/base.twig" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/websites/ingen/wp-content/themes/nedry-ingen-wordpress/package.json" />
       <jump line="0" column="26" filename="/fragment.php" />
+      <jump line="0" column="3" filename="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" />
+      <jump line="29" column="4" filename="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>//		$ch = curl_init();
-//		curl_setopt($ch, CURLOPT_URL, get_stylesheet_directory_uri() . '/inc/reps.json');
-//		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
-//		curl_setopt($ch, CURLOPT_SSLVERSION,3);
-//		$data = curl_exec ($ch);</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IGNvbnNvbGUubG9nKCI8P3BocCBlY2hvICRkYXRhOyA/PiIpOw==</text>
@@ -210,41 +220,41 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">YWRkX2ZpbHRlcignc2hvd19hZG1pbl9iYXInLCAnX19yZXR1cm5fZmFsc2UnKTsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">Ci8qKgogKiBUZW1wbGF0ZSBOYW1lOiBQYWdlLSBCYXNpYwogKi8=</text>
+      </register>
+      <register name="4" type="4">
         <text>//		$ch = curl_init();
 //		curl_setopt($ch, CURLOPT_URL, get_stylesheet_directory_uri() . '/inc/reps.json');
 //		curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
 //		curl_setopt($ch, CURLOPT_SSLVERSION,3);
 //		$data = curl_exec ($ch);</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaXNfYXJyYXkoJGRhdGEpIHx8IGlzX29iamVjdCgkZGF0YSkpIHsK</text>
       </register>
-      <register name="4" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaW50X3IoZ2V0X3N0eWxlc2hlZXRfZGlyZWN0b3J5X3VyaSgpIC4gJy9pbmMvcmVwcy5qc29uJyk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>finally {
 	    var_dump($data);
     }</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAKCgkvLyRkYXRhRmlsZSA9IGdldF9maWVsZCgncmVwbG9jYXRvcl9maWxlJywgJ29wdGlvbicpOwoJLy8kZGF0YSA9IGNzdl90b19hcnJheSgkZGF0YUZpbGVbJ3VybCddKTsKCiAgICAvLyRyZXBJZCA9IGlzc2V0KCRkYXRhWyR6aXBdKSA/ICRkYXRhWyR6aXBdIDogIkNBVENIQUxMIjs=</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiMgYmVnaW4gd29yZHByZXNzCjxpZm1vZHVsZSBtb2RfcmV3cml0ZS5jPgojcmV3cml0ZWVuZ2luZSBvbgojcmV3cml0ZWJhc2UgLwojcmV3cml0ZXJ1bGUgXmluZGV4XC5waHAkIC0gW2xdCiNyZXdyaXRlY29uZCAle3JlcXVlc3RfZmlsZW5hbWV9ICEtZgojcmV3cml0ZWNvbmQgJXtyZXF1ZXN0X2ZpbGVuYW1lfSAhLWQKI3Jld3JpdGVydWxlIC4gL2luZGV4LnBocCBbbF0KCiNyZXdyaXRlZW5naW5lIG9uCiNyZXdyaXRlYmFzZSAvCiNyZXdyaXRlcnVsZSBeaW5kZXhcLnBocCQgLSBbbF0KCiMgYWRkIGEgdHJhaWxpbmcgc2xhc2ggdG8gL3dwLWFkbWluCiNyZXdyaXRlcnVsZSBed3AtYWRtaW4kIHdwLWFkbWluLyBbcj0zMDEsbF0KCiNyZXdyaXRlY29uZCAle3JlcXVlc3RfZmlsZW5hbWV9IC1mIFtvcl0KI3Jld3JpdGVjb25kICV7cmVxdWVzdF9maWxlbmFtZX0gLWQKI3Jld3JpdGVydWxlIF4gLSBbbF0KI3Jld3JpdGVydWxlIF4od3AtKGNvbnRlbnR8YWRtaW58aW5jbHVkZXMpLiopICQxIFtsXQojcmV3cml0ZXJ1bGUgXiguKlwucGhwKSQgJDEgW2xdCiNyZXdyaXRlcnVsZSAuIGluZGV4LnBocCBbbF0KIwojcmV3cml0ZWVuZ2luZSBvbgojcmV3cml0ZWJhc2UgLwojcmV3cml0ZXJ1bGUgXmluZGV4XC5waHAkIC0gW2xdCiMKIyMgYWRkIGEgdHJhaWxpbmcgc2xhc2ggdG8gL3dwLWFkbWluCiNyZXdyaXRlcnVsZSBeKFtfMC05YS16YS16LV0rLyk/d3AtYWRtaW4kICQxd3AtYWRtaW4vIFtyPTMwMSxsXQojCiNyZXdyaXRlY29uZCAle3JlcXVlc3RfZmlsZW5hbWV9IC1mIFtvcl0KI3Jld3JpdGVjb25kICV7cmVxdWVzdF9maWxlbmFtZX0gLWQKI3Jld3JpdGVydWxlIF4gLSBbbF0KI3Jld3JpdGVydWxlIF4oW18wLTlhLXphLXotXSsvKT8od3AtKGNvbnRlbnR8YWRtaW58aW5jbHVkZXMpLiopICQyIFtsXQojcmV3cml0ZXJ1bGUgXihbXzAtOWEtemEtei1dKy8pPyguKlwucGhwKSQgJDIgW2xdCiNyZXdyaXRlcnVsZSAuIGluZGV4LnBocCBbbF0KCjwvaWZtb2R1bGU+</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ClJld3JpdGVFbmdpbmUgT24KUmV3cml0ZUJhc2UgLwpSZXdyaXRlUnVsZSBeaW5kZXhcLnBocCQgLSBbTF0KCgo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8vLwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
