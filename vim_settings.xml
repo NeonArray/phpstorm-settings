@@ -66,10 +66,10 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/template-home.php" timestamp="1536340190106">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="." line="16" column="0" />
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/template-home.php" timestamp="1536341211023">
+        <mark key="[" line="13" column="9" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
         <mark key="^" line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/clue-server/components/helpers/validation.js" timestamp="1533319215868">
@@ -94,10 +94,11 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" timestamp="1536339769532">
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" timestamp="1536340608445">
         <mark key="[" line="15" column="36" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
+        <mark key="^" line="13" column="41" />
       </file>
       <file name="&lt;3c83131e-e6f4-4ce5-9ca1-34fe637a524d&gt;/wp-content/themes/beech-acres-parenting-center/header.php" timestamp="1533655911525">
         <mark key="[" line="72" column="0" />
@@ -121,8 +122,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-kentico.php" timestamp="1536338505144">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-kentico.php" timestamp="1536341151025">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="4" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
@@ -146,7 +150,7 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1536340043278">
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1536341278912">
         <mark key="[" line="72" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/header.css" timestamp="1534257184608">
@@ -343,11 +347,11 @@
       <jump line="29" column="4" filename="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-ch_product.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZHt7IGR1bXAocG9zdCkgfX0jfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IG5ldyBEZWxpdmVyeUNsaWVudCggJzM4YzgzMjEzLTA4ZjItMDBhOS1kYmMzLWFiNjQ2NWU5YWFjNycgKTs=</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IG5ldyBEZWxpdmVyeUNsaWVudCggJzM4YzgzMjEzLTA4ZjItMDBhOS1kYmMzLWFiNjQ2NWU5YWFjNycgKTs=</text>
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -355,35 +359,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZHt7IGR1bXAocG9zdCkgfX0jfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBwdWJsaWMgZnVuY3Rpb24gY2xpZW50KCk6IERlbGl2ZXJ5Q2xpZW50IHsKICAgICAgICByZXR1cm4gJHRoaXMtPmRlbGl2ZXJ5X2NsaWVudDsKICAgIH0=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7ZHt7IGR1bXAocG9zdCkgfX0jfQo=</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">Zm9yZWFjaCAoJHJlc3BvbnNlLT5pdGVtcyBhcyAkaXRlbSkgewogICAgJGl0ZW0gPSAkaXRlbS0+dGl0bGU7Cn0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Ly8kYXJySnNvbiA9IGpzb25fZGVjb2RlKCAkanNvbiwgdHJ1ZSApOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Ly8kY29udGV4dFsncG9zdCddID0gJHBvc3Q7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CSAgICAkY29udGV4dFsna2VudGljbyddICAgICAgICAgPSAkY2xpZW50Owo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">JGNvbnRleHRbJ3Bvc3QnXSA9IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
