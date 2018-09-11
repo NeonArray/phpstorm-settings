@@ -6,24 +6,22 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/style.css" timestamp="1536337926057">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/kentico/resources/views/article.blade.php" timestamp="1536676970219">
-        <mark key="[" line="69" column="20" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+      <file name="$USER_HOME$/Documents/projects/kentico/resources/views/article.blade.php" timestamp="1536678707375">
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="69" column="23" />
+        <mark key="." line="69" column="23" />
+        <mark key="^" line="69" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/parts/locator/form.php" timestamp="1536175287131">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536676406760">
-        <mark key="[" line="18" column="32" />
+      <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536679371309">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ingen-nedry/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1534778010328">
         <mark key="[" line="38" column="36" />
@@ -63,16 +61,11 @@
         <mark key="^" line="84" column="21" />
         <mark key="." line="84" column="21" />
       </file>
-      <file name="/PHP Console" timestamp="1536613155792">
+      <file name="/PHP Console" timestamp="1536679530707">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/reps.json" timestamp="1536162993825">
-        <mark key="[" line="32" column="29" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536340151859">
         <mark key="[" line="62" column="15" />
@@ -80,30 +73,19 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-timber-functions.php" timestamp="1536342610516">
-        <mark key="[" line="31" column="8" />
-        <mark key="]" line="31" column="8" />
-        <mark key="." line="31" column="8" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/template-home.php" timestamp="1536343048113">
         <mark key="[" line="12" column="9" />
         <mark key="]" line="12" column="9" />
         <mark key="." line="12" column="9" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/kentico/config/app.php" timestamp="1536677116352">
-        <mark key="[" line="162" column="55" />
-        <mark key="]" line="197" column="69" />
-        <mark key="." line="197" column="69" />
-        <mark key="^" line="197" column="69" />
+      <file name="$USER_HOME$/Documents/projects/kentico/config/app.php" timestamp="1536679065726">
+        <mark key="[" line="195" column="0" />
+        <mark key="]" line="195" column="0" />
+        <mark key="." line="195" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1535654342775">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/functions.php" timestamp="1536330635111">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/HomeController.php" timestamp="1536610729092" />
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
@@ -125,11 +107,10 @@
         <mark key="^" line="11" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/server.php" timestamp="1536676011688" />
-      <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/ArticleController.php" timestamp="1536674260934">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-        <mark key="^" line="4" column="13" />
+      <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/ArticleController.php" timestamp="1536679991217">
+        <mark key="[" line="22" column="37" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
@@ -146,11 +127,6 @@
         <mark key="." line="94" column="30" />
         <mark key="^" line="94" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/custom.php" timestamp="1536162391726">
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" timestamp="1536343214759">
         <mark key="[" line="16" column="9" />
         <mark key="]" line="16" column="9" />
@@ -166,11 +142,6 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
-      </file>
-      <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1536246100363">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-kentico.php" timestamp="1536342754164">
         <mark key="[" line="8" column="5" />
@@ -292,7 +263,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZmZbJ2NvbnRlbnQnXSA9IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCRzdHVmZlsnY29udGVudCddKTsK</text>
+        <text encoding="base64">ICAgICAgICAkUGFyc2Vkb3duLT5zZXRNYXJrdXBFc2NhcGVkKGZhbHNlKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -304,34 +275,39 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAkc3R1ZmZbJ2NvbnRlbnQnXSA9IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCRzdHVmZlsnY29udGVudCddKTsK</text>
+        <text encoding="base64">ICAgICAgICAkUGFyc2Vkb3duLT5zZXRNYXJrdXBFc2NhcGVkKGZhbHNlKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">dXNlIEdyYWhhbUNhbXBiZWxsXE1hcmtkb3duXEZhY2FkZXNcTWFya2Rvd247Cg==</text>
+        <text encoding="base64">ICAgICAgICAiZ3JhaGFtLWNhbXBiZWxsL21hcmtkb3duIjogIl4xMC4xIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnQnID0+IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAnTWFya2Rvd24nID0+IEdyYWhhbUNhbXBiZWxsXE1hcmtkb3duXEZhY2FkZXNcTWFya2Rvd246OmNsYXNzLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBHcmFoYW1DYW1wYmVsbFxNYXJrZG93blxNYXJkZGtkb3duU2VydmljZVByb3ZpZGVyOjpjbGFzcwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBHcmFoYW1DYW1wYmVsbFxNYXJrZG93blxNYXJrZG93blNlcnZpY2VQcm92aWRlcgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21ldGFfdGl0bGUnID0+ICRhcnRpY2xlLT5pdGVtc1swXS0+dGl0bGUsCg==</text>
+        <text encoding="base64">dXNlIEdyYWhhbUNhbXBiZWxsXE1hcmtkb3duXEZhY2FkZXNcTWFya2Rvd247Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldCgkYXJ0aWNsZS0+aXRlbXMpOwo=</text>
+      <register name="7" type="4">
+        <text>&quot;repositories&quot;: [
+        {
+            &quot;type&quot;: &quot;vcs&quot;,
+            &quot;url&quot;: &quot;https://github.com/ocularrhythm/laravel-markdown&quot;
+        }
+    ],</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0ga2V5KCRhcnRpY2xlLWl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAkc3R1ZmYtPmNvbnRlbnQgPSBNYXJrZG93bjo6cGFyc2UoJHN0dWZmLT5jb250ZW50KTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5lbGVtZW50cyhhcnJheSgnc2x1ZycpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBNYXJrZG93bjo6Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
