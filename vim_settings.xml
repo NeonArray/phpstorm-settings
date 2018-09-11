@@ -6,8 +6,8 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/style.css" timestamp="1536337926057">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/kentico/resources/views/article.blade.php" timestamp="1536609492065">
-        <mark key="[" line="70" column="0" />
+      <file name="$USER_HOME$/Documents/projects/kentico/resources/views/article.blade.php" timestamp="1536676970219">
+        <mark key="[" line="69" column="20" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
       </file>
@@ -21,6 +21,9 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536676406760">
+        <mark key="[" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ingen-nedry/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1534778010328">
         <mark key="[" line="38" column="36" />
@@ -88,10 +91,11 @@
         <mark key="." line="12" column="9" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/kentico/config/app.php" timestamp="1536670895626">
-        <mark key="[" line="161" column="0" />
-        <mark key="]" line="161" column="0" />
-        <mark key="." line="161" column="0" />
+      <file name="$USER_HOME$/Documents/projects/kentico/config/app.php" timestamp="1536677116352">
+        <mark key="[" line="162" column="55" />
+        <mark key="]" line="197" column="69" />
+        <mark key="." line="197" column="69" />
+        <mark key="^" line="197" column="69" />
       </file>
       <file name="/Dummy.txt" timestamp="1535654342775">
         <mark key="[" line="0" column="0" />
@@ -120,10 +124,12 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="11" column="14" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/ArticleController.php" timestamp="1536671978322">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/projects/kentico/server.php" timestamp="1536676011688" />
+      <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/ArticleController.php" timestamp="1536674260934">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="4" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
@@ -286,7 +292,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnQnID0+IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3R1ZmZbJ2NvbnRlbnQnXSA9IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCRzdHVmZlsnY29udGVudCddKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -298,34 +304,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnQnID0+IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCksCg==</text>
+        <text encoding="base64">ICAgICAgICAkc3R1ZmZbJ2NvbnRlbnQnXSA9IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCRzdHVmZlsnY29udGVudCddKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">dXNlIEdyYWhhbUNhbXBiZWxsXE1hcmtkb3duXEZhY2FkZXNcTWFya2Rvd247Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBHcmFoYW1DYW1wYmVsbFxNYXJrZG93blxNYXJrZG93blNlcnZpY2VQcm92aWRlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvbnRlbnQnID0+IE1hcmtkb3duOjpjb252ZXJ0VG9IdG1sKCksCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ21ldGFfdGl0bGUnID0+ICRhcnRpY2xlLT5pdGVtc1swXS0+dGl0bGUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldCgkYXJ0aWNsZS0+aXRlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBHcmFoYW1DYW1wYmVsbFxNYXJrZG93blxNYXJrZG93blNlcnZpY2VQcm92aWRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAka2V5ID0ga2V5KCRhcnRpY2xlLWl0ZW1zKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ21ldGFfdGl0bGUnID0+ICRhcnRpY2xlLT5pdGVtc1swXS0+dGl0bGUsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5lbGVtZW50cyhhcnJheSgnc2x1ZycpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNldCgkYXJ0aWNsZS0+aXRlbXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5lbGVtZW50cyhhcnJheSgnc2x1ZycgPT4gJHNsdWcpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAka2V5ID0ga2V5KCRhcnRpY2xlLWl0ZW1zKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLT5kZXB0aCgwKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLT5lbGVtZW50cyhhcnJheSgnc2x1ZycpKSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
