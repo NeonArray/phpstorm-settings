@@ -63,7 +63,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/functions.php" timestamp="1536687551511">
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/functions.php" timestamp="1536688287159">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
@@ -84,7 +84,7 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/page.php" timestamp="1536687596851" />
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/page.php" timestamp="1536688361599" />
       <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536679371309">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -144,11 +144,18 @@
       <file name="/fragment.php" timestamp="1536686363146">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-wp-router/includes/class-sp-wp-router-route.php" timestamp="1536689225066">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/page.twig" timestamp="1536686655271">
-        <mark key="[" line="16" column="35" />
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/page.twig" timestamp="1536688668680">
+        <mark key="[" line="14" column="24" />
+        <mark key="]" line="14" column="24" />
+        <mark key="." line="14" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/routes/web.php" timestamp="1536609348348">
         <mark key="'" line="14" column="13" />
@@ -261,8 +268,8 @@
       <jump line="14" column="13" filename="$USER_HOME$/Documents/projects/kentico/routes/web.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JGNvbnRleHRbJ2NvbnRlbnQnXSA9IGpzb25fZGVjb2RlKCRpdGVtcyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICoKICogVGhpcyBpcyB1c2VkIHRvIGRlZmluZSBpbnRlcm5hdGlvbmFsaXphdGlvbiwgYWRtaW4tc3BlY2lmaWMgaG9va3MsIGFuZAogKiBwdWJsaWMtZmFjaW5nIHNpdGUgaG9va3MuCiAqCiAqIEFsc28gbWFpbnRhaW5zIHRoZSB1bmlxdWUgaWRlbnRpZmllciBvZiB0aGlzIHBsdWdpbiBhcyB3ZWxsIGFzIHRoZSBjdXJyZW50CiAqIHZlcnNpb24gb2YgdGhlIHBsdWdpbi4=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -273,37 +280,39 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">JGNvbnRleHRbJ2NvbnRlbnQnXSA9IGpzb25fZGVjb2RlKCRpdGVtcyk7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICoKICogVGhpcyBpcyB1c2VkIHRvIGRlZmluZSBpbnRlcm5hdGlvbmFsaXphdGlvbiwgYWRtaW4tc3BlY2lmaWMgaG9va3MsIGFuZAogKiBwdWJsaWMtZmFjaW5nIHNpdGUgaG9va3MuCiAqCiAqIEFsc28gbWFpbnRhaW5zIHRoZSB1bmlxdWUgaWRlbnRpZmllciBvZiB0aGlzIHBsdWdpbiBhcyB3ZWxsIGFzIHRoZSBjdXJyZW50CiAqIHZlcnNpb24gb2YgdGhlIHBsdWdpbi4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text>{% for item in content %}
+                            {{ item.title }}
+                        {% endfor %}</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHt7IGR1bXAoaXRlbSkgfX0K</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JGNvbnRleHRbJ2NvbnRlbnQnXSA9IGpzb25fZGVjb2RlKCRpdGVtcyk7Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>function bl_new_demo_route_callback($item) {
     return $item;
 }</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CSAgICAkY29udGV4dFsna2VkbnRpY28nXSAgICAgICAgID0gJHRoaXMtPmtlbnRpY28tPmRlbGl2ZXJ5X2NsaWVudDsK</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CiAgICAgICAgaWYgKCAka2VudGljbyAhPT0gbnVsbCkgewogICAgICAgICAgICAkdGhpcy0+a2VudGljbyA9ICRrZW50aWNvOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgZGQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">CgkJJGtlbnRpY28gPSBudWxsOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBpZiAoICRjb25maWctPmdldF9maWVsZCggJ0tFTlRJQ08nLCAncHJvamVjdCcgKSApIHsKICAgICAgICAgICAgcmVxdWlyZV9vbmNlICRsaWJyYXJ5X3BhdGggLiAnY2xhc3Mta2VudGljby5waHAnOwogICAgICAgICAgICAka2VudGljbyA9IG5ldyBJbmdlblxLZW50aWNvKCAkY29uZmlnICk7CiAgICAgICAgfQ==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICRwYXJzZXItPnBhcnNlKCRtYXJrZG93bik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
