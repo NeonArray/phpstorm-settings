@@ -54,6 +54,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/templates/post.js" timestamp="1536946881033">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/helpers/index.pcss" timestamp="1536935621624" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/_variables.pcss" timestamp="1536939712763">
         <mark key="]" line="3" column="19" />
@@ -64,6 +71,13 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pages/index.js" timestamp="1536946829526">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-config.js" timestamp="1536945123181">
         <mark key="'" line="5" column="17" />
@@ -78,7 +92,7 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_base.css" timestamp="1536946539131">
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_base.css" timestamp="1536946649631">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="^" line="0" column="0" />
@@ -119,6 +133,13 @@
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/style.css" timestamp="1536756411999">
+        <mark key="'" line="4" column="123" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="122" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536679371309">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -144,6 +165,12 @@
         <mark key="[" line="71" column="48" />
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/home/index.scss" timestamp="1536936823253">
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="50" />
+        <mark key="^" line="47" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/resources/views/home.blade.php" timestamp="1536610437791">
         <mark key="[" line="68" column="33" />
