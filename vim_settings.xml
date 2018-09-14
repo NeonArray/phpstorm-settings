@@ -42,7 +42,7 @@
         <mark key="]" line="67" column="20" />
         <mark key="." line="67" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/index.js" timestamp="1536945819467">
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/index.js" timestamp="1536946334933">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="10" />
         <mark key="]" line="18" column="27" />
@@ -54,13 +54,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/templates/post.js" timestamp="1536938326111">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="7" column="30" />
-        <mark key="]" line="7" column="31" />
-        <mark key="^" line="7" column="31" />
-        <mark key="." line="7" column="31" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/helpers/index.pcss" timestamp="1536935621624" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/_variables.pcss" timestamp="1536939712763">
         <mark key="]" line="3" column="19" />
@@ -71,13 +64,6 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pages/index.js" timestamp="1536935960566">
-        <mark key="'" line="10" column="0" />
-        <mark key="[" line="1" column="30" />
-        <mark key="]" line="1" column="1" />
-        <mark key="^" line="1" column="1" />
-        <mark key="." line="1" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-config.js" timestamp="1536945123181">
         <mark key="'" line="5" column="17" />
@@ -91,6 +77,12 @@
         <mark key="]" line="22" column="0" />
         <mark key="." line="22" column="0" />
         <mark key="^" line="21" column="30" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_base.css" timestamp="1536946539131">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pages/tags.js" timestamp="1536937802486" />
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/functions.php" timestamp="1536688287159">
@@ -119,19 +111,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_archive-all.css" timestamp="1536946526690" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/header/index.js" timestamp="1536944750732">
         <mark key="'" line="47" column="13" />
         <mark key="[" line="2" column="14" />
         <mark key="]" line="14" column="37" />
         <mark key="." line="14" column="37" />
         <mark key="^" line="14" column="37" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/style.css" timestamp="1536756411999">
-        <mark key="'" line="4" column="123" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="4" column="122" />
-        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536679371309">
         <mark key="[" line="11" column="0" />
@@ -176,12 +162,6 @@
         <mark key="[" line="32" column="29" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/header.js" timestamp="1536938626059">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="7" column="7" />
-        <mark key="]" line="7" column="7" />
-        <mark key="." line="7" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/header/header.module.css" timestamp="1536943131097">
         <mark key="[" line="0" column="31" />
@@ -329,7 +309,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="-" type="4">
         <text>'</text>
@@ -341,34 +321,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfX0K</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmdUb3A6IDAsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6ICcwcHggMS4wODc1cmVtIDEuNDVyZW0nLAo=</text>
+        <text encoding="base64">ICAgIEBzdXBwb3J0cyAoZGlzcGxheTogZ3JpZCkgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFdpZHRoOiA5NjAsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogJzAgYXV0bycsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmdUb3A6IDAsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3sK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmc6ICcwcHggMS4wODc1cmVtIDEuNDVyZW0nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1heFdpZHRoOiA5NjAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHdpZHRoOiAxMDB2dzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbjogJzAgYXV0bycsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3R5bGU9e3sK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
