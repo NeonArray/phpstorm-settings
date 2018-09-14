@@ -15,6 +15,11 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/index.css" timestamp="1536936264134">
+        <mark key="[" line="6" column="10" />
+        <mark key="]" line="6" column="10" />
+        <mark key="." line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/parts/locator/form.php" timestamp="1536175287131">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -34,12 +39,20 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/inc/logo.php" timestamp="1536258723583">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/index.js" timestamp="1536935299269">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="44" column="1" />
+        <mark key="]" line="44" column="1" />
+        <mark key="^" line="44" column="1" />
+        <mark key="." line="44" column="1" />
+      </file>
       <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-config.php" timestamp="1536161960870">
         <mark key="[" line="53" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ingen/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1534782789482">
         <mark key="[" line="58" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/helpers/index.pcss" timestamp="1536935621624" />
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
       </file>
@@ -51,12 +64,19 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/template-home.php" timestamp="1536685838132">
-        <mark key="]" line="12" column="9" />
-        <mark key="." line="12" column="9" />
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pages/index.js" timestamp="1536935960566">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="1" column="30" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-config.js" timestamp="1536935155722">
-        <mark key="'" line="4" column="17" />
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-config.js" timestamp="1536936517810">
+        <mark key="'" line="6" column="17" />
+        <mark key="[" line="10" column="22" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="9" column="48" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -83,6 +103,7 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/package.json" timestamp="1536936042796" />
       <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1536246100363">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -130,6 +151,12 @@
       <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/header.css" timestamp="1534257184608">
         <mark key="[" line="15" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/home/index.scss" timestamp="1536936823253">
+        <mark key="[" line="35" column="7" />
+        <mark key="]" line="47" column="50" />
+        <mark key="." line="47" column="50" />
+        <mark key="^" line="47" column="50" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/resources/views/home.blade.php" timestamp="1536610437791">
         <mark key="[" line="68" column="33" />
         <mark key="]" line="68" column="56" />
@@ -176,11 +203,18 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/base.twig" timestamp="1536338257183">
         <mark key="[" line="32" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/index.pcss" timestamp="1536936319591" />
       <file name="$USER_HOME$/Documents/websites/kentico/wp-config.php" timestamp="1536756906669">
         <mark key="[" line="56" column="119" />
       </file>
       <file name="/fragment.php" timestamp="1536686363146">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/home/index.js" timestamp="1536936857623">
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+        <mark key="." line="4" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-wp-router/includes/class-sp-wp-router-route.php" timestamp="1536689225066">
         <mark key="[" line="16" column="0" />
@@ -202,8 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" />
-      <jump line="15" column="42" filename="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/src/webpack.config.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
@@ -302,13 +334,15 @@
       <jump line="4" column="17" filename="$USER_HOME$/Documents/projects/or-gatsby/gatsby-config.js" />
       <jump line="19" column="15" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/header.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/header.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/index.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/Documents/projects/or-gatsby/src/pages/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAqKiBDb21wb25lbnRzCiAgICAqKi8=</text>
       </register>
       <register name="-" type="4">
-        <text>echo phpversion();</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -316,8 +350,8 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAqKiBDb21wb25lbnRzCiAgICAqKi8=</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -325,26 +359,26 @@
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2hlY2tfdmVyc2lvbiggZ2V0X2Jsb2dpbmZvKCAndmVyc2lvbicgKSwgUExVR0lOX01JTklNVU1fV1BfVkVSU0lPTiApOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CmJvZHkgewogICAgY29sb3I6IHZhcigtLXJlZCk7Cn0=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Y2hlY2tfdmVyc2lvbiggcGhwdmVyc2lvbigpLCBQTFVHSU5fTUlOSU1VTV9QSFBfVkVSU0lPTiApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIF0sCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiR0aGlzLT5jaGVja192ZXJzaW9uKCAgICk7</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zdGNzcy1wcmVzZXQtZW52JywK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ci8qKgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zdGNzcy1uZXN0ZWQnLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Ci8qKgogKiBDdXJyZW50bHkgcGx1Z2luIHZlcnNpb24uCiAqIFN0YXJ0IGF0IHZlcnNpb24gMS4wLjAgYW5kIHVzZSBTZW1WZXIgLSBodHRwczovL3NlbXZlci5vcmcKICogUmVuYW1lIHRoaXMgZm9yIHlvdXIgcGx1Z2luIGFuZCB1cGRhdGUgaXQgYXMgeW91IHJlbGVhc2UgbmV3IHZlcnNpb25zLgogKi8KZGVmaW5lKCAnUExVR0lOX05BTUVfVkVSU0lPTicsICcxLjAuMCcgKTsKCi8qKgogKiBUaGUgY29kZSB0aGF0IHJ1bnMgZHVyaW5nIHBsdWdpbiBhY3RpdmF0aW9uLgogKiBUaGlzIGFjdGlvbiBpcyBkb2N1bWVudGVkIGluIGluY2x1ZGVzL2NsYXNzLXNwLXJvdXRlci1hY3RpdmF0b3IucGhwCiAqLwpmdW5jdGlvbiBhY3RpdmF0ZV9zcF9yb3V0ZXIoKSB7CiAgICByZXF1aXJlX29uY2UgcGx1Z2luX2Rpcl9wYXRoKCBfX0ZJTEVfXyApIC4gJ2luY2x1ZGVzL2NsYXNzLXNwLXJvdXRlci1hY3RpdmF0b3IucGhwJzsKICAgIFNwX1JvdXRlcl9BY3RpdmF0b3I6OmFjdGl2YXRlKCk7Cn0KCi8qKgogKiBUaGUgY29kZSB0aGF0IHJ1bnMgZHVyaW5nIHBsdWdpbiBkZWFjdGl2YXRpb24uCiAqIFRoaXMgYWN0aW9uIGlzIGRvY3VtZW50ZWQgaW4gaW5jbHVkZXMvY2xhc3Mtc3Atcm91dGVyLWRlYWN0aXZhdG9yLnBocAogKi8KZnVuY3Rpb24gZGVhY3RpdmF0ZV9zcF9yb3V0ZXIoKSB7CiAgICByZXF1aXJlX29uY2UgcGx1Z2luX2Rpcl9wYXRoKCBfX0ZJTEVfXyApIC4gJ2luY2x1ZGVzL2NsYXNzLXNwLXJvdXRlci1kZWFjdGl2YXRvci5waHAnOwogICAgU3BfUm91dGVyX0RlYWN0aXZhdG9yOjpkZWFjdGl2YXRlKCk7Cn0KCnJlZ2lzdGVyX2FjdGl2YXRpb25faG9vayggX19GSUxFX18sICdhY3RpdmF0ZV9zcF9yb3V0ZXInICk7CnJlZ2lzdGVyX2RlYWN0aXZhdGlvbl9ob29rKCBfX0ZJTEVfXywgJ2RlYWN0aXZhdGVfc3Bfcm91dGVyJyApOwoKLyoqCiAqIFRoZSBjb3JlIHBsdWdpbiBjbGFzcyB0aGF0IGlzIHVzZWQgdG8gZGVmaW5lIGludGVybmF0aW9uYWxpemF0aW9uLAogKiBhZG1pbi1zcGVjaWZpYyBob29rcywgYW5kIHB1YmxpYy1mYWNpbmcgc2l0ZSBob29rcy4KICovCnJlcXVpcmUgcGx1Z2luX2Rpcl9wYXRoKCBfX0ZJTEVfXyApIC4gJ2luY2x1ZGVzL2NsYXNzLXNwLXJvdXRlci5waHAnOwoKLyoqCiAqIEJlZ2lucyBleGVjdXRpb24gb2YgdGhlIHBsdWdpbi4KICoKICogU2luY2UgZXZlcnl0aGluZyB3aXRoaW4gdGhlIHBsdWdpbiBpcyByZWdpc3RlcmVkIHZpYSBob29rcywKICogdGhlbiBraWNraW5nIG9mZiB0aGUgcGx1Z2luIGZyb20gdGhpcyBwb2ludCBpbiB0aGUgZmlsZSBkb2VzCiAqIG5vdCBhZmZlY3QgdGhlIHBhZ2UgbGlmZSBjeWNsZS4KICoKICogQHNpbmNlICAgIDEuMC4wCiAqLwpmdW5jdGlvbiBydW5fc3Bfcm91dGVyKCkgewoKICAgICRwbHVnaW4gPSBuZXcgU3BfUm91dGVyKCk7CiAgICAkcGx1Z2luLT5ydW4oKTsKCn0KcnVuX3NwX3JvdXRlcigpOw==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zdGNzcy1pbXBvcnQnLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGVtcGxhdGU6ICAgICAgICAgICBoZWFkbGVzc3MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zdGNzcy1jdXN0b20tbWVkaWEnLAo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CglwdWJsaWMgZnVuY3Rpb24gX19jb25zdHJ1Y3QoIHN0cmluZyAkcm91dGVJRCApIHsKICAgICAgICAkdGhpcy0+aWQgPSAkcm91dGVJRDsKCX0=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAncG9zdGNzcy1jc3NuZXh0JywK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
