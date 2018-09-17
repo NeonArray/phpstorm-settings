@@ -91,10 +91,10 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-node.js" timestamp="1537210357351">
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-node.js" timestamp="1537210890901">
+        <mark key="[" line="36" column="30" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/includes/class-sp-router.php" timestamp="1536773088927">
         <mark key="[" line="76" column="0" />
@@ -174,11 +174,11 @@
         <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/components/callout/index.pcss" timestamp="1537204415633" />
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" timestamp="1537210703676">
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" timestamp="1537212190943">
         <mark key="'" line="5" column="20" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_page-post.css" timestamp="1537202293760" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-header/index.js" timestamp="1537200468914">
@@ -406,8 +406,8 @@
       <jump line="5" column="20" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByZXYpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBpZiAocHJldi5oYXNPd25Qcm9wZXJ0eSgnZnJvbnRtYXR0ZXInKSkgewogICAgICAgIHByZXZpb3VzRWwgPSAoCiAgICAgICAgICAgIAogICAgICAgICk7CiAgICB9CgogICAgaWYgKG5leHQuaGFzT3duUHJvcGVydHkoJ2Zyb250bWF0dGVyJykpIHsKICAgICAgICBuZXh0RWwgPSAoCiAgICAgICAgICAgIAogICAgICAgICk7CiAgICB9</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -418,35 +418,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByZXYpOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBpZiAocHJldi5oYXNPd25Qcm9wZXJ0eSgnZnJvbnRtYXR0ZXInKSkgewogICAgICAgIHByZXZpb3VzRWwgPSAoCiAgICAgICAgICAgIAogICAgICAgICk7CiAgICB9CgogICAgaWYgKG5leHQuaGFzT3duUHJvcGVydHkoJ2Zyb250bWF0dGVyJykpIHsKICAgICAgICBuZXh0RWwgPSAoCiAgICAgICAgICAgIAogICAgICAgICk7CiAgICB9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHQpOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgeyBpZiAocHJldi5oYXNPd25Qcm9wZXJ0eSgnZnJvbnRtYXR0ZXInKSkgewogICAgICAgICAgICAKICAgIH19</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhDb250ZXh0KTsK</text>
+        <text encoding="base64">ICAgIGxldCBwcmV2aW91c1RpdGxlID0gcHJldi5oYXNPd25Qcm9wZXJ0eSgnZnJvbnRtYXR0ZXInKSA/IHByZXYuZnJvbnRtYXR0ZXIudGl0bGUgOiAnJ2MK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByZXYpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHQpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhDb250ZXh0KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHtkYXRhLmFsbE1hcmtkb3duUmVtYXJrLnRvdGFsQ291bnR9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
