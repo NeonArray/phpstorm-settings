@@ -39,11 +39,12 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="32" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/templates/post.js" timestamp="1537209262551">
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/templates/post.js" timestamp="1537210553375">
         <mark key="'" line="30" column="17" />
         <mark key="[" line="20" column="0" />
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
+        <mark key="^" line="19" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
@@ -90,10 +91,10 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-node.js" timestamp="1536941821502">
-        <mark key="[" line="36" column="2" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/gatsby-node.js" timestamp="1537210357351">
+        <mark key="[" line="35" column="30" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/includes/class-sp-router.php" timestamp="1536773088927">
         <mark key="[" line="76" column="0" />
@@ -173,10 +174,11 @@
         <mark key="^" line="5" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/components/callout/index.pcss" timestamp="1537204415633" />
-      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" timestamp="1537208959135">
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" timestamp="1537210703676">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_page-post.css" timestamp="1537202293760" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-header/index.js" timestamp="1537200468914">
@@ -302,7 +304,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="19" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/projects/index.blade.php" />
       <jump line="8" column="21" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/view.blade.php" />
       <jump line="19" column="31" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/trackers/index.blade.php" />
       <jump line="38" column="21" filename="$USER_HOME$/Documents/projects/webstishio/resources/views/groups/index.blade.php" />
@@ -402,10 +403,11 @@
       <jump line="17" column="17" filename="$USER_HOME$/Documents/projects/or-gatsby/src/templates/post.js" />
       <jump line="10" column="16" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/grid/index.js" />
       <jump line="67" column="5" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/post-footer.css" />
+      <jump line="5" column="20" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByZXYpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>&quot;</text>
@@ -417,25 +419,25 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHByZXYpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5leHQpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhDb250ZXh0KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHRoaXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHtkYXRhLmFsbE1hcmtkb3duUmVtYXJrLnRvdGFsQ291bnR9Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -444,7 +446,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIHtkYXRhLmFsbE1hcmtkb3duUmVtYXJrLnRvdGFsQ291bnR9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
