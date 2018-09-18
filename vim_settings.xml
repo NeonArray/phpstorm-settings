@@ -66,6 +66,9 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="D:/repos/ocular-rhythm-gatsby/package.json" timestamp="1537232649528">
+        <mark key="[" line="4" column="50" />
+      </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/pcss/helpers/index.pcss" timestamp="1537229099641" />
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
         <mark key="[" line="27" column="64" />
@@ -76,11 +79,11 @@
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/post-header/index.js" timestamp="1537229353491">
         <mark key="[" line="2" column="8" />
       </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/components/category-list/index.js" timestamp="1537230100220">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="31" column="28" />
-        <mark key="^" line="31" column="28" />
-        <mark key="." line="31" column="28" />
+      <file name="D:/repos/ocular-rhythm-gatsby/src/components/category-list/index.js" timestamp="1537232630038">
+        <mark key="[" line="38" column="44" />
+        <mark key="]" line="38" column="31" />
+        <mark key="^" line="38" column="31" />
+        <mark key="." line="38" column="31" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537227932030">
         <mark key="[" line="6" column="27" />
@@ -115,6 +118,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="D:/repos/ocular-rhythm-gatsby/src/templates/category.js" timestamp="1537232118364">
+        <mark key="[" line="12" column="8" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/pages/blog.js" timestamp="1537229765941">
         <mark key="[" line="20" column="15" />
       </file>
@@ -144,11 +152,10 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537231408803">
-        <mark key="[" line="49" column="73" />
-        <mark key="]" line="49" column="69" />
-        <mark key="." line="49" column="69" />
-        <mark key="^" line="49" column="69" />
+      <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537232394742">
+        <mark key="[" line="1" column="29" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/includes/class-sp-router-route.php" timestamp="1536698499048">
         <mark key="[" line="44" column="36" />
@@ -371,10 +378,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYXRlZ29yaWVzID0gcmVzdWx0LmRhdGEuYWxsTWFya2Rvd25SZW1hcmsuZWRnZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">dGl0bGU9e2BZb3VyIEJsb2cgTmFtZSAtICR7IHBvc3QuZnJvbnRtYXR0ZXIudGl0bGUgfWB9IA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -383,34 +390,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBjYXRlZ29yaWVzID0gcmVzdWx0LmRhdGEuYWxsTWFya2Rvd25SZW1hcmsuZWRnZXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVkZ2UsICdub2RlLmZyb250bWF0dGVyLnRheG9ub215JykpIHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIDxQb3N0SGVhZGVyIGNvbnRlbnQ9eyBwb3N0IH0gLz4KICAgICAgICAgICAgeyBzaG93Q2FsbG91dCB9CiAgICAgICAgICAgIDxQb3N0Qm9keSBjb250ZW50PXsgcG9zdCB9IC8+CiAgICAgICAgICAgIDxQb3N0Rm9vdGVyIGxpbmtzPXsgcGF0aENvbnRleHQgfSAvPg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAvLyBJZiB0aGUgcG9zdCBpcyBvdmVyIGEgeWVhciBvbGQsIGRpc3BsYXkgdGhlIGNhbGxvdXQgY29tcG9uZW50CiAgICBpZiAoY3VycmVudERhdGUuZGlmZihwb3N0RGF0ZSwgJ3llYXJzJykgPj0gMSkgewogICAgICAgIHNob3dDYWxsb3V0ID0gKDxDYWxsb3V0Lz4pOwogICAgfQ==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGxldCBzaG93Q2FsbG91dCA9IGZhbHNlOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbnN0IHBvc3REYXRlID0gbW9tZW50KHBvc3QuZnJvbnRtYXR0ZXIuZGF0ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gQXNzZXRzCg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnREYXRlID0gbW9tZW50KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IFBvc3RIZWFkZXIK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IGZyb20gJy4uL2NvbXBvbmVudHMvcG9zdC1oZWFkZXInOwppbXBvcnQgUG9zdEJvZHkgZnJvbSAnLi4vY29tcG9uZW50cy9wb3N0LWJvZHknOwppbXBvcnQgUG9zdEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL3Bvc3QtZm9vdGVyJzsKaW1wb3J0IENhbGxvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9jYWxsb3V0JzsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
