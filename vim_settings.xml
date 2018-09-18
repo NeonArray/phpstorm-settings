@@ -66,8 +66,12 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/package.json" timestamp="1537232649528">
+      <file name="D:/repos/ocular-rhythm-gatsby/package.json" timestamp="1537233252883">
+        <mark key="'" line="10" column="7" />
         <mark key="[" line="4" column="50" />
+        <mark key="]" line="10" column="7" />
+        <mark key="^" line="10" column="7" />
+        <mark key="." line="10" column="7" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/pcss/helpers/index.pcss" timestamp="1537229099641" />
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
@@ -118,10 +122,11 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="25" />
       </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/templates/category.js" timestamp="1537232118364">
-        <mark key="[" line="12" column="8" />
-        <mark key="]" line="12" column="8" />
-        <mark key="." line="12" column="8" />
+      <file name="D:/repos/ocular-rhythm-gatsby/src/templates/category.js" timestamp="1537233864578">
+        <mark key="[" line="4" column="40" />
+        <mark key="]" line="18" column="22" />
+        <mark key="^" line="18" column="22" />
+        <mark key="." line="18" column="22" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/pages/blog.js" timestamp="1537229765941">
         <mark key="[" line="20" column="15" />
@@ -152,10 +157,10 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537232394742">
-        <mark key="[" line="1" column="29" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537233751785">
+        <mark key="[" line="50" column="4" />
+        <mark key="]" line="50" column="4" />
+        <mark key="." line="50" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/includes/class-sp-router-route.php" timestamp="1536698499048">
         <mark key="[" line="44" column="36" />
@@ -261,6 +266,13 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/style.css" timestamp="1536756411999">
+        <mark key="'" line="4" column="123" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="4" column="122" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/posts/other-post.md" timestamp="1537229711804">
         <mark key="[" line="4" column="13" />
       </file>
@@ -275,7 +287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/config.json" />
       <jump line="15" column="42" filename="$USER_HOME$/Documents/projects/or-hugo/themes/ananke/src/webpack.config.js" />
       <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
@@ -375,10 +386,11 @@
       <jump line="4" column="17" filename="$USER_HOME$/Documents/projects/or-gatsby/gatsby-config.js" />
       <jump line="19" column="15" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/header.js" />
       <jump line="33" column="0" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/header.js" />
+      <jump line="10" column="7" filename="D:/repos/ocular-rhythm-gatsby/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IDxQb3N0SGVhZGVyIGNvbnRlbnQ9eyBwb3N0IH0gLz4KICAgICAgICAgICAgeyBzaG93Q2FsbG91dCB9CiAgICAgICAgICAgIDxQb3N0Qm9keSBjb250ZW50PXsgcG9zdCB9IC8+CiAgICAgICAgICAgIDxQb3N0Rm9vdGVyIGxpbmtzPXsgcGF0aENvbnRleHQgfSAvPg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -389,35 +401,38 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">IDxQb3N0SGVhZGVyIGNvbnRlbnQ9eyBwb3N0IH0gLz4KICAgICAgICAgICAgeyBzaG93Q2FsbG91dCB9CiAgICAgICAgICAgIDxQb3N0Qm9keSBjb250ZW50PXsgcG9zdCB9IC8+CiAgICAgICAgICAgIDxQb3N0Rm9vdGVyIGxpbmtzPXsgcGF0aENvbnRleHQgfSAvPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVkZ2UsICdub2RlLmZyb250bWF0dGVyLnRheG9ub215JykpIHsK</text>
+      <register name="2" type="4">
+        <text>import PostHeader from '../components/post-header';
+import PostBody from '../components/post-body';
+import PostFooter from '../components/post-footer';
+import Callout from '../components/callout';</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIDxQb3N0SGVhZGVyIGNvbnRlbnQ9eyBwb3N0IH0gLz4KICAgICAgICAgICAgeyBzaG93Q2FsbG91dCB9CiAgICAgICAgICAgIDxQb3N0Qm9keSBjb250ZW50PXsgcG9zdCB9IC8+CiAgICAgICAgICAgIDxQb3N0Rm9vdGVyIGxpbmtzPXsgcGF0aENvbnRleHQgfSAvPg==</text>
+        <text encoding="base64">ICBjb25zdCBjdXJyZW50RGF0ZSA9IG1vbWVudCgpOwogICAgY29uc3QgcG9zdERhdGUgPSBtb21lbnQocG9zdC5mcm9udG1hdHRlci5kYXRlKTsKICAgIGxldCBzaG93Q2FsbG91dCA9IGZhbHNlOwoKICAgIC8vIElmIHRoZSBwb3N0IGlzIG92ZXIgYSB5ZWFyIG9sZCwgZGlzcGxheSB0aGUgY2FsbG91dCBjb21wb25lbnQKICAgIGlmIChjdXJyZW50RGF0ZS5kaWZmKHBvc3REYXRlLCAneWVhcnMnKSA+PSAxKSB7CiAgICAgICAgc2hvd0NhbGxvdXQgPSAoPENhbGxvdXQvPik7CiAgICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAvLyBJZiB0aGUgcG9zdCBpcyBvdmVyIGEgeWVhciBvbGQsIGRpc3BsYXkgdGhlIGNhbGxvdXQgY29tcG9uZW50CiAgICBpZiAoY3VycmVudERhdGUuZGlmZihwb3N0RGF0ZSwgJ3llYXJzJykgPj0gMSkgewogICAgICAgIHNob3dDYWxsb3V0ID0gKDxDYWxsb3V0Lz4pOwogICAgfQ==</text>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IG1vbWVudCBmcm9tICdtb21lbnQnOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBzaG93Q2FsbG91dCA9IGZhbHNlOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgIC8vIEVsaW1pbmF0ZSBkdXBsaWNhdGUgdGFncwogICAgICAgIC8vIGNhdGVnb3JpZXMgPSBfLnVuaXFCeShjYXRlZ29yaWVzKTs=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHBvc3REYXRlID0gbW9tZW50KHBvc3QuZnJvbnRtYXR0ZXIuZGF0ZSk7Cg==</text>
+        <text encoding="base64">Y29uc3QgXyA9IHJlcXVpcmUoJ2xvZGFzaCcpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGN1cnJlbnREYXRlID0gbW9tZW50KCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBjYXRlZ29yaWVzID0gXy51bmlxKGNhdGVnb3JpZXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IFBvc3RIZWFkZXIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IGZyb20gJy4uL2NvbXBvbmVudHMvcG9zdC1oZWFkZXInOwppbXBvcnQgUG9zdEJvZHkgZnJvbSAnLi4vY29tcG9uZW50cy9wb3N0LWJvZHknOwppbXBvcnQgUG9zdEZvb3RlciBmcm9tICcuLi9jb21wb25lbnRzL3Bvc3QtZm9vdGVyJzsKaW1wb3J0IENhbGxvdXQgZnJvbSAnLi4vY29tcG9uZW50cy9jYWxsb3V0JzsKCg==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKGVkZ2UsICdub2RlLmZyb250bWF0dGVyLnRheG9ub215JykpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
