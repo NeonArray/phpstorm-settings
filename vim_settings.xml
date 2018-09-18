@@ -144,6 +144,12 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
+      <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537231408803">
+        <mark key="[" line="49" column="73" />
+        <mark key="]" line="49" column="69" />
+        <mark key="." line="49" column="69" />
+        <mark key="^" line="49" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/includes/class-sp-router-route.php" timestamp="1536698499048">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="7" />
@@ -365,7 +371,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjYXRlZ29yaWVzID0gcmVzdWx0LmRhdGEuYWxsTWFya2Rvd25SZW1hcmsuZWRnZXM7Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">dGl0bGU9e2BZb3VyIEJsb2cgTmFtZSAtICR7IHBvc3QuZnJvbnRtYXR0ZXIudGl0bGUgfWB9IA==</text>
@@ -377,13 +383,13 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCBjYXRlZ29yaWVzID0gcmVzdWx0LmRhdGEuYWxsTWFya2Rvd25SZW1hcmsuZWRnZXM7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -391,20 +397,20 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gQXNzZXRzCg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gQXNzZXRzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFBvc3RCbG9jayBmcm9tICcuLi9jb21wb25lbnRzL3Bvc3QtYmxvY2snOwo=</text>
+        <text encoding="base64">aW1wb3J0IExpbmsgZnJvbSAnZ2F0c2J5LWxpbmsnOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
