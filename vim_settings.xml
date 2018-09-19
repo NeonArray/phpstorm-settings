@@ -18,6 +18,13 @@
         <mark key="^" line="5" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/templates/category.js" timestamp="1537286194971">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="8" column="32" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/_helpers.css" timestamp="1537324462007" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/index.js" timestamp="1537365574637">
         <mark key="[" line="2" column="7" />
@@ -70,6 +77,13 @@
         <mark key="." line="47" column="0" />
         <mark key="^" line="32" column="2" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/templates/post.js" timestamp="1537286203975">
+        <mark key="'" line="34" column="16" />
+        <mark key="[" line="13" column="36" />
+        <mark key="]" line="34" column="16" />
+        <mark key="^" line="34" column="16" />
+        <mark key="." line="34" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
@@ -116,6 +130,7 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/themes/independence-tube/page-contacts.php" timestamp="1537371187746" />
       <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1536246100363">
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
@@ -182,6 +197,13 @@
         <mark key="]" line="76" column="0" />
         <mark key="^" line="75" column="0" />
         <mark key="." line="76" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/post-footer.css" timestamp="1537289252287">
+        <mark key="'" line="68" column="5" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="68" column="5" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-config.php" timestamp="1536342688454">
         <mark key="[" line="33" column="24" />
@@ -289,10 +311,12 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-admin.php" timestamp="1537370802871">
-        <mark key="[" line="84" column="59" />
-        <mark key="]" line="93" column="0" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-admin.php" timestamp="1537372169192">
+        <mark key="'" line="168" column="0" />
+        <mark key="[" line="111" column="74" />
+        <mark key="]" line="111" column="72" />
+        <mark key="." line="111" column="72" />
+        <mark key="^" line="111" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/pcss/components/callout/index.pcss" timestamp="1537204415633" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-footer/index.js" timestamp="1537289411907">
@@ -390,6 +414,13 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/inc/logo.php" timestamp="1536258723583">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/index.js" timestamp="1537282042295">
+        <mark key="'" line="16" column="8" />
+        <mark key="[" line="19" column="28" />
+        <mark key="]" line="19" column="26" />
+        <mark key="." line="19" column="26" />
+        <mark key="^" line="19" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -444,7 +475,12 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537369751784" />
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537371666154">
+        <mark key="[" line="30" column="1" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="3" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_archive-all.css" timestamp="1536946526690" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-block/post-block.css" timestamp="1537325456472">
         <mark key="[" line="22" column="5" />
@@ -582,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="40" column="14" filename="$USER_HOME$/Documents/projects/spark-wordpress-resources/_layouts/default.html" />
       <jump line="113" column="4" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" />
       <jump line="81" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive.html" />
@@ -682,10 +717,11 @@
       <jump line="17" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/archive.module.css" />
       <jump line="24" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/archive.module.css" />
       <jump line="8" column="12" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/callout/index.js" />
+      <jump line="145" column="0" filename="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-admin.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdoYXNfYXJjaGl2ZScgICAgICAgICAgID0+IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>W</text>
@@ -697,34 +733,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdoYXNfYXJjaGl2ZScgICAgICAgICAgID0+IHRydWUsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1cGxvYWRlZF90b190aGlzX2l0ZW0nID0+IF9fKCAnVXBsb2FkZWQgdG8gdGhpcyBpdGVtJywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">ICAgICAgICBlbmRpZjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbnNlcnRfaW50b19pdGVtJyAgICAgID0+IF9fKCAnSW5zZXJ0IEFnZW50JywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VfZmVhdHVyZWRfaW1hZ2UnICAgID0+IF9fKCAnVXNlIGFzIGZlYXR1cmVkIGltYWdlJywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiggZnVuY3Rpb25fZXhpc3RzKCdhY2ZfYWRkX2xvY2FsX2ZpZWxkX2dyb3VwJykgKToK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZW1vdmVfZmVhdHVyZWRfaW1hZ2UnID0+IF9fKCAnUmVtb3ZlIGZlYXR1cmVkIGltYWdlJywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdoYXNfYXJjaGl2ZScgICAgICAgICAgID0+IHRydWUsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdzZXRfZmVhdHVyZWRfaW1hZ2UnICAgID0+IF9fKCAnU2V0IGZlYXR1cmVkIGltYWdlJywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1cGxvYWRlZF90b190aGlzX2l0ZW0nID0+IF9fKCAnVXBsb2FkZWQgdG8gdGhpcyBpdGVtJywgJ3RleHRfZG9tYWluJyApLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdmZWF0dXJlZF9pbWFnZScgICAgICAgID0+IF9fKCAnRmVhdHVyZWQgSW1hZ2UnLCAndGV4dF9kb21haW4nICksCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdpbnNlcnRfaW50b19pdGVtJyAgICAgID0+IF9fKCAnSW5zZXJ0IEFnZW50JywgJ3RleHRfZG9tYWluJyApLAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdwYXJlbnRfaXRlbV9jb2xvbicgICAgID0+IF9fKCAnUGFyZW50IEl0ZW06JywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICd1c2VfZmVhdHVyZWRfaW1hZ2UnICAgID0+IF9fKCAnVXNlIGFzIGZlYXR1cmVkIGltYWdlJywgJ3RleHRfZG9tYWluJyApLAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICdhdHRyaWJ1dGVzJyAgICAgICAgICAgID0+IF9fKCAnSXRlbSBBdHRyaWJ1dGVzJywgJ3RleHRfZG9tYWluJyApLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdyZW1vdmVfZmVhdHVyZWRfaW1hZ2UnID0+IF9fKCAnUmVtb3ZlIGZlYXR1cmVkIGltYWdlJywgJ3RleHRfZG9tYWluJyApLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
