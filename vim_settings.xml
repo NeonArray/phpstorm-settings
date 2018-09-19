@@ -19,8 +19,8 @@
         <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/_helpers.css" timestamp="1537324462007" />
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/index.js" timestamp="1537299080910">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/index.js" timestamp="1537365574637">
+        <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -104,8 +104,9 @@
         <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/layouts/_variables.scss" timestamp="1536939287925" />
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/callout/index.js" timestamp="1537299154869">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/callout/index.js" timestamp="1537365483402">
+        <mark key="'" line="6" column="12" />
+        <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
@@ -194,6 +195,9 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-footer/post-footer.module.css" timestamp="1537365898472">
+        <mark key="[" line="1" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/includes/class-sp-router-route.php" timestamp="1536698499048">
         <mark key="[" line="44" column="36" />
         <mark key="]" line="44" column="7" />
@@ -278,6 +282,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/post-header.module.css" timestamp="1537365665888">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/grid/_page-post.css" timestamp="1537202293760" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-header/index.js" timestamp="1537289421161">
         <mark key="[" line="1" column="0" />
@@ -301,8 +310,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537325205597">
-        <mark key="[" line="2" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537365290809">
+        <mark key="[" line="8" column="30" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -334,8 +343,8 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-footer/index.js" timestamp="1537299098766">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-footer/index.js" timestamp="1537365831698">
+        <mark key="[" line="3" column="6" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -519,6 +528,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/archive.module.css" timestamp="1537365317721">
+        <mark key="'" line="16" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-body/index.js" timestamp="1537289393673">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="18" column="0" />
@@ -529,9 +544,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-category.html" />
-      <jump line="14" column="19" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/archive-category.html" />
-      <jump line="11" column="10" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/partials/post-block.html" />
       <jump line="40" column="14" filename="$USER_HOME$/Documents/projects/spark-wordpress-resources/_layouts/default.html" />
       <jump line="113" column="4" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" />
       <jump line="118" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-site/src/layouts/default.html" />
@@ -629,6 +641,9 @@
       <jump line="17" column="6" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/layout.js" />
       <jump line="14" column="10" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/layout.js" />
       <jump line="22" column="45" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/gatsby-node.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/archive.module.css" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/archive.module.css" />
+      <jump line="8" column="12" filename="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/callout/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -649,29 +664,29 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">fQoKICAgICYgLnBvc3QtaGVhZGVyLS1sZWZ0LAogICAgJiAucG9zdC1oZWFkZXItLXJpZ2h0IHsKICAgICAgICAKICAgIH0KfQ==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IFBvc3RCbG9jayBmcm9tICcuLi9wb3N0LWJsb2NrJzsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">CkBjdXN0b20tbWVkaWEgLS1waG9uZSAobWluLXdpZHRoOiA0ODBweCk7CkBjdXN0b20tbWVkaWEgLS10YWJsZXQgKG1pbi13aWR0aDogNzY4cHgpOwpAY3VzdG9tLW1lZGlhIC0tZGVza3RvcCAobWluLXdpZHRoOiAxMDI0cHgpOwpAY3VzdG9tLW1lZGlhIC0tbGFyZ2UtZGVza3RvcCAobWluLXdpZHRoOiAxMjAwcHgpOw==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">aW1wb3J0ICcuLi8uLi9nbG9iYWwvaW5kZXguY3NzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICcuLi8uLi9nbG9iYWwvaW5kZXguY3NzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0ICcuLi9nbG9iYWwvaW5kZXguY3NzJzsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxBcmNoaXZlIHBvc3RzPXsgcG9zdC5lZGdlcyB9IC8+Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="4">
+        <text encoding="base64">Ci5wb3N0LWJsb2NrIHsKICAgIEBtZWRpYSAoLS10YWJsZXQpIHsKICAgICAgICB3aWR0aDogNDYlOwogICAgfQp9</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">ICYgLmhlYWRlciB7CiAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsKICAgIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEFyY2hpdmUgZnJvbSAiLi4vY29tcG9uZW50cy9hcmNoaXZlIjsK</text>
+        <text encoding="base64">LmFyY2hpdmUgewo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
