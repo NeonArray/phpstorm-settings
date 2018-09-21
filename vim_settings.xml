@@ -54,8 +54,8 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1537462208440">
-        <mark key="[" line="17" column="10" />
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1537536942370">
+        <mark key="[" line="26" column="64" />
         <mark key="]" line="17" column="9" />
         <mark key="." line="17" column="9" />
         <mark key="^" line="17" column="9" />
@@ -100,6 +100,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-block/post-block.module.css" timestamp="1537325617731">
         <mark key="[" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.txt" timestamp="1537536590219">
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/custom.php" timestamp="1536162391726">
         <mark key="[" line="109" column="0" />
@@ -234,7 +237,7 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1537477835258">
+      <file name="/fragment.php" timestamp="1537537300250">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
@@ -274,7 +277,7 @@
         <mark key="." line="5" column="2" />
         <mark key="^" line="5" column="2" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-admin.php" timestamp="1537535130915">
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-admin.php" timestamp="1537536100920">
         <mark key="[" line="106" column="0" />
         <mark key="]" line="98" column="17" />
         <mark key="." line="98" column="17" />
@@ -455,7 +458,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1537479877685">
+      <file name="/PHP Console" timestamp="1537536948982">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/reps.json" timestamp="1536162993825">
@@ -476,9 +479,9 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/class-agent-locator-public.php" timestamp="1537463344496">
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/class-agent-locator-public.php" timestamp="1537537404352">
         <mark key="'" line="92" column="38" />
-        <mark key="[" line="119" column="48" />
+        <mark key="[" line="123" column="30" />
         <mark key="]" line="114" column="0" />
         <mark key="." line="114" column="0" />
       </file>
@@ -668,13 +671,15 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/ Columns
-                // [0] - website
-                // [1] - state
-                // [2] - phone
-                // [3] - zip
-                // [4] - email
-                // [5] - name</text>
+        <text>== Frequently Asked Questions ==
+
+= A question that someone might have =
+
+An answer to that question.
+
+= What about foo bar? =
+
+Answer to foo bar dilemma.</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -686,58 +691,71 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>/ Columns
-                // [0] - website
-                // [1] - state
-                // [2] - phone
-                // [3] - zip
-                // [4] - email
-                // [5] - name</text>
+        <text>== Frequently Asked Questions ==
+
+= A question that someone might have =
+
+An answer to that question.
+
+= What about foo bar? =
+
+Answer to foo bar dilemma.</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIFRoaXMgaXMgYXNzdW1pbmcgdGhlIGRhdGEgaXMgaW4gdHdvIGNvbHVtbnMsICRkYXRhW1pJUF0gJGRhdGFbQUdFTlQgTkFNRV0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CkhlcmUgaXMgYSBzaG9ydCBkZXNjcmlwdGlvbiBvZiB0aGUgcGx1Z2luLiAgVGhpcyBzaG91bGQgYmUgbm8gbW9yZSB0aGFuIDE1MCBjaGFyYWN0ZXJzLiAgTm8gbWFya3VwIGhlcmUu</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICB1cGRhdGVfcG9zdF9tZXRhKCAkdGhlX3F1ZXJ5LT5wb3N0LT5JRCwgJ2FnZW50X2RldGFpbHNfYWRkcmVzcycsIGVzY19hdHRyKAogICAgICAgICAgICAgICAgICAgICRhZ2VudFsnYWRkcmVzcyddCiAgICAgICAgICAgICAgICApICk7</text>
+        <text>$website = esc_html( trim( $data[0] ) );
+                $state = esc_html( trim( $data[1] ) );
+                $phone = esc_html( trim( $data[2] ) );
+                $zip = esc_html( trim( $data[3] ) );
+                $email = esc_html( trim( $data[4] ) );
+                $name = esc_html( trim( $data[5] ) );
+                $address = esc_html( trim( $data[6] ) );</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">dXBkYXRlX3Bvc3RfbWV0YSggJHRoZV9xdWVyeS0+cG9zdC0+SUQsICdhZ2VudF9kZXRhaWxzX3Bob25lJywgZXNjX2F0dHIoCiAgICAgICAgICAgICAgICAgICAgJGFnZW50WydwaG9uZSddCiAgICAgICAgICAgICAgICApICk7CiAgICAgICAgICAgICAgICB1cGRhdGVfcG9zdF9tZXRhKCAkdGhlX3F1ZXJ5LT5wb3N0LT5JRCwgJ2FnZW50X2RldGFpbHNfZW1haWwnLCBlc2NfYXR0cigKICAgICAgICAgICAgICAgICAgICAkYWdlbnRbJ2VtYWlsJ10KICAgICAgICAgICAgICAgICkgKTsKICAgICAgICAgICAgICAgIHVwZGF0ZV9wb3N0X21ldGEoICR0aGVfcXVlcnktPnBvc3QtPklELCAnYWdlbnRfZGV0YWlsc19zdGF0ZScsIGVzY19hdHRyKAogICAgICAgICAgICAgICAgICAgICRhZ2VudFsnc3RhdGUnXQogICAgICAgICAgICAgICAgKSApOwogICAgICAgICAgICAgICAgdXBkYXRlX3Bvc3RfbWV0YSggJHRoZV9xdWVyeS0+cG9zdC0+SUQsICdhZ2VudF9kZXRhaWxzX3ppcGNvZGVzJywgZXNjX2F0dHIoCiAgICAgICAgICAgICAgICAgICAgJGFnZW50Wyd6aXBjb2RlcyddCiAgICAgICAgICAgICAgICApICk7CiAgICAgICAgICAgICAgICB1cGRhdGVfcG9zdF9tZXRhKCAkdGhlX3F1ZXJ5LT5wb3N0LT5JRCwgJ2FnZW50X2RldGFpbHNfd2Vic2l0ZScsIGVzY19hdHRyKAogICAgICAgICAgICAgICAgICAgICRhZ2VudFsnd2Vic2l0ZSddCiAgICAgICAgICAgICAgICApICk7</text>
+        <text>This is the long description.  No limit, and you can use Markdown (as well as in the following sections).
+
+For backwards compatibility, if this section is missing, the full length of the short description will be used, and
+Markdown parsed.
+
+A few notes about the sections above:
+
+*   &quot;Contributors&quot; is a comma separated list of wp.org/wp-plugins.org usernames
+*   &quot;Tags&quot; is a comma separated list of tags that apply to the plugin
+*   &quot;Requires at least&quot; is the lowest version that the plugin will work on
+*   &quot;Tested up to&quot; is the highest version that you've *successfully used to test the plugin*. Note that it might work on
+higher versions... this is just the highest one you've verified.
+*   Stable tag should indicate the Subversion &quot;tag&quot; of the latest stable version, or &quot;trunk,&quot; if you use `/trunk/` for
+stable.
+
+    Note that the `readme.txt` of the stable tag is the one that is considered the defining one for the plugin, so
+if the `/trunk/readme.txt` file says that the stable tag is `4.3`, then it is `/tags/4.3/readme.txt` that'll be used
+for displaying information about the plugin.  In this situation, the only thing considered from the trunk `readme.txt`
+is the stable tag pointer.  Thus, if you develop in trunk, you can update the trunk `readme.txt` to reflect changes in
+your in-development version, without having that information incorrectly disclosed about the current stable version
+that lacks those changes -- as long as the trunk's `readme.txt` points to the correct stable tag.
+
+    If no stable tag is provided, it is assumed that trunk is stable, but you should specify &quot;trunk&quot; if that's where
+you put the stable version, in order to eliminate any doubt.</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IGlmICggaXNzZXQoICRfUE9TVFsnYWdlbnRfZGV0YWlsc19hZGRyZXNzJ10gKSApIHsKICAgICAgICAgICAgdXBkYXRlX3Bvc3RfbWV0YSggJHBvc3RfaWQsICdhZ2VudF9kZXRhaWxzX2FkZHJlc3MnLCBlc2NfYXR0ciggJF9QT1NUWydhZ2VudF9kZXRhaWxzX2FkZHJlc3MnXSApICk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIGlzc2V0KCAkX1BPU1RbJ2FnZW50X2RldGFpbHNfcGhvbmUnXSApICkgewogICAgICAgICAgICB1cGRhdGVfcG9zdF9tZXRhKCAkcG9zdF9pZCwgJ2FnZW50X2RldGFpbHNfcGhvbmUnLCBlc2NfYXR0ciggKSApOwogICAgICAgIH0KCiAgICAgICAgaWYgKCBpc3NldCggJF9QT1NUWydhZ2VudF9kZXRhaWxzX2VtYWlsJ10gKSApIHsKICAgICAgICAgICAgdXBkYXRlX3Bvc3RfbWV0YSggJHBvc3RfaWQsICdhZ2VudF9kZXRhaWxzX2VtYWlsJywgZXNjX2F0dHIoICkgKTsKICAgICAgICB9CgogICAgICAgIGlmICggaXNzZXQoICRfUE9TVFsnYWdlbnRfZGV0YWlsc196aXBjb2RlcyddICkgKSB7CiAgICAgICAgICAgIHVwZGF0ZV9wb3N0X21ldGEoICRwb3N0X2lkLCAnYWdlbnRfZGV0YWlsc196aXBjb2RlcycsIGVzY19hdHRyKCApICk7CiAgICAgICAgfQoKICAgICAgICBpZiAoIGlzc2V0KCAkX1BPU1RbJ2FnZW50X2RldGFpbHNfd2Vic2l0ZSddICkgKSB7CiAgICAgICAgICAgIHVwZGF0ZV9wb3N0X21ldGEoICRwb3N0X2lkLCAnYWdlbnRfZGV0YWlsc193ZWJzaXRlJywgZXNjX2F0dHIoICkgKTsKICAgICAgICB9</text>
+        <text encoding="base64">Cj09IFNjcmVlbnNob3RzID09CgoxLiBUaGlzIHNjcmVlbiBzaG90IGRlc2NyaXB0aW9uIGNvcnJlc3BvbmRzIHRvIHNjcmVlbnNob3QtMS4ocG5nfGpwZ3xqcGVnfGdpZikuIE5vdGUgdGhhdCB0aGUgc2NyZWVuc2hvdCBpcyB0YWtlbiBmcm9tCnRoZSAvYXNzZXRzIGRpcmVjdG9yeSBvciB0aGUgZGlyZWN0b3J5IHRoYXQgY29udGFpbnMgdGhlIHN0YWJsZSByZWFkbWUudHh0ICh0YWdzIG9yIHRydW5rKS4gU2NyZWVuc2hvdHMgaW4gdGhlIC9hc3NldHMKZGlyZWN0b3J5IHRha2UgcHJlY2VkZW5jZS4gRm9yIGV4YW1wbGUsIGAvYXNzZXRzL3NjcmVlbnNob3QtMS5wbmdgIHdvdWxkIHdpbiBvdmVyIGAvdGFncy80LjMvc2NyZWVuc2hvdC0xLnBuZ2AKKG9yIGpwZywganBlZywgZ2lmKS4KMi4gVGhpcyBpcyB0aGUgc2Vjb25kIHNjcmVlbiBzaG90</text>
       </register>
-      <register name="6" type="4">
-        <text>if ( isset( $_POST['agent_details_address'] ) ) {
-            update_post_meta( $post_id, 'agent_details_address', esc_attr( $_POST['agent_details_address'] ) );
-        }
-
-        if ( isset( $_POST['agent_details_phone'] ) ) {
-            update_post_meta( $post_id, 'agent_details_phone', esc_attr( $_POST['agent_details_phone'] ) );
-        }
-
-        if ( isset( $_POST['agent_details_email'] ) ) {
-            update_post_meta( $post_id, 'agent_details_email', esc_attr( $_POST['agent_details_email'] ) );
-        }
-
-        if ( isset( $_POST['agent_details_zipcodes'] ) ) {
-            update_post_meta( $post_id, 'agent_details_zipcodes', esc_attr( $_POST['agent_details_zipcodes'] ) );
-        }
-
-        if ( isset( $_POST['agent_details_website'] ) ) {
-            update_post_meta( $post_id, 'agent_details_website', esc_attr( $_POST['agent_details_website'] ) );
-        }</text>
+      <register name="6" type="2">
+        <text encoding="base64">VXBncmFkZSBub3RpY2VzIGRlc2NyaWJlIHRoZSByZWFzb24gYSB1c2VyIHNob3VsZCB1cGdyYWRlLiAgTm8gbW9yZSB0aGFuIDMwMCBjaGFyYWN0ZWRkcnMuCg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">ICAgIAogICAgcHVibGljIHN0YXRpYyBmdW5jdGlvbiBzZXRfbWV0YV9maWVsZCggJGZpZWxkLCAkdmFsdWUgKSB7CiAgICAgICAgdXBkYXRlX3Bvc3RfbWV0YSggJHRoZV9xdWVyeS0+cG9zdC0+SUQsICdhZ2VudF9kZXRhaWxzX2FkZHJlc3MnLCBlc2NfYXR0cigpICk7CiAgICB9</text>
+        <text encoding="base64">Cj0gMC41ID0KVGhpcyB2ZXJzaW9uIGZpeGVzIGEgc2VjdXJpdHkgcmVsYXRlZCBidWcuICBVcGdyYWRlIGltbWVkaWF0ZWx5LgoKPT0gQXJiaXRyYXJ5IHNlY3Rpb24gPT0KCllvdSBtYXkgcHJvdmlkZSBhcmJpdHJhcnkgc2VjdGlvbnMsIGluIHRoZSBzYW1lIGZvcm1hdCBhcyB0aGUgb25lcyBhYm92ZS4gIFRoaXMgbWF5IGJlIG9mIHVzZSBmb3IgZXh0cmVtZWx5IGNvbXBsaWNhdGVkCnBsdWdpbnMgd2hlcmUgbW9yZSBpbmZvcm1hdGlvbiBuZWVkcyB0byBiZSBjb252ZXllZCB0aGF0IGRvZXNuJ3QgZml0IGludG8gdGhlIGNhdGVnb3JpZXMgb2YgImRlc2NyaXB0aW9uIiBvcgoiaW5zdGFsbGF0aW9uLiIgIEFyYml0cmFyeSBzZWN0aW9ucyB3aWxsIGJlIHNob3duIGJlbG93IHRoZSBidWlsdC1pbiBzZWN0aW9ucyBvdXRsaW5lZCBhYm92ZS4=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Cj09IEEgYnJpZWYgTWFya2Rvd24gRXhhbXBsZSA9PQoKT3JkZXJlZCBsaXN0OgoKMS4gU29tZSBmZWF0dXJlCjEuIEFub3RoZXIgZmVhdHVyZQoxLiBTb21ldGhpbmcgZWxzZSBhYm91dCB0aGUgcGx1Z2luCgpVbm9yZGVyZWQgbGlzdDoKCiogc29tZXRoaW5nCiogc29tZXRoaW5nIGVsc2UKKiB0aGlyZCB0aGluZwoKSGVyZSdzIGEgbGluayB0byBbV29yZFByZXNzXShodHRwOi8vd29yZHByZXNzLm9yZy8gIllvdXIgZmF2b3JpdGUgc29mdHdhcmUiKSBhbmQgb25lIHRvIFtNYXJrZG93bidzIFN5bnRheCBEb2N1bWVudGF0aW9uXVttYXJrZG93biBzeW50YXhdLgpUaXRsZXMgYXJlIG9wdGlvbmFsLCBuYXR1cmFsbHkuCgpbbWFya2Rvd24gc3ludGF4XTogaHR0cDovL2RhcmluZ2ZpcmViYWxsLm5ldC9wcm9qZWN0cy9tYXJrZG93bi9zeW50YXgKICAgICAgICAgICAgIk1hcmtkb3duIGlzIHdoYXQgdGhlIHBhcnNlciB1c2VzIHRvIHByb2Nlc3MgbXVjaCBvZiB0aGUgcmVhZG1lIGZpbGUiCgpNYXJrZG93biB1c2VzIGVtYWlsIHN0eWxlIG5vdGF0aW9uIGZvciBibG9ja3F1b3RlcyBhbmQgSSd2ZSBiZWVuIHRvbGQ6Cj4gQXN0ZXJpc2tzIGZvciAqZW1waGFzaXMqLiBEb3VibGUgaXQgdXAgIGZvciAqKnN0cm9uZyoqLgoKYDw/cGhwIGNvZGUoKTsgLy8gZ29lcyBpbiBiYWNrdGlja3MgPz5g</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Q29udHJpYnV0b3JzOiAodGhpcyBzaG91bGQgYmUgYSBsaXN0IG9mIHdvcmRwcmVzcy5vcmcgdXNlcmlkJ3MpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
