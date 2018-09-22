@@ -8,7 +8,7 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/posts/some-post.md" timestamp="1537582514120">
+      <file name="D:/repos/ocular-rhythm-site/src/posts/some-post.md" timestamp="1537583417450">
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/page.twig" timestamp="1536688668680">
@@ -84,10 +84,12 @@
         <mark key="^" line="5" column="41" />
         <mark key="." line="5" column="41" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/gatsby-node.js" timestamp="1537581797973">
-        <mark key="[" line="53" column="45" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/gatsby-node.js" timestamp="1537583980823">
+        <mark key="'" line="47" column="6" />
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="47" column="6" />
+        <mark key="." line="47" column="6" />
+        <mark key="^" line="47" column="6" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537235528445">
         <mark key="[" line="6" column="27" />
@@ -141,11 +143,11 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/templates/single.js" timestamp="1537582341354">
-        <mark key="'" line="9" column="15" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/templates/single.js" timestamp="1537584353072">
+        <mark key="'" line="45" column="15" />
+        <mark key="[" line="11" column="35" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537235820615">
         <mark key="[" line="48" column="58" />
@@ -262,7 +264,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="21" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/partials/site-header.html" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" />
@@ -362,13 +363,14 @@
       <jump line="33" column="0" filename="$USER_HOME$/Documents/projects/or-gatsby/src/components/header.js" />
       <jump line="10" column="7" filename="D:/repos/ocular-rhythm-gatsby/package.json" />
       <jump line="11" column="15" filename="D:/repos/ocular-rhythm-site/src/templates/single.js" />
+      <jump line="46" column="6" filename="D:/repos/ocular-rhythm-site/gatsby-node.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHsgZnJvbnRtYXR0ZXIudGl0bGUg</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -383,28 +385,28 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExheW91dCBmcm9tICcuLi9jb21wb25lbnRzL2xheW91dCc7Cg==</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgQmxvZ1Bvc3RUZW1wbGF0ZTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGdyYXBocWwpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGFjdGlvbnMpOwo=</text>
+        <text encoding="base64">ICAgIHJlbmRlcigpIHsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICA=</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZXhjZXJwdAo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">Ly8KLy8gY29uc3QgU2luZ2xlID0gKHsgZGF0YSwgcGFnZUNvbnRleHQgfSkgPT4gewovLyAgICAgY29uc3QgcG9zdCA9IGRhdGEubWFya2Rvd25SZW1hcms7Ci8vCi8vICAgICByZXR1cm4gKAovLyAgICAgICAgIDxMYXlvdXQ+Ci8vICAgICAgICAgICAgIDxhcnRpY2xlIGNsYXNzTmFtZT0icG9zdCI+Ci8vICAgICAgICAgICAgICAgICA8SGVsbWV0IHRpdGxlPXtgWW91ciBCbG9nIE5hbWUgLSAkeyBwb3N0LmZyb250bWF0dGVyLnRpdGxlIH1gfSBib2R5QXR0cmlidXRlcz17ewovLyAgICAgICAgICAgICAgICAgICAgIGNsYXNzOiAncGFnZS1wb3N0JwovLyAgICAgICAgICAgICAgICAgfX0gLz4KLy8KLy8gICAgICAgICAgICAgICAgIDxkaXYgZGFuZ2Vyb3VzbHlTZXRJbm5lckhUTUw9e3sgX19odG1sOiBwb3N0Lmh0bWwgfX0+Ci8vCi8vICAgICAgICAgICAgICAgICA8L2Rpdj4KLy8gICAgICAgICAgICAgPC9hcnRpY2xlPgovLyAgICAgICAgIDwvTGF5b3V0PgovLyAgICAgKTsKLy8gfTsKLy8KLy8gZXhwb3J0IGRlZmF1bHQgU2luZ2xlOw==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgaWQK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IG1ldGE9e1t7IG5hbWU6ICdkZXNjcmlwdGlvbicsIGNvbnRlbnQ6IHNpdGVEZXNjcmlwdGlvbiB9XX0KICAgICAgICAgICAgICAgICAgICB0aXRsZT17YCR7cG9zdC5mcm9udG1hdHRlci50aXRsZX0gfCAke3NpdGVUaXRsZX1gfQ==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0YXhvbm9teTogY2F0ZWdvcnksCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
