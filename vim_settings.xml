@@ -11,13 +11,21 @@
       <file name="D:/repos/ocular-rhythm-site/src/components/post-header/index.js" timestamp="1537632649622">
         <mark key="[" line="15" column="67" />
       </file>
+      <file name="D:/repos/ocular-rhythm-site/src/components/header/index.js" timestamp="1537640728555">
+        <mark key="[" line="11" column="12" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-timber-functions.php" timestamp="1536685765449">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/posts/some-post.md" timestamp="1537583417450">
-        <mark key="[" line="1" column="7" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-footer/post-footer.module.css" timestamp="1537640808590">
+        <mark key="[" line="18" column="1" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
+      </file>
+      <file name="D:/repos/ocular-rhythm-site/src/posts/some-post.md" timestamp="1537641362509">
+        <mark key="[" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/page.twig" timestamp="1536688668680">
         <mark key="[" line="14" column="24" />
@@ -31,12 +39,6 @@
       </file>
       <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-config.php" timestamp="1536161960870">
         <mark key="[" line="53" column="28" />
-      </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/pages/index.js" timestamp="1537235730002">
-        <mark key="[" line="8" column="12" />
-        <mark key="]" line="9" column="20" />
-        <mark key="^" line="10" column="25" />
-        <mark key="." line="9" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1536685739655">
         <mark key="[" line="71" column="48" />
@@ -81,30 +83,12 @@
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/post-header/index.js" timestamp="1537235683804">
         <mark key="[" line="15" column="75" />
       </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/components/category-list/index.js" timestamp="1537232630038">
-        <mark key="[" line="38" column="44" />
-        <mark key="]" line="38" column="31" />
-        <mark key="^" line="38" column="31" />
-        <mark key="." line="38" column="31" />
-      </file>
-      <file name="D:/repos/ocular-rhythm-site/src/pages/index.js" timestamp="1537582380451">
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="41" />
-        <mark key="^" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-      </file>
       <file name="D:/repos/ocular-rhythm-site/gatsby-node.js" timestamp="1537637878608">
         <mark key="'" line="52" column="6" />
         <mark key="[" line="40" column="69" />
         <mark key="]" line="52" column="6" />
         <mark key="." line="52" column="6" />
         <mark key="^" line="52" column="6" />
-      </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537235528445">
-        <mark key="[" line="6" column="27" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
       </file>
       <file name="&lt;0b9ffcd1-d1f0-4179-be44-d80bd5ae272c&gt;/.htaccess" timestamp="1536246100363">
         <mark key="[" line="10" column="0" />
@@ -119,12 +103,6 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/templates/category.js" timestamp="1537235780713">
-        <mark key="[" line="19" column="24" />
-        <mark key="]" line="19" column="22" />
-        <mark key="^" line="19" column="22" />
-        <mark key="." line="19" column="22" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/pages/blog.js" timestamp="1537235734435">
         <mark key="[" line="20" column="15" />
@@ -143,6 +121,10 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
+      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1537640548996">
+        <mark key="a" line="119" column="17" />
+        <mark key="[" line="139" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
       </file>
@@ -152,11 +134,8 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/templates/single.js" timestamp="1537635723379">
-        <mark key="'" line="71" column="15" />
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/templates/single.js" timestamp="1537640718155">
+        <mark key="'" line="74" column="15" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537235820615">
         <mark key="[" line="48" column="58" />
@@ -171,12 +150,6 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-config.php" timestamp="1536342688454">
         <mark key="[" line="33" column="24" />
-      </file>
-      <file name="D:/repos/ocular-rhythm-gatsby/src/components/post-block/index.js" timestamp="1537235697462">
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="25" column="25" />
-        <mark key="^" line="25" column="25" />
-        <mark key="." line="25" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/parts/locator/form.php" timestamp="1536175287131">
         <mark key="[" line="14" column="0" />
@@ -196,7 +169,7 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537229421070">
+      <file name="/Dummy.txt" timestamp="1537640379293">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/category-list/category-list.css" timestamp="1537229870041">
@@ -255,6 +228,7 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="D:/repos/ocular-rhythm-site/src/components/layout.js" timestamp="1537640626175" />
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
       </file>
@@ -263,8 +237,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/posts/another-post.md" timestamp="1537637784845">
-        <mark key="[" line="1" column="13" />
+      <file name="D:/repos/ocular-rhythm-site/src/posts/another-post.md" timestamp="1537641370196">
+        <mark key="[" line="1" column="8" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-config.php" timestamp="1536756906669">
         <mark key="[" line="56" column="119" />
@@ -282,10 +256,13 @@
       <file name="D:/repos/ocular-rhythm-gatsby/src/posts/other-post.md" timestamp="1537235976817">
         <mark key="[" line="1" column="11" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-footer/index.js" timestamp="1537637950634">
-        <mark key="[" line="6" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-footer/index.js" timestamp="1537640484235">
+        <mark key="[" line="9" column="13" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/repos/ocular-rhythm-site/src/pages/blog.js" timestamp="1537641421258">
+        <mark key="[" line="23" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
@@ -394,11 +371,11 @@
       <jump line="46" column="6" filename="D:/repos/ocular-rhythm-site/gatsby-node.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoPGRpdj5hPC9kaXY+KTsK</text>
+      <register name="&quot;" type="4">
+        <text />
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -407,34 +384,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoPGRpdj5hPC9kaXY+KTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoPGRpdj5hPC9kaXY+KTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>.post-content {
     justify-content: space-around;
     flex-wrap: wrap;
 }</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAvLyBgPC9kaXY+PGRpdiBjbGFzcz0iJHsgcHJpc21TdHlsZS5ibG9jayB9Ij48ZGl2IGNsYXNzPSIkeyBwcmlzbVN0eWxlLmhlYWRpbmcgfSI+YCArCiAgICAgICAgLy8gYDxwIGNsYXNzPSIkeyBwcmlzbVN0eWxlLmxhbmd1YWdlIH0iPiQxPC9wPjxidXR0b24gY2xhc3M9IiR7IHByaXNtU3R5bGUuY29weSB9IGpzLWNvcHktYnRuIj5Db3B5PC9idXR0b24+PC9kaXY+YCArCiAgICAgICAgLy8gYDxkaXYgY2xhc3M9IiR7IHByaXNtU3R5bGUud3JhcHBlciB9IGdhdHNieS1oaWdobGlnaHQiPiQmPC9kaXY+PC9kaXY+PGRpdiBjbGFzcz0iJHsgc3R5bGUuY29weSB9Ij5g</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IHByaXNtIGZyb20gJy4vY29kZS1ibG9jay5jc3MnOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA8ZGl2IGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogaHRtbCB9fT4KCiAgICAgICAgICAgICAgICA8L2Rpdj4=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vZ2xvYmFsL2luZGV4LmNzcyc7Cg==</text>
-      </register>
       <register name="7" type="2">
-        <text encoding="base64">QGltcG9ydCAnLmQvLi4vZ2xvYmFsL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnLi4vLi4vZ2xvYmFsL2luZGV4LmNzcyc7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vZ2xvYmFsL2luZGV4LmNzcyc7Cg==</text>
+        <text encoding="base64">QGltcG9ydCAnLmQvLi4vZ2xvYmFsL2luZGV4LmNzcyc7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">QGltcG9ydCAnLi4vLi4vZ2xvYmFsL2luZGV4LmNzcyc7Cg==</text>
