@@ -41,11 +41,10 @@
         <mark key="]" line="284" column="5" />
         <mark key="." line="284" column="5" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1537809078914">
-        <mark key="[" line="76" column="69" />
-        <mark key="]" line="53" column="7" />
-        <mark key="^" line="53" column="7" />
-        <mark key="." line="53" column="7" />
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1537810104959">
+        <mark key="[" line="68" column="5" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
       </file>
       <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-config.php" timestamp="1536161960870">
         <mark key="[" line="53" column="28" />
@@ -480,8 +479,8 @@
       <jump line="80" column="58" filename="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-options.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgkvKioKICAgICAqIFJlbmRlciB0aGUgCgkgKiBAc2luY2UgMS4zLjAKCSAqLwoJZnVuY3Rpb24gYWdlbnRfbG9jYXRvcl9zZXR0aW5nc19zZWN0aW9uX2NhbGxiYWNrKCkgewoJCWVjaG8gX18oICdUaGlzIHNlY3Rpb24gZGVzY3JpcHRpb24nLCAnYWdlbnRfbG9jYXRvcicgKTsKCX0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc3R5bGUgPTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -492,33 +491,36 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CgkvKioKICAgICAqIFJlbmRlciB0aGUgCgkgKiBAc2luY2UgMS4zLjAKCSAqLwoJZnVuY3Rpb24gYWdlbnRfbG9jYXRvcl9zZXR0aW5nc19zZWN0aW9uX2NhbGxiYWNrKCkgewoJCWVjaG8gX18oICdUaGlzIHNlY3Rpb24gZGVzY3JpcHRpb24nLCAnYWdlbnRfbG9jYXRvcicgKTsKCX0=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc3R5bGUgPTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZGVmaW5lKCAnQUdFTlRfTE9DQVRPUl9HQVBJX0tFWScgLCAnQUl6YVN5QXFkcWhDT2RlZnVnelFRU2VkaExQZDMySkRldmlhR1djJicgKTsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CgkvKioKICAgICAqIFJlbmRlciB0aGUgCgkgKiBAc2luY2UgMS4zLjAKCSAqLwoJZnVuY3Rpb24gYWdlbnRfbG9jYXRvcl9zZXR0aW5nc19zZWN0aW9uX2NhbGxiYWNrKCkgewoJCWVjaG8gX18oICdUaGlzIHNlY3Rpb24gZGVzY3JpcHRpb24nLCAnYWdlbnRfbG9jYXRvcicgKTsKCX0=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCAnQUdFTlRfTE9DQVRPUl9HQVBJX0tFWScgLCAnQUl6YVN5QXFkcWhDT2RlZnVnelFRU2VkaExQZDMySkRldmlhR1djJicgKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8JCSR0aGlzLT5sb2FkZXItPmFkZF9hY3Rpb24oICdhZG1pbl9tZW51JywgJHBsdWdpbl9hZG1pbl9vcHRpb25zLCAncmVnaXN0ZXJfb3B0aW9uc19wYWdlJyApOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8JCSR0aGlzLT5sb2FkZXItPmFkZF9hY3Rpb24oICdhZG1pbl9tZW51JywgJHBsdWdpbl9hZG1pbl9vcHRpb25zLCAncmVnaXN0ZXJfb3B0aW9uc19wYWdlJyApOwo=</text>
+      </register>
       <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Ly8JCSR0aGlzLT5sb2FkZXItPmFkZF9hY3Rpb24oICdzYXZlX3Bvc3RfYWdlbnRfbG9jYXRvcicsICRwbHVnaW5fYWRtaW4sICdkb19zYXZlJyApOwo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>//	public function agent_locator_settings_section_callback(  ) {
 //		echo __( 'This section description', 'agent_locator' );
 //	}</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>register_setting( 'pluginPage', 'agent_locator_settings' );
 //
 //		add_settings_section(
@@ -543,9 +545,6 @@
 //			'pluginPage',
 //			'agent_locator_pluginPage_section'
 //		);</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CglwdWJsaWMgZnVuY3Rpb24gYWdlbnRfbG9jYXRvcl9tYXBfanNvbl9yZW5kZXIoKSB7CgkJJG9wdGlvbnMgPSBnZXRfb3B0aW9uKCAnYWdlbnRfbG9jYXRvcl9zZXR0aW5ncycgKTsKCQk/PgogICAgICAgIDx0ZXh0YXJlYSBjb2xzPSc0MCcgcm93cz0nNScgbmFtZT0nYWdlbnRfbG9jYXRvcl9zZXR0aW5nc1thZ2VudF9sb2NhdG9yX21hcF9qc29uXSc+CiAgICAgICAgPD9waHAgZWNobyAkb3B0aW9uc1snYWdlbnRfbG9jYXRvcl9tYXBfanNvbiddOyA/PgogICAgPC90ZXh0YXJlYT4KCQk8P3BocAoJfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
