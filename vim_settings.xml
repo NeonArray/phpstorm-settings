@@ -332,12 +332,12 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/class-agent-locator-public.php" timestamp="1537808445567">
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/class-agent-locator-public.php" timestamp="1537810812791">
         <mark key="'" line="87" column="38" />
-        <mark key="[" line="142" column="39" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-        <mark key="^" line="149" column="87" />
+        <mark key="[" line="145" column="8" />
+        <mark key="]" line="145" column="8" />
+        <mark key="." line="145" column="8" />
+        <mark key="^" line="145" column="4" />
       </file>
       <file name="/Dummy.txt" timestamp="1537194214613">
         <mark key="[" line="0" column="0" />
@@ -479,8 +479,8 @@
       <jump line="80" column="58" filename="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/class-agent-locator-options.php" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3R5bGUgPTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAJaWYgKCAhICRhcGlfa2V5ID0gKSB7CiAgICAJCSRhcGlfa2V5ID0gJyc7CgkgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -491,60 +491,37 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgc3R5bGUgPTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAJaWYgKCAhICRhcGlfa2V5ID0gKSB7CiAgICAJCSRhcGlfa2V5ID0gJyc7CgkgICAgfQo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB2YXIgc3R5bGUgPTsK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">CgkvKioKICAgICAqIFJlbmRlciB0aGUgCgkgKiBAc2luY2UgMS4zLjAKCSAqLwoJZnVuY3Rpb24gYWdlbnRfbG9jYXRvcl9zZXR0aW5nc19zZWN0aW9uX2NhbGxiYWNrKCkgewoJCWVjaG8gX18oICdUaGlzIHNlY3Rpb24gZGVzY3JpcHRpb24nLCAnYWdlbnRfbG9jYXRvcicgKTsKCX0=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ZGVmaW5lKCAnQUdFTlRfTE9DQVRPUl9HQVBJX0tFWScgLCAnQUl6YVN5QXFkcWhDT2RlZnVnelFRU2VkaExQZDMySkRldmlhR1djJicgKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8JCSR0aGlzLT5sb2FkZXItPmFkZF9hY3Rpb24oICdhZG1pbl9tZW51JywgJHBsdWdpbl9hZG1pbl9vcHRpb25zLCAncmVnaXN0ZXJfb3B0aW9uc19wYWdlJyApOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8JCSR0aGlzLT5sb2FkZXItPmFkZF9hY3Rpb24oICdhZG1pbl9tZW51JywgJHBsdWdpbl9hZG1pbl9vcHRpb25zLCAncmVnaXN0ZXJfb3B0aW9uc19wYWdlJyApOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">Ly8JCSR0aGlzLT5sb2FkZXItPmFkZF9hY3Rpb24oICdzYXZlX3Bvc3RfYWdlbnRfbG9jYXRvcicsICRwbHVnaW5fYWRtaW4sICdkb19zYXZlJyApOwo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>//	public function agent_locator_settings_section_callback(  ) {
 //		echo __( 'This section description', 'agent_locator' );
 //	}</text>
-      </register>
-      <register name="9" type="4">
-        <text>register_setting( 'pluginPage', 'agent_locator_settings' );
-//
-//		add_settings_section(
-//			'agent_locator_pluginPage_section',
-//			__( 'Your section description', 'agent_locator' ),
-//			array( $this, 'agent_locator_settings_section_callback' ),
-//			'pluginPage'
-//		);
-//
-//		add_settings_field(
-//			'agent_locator_api_key',
-//			__( 'Settings field description', 'agent_locator' ),
-//			array( $this, 'agent_locator_api_key_render' ),
-//			'pluginPage',
-//			'agent_locator_pluginPage_section'
-//		);
-//
-//		add_settings_field(
-//			'agent_locator_map_json',
-//			__( 'Settings field description', 'agent_locator' ),
-//			array( $this,'agent_locator_map_json_render' ),
-//			'pluginPage',
-//			'agent_locator_pluginPage_section'
-//		);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
