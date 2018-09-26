@@ -73,8 +73,11 @@
         <mark key="[" line="75" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-includes/http.php" timestamp="1537883884673" />
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/js/agent-locator-public.js" timestamp="1537985370858">
-        <mark key="[" line="34" column="0" />
+      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/js/agent-locator-public.js" timestamp="1537988330887">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="3" />
+        <mark key="^" line="3" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/phpunit.xml.dist" timestamp="1537971915901">
         <mark key="[" line="25" column="43" />
@@ -336,7 +339,7 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-meta-field-display.php" timestamp="1537459812631">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1537979953308">
+      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1537988991525">
         <mark key="[" line="62" column="0" />
         <mark key="]" line="62" column="0" />
         <mark key="^" line="62" column="3" />
@@ -449,11 +452,11 @@
       <jump line="6" column="16" filename="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Imljb24iPjxpIGNsYXNzPSJmYSBmYS1zcGluIGZhLWNpcmNsZS1ub3RjaCI+PC9pPjwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImpzLWxvYWRpbmciIHN0eWxlPSJkaXNwbGF5Om5vbmUiPgogICAgICAgIAogIDwvc3ZnPg==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>var</text>
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -461,35 +464,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Imljb24iPjxpIGNsYXNzPSJmYSBmYS1zcGluIGZhLWNpcmNsZS1ub3RjaCI+PC9pPjwvZGl2Pgo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImpzLWxvYWRpbmciIHN0eWxlPSJkaXNwbGF5Om5vbmUiPgogICAgICAgIAogIDwvc3ZnPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAkkc3ViamVjdCA9ICRyZXF1ZXN0LT5yb3V0ZQo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">CSAgICB9ICkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">CSAgICBmdW5jdGlvbiAoKSB7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBwdWJsaWMgJGxvZ2dlcjsKICAgIHByb3RlY3RlZCAkbG9nU3R1YjsKICAgIHByb3RlY3RlZCAkbG9hZGVyU3R1Yjs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYWdlbnRzID0gcmVzcG9uc2U7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Imljb24iPjxpIGNsYXNzPSJmYSBmYS1zcGluIGZhLWNpcmNsZS1ub3RjaCI+PC9pPjwvZGl2Pgo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAkkc3ViamVjdCA9ICRyZXF1ZXN0LT5yb3V0ZQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">CSAgICB9ICkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+YXNzZXJ0aXNJbnN0YW5jZU9mKCBBZ2VudF9Mb2NhdG9yX0FkbWluICk7Cg==</text>
+        <text encoding="base64">CSAgICBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscyggJzEuMC4wJywgJGxvZ2dlci0+Z2V0X3ZlcnNpb24oKSwgJ3Nob3VsZCBkZWZhdWx0IHRvIDEuMC4wIGlmIENMVUVfQ0xJRU5UIGlzIG5vdCBkZWZpbmVkJyApOwoKICAgICAgICBkZWZpbmUoICdDTFVFX0NMSUVOVCcsICcyLjAuMCcgKTsKICAgICAgICAkbG9nZ2VyX3R3byA9IG5ldyBDbHVlXENvcmVcQ2xpZW50KCAkdGhpcy0+bG9hZGVyU3R1YiwgJHRoaXMtPmxvZ1N0dWIgKTsKCiAgICAgICAgJHRoaXMtPmFzc2VydEVxdWFscyggJzIuMC4wJywgJGxvZ2dlcl90d28tPmdldF92ZXJzaW9uKCksICdzaG91bGQgaW5oZXJpdCBDTFVFX0NMSUVOVCBpZiBkZWZpbmVkJyApOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAkaHR0cCA9ICR0aGlzLT5nZXRNb2NrQnVpbGRlciggQ2x1ZTo6Y2xhc3MgKS0+Z2V0TW9jaygpOwogICAgICAgICR0aGlzLT5sb2dTdHViID0gJHRoaXMtPmdldE1vY2tCdWlsZGVyKCBDbHVlXENvcmVcVXRpbHNcUGFwZXJ0cmFpbDo6Y2xhc3MgKS0+c2V0Q29uc3RydWN0b3JBcmdzKCBhcnJheSggJGh0dHAgKSApLT5nZXRNb2NrKCk7CiAgICAgICAgJHRoaXMtPmxvYWRlclN0dWIgPSAkdGhpcy0+Z2V0TW9ja0J1aWxkZXIoIENsdWVcQ29yZVxMb2FkZXI6OmNsYXNzICkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLT5zZXRNZXRob2RzKCBhcnJheSggJ3J1bicgKSApCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC0+Z2V0TW9jaygpOwogICAgICAgICR0aGlzLT5sb2FkZXJTdHViLT5tZXRob2QoICdydW4nICktPndpbGxSZXR1cm4oIHRydWUgKTs=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgJGxvZ2dlcjsKICAgIHByb3RlY3RlZCAkbG9nU3R1YjsKICAgIHByb3RlY3RlZCAkbG9hZGVyU3R1Yjs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
