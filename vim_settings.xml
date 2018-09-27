@@ -8,10 +8,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-footer/post-footer.module.css" timestamp="1537922099463">
-        <mark key="[" line="34" column="19" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-footer/post-footer.module.css" timestamp="1538005773797">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/templates/page.twig" timestamp="1536688668680">
         <mark key="[" line="14" column="24" />
@@ -46,10 +46,10 @@
         <mark key="]" line="67" column="20" />
         <mark key="." line="67" column="20" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-body/post-body.module.css" timestamp="1537637292504">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-body/post-body.module.css" timestamp="1538006576011">
+        <mark key="[" line="24" column="3" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/components/post-block/index.js" timestamp="1537716252950">
         <mark key="[" line="8" column="63" />
@@ -119,8 +119,8 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/posts/another-post.md" timestamp="1537716440127">
-        <mark key="[" line="9" column="52" />
+      <file name="D:/repos/ocular-rhythm-site/src/posts/another-post.md" timestamp="1538005638850">
+        <mark key="[" line="3" column="31" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/components/post-footer/index.js" timestamp="1537921369067">
         <mark key="[" line="22" column="33" />
@@ -143,8 +143,8 @@
         <mark key="]" line="51" column="0" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/posts/some-post.md" timestamp="1537641362509">
-        <mark key="[" line="1" column="8" />
+      <file name="D:/repos/ocular-rhythm-site/src/posts/some-post.md" timestamp="1538006193774">
+        <mark key="[" line="9" column="52" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/gatsby-browser.js" timestamp="1537667281669">
         <mark key="[" line="0" column="0" />
@@ -187,8 +187,12 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1537921227912">
-        <mark key="a" line="118" column="17" />
+      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1538006410068">
+        <mark key="a" line="122" column="17" />
+        <mark key="'" line="206" column="0" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/templates/single.js" timestamp="1537717711900">
         <mark key="'" line="74" column="15" />
@@ -239,7 +243,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/index.html" />
       <jump line="4" column="8" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" />
       <jump line="43" column="23" filename="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" />
@@ -339,10 +342,11 @@
       <jump line="46" column="6" filename="D:/repos/ocular-rhythm-site/gatsby-node.js" />
       <jump line="37" column="1" filename="D:/repos/ocular-rhythm-site/src/html.js" />
       <jump line="17" column="78" filename="D:/repos/ocular-rhythm-site/src/components/category-aside/index.js" />
+      <jump line="206" column="0" filename="D:/repos/ocular-rhythm-site/src/global/style.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IDM1MHB4Owo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -354,28 +358,28 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1pbi1oZWlnaHQ6IDM1MHB4Owo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgKi8K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICAmIGEgewogICAgICAgIGNvbG9yOiB2YXIoLS13aGl0ZSk7CiAgICAgICAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogICAgfQ==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgKiBUT0RPOiBNYWtlIG5pY2UgdHJhbnNpdGlvbgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICBAbWVkaWEgKC0tdGFibGV0KSB7CiAgICAgICAgZm9udC1zaXplOiAxZW07CiAgICB9Cg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiB2YXIoLS1ibGFjayk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNzc0NsYXNzID0gYGNvbG9yX18ke2NhdGVnb3J5LnRvTG93ZXJDYXNlKCl9YDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QGN1c3RvbS1zZWxlY3RvciA6LS1ob3ZlciA6YWN0aXZlLCA6Zm9jdXMsIDpob3ZlcjsK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -440,6 +444,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
