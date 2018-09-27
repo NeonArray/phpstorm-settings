@@ -151,6 +151,9 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
       </file>
@@ -207,6 +210,11 @@
         <mark key="." line="30" column="0" />
       </file>
       <file name="&lt;01eaa792-79ae-4a9d-ae80-ad9f4981447a&gt;/wp-content/mu-plugins/mu-plugin.php" timestamp="1537901332616" />
+      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/uninstall.php" timestamp="1538070113742">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/includes/class-agent-locator-utils.php" timestamp="1537976553595" />
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
@@ -273,6 +281,12 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="37" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/spark-plugin-boilerplate.php" timestamp="1538070103851">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/index.php" timestamp="1538070097274">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/admin/class-agent-locator-admin.php" timestamp="1537971245622" />
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/agent-locator-admin.php" timestamp="1537369659142">
@@ -458,8 +472,11 @@
       <jump line="6" column="16" filename="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3A6IDFweCBzb2xpZCAjRTlFOUU5Owo=</text>
+      <register name="&quot;" type="4">
+        <text>// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}</text>
       </register>
       <register name="-" type="4">
         <text>var</text>
@@ -470,35 +487,38 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGJvcmRlci10b3A6IDFweCBzb2xpZCAjRTlFOUU5Owo=</text>
+      <register name="1" type="4">
+        <text>// If uninstall not called from WordPress, then exit.
+if ( ! defined( 'WP_UNINSTALL_PLUGIN' ) ) {
+	exit;
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIGJvcmRlci10b3A6IDFweCBzb2xpZCAjRTlFOUU5Owo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgIGJvcmRlci1ib3R0b206IDFweCBzb2xpZCAjRTlFOUU5Owo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">Ci5hbC1vcHRpb24tZ3JvdXA6bnRoLWNoaWxkKDEpIHsKICAgIGZsZXgtYmFzaXM6IDUwJTsKfQ==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgICAgPHRhYmxlIGNsYXNzPSJ3aWRlZmF0Ij4KICAgICAgICAgICAgPHRoZWFkPgogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0aCBjb2xzcGFuPSIzIj5JbXBvcnQ8L3RoPgogICAgICAgICAgICAgICAgPC90cj4KICAgICAgICAgICAgPC90aGVhZD4KICAgICAgICAgICAgPHRib2R5PgogICAgICAgICAgICAgICAgPHRyPgogICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT0id2lkdGg6MjUlIj48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT0id2lkdGg6MjUlIj48L3RkPgogICAgICAgICAgICAgICAgICAgIDx0ZCBzdHlsZT0id2lkdGg6NTAlIj4KICAgICAgICAgICAgICAgICAgICAgICAgCgogICAgICAgICAgICAgICAgICAgIDwvdGQ+CiAgICAgICAgICAgICAgICA8L3RyPgoKICAgICAgICAgICAgICAgIDx0cj4KICAgICAgICAgICAgICAgICAgICA8dGQ+Q1NWIERlbGltZXRlcjwvdGQ+CiAgICAgICAgICAgICAgICAgICAgPHRkPjxpbnB1dCB0eXBlPSJ0ZXh0IiBzdHlsZT0id2lkdGg6NTBweCIgcGxhY2Vob2xkZXI9IiwiIC8+PC90ZD4KICAgICAgICAgICAgICAgICAgICA8dGQ+PC90ZD4KICAgICAgICAgICAgICAgIDwvdHI+CiAgICAgICAgICAgIDwvdGJvZHk+CiAgICAgICAgPC90YWJsZT4KICAgICAgICA=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8dGQgc3R5bGU9IndpZHRoOjI1JSI+U1YgRmlsZTwvdGQ+Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJCgnLmFsLWxvYWRpbmcnKS5oaWRlKCk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAkKCcuYWwtbG9hZGluZycpLnNob3coKTsK</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgIDxkaXYgY2xhc3M9ImpzLWxvYWRpbmciIHN0eWxlPSJkaXNwbGF5Om5vbmUiPgogICAgICAgIAogIDwvc3ZnPg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
