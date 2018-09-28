@@ -23,9 +23,9 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/category-aside/index.js" timestamp="1537918181759">
-        <mark key="'" line="17" column="78" />
-        <mark key="[" line="12" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/category-aside/index.js" timestamp="1538159463687">
+        <mark key="'" line="19" column="78" />
+        <mark key="[" line="16" column="70" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
       </file>
@@ -113,10 +113,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/global/tags.module.css" timestamp="1537920105382">
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/global/tags.module.css" timestamp="1538159948280">
+        <mark key="'" line="59" column="15" />
+        <mark key="[" line="59" column="17" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="55" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/posts/another-post.md" timestamp="1538005638850">
         <mark key="[" line="3" column="31" />
@@ -242,7 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/projects/or-hugo/themes/yoda/layouts/shortcodes/syntax.html" />
       <jump line="43" column="23" filename="$USER_HOME$/Documents/projects/sloth/resources/views/home.blade.php" />
       <jump line="19" column="31" filename="$USER_HOME$/Documents/projects/webstishio/app/Tracker.php" />
@@ -342,6 +343,7 @@
       <jump line="37" column="1" filename="D:/repos/ocular-rhythm-site/src/html.js" />
       <jump line="17" column="78" filename="D:/repos/ocular-rhythm-site/src/components/category-aside/index.js" />
       <jump line="206" column="0" filename="D:/repos/ocular-rhythm-site/src/global/style.css" />
+      <jump line="59" column="15" filename="D:/repos/ocular-rhythm-site/src/global/tags.module.css" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
