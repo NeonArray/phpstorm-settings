@@ -21,14 +21,19 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
+      <file name="D:/repos/ocular-rhythm-site/src/components/archive/index.js" timestamp="1538174242889">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/sp-router/sp-router.php" timestamp="1536773095943">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/category-aside/index.js" timestamp="1538166264508">
+      <file name="D:/repos/ocular-rhythm-site/src/components/category-aside/index.js" timestamp="1538173316892">
         <mark key="'" line="14" column="32" />
-        <mark key="[" line="7" column="0" />
+        <mark key="[" line="8" column="29" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
@@ -65,12 +70,12 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
         <mark key="[" line="27" column="64" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-block/index.js" timestamp="1537716252950">
-        <mark key="[" line="8" column="63" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-block/index.js" timestamp="1538174129251">
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/gatsby-node.js" timestamp="1537921865278">
+      <file name="D:/repos/ocular-rhythm-site/gatsby-node.js" timestamp="1538172570274">
         <mark key="'" line="73" column="6" />
         <mark key="[" line="31" column="36" />
         <mark key="]" line="73" column="6" />
@@ -82,8 +87,8 @@
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-block/post-block.module.css" timestamp="1538007759676">
-        <mark key="[" line="1" column="24" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-block/post-block.module.css" timestamp="1538174152962">
+        <mark key="[" line="8" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
@@ -107,10 +112,10 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/templates/category.js" timestamp="1538169970390">
-        <mark key="[" line="64" column="20" />
-        <mark key="]" line="64" column="20" />
-        <mark key="." line="64" column="20" />
+      <file name="D:/repos/ocular-rhythm-site/src/templates/category.js" timestamp="1538173739157">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/category-list/category-list.css" timestamp="1537229870041">
         <mark key="[" line="0" column="0" />
@@ -133,11 +138,6 @@
       <file name="/fragment.php" timestamp="1536686363146">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-header/post-header.module.css" timestamp="1537920567847">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/plugins/wp-router/wp-router.php" timestamp="1536761504078">
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
@@ -154,6 +154,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="37" column="19" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/repos/ocular-rhythm-site/src/posts/dev-rules.md" timestamp="1538172345952">
+        <mark key="[" line="1" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
@@ -210,6 +213,9 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
+      <file name="D:/repos/ocular-rhythm-site/src/components/archive/archive.module.css" timestamp="1538174034791">
+        <mark key="[" line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/composer.json" timestamp="1536679371309">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
@@ -229,6 +235,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="5" column="15" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="D:/repos/ocular-rhythm-site/src/components/category-list/index.js" timestamp="1538173808000">
+        <mark key="[" line="0" column="26" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
@@ -256,13 +267,13 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1538170460935">
-        <mark key="a" line="110" column="17" />
-        <mark key="'" line="83" column="16" />
-        <mark key="[" line="183" column="43" />
-        <mark key="]" line="83" column="16" />
-        <mark key="." line="83" column="16" />
-        <mark key="^" line="83" column="16" />
+      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1538173869809">
+        <mark key="a" line="108" column="17" />
+        <mark key="'" line="81" column="16" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="81" column="16" />
+        <mark key="." line="81" column="16" />
+        <mark key="^" line="81" column="16" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/utils/utils.js" timestamp="1538163819256">
         <mark key="[" line="0" column="0" />
@@ -297,10 +308,10 @@
       <file name="/Dummy.txt" timestamp="1537640379293">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/category-header/index.js" timestamp="1538170246319">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/category-header/index.js" timestamp="1538173407705">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/posts/some-other.md" timestamp="1537235983315">
         <mark key="[" line="1" column="27" />
@@ -343,8 +354,8 @@
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/global/helpers.module.css" timestamp="1538170375709">
-        <mark key="[" line="15" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/global/helpers.module.css" timestamp="1538173883361">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/header/index.js" timestamp="1537229256070">
         <mark key="[" line="3" column="0" />
@@ -477,28 +488,34 @@
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgYXNzaWduIH0gZnJvbSAnLi4vLi4vdXRpbHMnOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ym9keSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhDb250ZXh0LmNhdGVnb3J5KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IGNhdGVnb3J5ID0geyBjYXRlZ29yeTogJ3ZyJyB9Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbnN0IHsgZWRnZXMgfSA9IHBvc3Q7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IEFyY2hpdmUgZnJvbSAnLi4vY29tcG9uZW50cy9hcmNoaXZlJzsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>import CategoryHeader from '../components/category-header';
+import CategoryAside from '../components/category-aside';
+import CategoryImage from '../components/category-image';
+import CategoryList from '../components/category-list';
+
+import helpers from '../global/helpers.module.css';
+import style from '../components/category-aside/category-aside.module.css';</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPENhdGVnb3J5QXNpZGUgcG9zdD17IGZyb250bWF0dGVyIH0gLz4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
