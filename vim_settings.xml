@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="D:/repos/ocular-rhythm-site/src/components/post-header/index.js" timestamp="1538161440390">
+      <file name="D:/repos/ocular-rhythm-site/src/components/post-header/index.js" timestamp="1538230895587">
         <mark key="[" line="7" column="11" />
         <mark key="]" line="7" column="11" />
         <mark key="." line="7" column="11" />
@@ -112,10 +112,11 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/templates/category.js" timestamp="1538173739157">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/templates/category.js" timestamp="1538231937749">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/src/components/category-list/category-list.css" timestamp="1537229870041">
         <mark key="[" line="0" column="0" />
@@ -148,12 +149,12 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/global/tags.module.css" timestamp="1538170190917">
-        <mark key="'" line="45" column="15" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="37" column="19" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/global/tags.module.css" timestamp="1538230533180">
+        <mark key="'" line="44" column="15" />
+        <mark key="[" line="40" column="67" />
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="36" column="19" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/posts/dev-rules.md" timestamp="1538172345952">
         <mark key="[" line="1" column="25" />
@@ -236,10 +237,14 @@
         <mark key="^" line="5" column="15" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/components/category-list/index.js" timestamp="1538173808000">
-        <mark key="[" line="0" column="26" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="D:/repos/ocular-rhythm-site/src/components/category-list/index.js" timestamp="1538231056087">
+        <mark key="[" line="28" column="56" />
+        <mark key="]" line="28" column="55" />
+        <mark key="." line="28" column="55" />
+        <mark key="^" line="28" column="55" />
+      </file>
+      <file name="D:/repos/ocular-rhythm-site/src/components/category-list/category-list.module.css" timestamp="1538230958293">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
@@ -280,6 +285,10 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
+      </file>
+      <file name="D:/repos/ocular-rhythm-site/src/templates/single.js" timestamp="1538231421294">
+        <mark key="'" line="74" column="15" />
+        <mark key="[" line="22" column="45" />
       </file>
       <file name="D:/repos/ocular-rhythm-gatsby/gatsby-node.js" timestamp="1537235820615">
         <mark key="[" line="48" column="58" />
@@ -470,7 +479,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENhdGVnb3J5SW1hZ2UgZnJvbSAnLi4vY29tcG9uZW50cy9jYXRlZ29yeS1pbWFnZSc7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -482,7 +491,7 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IENhdGVnb3J5SW1hZ2UgZnJvbSAnLi4vY29tcG9uZW50cy9jYXRlZ29yeS1pbWFnZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -491,31 +500,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgYXNzaWduIH0gZnJvbSAnLi4vLi4vdXRpbHMnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHN0eWxlIGZyb20gJy4uL2NvbXBvbmVudHMvY2F0ZWdvcnktYXNpZGUvY2F0ZWdvcnktYXNpZGUubW9kdWxlLmNzcyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKHBhdGhDb250ZXh0LmNhdGVnb3J5KTsK</text>
+        <text encoding="base64">aW1wb3J0IGhlbHBlcnMgZnJvbSAnLi4vZ2xvYmFsL2hlbHBlcnMubW9kdWxlLmNzcyc7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IGNhdGVnb3J5ID0geyBjYXRlZ29yeTogJ3ZyJyB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IHsgZWRnZXMgfSA9IHBvc3Q7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgY2xhc3NOYW1lPSJwb3N0LWNhdGVnb3J5LS1pbWFnZSIvPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IEFyY2hpdmUgZnJvbSAnLi4vY29tcG9uZW50cy9hcmNoaXZlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbWcgYWx0PSJNYW4gd2VhcmluZyBhIHZpcnR1YWwgcmVhbGl0eSBoZWFkc2V0IiBzcmM9Int7IHJvb3QgfX1pbWcvdnIuc3ZnIiBoZWlnaHQ9IjMwMCIgd2lkdGg9IjMwMCIK</text>
       </register>
-      <register name="8" type="4">
-        <text>import CategoryHeader from '../components/category-header';
-import CategoryAside from '../components/category-aside';
-import CategoryImage from '../components/category-image';
-import CategoryList from '../components/category-list';
-
-import helpers from '../global/helpers.module.css';
-import style from '../components/category-aside/category-aside.module.css';</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb2xvcjogdmFyKC0td2hpdGUpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPENhdGVnb3J5QXNpZGUgcG9zdD17IGZyb250bWF0dGVyIH0gLz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
