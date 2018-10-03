@@ -147,6 +147,9 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
+      <file name="D:/repos/license-plate-judas/app/components/Lookup/index.js" timestamp="1538608060735">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/themes/independence-tube/page-blank.php" timestamp="1537893076292">
         <mark key="[" line="28" column="16" />
         <mark key="]" line="30" column="0" />
@@ -257,6 +260,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/repos/license-plate-judas/.editorconfig" timestamp="1538608081178">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
       </file>
@@ -330,6 +338,11 @@
         <mark key="^" line="159" column="55" />
         <mark key="." line="159" column="55" />
       </file>
+      <file name="D:/repos/license-plate-judas/app/components/Login/index.js" timestamp="1538609041477">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/category-list/index.js" timestamp="1537299139965">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -373,10 +386,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/repos/quiet-and-the-goblet-of-tuna/src/config.js" timestamp="1538336309259">
+        <mark key="[" line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/header/header.module.css" timestamp="1537294588691">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/repos/quiet-and-the-goblet-of-tuna/src/scenes/main.js" timestamp="1538336573479">
+        <mark key="'" line="90" column="88" />
       </file>
       <file name="&lt;01eaa792-79ae-4a9d-ae80-ad9f4981447a&gt;/wp-content/themes/independence-tube/functions.php" timestamp="1537901565431">
         <mark key="[" line="8" column="1" />
@@ -492,6 +511,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="D:/repos/license-plate-judas/package.json" timestamp="1538608985412">
+        <mark key="[" line="10" column="29" />
+        <mark key="]" line="24" column="41" />
+        <mark key="^" line="24" column="41" />
+        <mark key="." line="24" column="41" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/_body.css" timestamp="1537200536736">
         <mark key="[" line="0" column="0" />
       </file>
@@ -518,6 +543,7 @@
         <mark key="^" line="102" column="12" />
         <mark key="." line="102" column="12" />
       </file>
+      <file name="D:/repos/license-plate-judas/.env" timestamp="1538605590602" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/post-header.module.css" timestamp="1537365665888">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -589,7 +615,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/pages/blog.js" timestamp="1538245310148" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537365290809">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="4" column="0" />
@@ -605,9 +630,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="16" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/partial/menu-mobile.twig" />
-      <jump line="18" column="19" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/partial/menu-mobile.twig" />
-      <jump line="13" column="3" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" />
       <jump line="5" column="13" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" />
       <jump line="17" column="60" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/home.twig" />
       <jump line="11" column="10" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" />
@@ -705,6 +727,9 @@
       <jump line="95" column="16" filename="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/admin/class-agent-locator-admin.php" />
       <jump line="6" column="16" filename="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/package.json" />
       <jump line="184" column="5" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" />
+      <jump line="90" column="88" filename="D:/repos/quiet-and-the-goblet-of-tuna/src/scenes/main.js" />
+      <jump line="22" column="28" filename="D:/repos/license-plate-judas/app/components/Lookup/index.js" />
+      <jump line="0" column="0" filename="D:/repos/license-plate-judas/app/components/Lookup/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -714,7 +739,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>$tab-</text>
+        <text>bg_chemtrails</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
@@ -725,38 +750,38 @@
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTm90Rm91bmRQYWdlOwo=</text>
+      <register name="2" type="4">
+        <text encoding="base64">Y2xhc3MgTG9naW4gZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewoKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwoKICAgICAgICB0aGlzLm9uU3VibWl0ID0gdGhpcy5vblN1Ym1pdC5iaW5kKHRoaXMpOwoKICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICB1c2VybmFtZTogJycsCiAgICAgICAgICAgIHBhc3N3b3JkOiAnJywKICAgICAgICAgICAgZXJyb3JzOiB1bmRlZmluZWQsCiAgICAgICAgfTsKICAgIH0KCiAgICBhc3luYyBvblN1Ym1pdCgpIHsKICAgICAgICBjb25zdCBwYXNzd29yZCA9IGhhc2guTUQ1KHRoaXMuc3RhdGUucGFzc3dvcmQgKyBjb25maWcuc2FsdCk7CiAgICAgICAgY29uc3QgcmVjb3JkcyA9IGF3YWl0IEFQSS5nZXQoJ3VzZXJzJywgYD9maWVsZHMlNUIlNUQ9dXNlcm5hbWUmZmllbGRzJTVCJTVEPXBhc3N3b3JkJmZpbHRlckJ5Rm9ybXVsYT1BTkQodXNlcm5hbWUlM0QlMjIke3RoaXMuc3RhdGUudXNlcm5hbWV9JTIyLHBhc3N3b3JkJTNEJTIyJHtwYXNzd29yZH0lMjIpYCk7CgogICAgICAgIGlmICghcmVjb3Jkcy5sZW5ndGgpIHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBlcnJvcnM6ICdVc2VybmFtZS9QYXNzd29yZCBJbmNvcnJlY3QnCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgLy8gVE9ETzogZ28gdG8gdGhlIG5leHQgdmlldwogICAgfQoKCiAgICByZW5kZXI=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPEhlbG1ldCAvPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVsbWV0IH0gZnJvbSAnZ2F0c2J5JztkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IyBCRUdJTiBpVGhlbWVzIFNlY3VyaXR5IC0gRG8gbm90IG1vZGlmeSBvciByZW1vdmUgdGhpcyBsaW5lCiMgaVRoZW1lcyBTZWN1cml0eSBDb25maWcgRGV0YWlsczogMgoJIyBEaXNhYmxlIFhNTC1SUEMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gV29yZFByZXNzIFR3ZWFrcyA+IFhNTC1SUEMKCTxmaWxlcyB4bWxycGMucGhwPgoJCTxJZk1vZHVsZSBtb2RfYXV0aHpfY29yZS5jPgoJCQlSZXF1aXJlIGFsbCBkZW5pZWQKCQk8L0lmTW9kdWxlPgoJCTxJZk1vZHVsZSAhbW9kX2F1dGh6X2NvcmUuYz4KCQkJT3JkZXIgYWxsb3csZGVueQoJCQlEZW55IGZyb20gYWxsCgkJPC9JZk1vZHVsZT4KCTwvZmlsZXM+CgoJPElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+CgkJUmV3cml0ZUVuZ2luZSBPbgoKCQkjIFJlZHVjZSBDb21tZW50IFNwYW0gLSBTZWN1cml0eSA+IFNldHRpbmdzID4gV29yZFByZXNzIFR3ZWFrcyA+IENvbW1lbnQgU3BhbQoJCVJld3JpdGVDb25kICV7UkVRVUVTVF9NRVRIT0R9IFBPU1QKCQlSZXdyaXRlQ29uZCAle1JFUVVFU1RfVVJJfSAvd3AtY29tbWVudHMtcG9zdFwucGhwJAoJCVJld3JpdGVDb25kICV7SFRUUF9VU0VSX0FHRU5UfSBeJCBbT1JdCgkJUmV3cml0ZUNvbmQgJXtIVFRQX1JFRkVSRVJ9ICFeaHR0cHM/Oi8vKChbXi9dK1wuKT95bWNhY2FtcHBpb21pbmdvXC5vcmd8amV0cGFja1wud29yZHByZXNzXC5jb20vamV0cGFjay1jb21tZW50KSgvfCQpIFtOQ10KCQlSZXdyaXRlUnVsZSBeLiogLSBbRl0KCTwvSWZNb2R1bGU+CgoJIyBQcm90ZWN0IFN5c3RlbSBGaWxlcyAtIFNlY3VyaXR5ID4gU2V0dGluZ3MgPiBTeXN0ZW0gVHdlYWtzID4gU3lzdGVtIEZpbGVzCgk8ZmlsZXMgLmh0YWNjZXNzPgoJCTxJZk1vZHVsZSBtb2RfYXV0aHpfY29yZS5jPgoJCQlSZXF1aXJlIGFsbCBkZW5pZWQKCQk8L0lmTW9kdWxlPgoJCTxJZk1vZHVsZSAhbW9kX2F1dGh6X2NvcmUuYz4KCQkJT3JkZXIgYWxsb3csZGVueQoJCQlEZW55IGZyb20gYWxsCgkJPC9JZk1vZHVsZT4KCTwvZmlsZXM+Cgk8ZmlsZXMgcmVhZG1lLmh0bWw+CgkJPElmTW9kdWxlIG1vZF9hdXRoel9jb3JlLmM+CgkJCVJlcXVpcmUgYWxsIGRlbmllZAoJCTwvSWZNb2R1bGU+CgkJPElmTW9kdWxlICFtb2RfYXV0aHpfY29yZS5jPgoJCQlPcmRlciBhbGxvdyxkZW55CgkJCURlbnkgZnJvbSBhbGwKCQk8L0lmTW9kdWxlPgoJPC9maWxlcz4KCTxmaWxlcyByZWFkbWUudHh0PgoJCTxJZk1vZHVsZSBtb2RfYXV0aHpfY29yZS5jPgoJCQlSZXF1aXJlIGFsbCBkZW5pZWQKCQk8L0lmTW9kdWxlPgoJCTxJZk1vZHVsZSAhbW9kX2F1dGh6X2NvcmUuYz4KCQkJT3JkZXIgYWxsb3csZGVueQoJCQlEZW55IGZyb20gYWxsCgkJPC9JZk1vZHVsZT4KCTwvZmlsZXM+Cgk8ZmlsZXMgd3AtY29uZmlnLnBocD4KCQk8SWZNb2R1bGUgbW9kX2F1dGh6X2NvcmUuYz4KCQkJUmVxdWlyZSBhbGwgZGVuaWVkCgkJPC9JZk1vZHVsZT4KCQk8SWZNb2R1bGUgIW1vZF9hdXRoel9jb3JlLmM+CgkJCU9yZGVyIGFsbG93LGRlbnkKCQkJRGVueSBmcm9tIGFsbAoJCTwvSWZNb2R1bGU+Cgk8L2ZpbGVzPgoKCSMgRGlzYWJsZSBEaXJlY3RvcnkgQnJvd3NpbmcgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IERpcmVjdG9yeSBCcm93c2luZwoJT3B0aW9ucyAtSW5kZXhlcwoKCTxJZk1vZHVsZSBtb2RfcmV3cml0ZS5jPgoJCVJld3JpdGVFbmdpbmUgT24KCgkJIyBQcm90ZWN0IFN5c3RlbSBGaWxlcyAtIFNlY3VyaXR5ID4gU2V0dGluZ3MgPiBTeXN0ZW0gVHdlYWtzID4gU3lzdGVtIEZpbGVzCgkJUmV3cml0ZVJ1bGUgXndwLWFkbWluL2luc3RhbGxcLnBocCQgLSBbRl0KCQlSZXdyaXRlUnVsZSBed3AtYWRtaW4vaW5jbHVkZXMvIC0gW0ZdCgkJUmV3cml0ZVJ1bGUgIV53cC1pbmNsdWRlcy8gLSBbUz0zXQoJCVJld3JpdGVSdWxlIF53cC1pbmNsdWRlcy9bXi9dK1wucGhwJCAtIFtGXQoJCVJld3JpdGVSdWxlIF53cC1pbmNsdWRlcy9qcy90aW55bWNlL2xhbmdzLy4rXC5waHAgLSBbRl0KCQlSZXdyaXRlUnVsZSBed3AtaW5jbHVkZXMvdGhlbWUtY29tcGF0LyAtIFtGXQoKCQkjIERpc2FibGUgUEhQIGluIFVwbG9hZHMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IFBIUCBpbiBVcGxvYWRzCgkJUmV3cml0ZVJ1bGUgXndwXC1jb250ZW50L3VwbG9hZHMvLipcLig/OnBocFsxLTddP3xwaHR8cGh0bWw/fHBocHMpJCAtIFtOQyxGXQoKCQkjIERpc2FibGUgUEhQIGluIFBsdWdpbnMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IFBIUCBpbiBQbHVnaW5zCgkJUmV3cml0ZVJ1bGUgXndwXC1jb250ZW50L3BsdWdpbnMvLipcLig/OnBocFsxLTddP3xwaHR8cGh0bWw/fHBocHMpJCAtIFtOQyxGXQoKCQkjIERpc2FibGUgUEhQIGluIFRoZW1lcyAtIFNlY3VyaXR5ID4gU2V0dGluZ3MgPiBTeXN0ZW0gVHdlYWtzID4gUEhQIGluIFRoZW1lcwoJCVJld3JpdGVSdWxlIF53cFwtY29udGVudC90aGVtZXMvLipcLig/OnBocFsxLTddP3xwaHR8cGh0bWw/fHBocHMpJCAtIFtOQyxGXQoKCQkjIEZpbHRlciBSZXF1ZXN0IE1ldGhvZHMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IFJlcXVlc3QgTWV0aG9kcwoJCVJld3JpdGVDb25kICV7UkVRVUVTVF9NRVRIT0R9IF4oVFJBQ0V8REVMRVRFfFRSQUNLKSBbTkNdCgkJUmV3cml0ZVJ1bGUgXi4qIC0gW0ZdCgoJCSMgRmlsdGVyIFN1c3BpY2lvdXMgUXVlcnkgU3RyaW5ncyBpbiB0aGUgVVJMIC0gU2VjdXJpdHkgPiBTZXR0aW5ncyA+IFN5c3RlbSBUd2Vha3MgPiBTdXNwaWNpb3VzIFF1ZXJ5IFN0cmluZ3MKCQlSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gXC5cLlwvIFtPUl0KCQlSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gXC4oYmFzaHxnaXR8aGd8bG9nfHN2bnxzd3B8Y3ZzKSBbTkMsT1JdCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IGV0Yy9wYXNzd2QgW05DLE9SXQoJCVJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSBib290XC5pbmkgW05DLE9SXQoJCVJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSBmdHA6IFtOQyxPUl0KCQlSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gaHR0cHM/OiBbTkMsT1JdCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICg8fCUzQylzY3JpcHQoPnwlM0UpIFtOQyxPUl0KCQlSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gbW9zQ29uZmlnX1thLXpBLVpfXXsxLDIxfSg9fCUzRCkgW05DLE9SXQoJCVJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSBiYXNlNjRfZGVjb2RlXCggW05DLE9SXQoJCVJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSAlMjQmeCBbTkMsT1JdCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IDEyN1wuMCBbTkMsT1JdCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IChnbG9iYWxzfGVuY29kZXxsb2NhbGhvc3R8bG9vcGJhY2spIFtOQyxPUl0KCQlSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gKHJlcXVlc3R8Y29uY2F0fGluc2VydHx1bmlvbnxkZWNsYXJlKSBbTkMsT1JdCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICVbMDFdWzAtOUEtRl0gW05DXQoJCVJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSAhXmxvZ2dlZG91dD10cnVlCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICFeYWN0aW9uPWpldHBhY2stc3NvCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICFeYWN0aW9uPXJwCgkJUmV3cml0ZUNvbmQgJXtIVFRQX0NPT0tJRX0gIXdvcmRwcmVzc19sb2dnZWRfaW5fCgkJUmV3cml0ZUNvbmQgJXtIVFRQX1JFRkVSRVJ9ICFeaHR0cDovL21hcHNcLmdvb2dsZWFwaXNcLmNvbQoJCVJld3JpdGVSdWxlIF4uKiAtIFtGXQoKCQkjIEZpbHRlciBOb24tRW5nbGlzaCBDaGFyYWN0ZXJzIC0gU2VjdXJpdHkgPiBTZXR0aW5ncyA+IFN5c3RlbSBUd2Vha3MgPiBOb24tRW5nbGlzaCBDaGFyYWN0ZXJzCgkJUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICVbQS1GXVswLTlBLUZdIFtOQ10KCQlSZXdyaXRlUnVsZSBeLiogLSBbRl0KCTwvSWZNb2R1bGU+CiMgRU5EIGlUaGVtZXMgU2VjdXJpdHkgLSBEbyBub3QgbW9kaWZ5IG9yIHJlbW92ZSB0aGlzIGxpbmUKCiMgRGlzYWJsZSBEaXJlY3RvcnkgQnJvd3NpbmcgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IERpcmVjdG9yeSBCcm93c2luZwpPcHRpb25zIC1JbmRleGVzCgo8SWZNb2R1bGUgbW9kX3Jld3JpdGUuYz4KICAgIFJld3JpdGVFbmdpbmUgT24KCiAgICAjIFByb3RlY3QgU3lzdGVtIEZpbGVzIC0gU2VjdXJpdHkgPiBTZXR0aW5ncyA+IFN5c3RlbSBUd2Vha3MgPiBTeXN0ZW0gRmlsZXMKICAgIFJld3JpdGVSdWxlIF53cC1hZG1pbi9pbnN0YWxsXC5waHAkIC0gW0ZdCiAgICBSZXdyaXRlUnVsZSBed3AtYWRtaW4vaW5jbHVkZXMvIC0gW0ZdCiAgICBSZXdyaXRlUnVsZSAhXndwLWluY2x1ZGVzLyAtIFtTPTNdCiAgICBSZXdyaXRlUnVsZSBed3AtaW5jbHVkZXMvW14vXStcLnBocCQgLSBbRl0KICAgIFJld3JpdGVSdWxlIF53cC1pbmNsdWRlcy9qcy90aW55bWNlL2xhbmdzLy4rXC5waHAgLSBbRl0KICAgIFJld3JpdGVSdWxlIF53cC1pbmNsdWRlcy90aGVtZS1jb21wYXQvIC0gW0ZdCgogICAgIyBSZWR1Y2UgQ29tbWVudCBTcGFtIC0gU2VjdXJpdHkgPiBTZXR0aW5ncyA+IFdvcmRQcmVzcyBUd2Vha3MgPiBDb21tZW50IFNwYW0KICAgIFJld3JpdGVDb25kICV7UkVRVUVTVF9NRVRIT0R9IFBPU1QKICAgIFJld3JpdGVDb25kICV7UkVRVUVTVF9VUkl9IC93cC1jb21tZW50cy1wb3N0XC5waHAkCiAgICBSZXdyaXRlQ29uZCAle0hUVFBfVVNFUl9BR0VOVH0gXiQgW09SXQogICAgUmV3cml0ZUNvbmQgJXtIVFRQX1JFRkVSRVJ9ICFeaHR0cHM/Oi8vKChbXi9dK1wuKT95bWNhY2FtcHBpb21pbmdvXC5vcmd8amV0cGFja1wud29yZHByZXNzXC5jb20vamV0cGFjay1jb21tZW50KSgvfCQpIFtOQ10KICAgIFJld3JpdGVSdWxlIF4uKiAtIFtGXQoKICAgICMgRGlzYWJsZSBQSFAgaW4gVXBsb2FkcyAtIFNlY3VyaXR5ID4gU2V0dGluZ3MgPiBTeXN0ZW0gVHdlYWtzID4gUEhQIGluIFVwbG9hZHMKICAgIFJld3JpdGVSdWxlIF53cFwtY29udGVudC91cGxvYWRzLy4qXC4oPzpwaHBbMS03XT98cGh0fHBodG1sP3xwaHBzKSQgLSBbTkMsRl0KCiAgICAjIERpc2FibGUgUEhQIGluIFBsdWdpbnMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IFBIUCBpbiBQbHVnaW5zCiAgICBSZXdyaXRlUnVsZSBed3BcLWNvbnRlbnQvcGx1Z2lucy8uKlwuKD86cGhwWzEtN10/fHBodHxwaHRtbD98cGhwcykkIC0gW05DLEZdCgogICAgIyBEaXNhYmxlIFBIUCBpbiBUaGVtZXMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IFBIUCBpbiBUaGVtZXMKICAgIFJld3JpdGVSdWxlIF53cFwtY29udGVudC90aGVtZXMvLipcLig/OnBocFsxLTddP3xwaHR8cGh0bWw/fHBocHMpJCAtIFtOQyxGXQoKICAgICMgRmlsdGVyIFJlcXVlc3QgTWV0aG9kcyAtIFNlY3VyaXR5ID4gU2V0dGluZ3MgPiBTeXN0ZW0gVHdlYWtzID4gUmVxdWVzdCBNZXRob2RzCiAgICBSZXdyaXRlQ29uZCAle1JFUVVFU1RfTUVUSE9EfSBeKFRSQUNFfERFTEVURXxUUkFDSykgW05DXQogICAgUmV3cml0ZVJ1bGUgXi4qIC0gW0ZdCgogICAgIyBGaWx0ZXIgU3VzcGljaW91cyBRdWVyeSBTdHJpbmdzIGluIHRoZSBVUkwgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IFN1c3BpY2lvdXMgUXVlcnkgU3RyaW5ncwogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IFwuXC5cLyBbT1JdCiAgICBSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gXC4oYmFzaHxnaXR8aGd8bG9nfHN2bnxzd3B8Y3ZzKSBbTkMsT1JdCiAgICBSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gZXRjL3Bhc3N3ZCBbTkMsT1JdCiAgICBSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gYm9vdFwuaW5pIFtOQyxPUl0KICAgIFJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSBmdHA6IFtOQyxPUl0KICAgIFJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSBodHRwcz86IFtOQyxPUl0KICAgIFJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSAoPHwlM0Mpc2NyaXB0KD58JTNFKSBbTkMsT1JdCiAgICBSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gbW9zQ29uZmlnX1thLXpBLVpfXXsxLDIxfSg9fCUzRCkgW05DLE9SXQogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IGJhc2U2NF9kZWNvZGVcKCBbTkMsT1JdCiAgICBSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gJTI0JnggW05DLE9SXQogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IDEyN1wuMCBbTkMsT1JdCiAgICBSZXdyaXRlQ29uZCAle1FVRVJZX1NUUklOR30gKGdsb2JhbHN8ZW5jb2RlfGxvY2FsaG9zdHxsb29wYmFjaykgW05DLE9SXQogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9IChyZXF1ZXN0fGNvbmNhdHxpbnNlcnR8dW5pb258ZGVjbGFyZSkgW05DLE9SXQogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICVbMDFdWzAtOUEtRl0gW05DXQogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICFebG9nZ2Vkb3V0PXRydWUKICAgIFJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSAhXmFjdGlvbj1qZXRwYWNrLXNzbwogICAgUmV3cml0ZUNvbmQgJXtRVUVSWV9TVFJJTkd9ICFeYWN0aW9uPXJwCiAgICBSZXdyaXRlQ29uZCAle0hUVFBfQ09PS0lFfSAhd29yZHByZXNzX2xvZ2dlZF9pbl8KICAgIFJld3JpdGVDb25kICV7SFRUUF9SRUZFUkVSfSAhXmh0dHA6Ly9tYXBzXC5nb29nbGVhcGlzXC5jb20KICAgIFJld3JpdGVSdWxlIF4uKiAtIFtGXQoKICAgICMgRmlsdGVyIE5vbi1FbmdsaXNoIENoYXJhY3RlcnMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gU3lzdGVtIFR3ZWFrcyA+IE5vbi1FbmdsaXNoIENoYXJhY3RlcnMKICAgIFJld3JpdGVDb25kICV7UVVFUllfU1RSSU5HfSAlW0EtRl1bMC05QS1GXSBbTkNdCiAgICBSZXdyaXRlUnVsZSBeLiogLSBbRl0KPC9JZk1vZHVsZT4KIyBFTkQgaVRoZW1lcyBTZWN1cml0eSAtIERvIG5vdCBtb2RpZnkgb3IgcmVtb3ZlIHRoaXMgbGluZQ==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTm90Rm91bmRQYWdlOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IyBEaXNhYmxlIFhNTC1SUEMgLSBTZWN1cml0eSA+IFNldHRpbmdzID4gV29yZFByZXNzIFR3ZWFrcyA+IFhNTC1SUEMKPGZpbGVzIHhtbHJwYy5waHA+CiAgICA8SWZNb2R1bGUgbW9kX2F1dGh6X2NvcmUuYz4KICAgICAgICBSZXF1aXJlIGFsbCBkZW5pZWQKICAgIDwvSWZNb2R1bGU+CiAgICA8SWZNb2R1bGUgIW1vZF9hdXRoel9jb3JlLmM+CiAgICAgICAgT3JkZXIgYWxsb3csZGVueQogICAgICAgIERlbnkgZnJvbSBhbGwKICAgIDwvSWZNb2R1bGU+CjwvZmlsZXM+CgojIFByb3RlY3QgU3lzdGVtIEZpbGVzIC0gU2VjdXJpdHkgPiBTZXR0aW5ncyA+IFN5c3RlbSBUd2Vha3MgPiBTeXN0ZW0gRmlsZXMKPGZpbGVzIC5odGFjY2Vzcz4KICAgIDxJZk1vZHVsZSBtb2RfYXV0aHpfY29yZS5jPgogICAgICAgIFJlcXVpcmUgYWxsIGRlbmllZAogICAgPC9JZk1vZHVsZT4KICAgIDxJZk1vZHVsZSAhbW9kX2F1dGh6X2NvcmUuYz4KICAgICAgICBPcmRlciBhbGxvdyxkZW55CiAgICAgICAgRGVueSBmcm9tIGFsbAogICAgPC9JZk1vZHVsZT4KPC9maWxlcz4KPGZpbGVzIHJlYWRtZS5odG1sPgogICAgPElmTW9kdWxlIG1vZF9hdXRoel9jb3JlLmM+CiAgICAgICAgUmVxdWlyZSBhbGwgZGVuaWVkCiAgICA8L0lmTW9kdWxlPgogICAgPElmTW9kdWxlICFtb2RfYXV0aHpfY29yZS5jPgogICAgICAgIE9yZGVyIGFsbG93LGRlbnkKICAgICAgICBEZW55IGZyb20gYWxsCiAgICA8L0lmTW9kdWxlPgo8L2ZpbGVzPgo8ZmlsZXMgcmVhZG1lLnR4dD4KICAgIDxJZk1vZHVsZSBtb2RfYXV0aHpfY29yZS5jPgogICAgICAgIFJlcXVpcmUgYWxsIGRlbmllZAogICAgPC9JZk1vZHVsZT4KICAgIDxJZk1vZHVsZSAhbW9kX2F1dGh6X2NvcmUuYz4KICAgICAgICBPcmRlciBhbGxvdyxkZW55CiAgICAgICAgRGVueSBmcm9tIGFsbAogICAgPC9JZk1vZHVsZT4KPC9maWxlcz4KPGZpbGVzIHdwLWNvbmZpZy5waHA+CiAgICA8SWZNb2R1bGUgbW9kX2F1dGh6X2NvcmUuYz4KICAgICAgICBSZXF1aXJlIGFsbCBkZW5pZWQKICAgIDwvSWZNb2R1bGU+CiAgICA8SWZNb2R1bGUgIW1vZF9hdXRoel9jb3JlLmM+CiAgICAgICAgT3JkZXIgYWxsb3csZGVueQogICAgICAgIERlbnkgZnJvbSBhbGwKICAgIDwvSWZNb2R1bGU+CjwvZmlsZXM+</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+CiAgICBSZXdyaXRlRW5naW5lIE9uCgogICAgCjwvSWZNb2R1bGU+</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>$tab-</last-search>
+      <last-search>bg_chemtrails</last-search>
       <last-offset />
-      <last-pattern>$tab-</last-pattern>
+      <last-pattern>bg_chemtrails</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -766,6 +791,7 @@
         <entry>tab</entry>
         <entry>$tab</entry>
         <entry>$tab-</entry>
+        <entry>bg_chemtrails</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
@@ -794,6 +820,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed A</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
