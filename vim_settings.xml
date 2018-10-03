@@ -188,6 +188,11 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1538513125351">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
       </file>
@@ -247,10 +252,11 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1538508097584">
-        <mark key="[" line="1" column="15" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1538513319080">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/post-header.module.css" timestamp="1537365665888">
         <mark key="[" line="39" column="0" />
@@ -360,6 +366,11 @@
         <mark key="[" line="25" column="15" />
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.js" timestamp="1538513332359">
+        <mark key="[" line="12" column="9" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/callout/callout.css" timestamp="1537299150095">
         <mark key="[" line="0" column="0" />
@@ -523,6 +534,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.babelrc" timestamp="1538512895958">
+        <mark key="[" line="1" column="45" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/header/header.module.css" timestamp="1537303746646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -653,12 +667,8 @@
       <jump line="184" column="5" filename="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AIRTABLE_BASE=&quot;app2im2QRZkvkc7Ac&quot;
-AIRTABLE_TABLE=&quot;plates&quot;
-AIRTABLE_VIEW=&quot;grid&quot;
-AIRTABLE_API_KEY=&quot;keyEGxNKrY0z0o8jG&quot;
-AIRTABLE_MAX_RECORDS=20</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIEFJUlRBQkxFX1RBQkxFLAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -669,59 +679,39 @@ AIRTABLE_MAX_RECORDS=20</text>
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIEFJUlRBQkxFX1RBQkxFLAo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">QUlSVEFCTEVfVEFCTEU9cGxhdGVzCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">CmNvbnN0IHRhYmxlcyA9IFsKICAgICd1c2VycycsCiAgICAncGxhdGVzJywKICAgICdyZXBvcnRzJywKXTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8VGV4dCBrZXk9eyBpIH0+e0pTT04uc3RyaW5naWZ5KHJlY29yZC5maWVsZHMpfTwvVGV4dD4K</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZW52KCcuZW52Jyk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IGVudiBmcm9tICdlbnYyJzsK</text>
+      </register>
+      <register name="7" type="4">
         <text>AIRTABLE_BASE=&quot;app2im2QRZkvkc7Ac&quot;
 AIRTABLE_TABLE=&quot;plates&quot;
 AIRTABLE_VIEW=&quot;grid&quot;
 AIRTABLE_API_KEY=&quot;keyEGxNKrY0z0o8jG&quot;
 AIRTABLE_MAX_RECORDS=20</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHZpZXc6IHByb2Nlc3MuZW52LkFJUlRBQkxFX1ZJRVcsCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CiAgICAgICAgaWYocmVzcC5zdGF0dXMgPj0gMjAwICYmIHJlc3Auc3RhdHVzIDwgMzAwKSB7CiAgICAgICAgICAgIHZhciBqc29uID0gYXdhaXQgcmVzcC5qc29uKCk7CiAgICAgICAgICAgIAogICAgICAgIH0=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBY2NlcHQ6ICdhcHBsaWNhdGlvbi9qc29uJywK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">QUlSVEFCTEVfS0VZPQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">QUlSVEFCTEVfQkFTRT0K</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgQWlydGFibGUgZnJvbSAnYWlydGFibGUnOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>const base = Airtable.configure({
-            apiKey: 'keyEGxNKrY0z0o8jG',
-        }).base('app2im2QRZkvkc7Ac');
-
-        base('plates').select({
-            maxRecords: 3,
-        }).eachPage(function page(records, fetchNextPage) {
-            // This function (`page`) will get called for each page of records.
-
-            records.forEach(function(record) {
-                console.log('Retrieved', record.get('ID'));
-            });
-
-            // To fetch the next page of records, call `fetchNextPage`.
-            // If there are more records, `page` will get called again.
-            // If there are no more records, `done` will get called.
-            fetchNextPage();
-
-        }, function done(err) {
-            if (err) { console.error(err); return; }
-        });</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGNvbG9ycyA9IFsndG9tYXRvJywgJ2JsdWUnLCAnZ29sZCcsICdncmVlbiddCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
