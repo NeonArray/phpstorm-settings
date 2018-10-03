@@ -250,7 +250,7 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1538573297206">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1538577613601">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
@@ -281,12 +281,12 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/watermark-it/watermark-it.php" timestamp="1538073360479">
         <mark key="[" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1538577475305">
-        <mark key="'" line="71" column="1" />
-        <mark key="[" line="40" column="93" />
-        <mark key="]" line="66" column="44" />
-        <mark key="." line="66" column="44" />
-        <mark key="^" line="66" column="44" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1538578353387">
+        <mark key="'" line="70" column="1" />
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="40" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
@@ -487,8 +487,10 @@
       <file name="/Dummy.txt" timestamp="1537973870537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1538577340882">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1538579161986">
+        <mark key="[" line="20" column="131" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -671,8 +673,8 @@
       <jump line="19" column="1" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKHRhYmxlID09PSAnJyB8fCB0YWJsZSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVGFibGUgcGFyYW1ldGVyIHJlcXVpcmVkIHdoZW4gaW52b2tpbmcgQVBJLnBvc3QnKTsKICAgICAgICB9CgogICAgICAgIGlmIChkYXRhID09PSAnJyB8fCBkYXRhID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdEYXRhIHBhcmFtZXRlciByZXF1aXJlZCB3aGVuIGludm9raW5nIEFQSS5wb3N0Jyk7CiAgICAgICAgfQo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -683,35 +685,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgaWYgKHRhYmxlID09PSAnJyB8fCB0YWJsZSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVGFibGUgcGFyYW1ldGVyIHJlcXVpcmVkIHdoZW4gaW52b2tpbmcgQVBJLnBvc3QnKTsKICAgICAgICB9CgogICAgICAgIGlmIChkYXRhID09PSAnJyB8fCBkYXRhID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdEYXRhIHBhcmFtZXRlciByZXF1aXJlZCB3aGVuIGludm9raW5nIEFQSS5wb3N0Jyk7CiAgICAgICAgfQo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYGh0dHBzOi8vYXBpLmFpcnRhYmxlLmNvbS92MC8ke2NvbmZpZy5iYXNlfS8ke3RhYmxlfSR7cGFyYW1zfWApOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgaWYgKHRhYmxlID09PSAnJyB8fCB0YWJsZSA9PT0gdW5kZWZpbmVkKSB7CiAgICAgICAgICAgIHRocm93IG5ldyBFcnJvcignVGFibGUgcGFyYW1ldGVyIHJlcXVpcmVkIHdoZW4gaW52b2tpbmcgQVBJLnBvc3QnKTsKICAgICAgICB9CgogICAgICAgIGlmIChkYXRhID09PSAnJyB8fCBkYXRhID09PSB1bmRlZmluZWQpIHsKICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdEYXRhIHBhcmFtZXRlciByZXF1aXJlZCB3aGVuIGludm9raW5nIEFQSS5wb3N0Jyk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAodGFibGUgPT09ICcnIHx8IHRhYmxlID09PSB1bmRlZmluZWQpIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBoZWxsbyA9IChuYW1lID0gaXNSZXF1aXJlZCgpKSA9PiB7IGNvbnNvbGUubG9nKGBoZWxsbyAke25hbWV9YCkgfTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBpc1JlcXVpcmVkID0gKCkgPT4geyB0aHJvdyBuZXcgRXJyb3IoJ3BhcmFtIGlzIHJlcXVpcmVkJyk7IH07Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAodGFibGUgPT09ICcnIHx8IHRhYmxlID09PSB1bmRlZmluZWQpIHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
