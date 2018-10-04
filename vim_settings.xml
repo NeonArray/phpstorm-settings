@@ -406,6 +406,9 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1538683456167">
+        <mark key="[" line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -436,8 +439,10 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/css/agent-locator-admin.css" timestamp="1537539791024">
         <mark key="[" line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.eslintrc.json" timestamp="1538681974576">
-        <mark key="[" line="19" column="15" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.eslintrc.json" timestamp="1538682554462">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
@@ -508,8 +513,8 @@
       <file name="/Dummy.txt" timestamp="1537973870537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1538681373607">
-        <mark key="[" line="41" column="44" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1538683756796">
+        <mark key="[" line="66" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -701,8 +706,8 @@
       <jump line="19" column="1" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vYXBwL2NvbXBvbmVudHMvTG9naW4nOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAgICJlczIwMTUiLAogICAgICAgICJyZWFjdCIsCiAgICAgICAgInN0YWdlLTEiCiAgICBdLA==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -713,35 +718,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vYXBwL2NvbXBvbmVudHMvTG9naW4nOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAgICJlczIwMTUiLAogICAgICAgICJyZWFjdCIsCiAgICAgICAgInN0YWdlLTEiCiAgICBdLA==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vYXBwL2NvbXBvbmVudHMvTG9naW4nOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2UK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbCcpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uU3VibWl0ID0gdGhpcy5vblN1Ym1pdC5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm9uU3VibWl0ID0gdGhpcy5vblN1Ym1pdC5iaW5kKHRoaXMpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBwYXJhbWV0ZXJpemUoaW5wdXQpIHsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
