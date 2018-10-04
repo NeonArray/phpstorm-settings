@@ -289,6 +289,13 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1538668841935">
+        <mark key="'" line="70" column="1" />
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="39" column="0" />
+        <mark key="." line="39" column="0" />
+        <mark key="^" line="39" column="40" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
@@ -353,6 +360,11 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/inc/logo.php" timestamp="1536258723583">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.gitignore" timestamp="1538668482052">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/CHANGELOG.md" timestamp="1537897890220">
         <mark key="[" line="2" column="24" />
@@ -532,6 +544,12 @@
         <mark key="]" line="14" column="24" />
         <mark key="." line="14" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.travis.yml" timestamp="1538668641142">
+        <mark key="[" line="2" column="9" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/css/agent-locator-public.css" timestamp="1537890661519">
         <mark key="[" line="98" column="0" />
         <mark key="]" line="55" column="0" />
@@ -680,8 +698,8 @@
       <jump line="19" column="1" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgJGFyZ3MyID0gYXJyYXkoCiAgICAgICAgICAgICAgICAncG9zdF90eXBlJyAJCT0+ICdwcm9kdWN0JywKICAgICAgICAgICAgICAgICdwb3N0X3N0YXR1cycgCQk9PiAncHVibGlzaCcsCiAgICAgICAgICAgICAgICAncG9zdHNfcGVyX3BhZ2UnIAk9PiAxMDAsCiAgICAgICAgICAgICAgICAnb3JkZXJieScJCQk9PiAnbWVudV9vcmRlcicsCiAgICAgICAgICAgICAgICAnb3JkZXInCQkJCT0+ICdBU0MnLAogICAgICAgICAgICApOwogICAgICAgICAgICAkcXVlcnkyID0gbmV3IFdQX1F1ZXJ5KCRhcmdzMik7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">eWFybi5sb2NrCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -692,38 +710,38 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgJGFyZ3MyID0gYXJyYXkoCiAgICAgICAgICAgICAgICAncG9zdF90eXBlJyAJCT0+ICdwcm9kdWN0JywKICAgICAgICAgICAgICAgICdwb3N0X3N0YXR1cycgCQk9PiAncHVibGlzaCcsCiAgICAgICAgICAgICAgICAncG9zdHNfcGVyX3BhZ2UnIAk9PiAxMDAsCiAgICAgICAgICAgICAgICAnb3JkZXJieScJCQk9PiAnbWVudV9vcmRlcicsCiAgICAgICAgICAgICAgICAnb3JkZXInCQkJCT0+ICdBU0MnLAogICAgICAgICAgICApOwogICAgICAgICAgICAkcXVlcnkyID0gbmV3IFdQX1F1ZXJ5KCRhcmdzMik7</text>
+      <register name="1" type="2">
+        <text encoding="base64">eWFybi5sb2NrCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICAgJGFyZ3MyID0gYXJyYXkoCiAgICAgICAgICAgICAgICAncG9zdF90eXBlJyAJCT0+ICdwcm9kdWN0JywKICAgICAgICAgICAgICAgICdwb3N0X3N0YXR1cycgCQk9PiAncHVibGlzaCcsCiAgICAgICAgICAgICAgICAncG9zdHNfcGVyX3BhZ2UnIAk9PiAxMDAsCiAgICAgICAgICAgICAgICAnb3JkZXJieScJCQk9PiAnbWVudV9vcmRlcicsCiAgICAgICAgICAgICAgICAnb3JkZXInCQkJCT0+ICdBU0MnLAogICAgICAgICAgICApOwogICAgICAgICAgICAkcXVlcnkyID0gbmV3IFdQX1F1ZXJ5KCRhcmdzMik7</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">dGF4X3F1ZXJ5JyAJCT0+IGFycmF5KAogICAgICAgICAgICAgICAgICAgIGFycmF5KAogICAgICAgICAgICAgICAgICAgICAgICAndGF4b25vbXknID0+ICdwcm9kdWN0X3R5cGUnLAogICAgICAgICAgICAgICAgICAgICAgICAnZmllbGQnICAgID0+ICdzbHVnJywKICAgICAgICAgICAgICAgICAgICAgICAgJ3Rlcm1zJyAgICA9PiAncHZ0Y29udGVudF9wbGFuJywKICAgICAgICAgICAgICAgICAgICApLAogICAgICAgICAgICAgICAgKSw=</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IEFQSSBmcm9tICcuL2FwcC9hcGknOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAvLyBpZiByZWNvcmRzIGlzIGFuIGVtcHR5IGFycmF5LCB1c2VyIGlzbid0IGZvdW5kCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBjb25zb2xlLmxvZyhyZWNvcmRzWzBdKTsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgaWYgKHRoaXMuc3RhdGUuZXJyb3JzKSB7CiAgICAgICAgICAgIGVycm9ycyA9IAogICAgICAgIH0=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -753,9 +771,9 @@
         <entry>ew</entry>
         <entry>yiw</entry>
         <entry>yow</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
