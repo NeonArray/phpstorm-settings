@@ -11,7 +11,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/plugins/private-content-user-data/pc_user_data.php" timestamp="1538591678291" />
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/dist/index.js" timestamp="1537192795879">
         <mark key="[" line="48" column="52" />
       </file>
@@ -96,7 +95,6 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/code-block/index.pcss" timestamp="1537195164165">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="&lt;a4e45e36-3f88-4bd3-b767-e4c5a53f4ca7&gt;/wp-content/debug.log" timestamp="1538596288517" />
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/style.css" timestamp="1537968866844">
         <mark key="[" line="6" column="25" />
       </file>
@@ -114,7 +112,6 @@
         <mark key="]" line="109" column="0" />
         <mark key="." line="109" column="0" />
       </file>
-      <file name="&lt;a4e45e36-3f88-4bd3-b767-e4c5a53f4ca7&gt;/wp-content/plugins/woocommerce/woocommerce.php" timestamp="1538596608479" />
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
@@ -283,7 +280,6 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/watermark-it/watermark-it.php" timestamp="1538073360479">
         <mark key="[" line="37" column="20" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/plugins/private-content/private_content.php" timestamp="1538591585093" />
       <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/themes/NGAKY/header.php" timestamp="1538658007869">
         <mark key="[" line="13" column="28" />
         <mark key="]" line="13" column="56" />
@@ -435,8 +431,6 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/index.php" timestamp="1538070097274">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/plugins.backup/private-content-premium-plans/front_integrations.php" timestamp="1538595113661" />
-      <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/plugins/private-content-premium-plans/front_integrations.php" timestamp="1538657966868" />
       <file name="$USER_HOME$/Documents/websites/ymca/.htaccess.backup" timestamp="1538141440478">
         <mark key="[" line="0" column="0" />
       </file>
@@ -466,7 +460,7 @@
         <mark key="]" line="108" column="0" />
         <mark key="." line="108" column="0" />
       </file>
-      <file name="/PHP Console" timestamp="1538657972592">
+      <file name="/PHP Console" timestamp="1538660546646">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -517,11 +511,13 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-config.php" timestamp="1536756906669">
         <mark key="[" line="56" column="119" />
       </file>
-      <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/plugins.backup/private-content-premium-plans/classes/subscription_manag.php" timestamp="1538595250285" />
       <file name="$USER_HOME$/Documents/websites/nucor/upload-agents.php" timestamp="1537377495135">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/websites/ngaky/wp-content/themes/NGAKY/header.php" timestamp="1538660202583">
+        <mark key="[" line="13" column="35" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/templates/single.php" timestamp="1537302732880">
         <mark key="[" line="0" column="0" />
