@@ -32,11 +32,11 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="D:/repos/license-plate-judas/app/components/Authenticate/index.js" timestamp="1538753051380">
-        <mark key="[" line="41" column="29" />
-        <mark key="]" line="41" column="29" />
-        <mark key="." line="41" column="29" />
-        <mark key="^" line="41" column="29" />
+      <file name="D:/repos/license-plate-judas/app/components/Authenticate/index.js" timestamp="1538753891508">
+        <mark key="[" line="38" column="36" />
+        <mark key="]" line="38" column="35" />
+        <mark key="." line="38" column="35" />
+        <mark key="^" line="38" column="35" />
       </file>
       <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-config.php" timestamp="1536161960870">
         <mark key="[" line="53" column="28" />
@@ -269,8 +269,8 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="D:/repos/license-plate-judas/App.js" timestamp="1538753146174">
-        <mark key="[" line="60" column="85" />
+      <file name="D:/repos/license-plate-judas/App.js" timestamp="1538753701392">
+        <mark key="[" line="30" column="72" />
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
         <mark key="^" line="7" column="0" />
@@ -323,12 +323,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="D:/repos/license-plate-judas/app/components/Login/index.js" timestamp="1538753008790">
-        <mark key="'" line="44" column="24" />
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="41" column="19" />
-        <mark key="." line="41" column="19" />
-        <mark key="^" line="41" column="19" />
+      <file name="D:/repos/license-plate-judas/app/components/Login/index.js" timestamp="1538753683649">
+        <mark key="'" line="45" column="24" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="27" />
+        <mark key="." line="2" column="27" />
+        <mark key="^" line="2" column="27" />
       </file>
       <file name="D:/repos/license-plate-judas/app/components/Lookup/index.jsx" timestamp="1538610272467">
         <mark key="[" line="57" column="0" />
@@ -426,10 +426,10 @@
         <mark key="[" line="147" column="113" />
       </file>
       <file name="D:/repos/license-plate-judas/app/views/HomeView/index.js" timestamp="1538751859815">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
         <mark key="^" line="14" column="20" />
-        <mark key="." line="18" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/index.js" timestamp="1537193424978">
         <mark key="[" line="75" column="24" />
@@ -701,8 +701,8 @@
       <jump line="44" column="24" filename="D:/repos/license-plate-judas/app/components/Login/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKCiAgICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICAgICAgaW50aWFsUm91dGU6ICdIb21lJwogICAgICAgIH07CiAgICB9CgogICAgY29tcG9uZW50V2lsbE1vdW50KCkgewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBhdXRoZW50aWNhdGVkOiB0cnVlCiAgICAgICAgfSk7CiAgICB9CgoKICAgIF9pc0F1dGhlbnRpY2F0ZWQgPSBhc3luYyAoKSA9PiB7CiAgICAgICAgLy8gdHJ5IHsKICAgICAgICAvLyAgICAgY29uc3QgZGF0YSA9IGF3YWl0IEFzeW5jU3RvcmFnZS5nZXRJdGVtKCdAVXNlclN0b3JlOmRhdGEnKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICByZXR1cm4gZGF0YSAhPT0gbnVsbDsKICAgICAgICAvLyB9IGNhdGNoIChlcnJvcikgewogICAgICAgIC8vICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgLy8gfQogICAgICAgIHJldHVybiBhd2FpdCB0cnVlOwogICAgfTsKCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -713,40 +713,37 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKCiAgICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICAgICAgaW50aWFsUm91dGU6ICdIb21lJwogICAgICAgIH07CiAgICB9CgogICAgY29tcG9uZW50V2lsbE1vdW50KCkgewogICAgICAgIHRoaXMuc2V0U3RhdGUoewogICAgICAgICAgICBhdXRoZW50aWNhdGVkOiB0cnVlCiAgICAgICAgfSk7CiAgICB9CgoKICAgIF9pc0F1dGhlbnRpY2F0ZWQgPSBhc3luYyAoKSA9PiB7CiAgICAgICAgLy8gdHJ5IHsKICAgICAgICAvLyAgICAgY29uc3QgZGF0YSA9IGF3YWl0IEFzeW5jU3RvcmFnZS5nZXRJdGVtKCdAVXNlclN0b3JlOmRhdGEnKTsKICAgICAgICAvLwogICAgICAgIC8vICAgICByZXR1cm4gZGF0YSAhPT0gbnVsbDsKICAgICAgICAvLyB9IGNhdGNoIChlcnJvcikgewogICAgICAgIC8vICAgICByZXR1cm4gZmFsc2U7CiAgICAgICAgLy8gfQogICAgICAgIHJldHVybiBhd2FpdCB0cnVlOwogICAgfTsKCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">ICBpZiAodGhpcy5zdGF0ZS5pbml0aWFsUm91dGUgPT09IG51bGwpIHsKICAgICAgICAgICAgcmV0dXJuIDxMb2dpbiAvPjsKICAgICAgICB9</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGhpcy5zdGF0ZSk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQXN5bmNTdG9yYWdlIH0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
+      </register>
+      <register name="6" type="4">
         <text>this.setState({
             loggedIn: true
         });</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBpbml0aWFsUm91dGVkTmFtZTogJ0hvbWUnLAo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQXV0aGVudGljYXRlPgo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxBdXRoZW50aWNhdGU+Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9ICg8TG9naW4gLz4pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
-      </register>
-      <register name="8" type="4">
-        <text>export default {
-    navigate,
-    setTopLevelNavigator,
-};</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXV0aGVudGljYXRlZDogdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxBdXRoZW50aWNhdGU+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
