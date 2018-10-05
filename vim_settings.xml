@@ -200,10 +200,11 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1538681516326">
-        <mark key="[" line="1" column="40" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1538685967685">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+        <mark key="^" line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
@@ -243,8 +244,11 @@
       <file name="/fragment.php" timestamp="1538663113095">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticate/index.js" timestamp="1538684685167">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticate/index.js" timestamp="1538685681825">
+        <mark key="[" line="11" column="9" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+        <mark key="^" line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/category-list/category-list.css" timestamp="1537299134844">
         <mark key="[" line="0" column="0" />
@@ -710,10 +714,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAgICJlczIwMTUiLAogICAgICAgICJyZWFjdCIsCiAgICAgICAgInN0YWdlLTEiCiAgICBdLA==</text>
+        <text>export default class App extends Component {
+    render() {
+        return (
+           
+        );
+    }
+}</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>const  = this._isAuthenticated();</text>
       </register>
       <register name="/" type="4">
         <text>$tab-</text>
@@ -722,34 +732,40 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAgICJlczIwMTUiLAogICAgICAgICJyZWFjdCIsCiAgICAgICAgInN0YWdlLTEiCiAgICBdLA==</text>
+        <text>export default class App extends Component {
+    render() {
+        return (
+           
+        );
+    }
+}</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vYXBwL2NvbXBvbmVudHMvTG9naW4nOwo=</text>
+        <text encoding="base64">aW1wb3J0IEF1dGhlbnRpY2F0ZSBmcm9tICcuL2FwcC9jb21wb25lbnRzL0F1dGhlbnRpY2F0ZSc7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIF9nZXRDb29raWUgPSBhc3luYyAoKSA9PiB7CiAgICAgICAKICAgIH07CiAgICA=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbCcpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAgICJlczIwMTUiLAogICAgICAgICJyZWFjdCIsCiAgICAgICAgInN0YWdlLTEiCiAgICBdLA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2UK</text>
+        <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vYXBwL2NvbXBvbmVudHMvTG9naW4nOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLm9uU3VibWl0ID0gdGhpcy5vblN1Ym1pdC5iaW5kKHRoaXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbCcpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
