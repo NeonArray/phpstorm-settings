@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="D:/repos/license-plate-judas/app.json" timestamp="1538610947023">
+        <mark key="[" line="5" column="28" />
+      </file>
       <file name="/a.dummy" timestamp="1537898843827">
         <mark key="[" line="0" column="0" />
       </file>
@@ -28,6 +31,12 @@
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
+      </file>
+      <file name="D:/repos/license-plate-judas/app/components/Authenticate/index.js" timestamp="1538753051380">
+        <mark key="[" line="41" column="29" />
+        <mark key="]" line="41" column="29" />
+        <mark key="." line="41" column="29" />
+        <mark key="^" line="41" column="29" />
       </file>
       <file name="&lt;cffb7c41-b5cb-4ca4-8ff0-c56d50ce3ac7&gt;/public_html/wp-config.php" timestamp="1536161960870">
         <mark key="[" line="53" column="28" />
@@ -70,22 +79,17 @@
       <file name="$USER_HOME$/Documents/websites/ymca/.htaccess.backup" timestamp="1538141440478">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/css/agent-locator-public.css" timestamp="1537814410016">
-        <mark key="[" line="66" column="18" />
-        <mark key="]" line="66" column="18" />
-        <mark key="." line="66" column="18" />
-        <mark key="^" line="66" column="18" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.txt" timestamp="1537821385403">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="5" column="0" />
-        <mark key="." line="32" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/includes/class-agent-locator.php" timestamp="1537808136147">
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
+      </file>
+      <file name="D:/repos/license-plate-judas/App.jsx" timestamp="1538611150950">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
         <mark key="[" line="27" column="64" />
@@ -127,12 +131,6 @@
       <file name="$USER_HOME$/Documents/projects/mvc-fun/index.php" timestamp="1536856762121">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/tests/unit/test-admin.php" timestamp="1537971890937">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="16" column="41" />
-        <mark key="." line="16" column="41" />
-        <mark key="^" line="16" column="41" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1537968523499">
         <mark key="[" line="54" column="32" />
         <mark key="]" line="54" column="32" />
@@ -141,23 +139,21 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/spark-plugin-boilerplate.php" timestamp="1538070103851">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/partials/agent-locator-admin-display.php" timestamp="1537543961043">
-        <mark key="'" line="27" column="27" />
-        <mark key="[" line="19" column="63" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="D:/repos/license-plate-judas/app/components/Lookup/index.js" timestamp="1538608060735">
-        <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/themes/independence-tube/page-blank.php" timestamp="1537893076292">
-        <mark key="[" line="28" column="16" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="12" column="58" />
-        <mark key="." line="30" column="0" />
+      <file name="D:/repos/license-plate-judas/app/components/Lookup/index.js" timestamp="1538745973628">
+        <mark key="'" line="30" column="10" />
+        <mark key="[" line="14" column="19" />
+        <mark key="]" line="40" column="9" />
+        <mark key="^" line="40" column="9" />
+        <mark key="." line="40" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/header.module.css" timestamp="1537296272933">
         <mark key="[" line="0" column="23" />
+      </file>
+      <file name="D:/repos/license-plate-judas/app/lib/navigationService.js" timestamp="1538753121243">
+        <mark key="[" line="9" column="54" />
+        <mark key="]" line="10" column="3" />
+        <mark key="." line="10" column="3" />
+        <mark key="^" line="10" column="3" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
@@ -200,6 +196,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/repos/license-plate-judas/.eslintrc.json" timestamp="1538614424708">
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="26" />
+        <mark key="." line="33" column="26" />
+        <mark key="^" line="33" column="26" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/parts/locator/form.php" timestamp="1536175287131">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
@@ -220,12 +222,6 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/js/agent-locator-public.js" timestamp="1538054758042">
-        <mark key="[" line="48" column="87" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
-        <mark key="^" line="3" column="3" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-config.php" timestamp="1537967356725">
         <mark key="[" line="22" column="37" />
       </file>
@@ -245,12 +241,6 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-block/post-block.module.css" timestamp="1537325617731">
         <mark key="[" line="1" column="11" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/class-agent-locator-public.php" timestamp="1537821000551">
-        <mark key="'" line="88" column="38" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/templates/single.php" timestamp="1537302732880">
         <mark key="[" line="0" column="0" />
@@ -279,16 +269,23 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/includes/class-agent-locator.php" timestamp="1538076063685">
-        <mark key="[" line="169" column="51" />
-        <mark key="]" line="169" column="51" />
-        <mark key="^" line="169" column="51" />
-        <mark key="." line="169" column="51" />
+      <file name="D:/repos/license-plate-judas/App.js" timestamp="1538753146174">
+        <mark key="[" line="60" column="85" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+        <mark key="^" line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/css/agent-locator-public-alt.css" timestamp="1537904115749">
         <mark key="[" line="37" column="17" />
         <mark key="]" line="88" column="0" />
         <mark key="." line="88" column="0" />
+      </file>
+      <file name="D:/repos/license-plate-judas/app/views/home/index.js" timestamp="1538611675275">
+        <mark key="'" line="15" column="19" />
+        <mark key="[" line="17" column="9" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
@@ -311,12 +308,6 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/admin/css/agent-locator-admin.css" timestamp="1538056826017">
-        <mark key="[" line="7" column="5" />
-        <mark key="]" line="7" column="26" />
-        <mark key="." line="7" column="26" />
-        <mark key="^" line="7" column="26" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1536685739655">
         <mark key="[" line="71" column="48" />
         <mark key="]" line="68" column="0" />
@@ -332,16 +323,17 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/watermark-it/includes/class-watermark-it.php" timestamp="1538077503848">
-        <mark key="[" line="159" column="56" />
-        <mark key="]" line="159" column="55" />
-        <mark key="^" line="159" column="55" />
-        <mark key="." line="159" column="55" />
+      <file name="D:/repos/license-plate-judas/app/components/Login/index.js" timestamp="1538753008790">
+        <mark key="'" line="44" column="24" />
+        <mark key="[" line="5" column="19" />
+        <mark key="]" line="41" column="19" />
+        <mark key="." line="41" column="19" />
+        <mark key="^" line="41" column="19" />
       </file>
-      <file name="D:/repos/license-plate-judas/app/components/Login/index.js" timestamp="1538609041477">
-        <mark key="[" line="35" column="0" />
-        <mark key="]" line="35" column="0" />
-        <mark key="." line="35" column="0" />
+      <file name="D:/repos/license-plate-judas/app/components/Lookup/index.jsx" timestamp="1538610272467">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/category-list/index.js" timestamp="1537299139965">
         <mark key="[" line="3" column="0" />
@@ -350,12 +342,6 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/watermark-it/watermark-it.php" timestamp="1538073360479">
         <mark key="[" line="37" column="20" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/includes/class-agent-locator-utils.php" timestamp="1537815166451">
-        <mark key="[" line="300" column="54" />
-        <mark key="]" line="300" column="49" />
-        <mark key="." line="300" column="49" />
-        <mark key="^" line="300" column="49" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/post-header/post-header.css" timestamp="1537292273737">
         <mark key="[" line="4" column="50" />
@@ -439,6 +425,12 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
       </file>
+      <file name="D:/repos/license-plate-judas/app/views/HomeView/index.js" timestamp="1538751859815">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="^" line="14" column="20" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/index.js" timestamp="1537193424978">
         <mark key="[" line="75" column="24" />
       </file>
@@ -474,23 +466,16 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/dist/index.js" timestamp="1537192795879">
         <mark key="[" line="48" column="52" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/partials/agent-locator-public-display.php" timestamp="1538075010307">
-        <mark key="[" line="22" column="87" />
-        <mark key="]" line="63" column="0" />
-        <mark key="^" line="63" column="3" />
-        <mark key="." line="63" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="D:/repos/license-plate-judas/app/components/Login/index.jsx" timestamp="1538610752055">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/category-list/index.js" timestamp="1537289355275">
         <mark key="[" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537822083776">
-        <mark key="[" line="37" column="39" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
-        <mark key="^" line="37" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1538076680021">
         <mark key="[" line="0" column="0" />
@@ -511,11 +496,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="D:/repos/license-plate-judas/package.json" timestamp="1538608985412">
-        <mark key="[" line="10" column="29" />
-        <mark key="]" line="24" column="41" />
-        <mark key="^" line="24" column="41" />
-        <mark key="." line="24" column="41" />
+      <file name="D:/repos/license-plate-judas/package.json" timestamp="1538610641206">
+        <mark key="[" line="11" column="45" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="10" column="39" />
+        <mark key="." line="10" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/_body.css" timestamp="1537200536736">
         <mark key="[" line="0" column="0" />
@@ -525,35 +510,16 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1537973870537">
+      <file name="/Dummy.txt" timestamp="1538609049829">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/quiet-tuna-chalice/src/scenes/main.js" timestamp="1538080545343">
-        <mark key="'" line="183" column="5" />
-        <mark key="[" line="189" column="0" />
-        <mark key="]" line="189" column="0" />
-        <mark key="." line="189" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/archive/index.js" timestamp="1537289322483">
         <mark key="[" line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/admin/partials/agent-locator-import-display.php" timestamp="1538061053478">
-        <mark key="[" line="102" column="12" />
-        <mark key="]" line="102" column="12" />
-        <mark key="^" line="102" column="12" />
-        <mark key="." line="102" column="12" />
-      </file>
-      <file name="D:/repos/license-plate-judas/.env" timestamp="1538605590602" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/post-header.module.css" timestamp="1537365665888">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/public/class-agent-locator-public.php" timestamp="1537979989445">
-        <mark key="[" line="157" column="79" />
-        <mark key="]" line="157" column="74" />
-        <mark key="." line="157" column="74" />
-        <mark key="^" line="157" column="74" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/archive/archive.css" timestamp="1537289327437">
         <mark key="[" line="0" column="0" />
@@ -615,6 +581,9 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="D:/repos/license-plate-judas/app/config/index.js" timestamp="1538609704159">
+        <mark key="'" line="12" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/archive/index.js" timestamp="1537365290809">
         <mark key="[" line="8" column="30" />
         <mark key="]" line="4" column="0" />
@@ -630,17 +599,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="13" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/front-page.twig" />
-      <jump line="17" column="60" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/home.twig" />
-      <jump line="11" column="10" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/src/scss/components/hero/_index.scss" />
-      <jump line="25" column="16" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/nedry-ingen-wordpress/templates/home.twig" />
-      <jump line="7" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/footer.twig" />
-      <jump line="30" column="9" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/footer.twig" />
-      <jump line="2" column="3" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/footer-menu.twig" />
-      <jump line="5" column="8" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-news.twig" />
-      <jump line="18" column="54" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" />
-      <jump line="19" column="67" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-internal.twig" />
-      <jump line="0" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/breadcrumbs.twig" />
       <jump line="9" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/breadcrumbs.twig" />
       <jump line="277" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" />
       <jump line="18" column="98" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-product.twig" />
@@ -730,10 +688,21 @@
       <jump line="90" column="88" filename="D:/repos/quiet-and-the-goblet-of-tuna/src/scenes/main.js" />
       <jump line="22" column="28" filename="D:/repos/license-plate-judas/app/components/Lookup/index.js" />
       <jump line="0" column="0" filename="D:/repos/license-plate-judas/app/components/Lookup/index.js" />
+      <jump line="13" column="0" filename="D:/repos/license-plate-judas/app/components/Login/index.js" />
+      <jump line="12" column="22" filename="D:/repos/license-plate-judas/app/components/Lookup/index.js" />
+      <jump line="12" column="6" filename="D:/repos/license-plate-judas/app/config/index.js" />
+      <jump line="14" column="11" filename="D:/repos/license-plate-judas/app/views/home/index.js" />
+      <jump line="1" column="0" filename="D:/repos/license-plate-judas/App.jsx" />
+      <jump line="3" column="55" filename="D:/repos/license-plate-judas/App.js" />
+      <jump line="15" column="19" filename="D:/repos/license-plate-judas/app/views/home/index.js" />
+      <jump line="15" column="10" filename="D:/repos/license-plate-judas/app/components/Lookup/index.js" />
+      <jump line="10" column="0" filename="D:/repos/license-plate-judas/app/views/HomeView/index.js" />
+      <jump line="17" column="12" filename="D:/repos/license-plate-judas/app/views/HomeView/index.js" />
+      <jump line="44" column="24" filename="D:/repos/license-plate-judas/app/components/Login/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -745,34 +714,39 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Y2xhc3MgTG9naW4gZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewoKICAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgICAgc3VwZXIocHJvcHMpOwoKICAgICAgICB0aGlzLm9uU3VibWl0ID0gdGhpcy5vblN1Ym1pdC5iaW5kKHRoaXMpOwoKICAgICAgICB0aGlzLnN0YXRlID0gewogICAgICAgICAgICB1c2VybmFtZTogJycsCiAgICAgICAgICAgIHBhc3N3b3JkOiAnJywKICAgICAgICAgICAgZXJyb3JzOiB1bmRlZmluZWQsCiAgICAgICAgfTsKICAgIH0KCiAgICBhc3luYyBvblN1Ym1pdCgpIHsKICAgICAgICBjb25zdCBwYXNzd29yZCA9IGhhc2guTUQ1KHRoaXMuc3RhdGUucGFzc3dvcmQgKyBjb25maWcuc2FsdCk7CiAgICAgICAgY29uc3QgcmVjb3JkcyA9IGF3YWl0IEFQSS5nZXQoJ3VzZXJzJywgYD9maWVsZHMlNUIlNUQ9dXNlcm5hbWUmZmllbGRzJTVCJTVEPXBhc3N3b3JkJmZpbHRlckJ5Rm9ybXVsYT1BTkQodXNlcm5hbWUlM0QlMjIke3RoaXMuc3RhdGUudXNlcm5hbWV9JTIyLHBhc3N3b3JkJTNEJTIyJHtwYXNzd29yZH0lMjIpYCk7CgogICAgICAgIGlmICghcmVjb3Jkcy5sZW5ndGgpIHsKICAgICAgICAgICAgdGhpcy5zZXRTdGF0ZSh7CiAgICAgICAgICAgICAgICBlcnJvcnM6ICdVc2VybmFtZS9QYXNzd29yZCBJbmNvcnJlY3QnCiAgICAgICAgICAgIH0pOwogICAgICAgIH0KCiAgICAgICAgLy8gVE9ETzogZ28gdG8gdGhlIG5leHQgdmlldwogICAgfQoKCiAgICByZW5kZXI=</text>
+        <text>this.setState({
+            loggedIn: true
+        });</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpbml0aWFsUm91dGVkTmFtZTogJ0hvbWUnLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvQXV0aGVudGljYXRlPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxBdXRoZW50aWNhdGU+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9ICg8TG9naW4gLz4pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgTm90Rm91bmRQYWdlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZXJyb3IpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoCg==</text>
+      <register name="8" type="4">
+        <text>export default {
+    navigate,
+    setTopLevelNavigator,
+};</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXV0aGVudGljYXRlZDogdHJ1ZQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -826,6 +800,15 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>

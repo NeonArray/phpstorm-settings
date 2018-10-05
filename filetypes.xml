@@ -4,7 +4,6 @@
       <removed_mapping ext="css" approved="true" type="CSS" />
       <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
-      <mapping pattern=".env" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.backup" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
