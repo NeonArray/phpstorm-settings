@@ -28,6 +28,12 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1539017354035">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="^" line="27" column="23" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env.sample" timestamp="1538580472044">
         <mark key="[" line="0" column="0" />
       </file>
@@ -123,10 +129,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539012755875">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539013725015">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="18" />
+        <mark key="." line="6" column="18" />
+        <mark key="^" line="6" column="18" />
       </file>
       <file name="D:/repos/license-plate-judas/.eslintrc.json" timestamp="1538761352074">
         <mark key="[" line="34" column="27" />
@@ -170,11 +177,10 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539012944778">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539017517002">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537974118993">
         <mark key="[" line="39" column="40" />
@@ -188,11 +194,7 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539012951012">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539012951012" />
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
@@ -257,10 +259,10 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1538580659301">
         <mark key="[" line="8" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.js" timestamp="1539012407530">
-        <mark key="[" line="11" column="37" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.js" timestamp="1539013298467">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="D:/repos/quiet-and-the-goblet-of-tuna/src/config.js" timestamp="1538336309259">
         <mark key="[" line="18" column="0" />
@@ -294,6 +296,12 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1539013917733">
+        <mark key="[" line="50" column="10" />
+        <mark key="]" line="50" column="24" />
+        <mark key="^" line="50" column="24" />
+        <mark key="." line="50" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/functions.php" timestamp="1536258768272">
         <mark key="[" line="0" column="0" />
@@ -333,12 +341,6 @@
       </file>
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539012847790">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="25" column="39" />
-        <mark key="^" line="25" column="39" />
-        <mark key="." line="25" column="39" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -493,7 +495,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFNUT1JBR0VfQlVDS0VUCg==</text>
+        <text encoding="base64">UkVBQ1RfREVCVUdHRVI9InVuc2V0IEVMRUNUUk9OX1JVTl9BU19OT0RFICYmIG9wZW4gLWcgJ3JuZGVidWdnZXI6Ly9zZXQtZGVidWdnZXItbG9jP3BvcnQ9MTkwMDEnIHx8IiBucG0gc3RhcnQK</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -505,34 +507,47 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFNUT1JBR0VfQlVDS0VUCg==</text>
+        <text encoding="base64">UkVBQ1RfREVCVUdHRVI9InVuc2V0IEVMRUNUUk9OX1JVTl9BU19OT0RFICYmIG9wZW4gLWcgJ3JuZGVidWdnZXI6Ly9zZXQtZGVidWdnZXItbG9jP3BvcnQ9MTkwMDEnIHx8IiBucG0gc3RhcnQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VCdWNrZXQ6IFNUT1JBR0VfQlVDS0VULAo=</text>
+        <text encoding="base64">ICAgICAgICAiZW52MiI6ICJeMi4yLjIiLAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">U1RPUkFHRV9CVUNLRVQ9Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIGNvbnNvbGUubG9nKGUpOwogICAgICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsKICAgICAgICAgICAgY29uc3QgcmVzID0gCiAgICAgICAgfSkuY2F0Y2goKGVycm9yKSA9PiB7CiAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycm9yKTsKICAgICAgICAgICAgY29uc3QgcmVzID0gCiAgICAgICAgfSk7</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IC8vIGNvbnN0IHBhc3N3b3JkID0gaGFzaC5NRDUodGhpcy5zdGF0ZS5wYXNzd29yZCArIGNvbmZpZy5zYWx0KTsKICAgICAgICAvLyBjb25zdCBxdWVyeSA9IGA/ZmllbGRzJTVCJTVEPXVzZXJuYW1lJmZpZWxkcyU1QiU1RD1wYXNzd29yZCZmaWx0ZXJCeUZvcm11bGE9QU5EKHVzZXJuYW1lJTNEJTIyJHt0aGlzLnN0YXRlLnVzZXJuYW1lfSUyMixwYXNzd29yZCUzRCUyMiR7cGFzc3dvcmR9JTIyKWA7CiAgICAgICAgLy8gY29uc3QgcmVjb3JkcyA9IGF3YWl0IEFQSS5nZXQoJ3VzZXJzJywgcXVlcnkpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Ywo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGhhc2ggZnJvbSAnb2JqZWN0LWhhc2gnOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAKICAgICAgICBpZiAoZGF0YSkgewogICAgICAgICAgICAKICAgICAgICB9IGVsc2UgewogICAgICAgICAgICAKICAgICAgICB9</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
+      <register name="6" type="4">
+        <text>import {
+    API_KEY,
+    AUTH_DOMAIN,
+    DATABASE_URL,
+    STORAGE_BUCKET
+} from 'react-native-dotenv';
+
+// export default {
+//     base: AIRTABLE_BASE,
+//     view: AIRTABLE_VIEW,
+//     apiKey: AIRTABLE_API_KEY,
+//     maxRecords: AIRTABLE_MAX_RECORDS,
+//     salt: SALT,
+// };</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0IEFQSSBmcm9tICcuLi8uLi9hcGknOwo=</text>
+        <text encoding="base64">ICAgIFNUT1JBR0VfQlVDS0VUCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFNBTFQK</text>
+        <text encoding="base64">ICAgIHN0b3JhZ2VCdWNrZXQ6IFNUT1JBR0VfQlVDS0VULAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJ2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">U1RPUkFHRV9CVUNLRVQ9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
