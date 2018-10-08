@@ -1,6 +1,7 @@
 <code_scheme name="Default (1)" version="173">
   <option name="RIGHT_MARGIN" value="160" />
   <JSCodeStyleSettings>
+    <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </JSCodeStyleSettings>
   <PHPCodeStyleSettings>
