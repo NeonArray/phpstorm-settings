@@ -31,7 +31,7 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1539017354035">
         <mark key="[" line="14" column="0" />
         <mark key="]" line="14" column="0" />
-        <mark key="^" line="27" column="23" />
+        <mark key="^" line="28" column="23" />
         <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env.sample" timestamp="1538580472044">
@@ -129,10 +129,10 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539018294210">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539028840994">
+        <mark key="[" line="19" column="47" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="D:/repos/license-plate-judas/.eslintrc.json" timestamp="1538761352074">
         <mark key="[" line="34" column="27" />
@@ -176,7 +176,7 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539017517002">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539029262982">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
@@ -193,7 +193,7 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539012951012" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539029237716" />
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
@@ -341,11 +341,11 @@
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539021206263">
-        <mark key="[" line="31" column="35" />
-        <mark key="]" line="31" column="36" />
-        <mark key="^" line="31" column="36" />
-        <mark key="." line="31" column="36" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539030415216">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="23" column="32" />
+        <mark key="^" line="23" column="32" />
+        <mark key="." line="23" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -397,7 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="9" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/partial/breadcrumbs.twig" />
       <jump line="277" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/functions.php" />
       <jump line="18" column="98" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/templates/page-product.twig" />
       <jump line="1" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/shortcodes/vcas-title.php" />
@@ -497,13 +496,14 @@
       <jump line="10" column="0" filename="D:/repos/license-plate-judas/app/views/HomeView/index.js" />
       <jump line="17" column="12" filename="D:/repos/license-plate-judas/app/views/HomeView/index.js" />
       <jump line="44" column="24" filename="D:/repos/license-plate-judas/app/components/Login/index.js" />
+      <jump line="34" column="8" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgYXdhaXQgZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKHRoaXMuc3RhdGUuZW1haWwsIHRoaXMuc3RhdGUucGFzc3dvcmQpLnRoZW4oKGEpID0+IGNvbnNvbGUubG9nKGEpKS5jYXRjaCgoZSkgPT4gY29uc29sZS5sb2coZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQK</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>I</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -512,34 +512,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgYXdhaXQgZmlyZWJhc2UuYXV0aCgpLnNpZ25JbldpdGhFbWFpbEFuZFBhc3N3b3JkKHRoaXMuc3RhdGUuZW1haWwsIHRoaXMuc3RhdGUucGFzc3dvcmQpLnRoZW4oKGEpID0+IGNvbnNvbGUubG9nKGEpKS5jYXRjaCgoZSkgPT4gY29uc29sZS5sb2coZSkpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnbG9nZ2luZyBpbicpOwo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICBfb25TdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICAgICAgYXdhaXQgdGhpcy5fZG9Mb2dpbigpOwogICAgfTs=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIF9kb0xvZ2luID0gYXN5bmMgKCkgPT4gewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IGFwaUtleTogIkFJemFTeUE4NzFrSkc1OHpRMExVME9KUU1GOERudXM1UEJScWxfTSIsCiAgICBhdXRoRG9tYWluOiAiaHR0cHM6Ly9saWNlbnNlLXBsYXRlLWp1ZGFzLmZpcmViYXNlYXBwLmNvbS8iLAogICAgZGF0YWJhc2VVUkw6ICJodHRwczovL2xpY2Vuc2UtcGxhdGUtanVkYXMuZmlyZWJhc2Vpby5jb20vIiw=</text>
+      <register name="5" type="2">
+        <text encoding="base64">VEVTVD10aGluZwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHN0b3JhZ2VCdWNrZXQ6ICI8WU9VUi1TVE9SQUdFLUJVQ0tFVD4iCg==</text>
+        <text encoding="base64">aW1wb3J0IGhhc2ggZnJvbSAnb2JqZWN0LWhhc2gnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGF3YWl0IGVycm9yTWVzc2FnZTsK</text>
+        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gLi4uCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">Y29uc3QgcGFzc3dvcmQgPSBoYXNoLk1ENSh0aGlzLnN0YXRlLnBhc3N3b3JkICsgY29uZmlnLnNhbHQpOwogICAgICAgIGNvbnN0IHF1ZXJ5ID0gYD9maWVsZHMlNUIlNUQ9dXNlcm5hbWUmZmllbGRzJTVCJTVEPXBhc3N3b3JkJmZpbHRlckJ5Rm9ybXVsYT1BTkQodXNlcm5hbWUlM0QlMjIke3RoaXMuc3RhdGUudXNlcm5hbWV9JTIyLHBhc3N3b3JkJTNEJTIyJHtwYXNzd29yZH0lMjIpYDsKICAgICAgICBjb25zdCByZWNvcmRzID0gYXdhaXQgQVBJLmdldCgndXNlcnMnLCBxdWVyeSk7CgogICAgICAgIGlmIChyZWNvcmRzLmxlbmd0aCkgewogICAgICAgICAgICBhd2FpdCB0aGlzLl9sb2dpblN1Y2Nlc3MocmVjb3Jkc1swXSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgYXdhaXQgdGhpcy5fbG9naW5GYWlsKCk7CiAgICAgICAgfQ==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly8gSW5pdGlhbGl6ZSBGaXJlYmFzZQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIC8vIGF3YWl0IGZpcmViYXNlLmF1dGgoKS5zaWduSW5BbmRSZXRyaWV2ZURhdGFXaXRoRW1haWxBbmRQYXNzd29yZCh0aGlzLnN0YXRlLmVtYWlsLCB0aGlzLnN0YXRlLnBhc3N3b3JkKS5jYXRjaCgoZSkgPT4gewogICAgICAgIC8vICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICAvLyB9KTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -572,6 +572,7 @@
         <entry>yow</entry>
         <entry>s</entry>
         <entry>wq</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
