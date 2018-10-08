@@ -6,6 +6,7 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/style.css" timestamp="1536337926057">
         <mark key="[" line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1539006292215" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/index.js" timestamp="1537365574637">
         <mark key="[" line="2" column="7" />
         <mark key="]" line="2" column="0" />
@@ -51,8 +52,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1538680838150">
-        <mark key="[" line="11" column="42" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1539006038856">
+        <mark key="[" line="7" column="65" />
+        <mark key="]" line="7" column="78" />
+        <mark key="^" line="7" column="78" />
+        <mark key="." line="7" column="78" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/lib/class-timber-functions.php" timestamp="1536685765449">
         <mark key="[" line="51" column="0" />
@@ -201,10 +205,10 @@
         <mark key="[" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1538685967685">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="18" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
@@ -299,11 +303,12 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1538677079310">
-        <mark key="'" line="69" column="1" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539004223074">
+        <mark key="'" line="64" column="1" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="36" column="11" />
+        <mark key="." line="36" column="11" />
+        <mark key="^" line="36" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
@@ -520,8 +525,10 @@
       <file name="/Dummy.txt" timestamp="1537973870537">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1538683756796">
-        <mark key="[" line="66" column="34" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539003398132">
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="0" />
+        <mark key="." line="64" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -714,13 +721,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>export default class App extends Component {
-    render() {
-        return (
-           
-        );
-    }
-}</text>
+        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzogRG8gYmV0dGVyIHZhbGlkYXRpb24gaGVyZQogICAgICAgIGlmICggewogICAgICAgICAgICBoZWFkZXJzLmZpZWxkcyA9IGRhdGE7CiAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
         <text>const  = this._isAuthenticated();</text>
@@ -732,6 +733,15 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgLy8gVE9ETzogRG8gYmV0dGVyIHZhbGlkYXRpb24gaGVyZQogICAgICAgIGlmICggewogICAgICAgICAgICBoZWFkZXJzLmZpZWxkcyA9IGRhdGE7CiAgICAgICAgfQo=</text>
+      </register>
+      <register name="q" type="4">
+        <text />
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZWNvcmRzKTsK</text>
+      </register>
+      <register name="3" type="4">
         <text>export default class App extends Component {
     render() {
         return (
@@ -740,35 +750,26 @@
     }
 }</text>
       </register>
-      <register name="q" type="4">
-        <text />
-      </register>
-      <register name="2" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IEF1dGhlbnRpY2F0ZSBmcm9tICcuL2FwcC9jb21wb25lbnRzL0F1dGhlbnRpY2F0ZSc7Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">ICAgIF9nZXRDb29raWUgPSBhc3luYyAoKSA9PiB7CiAgICAgICAKICAgIH07CiAgICA=</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgICJwcmVzZXRzIjogWwogICAgICAgICJlczIwMTUiLAogICAgICAgICJyZWFjdCIsCiAgICAgICAgInN0YWdlLTEiCiAgICBdLA==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">aW1wb3J0IExvZ2luIGZyb20gJy4vYXBwL2NvbXBvbmVudHMvTG9naW4nOwo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZmFpbCcpOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBBc3luY1N0b3JhZ2UK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -799,8 +800,8 @@
         <entry>yiw</entry>
         <entry>yow</entry>
         <entry>s</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
