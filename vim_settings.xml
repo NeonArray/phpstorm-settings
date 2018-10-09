@@ -34,8 +34,11 @@
         <mark key="^" line="28" column="23" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env.sample" timestamp="1538580472044">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env.sample" timestamp="1539092817686">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="0" column="7" />
+        <mark key="^" line="0" column="7" />
+        <mark key="." line="0" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-post.md" timestamp="1537280084014">
         <mark key="[" line="4" column="13" />
@@ -176,10 +179,11 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539029262982">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539095015209">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537974118993">
         <mark key="[" line="39" column="40" />
@@ -193,7 +197,12 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539029237716" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539095326459">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
@@ -341,11 +350,11 @@
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539030415216">
-        <mark key="[" line="23" column="42" />
-        <mark key="]" line="23" column="32" />
-        <mark key="^" line="23" column="32" />
-        <mark key="." line="23" column="32" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539095356717">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="^" line="35" column="25" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -500,7 +509,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>I</text>
@@ -512,34 +521,39 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBfb25TdWJtaXQgPSBhc3luYyAoKSA9PiB7CiAgICAgICAgYXdhaXQgdGhpcy5fZG9Mb2dpbigpOwogICAgfTs=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIH07Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">VEVTVD10aGluZwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IG1lc3NhZ2UK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IGhhc2ggZnJvbSAnb2JqZWN0LWhhc2gnOwo=</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnNldFN0YXRlKHsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IGNvbmZpZyBmcm9tICcuLi8uLi9jb25maWcnOwo=</text>
+        <text encoding="base64">ICAgIF9sb2dpbkZhaWwgPSBhc3luYyAoeyBtZXNzYWdlIH0pID0+IHsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">Y29uc3QgcGFzc3dvcmQgPSBoYXNoLk1ENSh0aGlzLnN0YXRlLnBhc3N3b3JkICsgY29uZmlnLnNhbHQpOwogICAgICAgIGNvbnN0IHF1ZXJ5ID0gYD9maWVsZHMlNUIlNUQ9dXNlcm5hbWUmZmllbGRzJTVCJTVEPXBhc3N3b3JkJmZpbHRlckJ5Rm9ybXVsYT1BTkQodXNlcm5hbWUlM0QlMjIke3RoaXMuc3RhdGUudXNlcm5hbWV9JTIyLHBhc3N3b3JkJTNEJTIyJHtwYXNzd29yZH0lMjIpYDsKICAgICAgICBjb25zdCByZWNvcmRzID0gYXdhaXQgQVBJLmdldCgndXNlcnMnLCBxdWVyeSk7CgogICAgICAgIGlmIChyZWNvcmRzLmxlbmd0aCkgewogICAgICAgICAgICBhd2FpdCB0aGlzLl9sb2dpblN1Y2Nlc3MocmVjb3Jkc1swXSk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgYXdhaXQgdGhpcy5fbG9naW5GYWlsKCk7CiAgICAgICAgfQ==</text>
+        <text>iKey: &quot;AIzaSyDzvfy_iNA0YH5h2UemOBRY_Bwz0FnV-G8&quot;,
+    authDomain: &quot;lp-judas.firebaseapp.com&quot;,
+    databaseURL: &quot;https://lp-judas.firebaseio.com&quot;,
+    projectId: &quot;lp-judas&quot;,
+    storageBucket: &quot;lp-judas.appspot.com&quot;,
+    messagingSenderId: &quot;425855979266&quot;</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAvLwogICAgICAgIC8vIGF3YWl0IGZpcmViYXNlLmF1dGgoKS5zaWduSW5BbmRSZXRyaWV2ZURhdGFXaXRoRW1haWxBbmRQYXNzd29yZCh0aGlzLnN0YXRlLmVtYWlsLCB0aGlzLnN0YXRlLnBhc3N3b3JkKS5jYXRjaCgoZSkgPT4gewogICAgICAgIC8vICAgICBjb25zb2xlLmxvZyhlKTsKICAgICAgICAvLyB9KTs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
