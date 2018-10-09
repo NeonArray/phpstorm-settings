@@ -197,11 +197,11 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539095326459">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-        <mark key="." line="10" column="20" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539095691302">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="12" />
+        <mark key="." line="11" column="12" />
+        <mark key="^" line="11" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
@@ -350,11 +350,11 @@
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539095356717">
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539096777841">
+        <mark key="[" line="27" column="42" />
+        <mark key="]" line="28" column="0" />
         <mark key="^" line="35" column="25" />
-        <mark key="." line="38" column="0" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -509,7 +509,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5fbG9naW5TdWNjZXNzKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>I</text>
@@ -521,39 +521,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5fbG9naW5TdWNjZXNzKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIH07Cg==</text>
+        <text encoding="base64">Y29uc29sZS5sb2coQVBJX0tFWSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IG1lc3NhZ2UK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnNldFN0YXRlKHsK</text>
+        <text encoding="base64">ICAgIH07Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIF9sb2dpbkZhaWwgPSBhc3luYyAoeyBtZXNzYWdlIH0pID0+IHsK</text>
+        <text encoding="base64">ICAgICAgICB9KTsK</text>
       </register>
-      <register name="8" type="4">
-        <text>iKey: &quot;AIzaSyDzvfy_iNA0YH5h2UemOBRY_Bwz0FnV-G8&quot;,
-    authDomain: &quot;lp-judas.firebaseapp.com&quot;,
-    databaseURL: &quot;https://lp-judas.firebaseio.com&quot;,
-    projectId: &quot;lp-judas&quot;,
-    storageBucket: &quot;lp-judas.appspot.com&quot;,
-    messagingSenderId: &quot;425855979266&quot;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3I6IG1lc3NhZ2UK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQK</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnNldFN0YXRlKHsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -579,7 +574,6 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qw</entry>
         <entry>e</entry>
-        <entry>ww</entry>
         <entry>W</entry>
         <entry>ew</entry>
         <entry>yiw</entry>
@@ -587,6 +581,7 @@
         <entry>s</entry>
         <entry>wq</entry>
         <entry>:w</entry>
+        <entry>ww</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
