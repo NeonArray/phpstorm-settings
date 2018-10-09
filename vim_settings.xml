@@ -50,8 +50,8 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1539098944382">
-        <mark key="[" line="18" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1539104803848">
+        <mark key="[" line="3" column="21" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="27" column="23" />
         <mark key="." line="18" column="0" />
@@ -354,7 +354,7 @@
         <mark key="]" line="23" column="0" />
         <mark key="." line="23" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.js" timestamp="1539017525846">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.js" timestamp="1539104349298">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -469,11 +469,10 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539103836914">
-        <mark key="[" line="23" column="31" />
-        <mark key="]" line="27" column="39" />
-        <mark key="." line="27" column="39" />
-        <mark key="^" line="27" column="39" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539104679163">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/upload-agents.php" timestamp="1537377495135">
         <mark key="[" line="3" column="0" />
@@ -648,10 +647,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzOiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>I</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -660,34 +659,50 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZXJyb3JzOiB1bmRlZmluZWQsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnY29tcG9uZW50IGRpZCBtb3VudCcpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RoZXJlIGlzIGEgdXNlcicpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZmlyZWJhc2UuYXV0aCgpLmN1cnJlbnRVc2VyKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhkYXRhKTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsgZXJyb3JzIH0K</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBlcnJvcnMgPSB0aGlzLnN0YXRlLmVycm9ycyA/ICg8VGV4dD57IHRoaXMuc3RhdGUuZXJyb3JzIH08L1RleHQ+KSA6IG51bGw7Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>return await this.setState({
+                errors: 'Passwords must match'
+            });</text>
+      </register>
+      <register name="7" type="4">
+        <text>import {
+    AIRTABLE_BASE,
+    AIRTABLE_VIEW,
+    AIRTABLE_API_KEY,
+    AIRTABLE_MAX_RECORDS,
+    SALT
+} from 'react-native-dotenv';
+
+export default {
+    base: AIRTABLE_BASE,
+    view: AIRTABLE_VIEW,
+    apiKey: AIRTABLE_API_KEY,
+    maxRecords: AIRTABLE_MAX_RECORDS,
+    salt: SALT,
+};</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">KGVycm9yKSA9PiB7CiAgICAgICAgICAgIGFsZXJ0KGVycm9yLm1lc3NhZ2UpOwogICAgICAgIH0=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCBmaXJlYmFzZS5hdXRoKCkuc2lnbk91dCgpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
