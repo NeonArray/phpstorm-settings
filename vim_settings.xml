@@ -516,11 +516,11 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539202438818">
-        <mark key="[" line="18" column="55" />
-        <mark key="]" line="46" column="47" />
-        <mark key="^" line="46" column="47" />
-        <mark key="." line="46" column="47" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539203155434">
+        <mark key="[" line="18" column="52" />
+        <mark key="]" line="18" column="79" />
+        <mark key="^" line="18" column="79" />
+        <mark key="." line="18" column="79" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -636,11 +636,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539202495170">
-        <mark key="[" line="23" column="30" />
-        <mark key="]" line="32" column="69" />
-        <mark key="." line="32" column="69" />
-        <mark key="^" line="32" column="69" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539205315087">
+        <mark key="[" line="35" column="146" />
+        <mark key="]" line="35" column="151" />
+        <mark key="^" line="35" column="151" />
+        <mark key="." line="35" column="151" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -673,7 +673,7 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1539202630300">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1539202878258">
         <mark key="[" line="7" column="27" />
         <mark key="]" line="8" column="13" />
         <mark key="^" line="8" column="13" />
@@ -879,7 +879,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEbyBzb21ldGhpbmcgd2l0aCB0aGlzIGRhdGEuIFNob3VsZCBwcm9iYWJseSBtb3ZlIHRoaXMgbWV0aG9kIGludG8gdGhlIExvb2t1cCBEZXRhaWxzIHZpZXcvY29tcG9uZW50cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -891,35 +891,36 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEbyBzb21ldGhpbmcgd2l0aCB0aGlzIGRhdGEuIFNob3VsZCBwcm9iYWJseSBtb3ZlIHRoaXMgbWV0aG9kIGludG8gdGhlIExvb2t1cCBEZXRhaWxzIHZpZXcvY29tcG9uZW50cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyci5maWx0ZXIoKGkpID0+IHJlcG9ydF9pZHMubWFwKChhKSA9PiBpID09PSBhKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb3J0czsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdTbmFwc2hvdDogJyArIHNuYXBzaG90LnZhbCgpKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzKTsK</text>
-      </register>
-      <register name="6" type="4">
-        <text>var key = snapshot.key; // null
-                var childKey = snapshot.child(&quot;users/ada&quot;).key; // &quot;ada&quot;</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBVU0VSX01FVEFfVVVJRF9LRVkgPSBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL3VzZXJzX21ldGEvJyArIHVzZXJJRCArICcvcmVwb3J0c19zdWJtaXR0ZWQnKS5wdXNoKCkua2V5Owo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="4">
+        <text>if (movie.lead == 'Jack Nicholson') {
+                console.log(movie);
+            }</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwbGF0ZSk7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvcnRzID0gYXdhaXQgdGhpcy5fZ2V0UmVwb3J0cygpOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgLi4udGhpcy5zdGF0ZS5yZXBvcnRzIH0K</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRG9uZSBtYWtpbmcgdXBkYXRlcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEbyBzb21ldGhpbmcgd2l0aCB0aGlzIGRhdGEuIFNob3VsZCBwcm9iYWJseSBtb3ZlIHRoaXMgbWV0aG9kIGludG8gdGhlIExvb2t1cCBEZXRhaWxzIHZpZXcvY29tcG9uZW50cwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
