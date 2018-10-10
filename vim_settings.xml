@@ -255,11 +255,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539099201618">
-        <mark key="[" line="9" column="24" />
-        <mark key="]" line="9" column="22" />
-        <mark key="." line="9" column="22" />
-        <mark key="^" line="9" column="22" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539202612588">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="4" column="18" />
+        <mark key="." line="4" column="18" />
+        <mark key="^" line="4" column="18" />
       </file>
       <file name="D:/repos/license-plate-judas/.eslintrc.json" timestamp="1538761352074">
         <mark key="[" line="34" column="27" />
@@ -516,10 +516,11 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539200041864">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539202438818">
+        <mark key="[" line="18" column="55" />
+        <mark key="]" line="46" column="47" />
+        <mark key="^" line="46" column="47" />
+        <mark key="." line="46" column="47" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -635,6 +636,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539202495170">
+        <mark key="[" line="23" column="30" />
+        <mark key="]" line="32" column="69" />
+        <mark key="." line="32" column="69" />
+        <mark key="^" line="32" column="69" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
       </file>
@@ -665,6 +672,12 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1539202630300">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="8" column="13" />
+        <mark key="^" line="8" column="13" />
+        <mark key="." line="8" column="13" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/themes/independence-tube/header.php" timestamp="1537894902102">
         <mark key="[" line="105" column="81" />
@@ -866,7 +879,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEbyBzb21ldGhpbmcgd2l0aCB0aGlzIGRhdGEuIFNob3VsZCBwcm9iYWJseSBtb3ZlIHRoaXMgbWV0aG9kIGludG8gdGhlIExvb2t1cCBEZXRhaWxzIHZpZXcvY29tcG9uZW50cwo=</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -878,35 +891,35 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBEbyBzb21ldGhpbmcgd2l0aCB0aGlzIGRhdGEuIFNob3VsZCBwcm9iYWJseSBtb3ZlIHRoaXMgbWV0aG9kIGludG8gdGhlIExvb2t1cCBEZXRhaWxzIHZpZXcvY29tcG9uZW50cwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb3J0czsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdTbmFwc2hvdDogJyArIHNuYXBzaG90LnZhbCgpKTsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gcmVwb3J0czsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdTbmFwc2hvdDogJyArIHNuYXBzaG90LnZhbCgpKTsK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzKTsK</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>var key = snapshot.key; // null
                 var childKey = snapshot.child(&quot;users/ada&quot;).key; // &quot;ada&quot;</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zdCBVU0VSX01FVEFfVVVJRF9LRVkgPSBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL3VzZXJzX21ldGEvJyArIHVzZXJJRCArICcvcmVwb3J0c19zdWJtaXR0ZWQnKS5wdXNoKCkua2V5Owo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRG9uZSBtYWtpbmcgdXBkYXRlcycpOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgLyoqCiAgICAgICAgICogV2hlbiBhIHJlcG9ydCBzdWJtaXNzaW9uIGlzIHN0YXJ0ZWQsIHdlIGhhdmUgdG8gZG8gYSBmZXcgdGhpbmdzIHRvIHByZXBhcmUgdGhlIGRhdGFiYXNlCiAgICAgICAgICogWzFdIEdlbmVyYXRlIGEgVUlEIEtleSBpbiB0aGUgcmVwb3J0cyB0cmVlCiAgICAgICAgICogWzJdIENyZWF0ZSBhIGNvbnN0IHRvIHN0b3JlIHRoZSBvZmZlbmRlcnNfbWV0YSBrZXkgZWl0aGVyIGJ5IGdlbmVyYXRpbmcgb25lIG9yIHJldHJpZXZpbmcgb25lCiAgICAgICAgICogWzNdIFNlYXJjaCB0aGUgZGF0YWJhc2UgZm9yIGFuIGV4aXN0aW5nIGtleSBlbnRyeSBvZiB0aGUgZ2l2ZW4gcGxhdGUgbnVtYmVyCiAgICAgICAgICogWzRdIElmIG9uZSBkb2Vzbid0IGV4aXN0LCBnZW5lcmF0ZSBhIG5ldyBrZXkgaW4gdGhlIG9mZmVuZGVyc19tZXRhIHRyZWUKICAgICAgICAgKiBbNV0gQ3JlYXRlIGEgbmV3IGVudHJ5IGZvciB0aGUgZ2l2ZW4gcGxhdGUgbnVtYmVyIHdpdGggdGhlIHZhbHVlIG9mIHRoZSBrZXkgd2UgZ2VuZXJhdGVkIGluIFs0XQogICAgICAgICAqIFs2XSBJZiBhbiBvZmZlbmRlciBleGlzdHMsIHNldCB0aGUgdmFsdWUgb2YgWzJdIHdpdGggdGhlIHZhbHVlCiAgICAgICAgICogWzddIFB1c2ggYSBuZXcgb2JqZWN0IGluIHRoZSBvZmZlbmRlcnNfbWV0YSB0cmVlJ3MgY2hpbGQgYXNzb2NpYXRlZF9yZXBvcnRzCiAgICAgICAgICogWzhdIFJldHVybiB0aGUga2V5IGZyb20gWzFdIHNvIGl0IGNhbiBiZSBwYXNzZWQgYXMgYSBwcm9wIHRvIHRoZSBuZXh0IGNvbXBvbmVudAogICAgICAgICAqLwoKICAgICAgICAvLyBjb25zdCBSRVBPUlRfVVVJRF9LRVkgPSBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL3JlcG9ydHMnKS5wdXNoKCkua2V5OyAvLyBbMV0KICAgICAgICBsZXQgT0ZGRU5ERVJTX01FVEFfVVVJRF9LRVkgPSAnJzsgLy8gWzJd</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
