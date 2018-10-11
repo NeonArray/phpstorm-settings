@@ -326,7 +326,7 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539095015209">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1539261387660">
         <mark key="[" line="0" column="46" />
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
@@ -364,11 +364,8 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539219472397">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539220752830">
         <mark key="[" line="0" column="40" />
-        <mark key="]" line="29" column="19" />
-        <mark key="." line="29" column="19" />
-        <mark key="^" line="29" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
@@ -521,12 +518,6 @@
         <mark key="[" line="54" column="32" />
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539220323046">
-        <mark key="[" line="69" column="12" />
-        <mark key="]" line="69" column="12" />
-        <mark key="^" line="18" column="79" />
-        <mark key="." line="69" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -936,7 +927,7 @@
         <text encoding="base64">ICAgICAgICBjb25zdCByZXBvcnRzID0gYXdhaXQgdGhpcy5fZ2V0UmVwb3J0cygpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -966,8 +957,8 @@
         <entry>ww</entry>
         <entry>s</entry>
         <entry>ew</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
