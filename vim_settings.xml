@@ -519,6 +519,12 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539262677743">
+        <mark key="[" line="18" column="8" />
+        <mark key="]" line="18" column="82" />
+        <mark key="^" line="18" column="82" />
+        <mark key="." line="18" column="82" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -633,11 +639,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539205943431">
-        <mark key="[" line="35" column="89" />
-        <mark key="]" line="35" column="89" />
-        <mark key="." line="35" column="89" />
-        <mark key="^" line="35" column="89" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539264475326">
+        <mark key="[" line="25" column="7" />
+        <mark key="]" line="25" column="7" />
+        <mark key="." line="25" column="7" />
+        <mark key="^" line="29" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -877,13 +883,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>'first': 'Alan',
-            'middle': 'Mathison',
-            'last': 'Turing',
-            'born': 1912</text>
+        <text encoding="base64">IGNvbnN0IG9mZmVuZGVyID0gYXdhaXQgZmlyZWJhc2UuZGF0YWJhc2UoKS5yZWYoJy9vZmZlbmRlcnMnKS5jaGlsZChwbGF0ZSkub25jZSgndmFsdWUnKQogICAgICAgICAgICAudGhlbigoc25hcHNob3QpID0+IHNuYXBzaG90LnZhbCgpKTsKCiAgICAgICAgaWYgKCFvZmZlbmRlcikgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIGNvbnN0IHJlcG9ydF9pZHMgPSBhd2FpdCBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL29mZmVuZGVyc19tZXRhJykuY2hpbGQocGxhdGUgKyAnL2Fzc29jaWF0ZWRfcmVwb3J0cycpLm9uY2UoJ3ZhbHVlJykKICAgICAgICAgICAgLnRoZW4oKHNuYXBzaG90KSA9PiBzbmFwc2hvdC52YWwoKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>}</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -892,39 +895,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>'first': 'Alan',
-            'middle': 'Mathison',
-            'last': 'Turing',
-            'born': 1912</text>
+        <text encoding="base64">IGNvbnN0IG9mZmVuZGVyID0gYXdhaXQgZmlyZWJhc2UuZGF0YWJhc2UoKS5yZWYoJy9vZmZlbmRlcnMnKS5jaGlsZChwbGF0ZSkub25jZSgndmFsdWUnKQogICAgICAgICAgICAudGhlbigoc25hcHNob3QpID0+IHNuYXBzaG90LnZhbCgpKTsKCiAgICAgICAgaWYgKCFvZmZlbmRlcikgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIGNvbnN0IHJlcG9ydF9pZHMgPSBhd2FpdCBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL29mZmVuZGVyc19tZXRhJykuY2hpbGQocGxhdGUgKyAnL2Fzc29jaWF0ZWRfcmVwb3J0cycpLm9uY2UoJ3ZhbHVlJykKICAgICAgICAgICAgLnRoZW4oKHNuYXBzaG90KSA9PiBzbmFwc2hvdC52YWwoKSk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdC52YWwoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaWRzKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFscyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyci5maWx0ZXIoKGkpID0+IHJlcG9ydF9pZHMubWFwKChhKSA9PiBpID09PSBhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaWRzID0gT2JqZWN0LmtleXMocmVwb3J0X2lkcyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFscyA9IHNuYXBzaG90LnZhbCgpOwo=</text>
       </register>
-      <register name="6" type="4">
-        <text>if (movie.lead == 'Jack Nicholson') {
-                console.log(movie);
-            }</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc25hcHNob3QpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwbGF0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWRzLm1hcCgoaWQpID0+IGlkID09PSB2YWxzLmhhc093blByb3BlcnR5KCkgKQo=</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvcnRzID0gYXdhaXQgdGhpcy5fZ2V0UmVwb3J0cygpOwo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">cmV0dXJuIHJlcG9ydF9pZHMubWFwKChpKSA9PiB7CiAgICAgICAgICAgICAgICBpZiAob2JqLmhhc093blByb3BlcnR5KGkpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialtpXTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
