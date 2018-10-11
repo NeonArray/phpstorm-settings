@@ -519,11 +519,11 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539262677743">
-        <mark key="[" line="18" column="8" />
-        <mark key="]" line="18" column="82" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539268456757">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
         <mark key="^" line="18" column="82" />
-        <mark key="." line="18" column="82" />
+        <mark key="." line="74" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -639,11 +639,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539264475326">
-        <mark key="[" line="25" column="7" />
-        <mark key="]" line="25" column="7" />
-        <mark key="." line="25" column="7" />
-        <mark key="^" line="29" column="28" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539272856206">
+        <mark key="[" line="76" column="2" />
+        <mark key="]" line="76" column="2" />
+        <mark key="." line="76" column="2" />
+        <mark key="^" line="76" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -882,8 +882,8 @@
       <jump line="2" column="7" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IGNvbnN0IG9mZmVuZGVyID0gYXdhaXQgZmlyZWJhc2UuZGF0YWJhc2UoKS5yZWYoJy9vZmZlbmRlcnMnKS5jaGlsZChwbGF0ZSkub25jZSgndmFsdWUnKQogICAgICAgICAgICAudGhlbigoc25hcHNob3QpID0+IHNuYXBzaG90LnZhbCgpKTsKCiAgICAgICAgaWYgKCFvZmZlbmRlcikgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIGNvbnN0IHJlcG9ydF9pZHMgPSBhd2FpdCBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL29mZmVuZGVyc19tZXRhJykuY2hpbGQocGxhdGUgKyAnL2Fzc29jaWF0ZWRfcmVwb3J0cycpLm9uY2UoJ3ZhbHVlJykKICAgICAgICAgICAgLnRoZW4oKHNuYXBzaG90KSA9PiBzbmFwc2hvdC52YWwoKSk7Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PntpLn08L1RleHQ+Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -894,35 +894,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IGNvbnN0IG9mZmVuZGVyID0gYXdhaXQgZmlyZWJhc2UuZGF0YWJhc2UoKS5yZWYoJy9vZmZlbmRlcnMnKS5jaGlsZChwbGF0ZSkub25jZSgndmFsdWUnKQogICAgICAgICAgICAudGhlbigoc25hcHNob3QpID0+IHNuYXBzaG90LnZhbCgpKTsKCiAgICAgICAgaWYgKCFvZmZlbmRlcikgewogICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICB9CgogICAgICAgIGNvbnN0IHJlcG9ydF9pZHMgPSBhd2FpdCBmaXJlYmFzZS5kYXRhYmFzZSgpLnJlZignL29mZmVuZGVyc19tZXRhJykuY2hpbGQocGxhdGUgKyAnL2Fzc29jaWF0ZWRfcmVwb3J0cycpLm9uY2UoJ3ZhbHVlJykKICAgICAgICAgICAgLnRoZW4oKHNuYXBzaG90KSA9PiBzbmFwc2hvdC52YWwoKSk7Cg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxUZXh0PntpLn08L1RleHQ+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coaWRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzTm9ybWFsaXplZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codmFscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnNldFN0YXRlKHsgcmVwb3J0cyB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgaWRzID0gT2JqZWN0LmtleXMocmVwb3J0X2lkcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvQ2FwaXRhbGl6ZT17IHRydWUgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgdmFscyA9IHNuYXBzaG90LnZhbCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0Pnt0aGlzLnN0YXRlLnJlcG9ydHN9PC9UZXh0Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc25hcHNob3QpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWRzLm1hcCgoaWQpID0+IGlkID09PSB2YWxzLmhhc093blByb3BlcnR5KCkgKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">cmV0dXJuIHJlcG9ydF9pZHMubWFwKChpKSA9PiB7CiAgICAgICAgICAgICAgICBpZiAob2JqLmhhc093blByb3BlcnR5KGkpKSB7CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuIG9ialtpXTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfSk=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvcnRzID0gdGhpcy5zdGF0ZS5yZXBvcnRzLm1hcChyZXBvcnQgPT4gKDxUZXh0PntyZXBvcnR9PC9UZXh0PikpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLnNldFN0YXRlKHsgcmVwb3J0czogcmVwb3J0c05vcm1hbGl6ZWQgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -954,8 +954,9 @@
         <entry>:w</entry>
         <entry>ww</entry>
         <entry>s</entry>
-        <entry>ew</entry>
         <entry>wq</entry>
+        <entry>ew</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
