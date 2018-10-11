@@ -364,7 +364,7 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539219268640">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539219472397">
         <mark key="[" line="0" column="40" />
         <mark key="]" line="29" column="19" />
         <mark key="." line="29" column="19" />
@@ -522,11 +522,11 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539219355281">
-        <mark key="[" line="3" column="7" />
-        <mark key="]" line="18" column="79" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539220323046">
+        <mark key="[" line="69" column="12" />
+        <mark key="]" line="69" column="12" />
         <mark key="^" line="18" column="79" />
-        <mark key="." line="18" column="79" />
+        <mark key="." line="69" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -885,8 +885,11 @@
       <jump line="2" column="7" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdC52YWwoKSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>'first': 'Alan',
+            'middle': 'Mathison',
+            'last': 'Turing',
+            'born': 1912</text>
       </register>
       <register name="-" type="4">
         <text>}</text>
@@ -897,37 +900,40 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdC52YWwoKSk7Cg==</text>
+      <register name="1" type="4">
+        <text>'first': 'Alan',
+            'middle': 'Mathison',
+            'last': 'Turing',
+            'born': 1912</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdC52YWwoKSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyci5maWx0ZXIoKGkpID0+IHJlcG9ydF9pZHMubWFwKChhKSA9PiBpID09PSBhKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc3QgYXJyID0gT2JqZWN0LnZhbHVlcyhzbmFwc2hvdCk7Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFyci5maWx0ZXIoKGkpID0+IHJlcG9ydF9pZHMubWFwKChhKSA9PiBpID09PSBhKSk7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>if (movie.lead == 'Jack Nicholson') {
                 console.log(movie);
             }</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhwbGF0ZSk7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhyZXBvcnRzKTsK</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvcnRzID0gYXdhaXQgdGhpcy5fZ2V0UmVwb3J0cygpOwo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsgLi4udGhpcy5zdGF0ZS5yZXBvcnRzIH0K</text>
+        <text encoding="base64">ICAgICAgICBjb25zdCByZXBvcnRzID0gYXdhaXQgdGhpcy5fZ2V0UmVwb3J0cygpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
