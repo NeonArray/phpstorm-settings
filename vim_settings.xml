@@ -180,10 +180,10 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539708167440">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539711713235">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repos/license-plate-judas/.eslintrc.json" timestamp="1538761352074">
         <mark key="[" line="34" column="27" />
@@ -259,9 +259,6 @@
         <mark key="^" line="13" column="56" />
         <mark key="." line="13" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539220752830">
-        <mark key="[" line="0" column="40" />
-      </file>
       <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/plugins/private-content-premium-plans/classes/subscription_manag.php" timestamp="1538598832413">
         <mark key="[" line="67" column="9" />
         <mark key="]" line="67" column="9" />
@@ -291,6 +288,11 @@
         <mark key="[" line="163" column="0" />
         <mark key="]" line="163" column="0" />
         <mark key="." line="163" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBar/index.js" timestamp="1539711662503">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-header/post-header.css" timestamp="1537299071082">
         <mark key="[" line="0" column="0" />
@@ -392,10 +394,11 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539710236262">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539710299895">
         <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+        <mark key="]" line="4" column="11" />
+        <mark key="." line="4" column="11" />
+        <mark key="^" line="4" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-body/index.js" timestamp="1537299106886">
         <mark key="[" line="2" column="0" />
@@ -711,7 +714,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFRhYk5hdiBmcm9tICcuLi9UYWJOYXYnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDxUYWJOYXYgLz4=</text>
@@ -723,34 +726,19 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFRhYk5hdiBmcm9tICcuLi9UYWJOYXYnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3BCYXIgLz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzdWJ0aXRsZT0iU3VidGl0bGUiCg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeyBrZXk6ICdyZWNlbnRzJywgdGl0bGU6ICdSZWNlbnRzJywgaWNvbjogJ2hpc3RvcnknIH0sCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICByZWNlbnRzOiBSZWNlbnRzUm91dGUsCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUYWJOYXYgLz4K</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CmNvbnN0IE11c2ljUm91dGUgPSAoKSA9PiA8VGV4dD5NdXNpYzwvVGV4dD47Cgpjb25zdCBBbGJ1bXNSb3V0ZSA9ICgpID0+IDxUZXh0PkFsYnVtczwvVGV4dD47Cgpjb25zdCBSZWNlbnRzUm91dGUgPSAoKSA9PiA8VGV4dD5SZWNlbnRzPC9UZXh0PjsK</text>
-      </register>
-      <register name="9" type="4">
-        <text>const TabNav = createMaterialBottomTabNavigator({
+      <register name="4" type="4">
+        <text>const tabs = createMaterialBottomTabNavigator({
     Home: LookupView,
     Lookup: LookupView,
 }, {
@@ -759,6 +747,21 @@
     inactiveColor: '#3e2465',
     barStyle: { backgroundColor: '#694fad' },
 });</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICAgICAuLi5kYXRhLnJlZHVjZSgoYWNjLCBpdCkgPT4gewogICAgICAgICAgICBhY2NbaXQucm91dGVOYW1lXSA9IHsKICAgICAgICAgICAgICAgIHNjcmVlbjogaXQuY29tcG9uZW50LAogICAgICAgICAgICAgICAgbmF2aWdhdGlvbk9wdGlvbnM6IHsKICAgICAgICAgICAgICAgICAgICB0aXRsZTogaXQudGl0bGUsCiAgICAgICAgICAgICAgICB9LAogICAgICAgICAgICB9OwoKICAgICAgICAgICAgcmV0dXJuIGFjYzsKICAgICAgICB9LCB7fSks</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CmNvbnN0IGRhdGEgPSBbCiAgICB7IGNvbXBvbmVudDogdGFicywgdGl0bGU6ICdTaW1wbGUnLCByb3V0ZU5hbWU6ICdUYWJzJyB9LApdOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9LCB7fSksCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHsgY29tcG9uZW50OiBJY29uVGFicywgdGl0bGU6ICdJY29ucyBvbmx5Jywgcm91dGVOYW1lOiAnSWNvblRhYnMnIH0sCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHsgY29tcG9uZW50OiBTaGlmdGluZ1RhYnMsIHRpdGxlOiAnU2hpZnRpbmcnLCByb3V0ZU5hbWU6ICdTaGlmdGluZ1RhYnMnIH0sCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
