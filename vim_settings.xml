@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1539714819981">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="D:/repos/license-plate-judas/app.json" timestamp="1538770689340">
         <mark key="[" line="8" column="25" />
         <mark key="]" line="8" column="22" />
@@ -65,8 +71,8 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539713391021">
-        <mark key="[" line="44" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539715078287">
+        <mark key="[" line="1" column="76" />
         <mark key="]" line="44" column="0" />
         <mark key="." line="44" column="0" />
       </file>
@@ -262,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="281" column="63" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" />
       <jump line="603" column="9" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" />
       <jump line="780" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" />
       <jump line="5" column="22" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/acf-components/acf-flex-components.php" />
@@ -362,10 +367,11 @@
       <jump line="106" column="5" filename="$USER_HOME$/Documents/projects/license-plate-judas/App.js" />
       <jump line="38" column="26" filename="$USER_HOME$/Documents/projects/license-plate-judas/App.js" />
       <jump line="8" column="26" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.js" />
+      <jump line="13" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IDxUYWJOYXYgLz4=</text>
@@ -377,34 +383,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvVmlldz4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBEcmF3ZXI6IE15QXBwLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxWaWV3IHN0eWxlPXtzdHlsZXMuaG9tZX0+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CmNvbnN0IE15QXBwID0gY3JlYXRlRHJhd2VyTmF2aWdhdG9yKHsKICAgIEhvbWU6IHsKICAgICAgICBzY3JlZW46IE15SG9tZVNjcmVlbiwKICAgIH0sCiAgICBOb3RpZmljYXRpb25zOiB7CiAgICAgICAgc2NyZWVuOiBNeU5vdGlmaWNhdGlvbnNTY3JlZW4sCiAgICB9LAp9KTs=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">Y2xhc3MgTXlIb21lU2NyZWVuIGV4dGVuZHMgUmVhY3QuQ29tcG9uZW50IHsKICAgIHN0YXRpYyBuYXZpZ2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICBkcmF3ZXJMYWJlbDogJ0hvbWUnLAogICAgICAgIGRyYXdlckljb246ICh7IHRpbnRDb2xvciB9KSA9PiAoCiAgICAgICAgICAgIDxJbWFnZQogICAgICAgICAgICAgICAgc291cmNlPXtyZXF1aXJlKCcuL2NoYXRzLWljb24ucG5nJyl9CiAgICAgICAgICAgICAgICBzdHlsZT17W3N0eWxlcy5pY29uLCB7dGludENvbG9yOiB0aW50Q29sb3J9XX0KICAgICAgICAgICAgLz4KICAgICAgICApLAogICAgfTsKCiAgICByZW5kZXIoKSB7CiAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgPEJ1dHRvbgogICAgICAgICAgICAgICAgb25QcmVzcz17KCkgPT4gdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLm5hdmlnYXRlKCdOb3RpZmljYXRpb25zJyl9CiAgICAgICAgICAgICAgICB0aXRsZT0iR28gdG8gbm90aWZpY2F0aW9ucyIKICAgICAgICAgICAgLz4KICAgICAgICApOwogICAgfQp9CgpjbGFzcyBNeU5vdGlmaWNhdGlvbnNTY3JlZW4gZXh0ZW5kcyBSZWFjdC5Db21wb25lbnQgewogICAgc3RhdGljIG5hdmlnYXRpb25PcHRpb25zID0gewogICAgICAgIGRyYXdlckxhYmVsOiAnTm90aWZpY2F0aW9ucycsCiAgICAgICAgZHJhd2VySWNvbjogKHsgdGludENvbG9yIH0pID0+ICgKICAgICAgICAgICAgPEltYWdlCiAgICAgICAgICAgICAgICBzb3VyY2U9e3JlcXVpcmUoJy4vbm90aWYtaWNvbi5wbmcnKX0KICAgICAgICAgICAgICAgIHN0eWxlPXtbc3R5bGVzLmljb24sIHt0aW50Q29sb3I6IHRpbnRDb2xvcn1dfQogICAgICAgICAgICAvPgogICAgICAgICksCiAgICB9OwoKICAgIHJlbmRlcigpIHsKICAgICAgICByZXR1cm4gKAogICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICBvblByZXNzPXsoKSA9PiB0aGlzLnByb3BzLm5hdmlnYXRpb24uZ29CYWNrKCl9CiAgICAgICAgICAgICAgICB0aXRsZT0iR28gYmFjayBob21lIgogICAgICAgICAgICAvPgogICAgICAgICk7CiAgICB9Cn0=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgd2l0aE5hdmlnYXRpb24gfSBmcm9tICdyZWFjdC1uYXZpZ2F0aW9uJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUb3BCYXIgLz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgd2l0aE5hdmlnYXRpb24oVG9wQmFyKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIF9nb0JhY2sgPSAoKSA9PiB0aGlzLnByb3BzLm5hdmlnYXRpb24uZ29CYWNrKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEcmF3ZXI6IE15QXBwLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
