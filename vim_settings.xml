@@ -69,11 +69,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539780797379">
-        <mark key="[" line="36" column="25" />
-        <mark key="]" line="33" column="25" />
-        <mark key="." line="33" column="25" />
-        <mark key="^" line="33" column="25" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539782394966">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="64" column="25" />
       </file>
       <file name="D:/repos/license-plate-judas/.eslintrc.json" timestamp="1538761352074">
         <mark key="[" line="34" column="27" />
@@ -170,11 +170,10 @@
         <mark key="^" line="11" column="1" />
         <mark key="." line="11" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539780451174">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
-        <mark key="^" line="49" column="17" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539782306696">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="D:/repos/license-plate-judas/app/lib/storage.js" timestamp="1538768681746">
         <mark key="[" line="1" column="0" />
@@ -212,11 +211,11 @@
         <mark key="^" line="10" column="0" />
         <mark key="." line="10" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539780804519">
-        <mark key="[" line="12" column="48" />
-        <mark key="]" line="12" column="48" />
-        <mark key="." line="12" column="48" />
-        <mark key="^" line="12" column="48" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539782429668">
+        <mark key="[" line="9" column="6" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539281543836">
         <mark key="[" line="9" column="19" />
@@ -376,10 +375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">MH0gY29sb3I9IiNmZmYiIC8+KQogICAgfTs=</text>
+        <text encoding="base64">YXRpYyBuYXZpZ2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICB0aXRsZTogJ015IEFjY291bnQnLAogICAgICAgIHRhYkJhckljb246ICg8SWNvbiBuYW1lPSJhY2NvdW50LWJveCIgc2l6ZT17MjB9IGNvbG9yPSIjZmZmIiAvPikKICAgIH07Cgo=</text>
       </register>
       <register name="-" type="4">
-        <text>../../components/TopBar</text>
+        <text>import Icon from 'react-native-vector-icons/MaterialIcons';</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -388,35 +387,35 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">MH0gY29sb3I9IiNmZmYiIC8+KQogICAgfTs=</text>
+        <text encoding="base64">YXRpYyBuYXZpZ2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICB0aXRsZTogJ015IEFjY291bnQnLAogICAgICAgIHRhYkJhckljb246ICg8SWNvbiBuYW1lPSJhY2NvdW50LWJveCIgc2l6ZT17MjB9IGNvbG9yPSIjZmZmIiAvPikKICAgIH07Cgo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">aW1wb3J0IEljb24gZnJvbSAncmVhY3QtbmF0aXZlLXZlY3Rvci1pY29ucy9NYXRlcmlhbEljb25zJzsK</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">MH0gY29sb3I9IiNmZmYiIC8+KQogICAgfTs=</text>
+      </register>
+      <register name="4" type="4">
         <text>import { SecureStore } from 'expo';
 import firebase from '../../firebase';</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDxMb29rdXAgbmF2aWdhdG9yPXt0aGlzLnByb3BzLm5hdmlnYXRpb259IC8+Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmltcG9ydCBMb29rdXAgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9Mb29rdXAnOwoK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgIHN0YXRpYyBuYXZpZ2F0aW9uT3B0aW9ucyA9IHsKICAgICAgICB0aXRsZTogJ0hvbWUnLAogICAgfTs=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBIb21lOiBMb29rdXBWaWV3LAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIExvb2t1cDogQXBwU3RhY2ssCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFRvcEJhciBmcm9tICcnOwo=</text>
+        <text encoding="base64">ICAgIExvb2t1cDogQXBwU3RhY2ssCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
