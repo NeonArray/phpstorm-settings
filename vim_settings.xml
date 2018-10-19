@@ -673,10 +673,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539960620578">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539961726970">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -923,7 +923,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnJlcG9ydHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbFZpZXcgc3R5bGU9e3sgZmxleDogMSwgcGFkZGluZzogNCB9fT4K</text>
       </register>
       <register name="-" type="4">
         <text>[ this._getUserData(), this._getReports(this.state.userData.reports_submitted) ]</text>
@@ -935,34 +935,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnJlcG9ydHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbFZpZXcgc3R5bGU9e3sgZmxleDogMSwgcGFkZGluZzogNCB9fT4K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJ3BsYXRlOiAnICsgcGxhdGUpOwogICAgICAgIGNvbnNvbGUubG9nKGlkcyk7CiAgICAgICAgY29uc29sZS5sb2coJ3JlcG9ydHM6ICcgKyByZXBvcnRzKTs=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHMpO2NvbnNvbGUubG9nKHJlcG9ydHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgTG9va3VwIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0PkRldGFpbHM8L1RleHQ+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ2FyZC5BY3Rpb25zPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPk9rPC9CdXR0b24+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CgogICAgX2dldFVzZXJEYXRhID0gYXN5bmMgKCkgPT4gewogICAgICAgIAogICAgICAgIGF3YWl0IHRoaXMuc2V0U3RhdGUoeyB1c2VyRGF0YSB9KTsKICAgIH07Cg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPkNhbmNlbDwvQnV0dG9uPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyRGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkLkFjdGlvbnM+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkLkNvdmVyIHNvdXJjZT17eyB1cmk6ICdodHRwczovL3BpY3N1bS5waG90b3MvNzAwJyB9fSAvPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
