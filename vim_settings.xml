@@ -16,8 +16,8 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1539968810702">
-        <mark key="[" line="45" column="5" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1539972546194">
+        <mark key="[" line="47" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
@@ -161,11 +161,11 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.js" timestamp="1539970634789">
-        <mark key="[" line="3" column="9" />
-        <mark key="]" line="3" column="14" />
-        <mark key="." line="3" column="14" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.js" timestamp="1539970796981">
+        <mark key="[" line="3" column="17" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="3" column="18" />
+        <mark key="^" line="3" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
@@ -277,11 +277,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.js" timestamp="1539970748635">
-        <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.js" timestamp="1539972426442" />
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1537968523499">
         <mark key="[" line="54" column="32" />
         <mark key="]" line="54" column="32" />
@@ -556,10 +552,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539782519011">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1539975435975">
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="7" column="50" />
+        <mark key="." line="7" column="50" />
+        <mark key="^" line="7" column="50" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
@@ -592,6 +589,11 @@
         <mark key="]" line="5" column="32" />
         <mark key="." line="5" column="32" />
         <mark key="^" line="5" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/StatusBar/index.js" timestamp="1539973725100">
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537974118993">
         <mark key="[" line="39" column="40" />
@@ -682,11 +684,11 @@
       <file name="D:/repos/quiet-and-the-goblet-of-tuna/src/config.js" timestamp="1538336309259">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539959956378">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="^" line="37" column="17" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539972765984">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="^" line="36" column="17" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="D:/repos/ocular-rhythm-site/src/pages/index.js" timestamp="1538245542765">
         <mark key="[" line="5" column="22" />
@@ -748,21 +750,21 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539970554379">
-        <mark key="[" line="5" column="9" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539974621227">
+        <mark key="[" line="50" column="14" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/pages/index.js" timestamp="1537325225005">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539970595443">
-        <mark key="[" line="4" column="9" />
-        <mark key="]" line="4" column="9" />
-        <mark key="." line="4" column="9" />
-        <mark key="^" line="4" column="9" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539970783487">
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/header/header.module.css" timestamp="1537294588691">
         <mark key="[" line="0" column="0" />
@@ -936,11 +938,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import API from './api';
-import Storage from './storage';</text>
+        <text encoding="base64">ICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17IGFzeW5jICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICB0aXRsZT0iU2lnbm91dCI+U2lnbiBPdXQ8L0J1dHRvbj4=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>//This part is just so you can change the color of the status bar from the parents by passing it as a prop</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -949,35 +950,42 @@ import Storage from './storage';</text>
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>import API from './api';
-import Storage from './storage';</text>
+        <text encoding="base64">ICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17IGFzeW5jICgpID0+IHsKICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgfX0KICAgICAgICAgICAgICAgICAgICB0aXRsZT0iU2lnbm91dCI+U2lnbiBPdXQ8L0J1dHRvbj4=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGUK</text>
+      <register name="2" type="4">
+        <text encoding="base64">ICAgYm90dG9tOiB7CiAgICAgICAgcG9zaXRpb246ICdhYnNvbHV0ZScsCiAgICAgICAgbGVmdDogMCwKICAgICAgICByaWdodDogMCwKICAgICAgICBib3R0b206IDAsCiAgICB9LA==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VjdXJlU3RvcmUgfSBmcm9tICdleHBvJztkCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgVmlldywgU3R5bGVTaGVldCB9IGZyb20gJ3JlYWN0LW5hdGl2ZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJy4uLy4uL2ZpcmViYXNlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxTdGF0dXNCYXJCYWNrZ3JvdW5kLz4K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CmV4cG9ydCBkZWZhdWx0IGZpcmViYXNlOw==</text>
+        <text>class StatusBar extends Component{
+    render(){
+        return</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmZpcmViYXNlLkxQSiA9IExQSjs=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvRm9jdXM9e3RydWV9Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bGV0IHJlcG9ydHMgPSBbXTsKICAgICAgICBsZXQgaWRzID0gW107Cg==</text>
+        <text>get Storage() {
+        return require('./storage');
+    },
+    get API() {
+        return require('./api');
+    }</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">LCAoc25hcHNob3QpID0+IHsKICAgICAgICAgICAgICAgIHVzZXJEYXRhID0gc25hcHNob3QudmFsKCk7CiAgICAgICAgICAgIH0p</text>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IFN0b3JhZ2UgZnJvbSAnLi4vLi4vbGliJzsK</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgICAgIAogICAgICAgIAogICAgICAgIC8vIGNvbnN0IHBhZ2luYXRlQXQgPSByZXBvcnRzW3JlcG9ydHMubGVuZ3RoXTsKCiAgICAgICAg</text>
+        <text>import API from './api';
+import Storage from './storage';</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
