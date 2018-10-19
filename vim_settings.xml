@@ -657,7 +657,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539959929180">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539962646451">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="26" column="28" />
         <mark key="." line="26" column="28" />
@@ -673,10 +673,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539961726970">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539962642317">
+        <mark key="[" line="1" column="38" />
+        <mark key="]" line="2" column="18" />
+        <mark key="." line="2" column="18" />
+        <mark key="^" line="2" column="18" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -922,8 +923,8 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbFZpZXcgc3R5bGU9e3sgZmxleDogMSwgcGFkZGluZzogNCB9fT4K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PFN0YXR1c0JhcgogICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcj0iYmx1ZSIKICAgICAgICAgICAgICAgICAgICBiYXJTdHlsZT0ibGlnaHQtY29udGVudCIKICAgICAgICAgICAgICAgIC8+</text>
       </register>
       <register name="-" type="4">
         <text>[ this._getUserData(), this._getReports(this.state.userData.reports_submitted) ]</text>
@@ -934,35 +935,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbFZpZXcgc3R5bGU9e3sgZmxleDogMSwgcGFkZGluZzogNCB9fT4K</text>
+      <register name="1" type="4">
+        <text encoding="base64">PFN0YXR1c0JhcgogICAgICAgICAgICAgICAgICAgIGJhY2tncm91bmRDb2xvcj0iYmx1ZSIKICAgICAgICAgICAgICAgICAgICBiYXJTdHlsZT0ibGlnaHQtY29udGVudCIKICAgICAgICAgICAgICAgIC8+</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFNjcm9sbFZpZXcgc3R5bGU9e3sgZmxleDogMSwgcGFkZGluZzogNCB9fT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9WaWV3Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0PkRldGFpbHM8L1RleHQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPFZpZXc+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ2FyZC5BY3Rpb25zPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0PkRldGFpbHM8L1RleHQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPk9rPC9CdXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvQ2FyZC5BY3Rpb25zPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPkNhbmNlbDwvQnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPk9rPC9CdXR0b24+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkLkFjdGlvbnM+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8QnV0dG9uPkNhbmNlbDwvQnV0dG9uPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkLkNvdmVyIHNvdXJjZT17eyB1cmk6ICdodHRwczovL3BpY3N1bS5waG90b3MvNzAwJyB9fSAvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxDYXJkLkFjdGlvbnM+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
