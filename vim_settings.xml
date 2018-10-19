@@ -16,8 +16,8 @@
         <mark key="]" line="6" column="10" />
         <mark key="." line="6" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1539102701108">
-        <mark key="[" line="43" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1539968810702">
+        <mark key="[" line="45" column="5" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
@@ -161,10 +161,11 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.js" timestamp="1539279719295">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.js" timestamp="1539967992517">
+        <mark key="[" line="3" column="42" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
@@ -747,11 +748,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539962646451">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="26" column="28" />
-        <mark key="." line="26" column="28" />
-        <mark key="^" line="26" column="28" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539968779213">
+        <mark key="[" line="28" column="43" />
+        <mark key="]" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+        <mark key="^" line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/pages/index.js" timestamp="1537325225005">
         <mark key="[" line="2" column="0" />
@@ -779,12 +780,12 @@
         <mark key="]" line="195" column="0" />
         <mark key="." line="195" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539805746196">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1539967977482">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="93" column="72" />
-        <mark key="]" line="67" column="28" />
-        <mark key="^" line="67" column="28" />
-        <mark key="." line="67" column="28" />
+        <mark key="[" line="3" column="7" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1539281998390">
         <mark key="[" line="0" column="28" />
