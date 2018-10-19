@@ -398,6 +398,11 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/firebase/index.js" timestamp="1539959604473">
+        <mark key="[" line="47" column="15" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/ymca/.htaccess" timestamp="1538141549147">
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="0" />
@@ -530,11 +535,11 @@
         <mark key="]" line="54" column="32" />
         <mark key="." line="54" column="32" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539807657122">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1539959956378">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
         <mark key="^" line="37" column="17" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
@@ -652,10 +657,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539952865412">
-        <mark key="[" line="23" column="6" />
-        <mark key="]" line="23" column="6" />
-        <mark key="." line="23" column="6" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539959929180">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="26" column="28" />
+        <mark key="." line="26" column="28" />
+        <mark key="^" line="26" column="28" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/inc/reps.json" timestamp="1536162993825">
         <mark key="[" line="32" column="29" />
@@ -667,10 +673,10 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539806869068">
-        <mark key="[" line="30" column="26" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1539960620578">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -916,11 +922,11 @@
       <jump line="13" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAKICAgICAgICBhd2FpdCB0aGlzLl9nZXRVc2VyRGF0YSgpOwogICAgICAgIGF3YWl0IHRoaXMuX2dldFJlcG9ydHModGhpcy5zdGF0ZS51c2VyRGF0YS5yZXBvcnRzX3N1Ym1pdHRlZCk7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnJlcG9ydHMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>[ this._getUserData(), this._getReports(this.state.userData.reports_submitted) ]</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -928,35 +934,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAKICAgICAgICBhd2FpdCB0aGlzLl9nZXRVc2VyRGF0YSgpOwogICAgICAgIGF3YWl0IHRoaXMuX2dldFJlcG9ydHModGhpcy5zdGF0ZS51c2VyRGF0YS5yZXBvcnRzX3N1Ym1pdHRlZCk7</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0aGlzLnN0YXRlLnJlcG9ydHMpOwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YWx1ZT17dGhpcy5zdGF0ZS5wbGF0ZX0K</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJ3BsYXRlOiAnICsgcGxhdGUpOwogICAgICAgIGNvbnNvbGUubG9nKGlkcyk7CiAgICAgICAgY29uc29sZS5sb2coJ3JlcG9ydHM6ICcgKyByZXBvcnRzKTs=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnN0IGxvYWRpbmdJbmRpY2F0b3IgPSB0aGlzLnN0YXRlLmlzRG9pbmdBY3Rpb24gPyAoIDogbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHMpO2NvbnNvbGUubG9nKHJlcG9ydHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHMpOwo=</text>
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgY2xhc3MgTG9va3VwIGV4dGVuZHMgQ29tcG9uZW50IHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVwb3J0cyA9IFtdOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgcmVwb3J0cyA9IFtdOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZHMgPSBPYmplY3Qua2V5cyhpZHMpOwo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">CgogICAgX2dldFVzZXJEYXRhID0gYXN5bmMgKCkgPT4gewogICAgICAgIAogICAgICAgIGF3YWl0IHRoaXMuc2V0U3RhdGUoeyB1c2VyRGF0YSB9KTsKICAgIH07Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh1c2VyRGF0YSk7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhd2FpdCB0aGlzLl9yZXBvcnRzKHVzZXJEYXRhLnJlcG9ydHNfc3VibWl0dGVkKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpZHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
