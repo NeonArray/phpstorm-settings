@@ -103,8 +103,10 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Finalize/index.js" timestamp="1540218071972">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Finalize/index.js" timestamp="1540219887249">
+        <mark key="[" line="66" column="12" />
+        <mark key="]" line="66" column="12" />
+        <mark key="." line="66" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/watermark-it/watermark-it.php" timestamp="1538073360479">
         <mark key="[" line="37" column="20" />
@@ -191,11 +193,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.js" timestamp="1540212663809">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="1" column="25" />
-        <mark key="." line="1" column="25" />
-        <mark key="^" line="1" column="25" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.js" timestamp="1540220828209">
+        <mark key="[" line="36" column="6" />
+        <mark key="]" line="36" column="6" />
+        <mark key="." line="36" column="6" />
+        <mark key="^" line="22" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/archive/index.js" timestamp="1537289322483">
         <mark key="[" line="3" column="0" />
@@ -224,10 +226,11 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/style.css" timestamp="1536337926057">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1539979417631">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1540221195735">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="9" />
+        <mark key="." line="10" column="9" />
+        <mark key="^" line="10" column="9" />
       </file>
       <file name="D:/repos/license-plate-judas/app.json" timestamp="1538770689340">
         <mark key="[" line="8" column="25" />
@@ -401,11 +404,11 @@
       <file name="D:/repos/quiet-and-the-goblet-of-tuna/src/config.js" timestamp="1538336309259">
         <mark key="[" line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1540212215317">
-        <mark key="[" line="41" column="34" />
-        <mark key="]" line="46" column="34" />
-        <mark key="^" line="46" column="34" />
-        <mark key="." line="46" column="34" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" timestamp="1540220820220">
+        <mark key="[" line="29" column="17" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="29" column="17" />
       </file>
       <file name="D:/repos/license-plate-judas/app/lib/storage.js" timestamp="1538768681746">
         <mark key="[" line="1" column="0" />
@@ -606,8 +609,10 @@
       <jump line="61" column="21" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicmVhY3QtbmF2aWdhdGlvbi1tYXRlcmlhbC1ib3R0b20tdGFicyI6ICJeMC40LjAiCg==</text>
+      <register name="&quot;" type="4">
+        <text>export default class LookupView extends Component {
+    render() {
+        return</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -618,35 +623,42 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicmVhY3QtbmF2aWdhdGlvbi1tYXRlcmlhbC1ib3R0b20tdGFicyI6ICJeMC40LjAiCg==</text>
+      <register name="1" type="4">
+        <text>export default class LookupView extends Component {
+    render() {
+        return</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgbGV0IGlkcyA9IGF3YWl0IEFQSS5nZXRSZXBvcnRzRm9yUGxhdGUocGxhdGUpOwo=</text>
+        <text>ttonContainer: {
+        flexDirection: 'row',
+        justifyContent: 'space-between',
+        margin: 30,
+    }</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgLy8gVGhpcyB3YXMgNTAwbXMgZmFzdGVyIHRoYW4gZmlsdGVyaW5nIHRoZSBkYXRhIG9uIHNlcnZlcgogICAgICAgIC8vIFNlZTogaHR0cHM6Ly9zdGFja292ZXJmbG93LmNvbS9xdWVzdGlvbnMvMzU5MzE1MjYvc3BlZWQtdXAtZmV0Y2hpbmctcG9zdHMtZm9yLW15LXNvY2lhbC1uZXR3b3JrLWFwcC1ieS11c2luZy1xdWVyeS1pbnN0ZWFkLW9mLW9ic2UvMzU5MzI3ODYjMzU5MzI3ODYKICAgICAgICBhd2FpdCBQcm9taXNlLmFsbCgKICAgICAgICAgICAgaWRzLm1hcChpZCA9PiB7CiAgICAgICAgICAgICAgICByZXR1cm4gZmlyZWJhc2UuZGF0YWJhc2UoKS5yZWYoYC9yZXBvcnRzLyR7aWR9YCkubGltaXRUb0xhc3QobGltaXRUb0xhc3QpLm9uY2UoJ3ZhbHVlJywgKHNuYXBzaG90KSA9PiByZXBvcnRzLnB1c2goc25hcHNob3QudmFsKCkpKTsKICAgICAgICAgICAgfSkKICAgICAgICApLmNhdGNoKGVycm9yID0+IGNvbnNvbGUuZXJyb3IoZXJyb3IpKTsKCiAgICAgICAgcmV0dXJuIHJlcG9ydHM7</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8VmlldyBzdHlsZT17eyBmbGV4OiAxIH19Pg==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IGlkcyA9IE9iamVjdC5rZXlzKGlkcyk7CgogICAgICAgIGlmICghaWRzLmxlbmd0aCkgewogICAgICAgICAgICB0aHJvdyBuZXcgRXJyb3IoJ0FyZ3VtZW50IGBpZGAgbXVzdCBiZSBhIG5vbi1lbXB0eSBhcnJheSBvZiBzdHJpbmdzJyk7CiAgICAgICAgfQo=</text>
+        <text encoding="base64">CmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICAgIGhvbWU6IHsKICAgICAgICBmbGV4OiAxLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIH0sCn0pOw==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2Nyb2xsVmlldywgVGV4dCwgU2FmZUFyZWFWaWV3IH0gZnJvbSAncmVhY3QtbmF0aXZlJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjwvVmlldz4qL30K</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CiAgICBfb25TZWFyY2ggPSAoKSA9PiBjb25zb2xlLmxvZygnU2VhcmNoaW5nJyk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjxWaWV3IHN0eWxlPXtzdHlsZXMuaG9tZX0+Ki99Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxBcHBiYXIuQWN0aW9uIGljb249InNlYXJjaCIgb25QcmVzcz17dGhpcy5fb25TZWFyY2h9IC8+Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcics</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJy4uLy4uL2ZpcmViYXNlJzsK</text>
+      <register name="8" type="4">
+        <text>document.getElementById('div1').style.display='none';
+            document.getElementById('div2').style.display='none';</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgX2xvZ091dCA9IGFzeW5jICgpID0+IHsKICAgICAgICBmaXJlYmFzZS5hdXRoKCkuc2lnbk91dCgpOwogICAgICAgIGF3YWl0IFN0b3JhZ2UuZGVsZXRlKCdUb2tlbicpOwoKICAgICAgICB0aGlzLnByb3BzLm5hdmlnYXRvci5uYXZpZ2F0ZSgnQXV0aCcpOwogICAgfTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IEljb24gZnJvbSAncmVhY3QtbmF0aXZlLXZlY3Rvci1pY29ucy9NYXRlcmlhbEljb25zJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
