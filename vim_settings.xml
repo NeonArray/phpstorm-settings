@@ -226,11 +226,11 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/style.css" timestamp="1536337926057">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1540221195735">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="10" column="9" />
-        <mark key="." line="10" column="9" />
-        <mark key="^" line="10" column="9" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1540222059484">
+        <mark key="[" line="6" column="51" />
+        <mark key="]" line="6" column="26" />
+        <mark key="." line="6" column="26" />
+        <mark key="^" line="6" column="26" />
       </file>
       <file name="D:/repos/license-plate-judas/app.json" timestamp="1538770689340">
         <mark key="[" line="8" column="25" />
@@ -313,8 +313,8 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540217952379">
-        <mark key="[" line="93" column="24" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540222512619">
+        <mark key="[" line="40" column="16" />
         <mark key="]" line="93" column="24" />
         <mark key="." line="93" column="24" />
       </file>
