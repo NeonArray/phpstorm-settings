@@ -454,9 +454,7 @@
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1540230939772">
-        <mark key="'" line="69" column="0" />
-        <mark key="[" line="79" column="32" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1540232525198">
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
@@ -471,6 +469,13 @@
         <mark key="]" line="3" column="18" />
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540231641040">
+        <mark key="'" line="2" column="7" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="92" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540229666661">
         <mark key="[" line="11" column="30" />
@@ -608,11 +613,11 @@
       <jump line="61" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNhYmxlZD17IXRoaXMuc3RhdGUuZW1haWwgJiYgIXRoaXMuc3RhdGUucGFzc3dvcmR9</text>
       </register>
       <register name="-" type="4">
-        <text>this.props.navigation.getParam('title') || 'License Plate Judas' }</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkaXNhYmxlZD17IXRoaXMuc3RhdGUuZW1haWwgJiYgIXRoaXMuc3RhdGUucGFzc3dvcmR9</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
