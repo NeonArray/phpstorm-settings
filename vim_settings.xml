@@ -41,8 +41,8 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/ReasonView/index.js" timestamp="1539977287615">
-        <mark key="[" line="9" column="16" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/ReasonView/index.js" timestamp="1540224979308">
+        <mark key="[" line="7" column="49" />
       </file>
       <file name="D:/repos/license-plate-judas/app/lib/navigationService.js" timestamp="1538755898541">
         <mark key="[" line="4" column="45" />
@@ -80,8 +80,9 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" timestamp="1539977251093">
-        <mark key="[" line="8" column="27" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" timestamp="1540224911895">
+        <mark key="'" line="29" column="0" />
+        <mark key="[" line="8" column="7" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -114,11 +115,6 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/index.js" timestamp="1539220752830">
         <mark key="[" line="0" column="40" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/firebase/index.js" timestamp="1539967436136">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="0" />
-        <mark key="." line="22" column="0" />
-      </file>
       <file name="D:/repos/license-plate-judas/App.js" timestamp="1538771302345">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -140,8 +136,8 @@
       <file name="$USER_HOME$/Documents/websites/ngaky/wp-config.php" timestamp="1538662933478">
         <mark key="[" line="79" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/MoodView/index.js" timestamp="1539977272198">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/MoodView/index.js" timestamp="1540224968438">
+        <mark key="[" line="7" column="49" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -157,7 +153,6 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/user.js" timestamp="1539113437580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.js" timestamp="1539972426442" />
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -226,10 +221,10 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/ingen-wordpress/style.css" timestamp="1536337926057">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1540222059484">
-        <mark key="[" line="6" column="51" />
-        <mark key="]" line="6" column="26" />
-        <mark key="." line="6" column="26" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" timestamp="1540225099385">
+        <mark key="[" line="9" column="64" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
         <mark key="^" line="6" column="26" />
       </file>
       <file name="D:/repos/license-plate-judas/app.json" timestamp="1538770689340">
@@ -282,6 +277,9 @@
       <file name="$USER_HOME$/Documents/projects/mvc-fun/index.php" timestamp="1536856762121">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/README.md" timestamp="1540225435664">
+        <mark key="[" line="15" column="3" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-config.php" timestamp="1537967356725">
         <mark key="[" line="22" column="37" />
       </file>
@@ -303,7 +301,6 @@
       <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/themes/ngaky/header.php" timestamp="1538417937259">
         <mark key="[" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/node_modules/react-navigation/src/react-navigation.js" timestamp="1539970696590" />
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.js" timestamp="1540214163157">
         <mark key="[" line="6" column="6" />
       </file>
@@ -431,8 +428,8 @@
         <mark key="^" line="50" column="24" />
         <mark key="." line="50" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/FinishView/index.js" timestamp="1539977232548">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/FinishView/index.js" timestamp="1540224857140">
+        <mark key="[" line="7" column="51" />
       </file>
       <file name="D:/repos/license-plate-judas/app/views/HomeView/index.js" timestamp="1538757025625">
         <mark key="[" line="3" column="57" />
@@ -440,11 +437,10 @@
         <mark key="." line="10" column="30" />
         <mark key="^" line="10" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/RegisterView/index.js" timestamp="1539977300527">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/RegisterView/index.js" timestamp="1540225035278">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ymca/.htaccess.backup" timestamp="1538141440478">
         <mark key="[" line="0" column="0" />
@@ -458,9 +454,9 @@
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1539979706591">
-        <mark key="'" line="50" column="21" />
-        <mark key="[" line="4" column="22" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1540224845361">
+        <mark key="'" line="53" column="21" />
+        <mark key="[" line="22" column="5" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -476,8 +472,8 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1539977215019">
-        <mark key="[" line="9" column="16" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540224949080">
+        <mark key="[" line="7" column="57" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -505,9 +501,11 @@
         <mark key="^" line="4" column="79" />
         <mark key="." line="4" column="79" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.js" timestamp="1540224687196">
+        <mark key="[" line="24" column="63" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="780" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/src/scss/_settings.scss" />
       <jump line="5" column="22" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/acf-components/acf-flex-components.php" />
       <jump line="25" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/acf-components/acf-flex-components.php" />
       <jump line="4" column="0" filename="$USER_HOME$/Documents/websites/republic-conduit/wp-content/themes/republic-conduit/acf-components/acf-flex-components.php" />
@@ -607,12 +605,11 @@
       <jump line="8" column="26" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupView/index.js" />
       <jump line="61" column="21" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
+      <jump line="23" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>export default class LookupView extends Component {
-    render() {
-        return</text>
+        <text encoding="base64">fQpleHBvcnQgZGVmYXVsdCAocHJvcHMpID0+ICgKICAgIAop</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -624,41 +621,40 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>export default class LookupView extends Component {
-    render() {
-        return</text>
+        <text encoding="base64">fQpleHBvcnQgZGVmYXVsdCAocHJvcHMpID0+ICgKICAgIAop</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">CiAgICBzdGF0aWMgbmF2aWdhdGlvbk9wdGlvbnMgPSB7CiAgICAgICAgJ25hdlRpdGxlJzogJ0xvb2t1cCBQbGF0ZScKICAgIH07</text>
+      </register>
+      <register name="3" type="4">
+        <text>export default class LookupView extends Component {
+    render() {
+        return</text>
+      </register>
+      <register name="4" type="4">
         <text>ttonContainer: {
         flexDirection: 'row',
         justifyContent: 'space-between',
         margin: 30,
     }</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">CiAgICAgICAgICAgICAgICA8VmlldyBzdHlsZT17eyBmbGV4OiAxIH19Pg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">CmNvbnN0IHN0eWxlcyA9IFN0eWxlU2hlZXQuY3JlYXRlKHsKICAgIGhvbWU6IHsKICAgICAgICBmbGV4OiAxLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIH0sCn0pOw==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjwvVmlldz4qL30K</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsvKjxWaWV3IHN0eWxlPXtzdHlsZXMuaG9tZX0+Ki99Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywKICAgICAgICBqdXN0aWZ5Q29udGVudDogJ2NlbnRlcics</text>
-      </register>
-      <register name="8" type="4">
-        <text>document.getElementById('div1').style.display='none';
-            document.getElementById('div2').style.display='none';</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IEljb24gZnJvbSAncmVhY3QtbmF0aXZlLXZlY3Rvci1pY29ucy9NYXRlcmlhbEljb25zJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
