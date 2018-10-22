@@ -310,10 +310,11 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540222512619">
-        <mark key="[" line="40" column="16" />
-        <mark key="]" line="93" column="24" />
-        <mark key="." line="93" column="24" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540227293798">
+        <mark key="[" line="53" column="24" />
+        <mark key="]" line="53" column="24" />
+        <mark key="." line="53" column="24" />
+        <mark key="^" line="53" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
@@ -501,7 +502,7 @@
         <mark key="^" line="4" column="79" />
         <mark key="." line="4" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.js" timestamp="1540224687196">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.js" timestamp="1540227195876">
         <mark key="[" line="24" column="63" />
       </file>
     </filemarks>
@@ -609,10 +610,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">fQpleHBvcnQgZGVmYXVsdCAocHJvcHMpID0+ICgKICAgIAop</text>
+        <text>this.props.navigation.getParam('title') || 'License Plate Judas' }</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>this.props.navigation.getParam('title') || 'License Plate Judas' }</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
