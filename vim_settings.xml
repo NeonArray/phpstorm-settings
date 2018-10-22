@@ -289,7 +289,7 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1540216805044">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1540234420960">
         <mark key="[" line="43" column="5" />
         <mark key="]" line="43" column="5" />
         <mark key="^" line="3" column="14" />
@@ -301,8 +301,8 @@
       <file name="$USER_HOME$/Documents/VVV/www/ngaky/public_html/wp-content/themes/ngaky/header.php" timestamp="1538417937259">
         <mark key="[" line="12" column="41" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.js" timestamp="1540214163157">
-        <mark key="[" line="6" column="6" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.js" timestamp="1540235443217">
+        <mark key="[" line="11" column="12" />
       </file>
       <file name="D:/repos/license-plate-judas/app/views/LookupView/index.js" timestamp="1538770885493">
         <mark key="[" line="6" column="29" />
@@ -310,8 +310,8 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540229545886">
-        <mark key="[" line="16" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540234953753">
+        <mark key="[" line="68" column="9" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -454,7 +454,7 @@
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1540232525198">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1540234404910">
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
@@ -470,12 +470,12 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540231641040">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540234642376">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="92" column="0" />
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="30" />
+        <mark key="^" line="62" column="30" />
+        <mark key="." line="62" column="30" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540229666661">
         <mark key="[" line="11" column="30" />
