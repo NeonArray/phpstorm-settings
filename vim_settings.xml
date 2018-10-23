@@ -153,6 +153,11 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/user.js" timestamp="1539113437580">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.js" timestamp="1540306526218">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
       </file>
@@ -167,6 +172,11 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/index.php" timestamp="1538070097274">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.js" timestamp="1540307944704">
+        <mark key="]" line="20" column="0" />
+        <mark key="^" line="26" column="56" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Header/index.js" timestamp="1539703436767">
         <mark key="[" line="10" column="1" />
@@ -233,11 +243,11 @@
         <mark key="^" line="8" column="22" />
         <mark key="." line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Mood/index.js" timestamp="1539696619101">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="29" column="69" />
-        <mark key="." line="46" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Mood/index.js" timestamp="1540307901075">
+        <mark key="[" line="14" column="58" />
+        <mark key="]" line="14" column="58" />
+        <mark key="." line="14" column="58" />
+        <mark key="^" line="14" column="58" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/dist/index.js" timestamp="1537192795879">
         <mark key="[" line="48" column="52" />
@@ -315,8 +325,8 @@
         <mark key="^" line="6" column="30" />
         <mark key="." line="6" column="30" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540237740450">
-        <mark key="[" line="68" column="9" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1540307656969">
+        <mark key="[" line="100" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
@@ -467,10 +477,11 @@
         <mark key="]" line="81" column="0" />
         <mark key="." line="81" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1540302891088">
-        <mark key="[" line="28" column="51" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1540305924366">
+        <mark key="[" line="67" column="19" />
+        <mark key="]" line="67" column="19" />
+        <mark key="." line="67" column="19" />
+        <mark key="^" line="67" column="19" />
       </file>
       <file name="D:/repos/license-plate-judas/package.json" timestamp="1538770680658">
         <mark key="[" line="3" column="21" />
@@ -478,11 +489,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540299488475">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540306009093">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="109" column="24" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540302284325">
         <mark key="[" line="11" column="30" />
@@ -621,7 +632,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgTGlzdCBmcm9tICdyZWFjdC1uYXRpdmUtcGFwZXIvdHlwaW5ncy9jb21wb25lbnRzL0xpc3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -633,34 +644,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgTGlzdCBmcm9tICdyZWFjdC1uYXRpdmUtcGFwZXIvdHlwaW5ncy9jb21wb25lbnRzL0xpc3QnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnN0YXRlID0gewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLi4udGhpcy5zdGF0ZSwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9IHRydWU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGZhbHNlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdBcmd1bWVudCBgaWRgIG11c3QgYmUgYSBub24tZW1wdHkgYXJyYXkgb2Ygc3RyaW5ncycpOwo=</text>
+        <text encoding="base64">ICAgICAgICB9Owo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5fY2FjaGVVc2VyRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGxhdGU6ICcnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
