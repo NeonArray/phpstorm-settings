@@ -3,10 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1540238832114">
-        <mark key="[" line="54" column="8" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1540300743463">
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1540217715605">
         <mark key="[" line="24" column="38" />
@@ -409,7 +409,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdBcmd1bWVudCBgaWRgIG11c3QgYmUgYSBub24tZW1wdHkgYXJyYXkgb2Ygc3RyaW5ncycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -421,36 +421,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdBcmd1bWVudCBgaWRgIG11c3QgYmUgYSBub24tZW1wdHkgYXJyYXkgb2Ygc3RyaW5ncycpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5fY2FjaGVVc2VyRGF0YSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZGF0YTsK</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">CiAgICBfY2FjaGVVc2VyRGF0YSA9IGFzeW5jICgpID0+IHsKICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgQVBJLmdldFVzZXJEYXRhKCk7CiAgICAgICAgCiAgICB9OwogICAgCiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGZhbHNlOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgQVBJLmdldFVzZXJEYXRhKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">CiAgICBfaGFuZGxlRXJyb3JNZXNzYWdlID0gKGVycm9yKSA9PiB7CiAgICAgICAgYWxlcnQoZXJyb3IubWVzc2FnZSk7CiAgICB9OwoK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBsZXQgZGF0YSA9IHRydWU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzcyA9IGZhbHNlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGF0YSA9IGZhbHNlOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHN1Y2Nlc3M7</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdGhyb3cgbmV3IEVycm9yKCdBcmd1bWVudCBgaWRgIG11c3QgYmUgYSBub24tZW1wdHkgYXJyYXkgb2Ygc3RyaW5ncycpOwo=</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICBsZXQgc3VjY2VzcyA9IHRydWU7Cg==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXdhaXQgdGhpcy5fY2FjaGVVc2VyRGF0YSgpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>f (! {
-            
-        }</text>
+        <text encoding="base64">CiAgICBfY2FjaGVVc2VyRGF0YSA9IGFzeW5jICgpID0+IHsKICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgQVBJLmdldFVzZXJEYXRhKCk7CiAgICAgICAgCiAgICB9OwogICAgCiAgICA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
