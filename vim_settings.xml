@@ -154,11 +154,10 @@
         <mark key="^" line="24" column="36" />
         <mark key="." line="24" column="36" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1540238962677">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="5" column="14" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1540241587345">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.js" timestamp="1540239049846">
         <mark key="[" line="28" column="0" />
@@ -279,11 +278,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540239561224">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540241600985">
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="54" column="100" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540229666661">
         <mark key="[" line="11" column="30" />
@@ -409,8 +408,8 @@
       <jump line="61" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">Y2xhc3MgTG9naW5WaWV3IGV4dGVuZHMgQ29tcG9uZW50IHsKCiAgICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKICAgIH0KCgogICAgcmVuZGVyKCkgewogICAgICAgIHJldHVybiA=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgQVBJLmdldFVzZXJEYXRhKCk7Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -421,42 +420,37 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Y2xhc3MgTG9naW5WaWV3IGV4dGVuZHMgQ29tcG9uZW50IHsKCiAgICBjb25zdHJ1Y3Rvcihwcm9wcykgewogICAgICAgIHN1cGVyKHByb3BzKTsKICAgIH0KCgogICAgcmVuZGVyKCkgewogICAgICAgIHJldHVybiA=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zdCBkYXRhID0gYXdhaXQgQVBJLmdldFVzZXJEYXRhKCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text>class RegisterView extends Component {
-
-    constructor(props) {
-        super(props);
-    }
-
-    render() {
-        return</text>
+        <text encoding="base64">CiAgICBfaGFuZGxlRXJyb3JNZXNzYWdlID0gKGVycm9yKSA9PiB7CiAgICAgICAgYWxlcnQoZXJyb3IubWVzc2FnZSk7CiAgICB9OwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3VjY2VzcyA9IGZhbHNlOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">CiAgICAgICAgcmV0dXJuIHN1Y2Nlc3M7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPFdyYXBwZXI+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICBsZXQgc3VjY2VzcyA9IHRydWU7Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9XcmFwcGVyPgo=</text>
+      <register name="6" type="4">
+        <text>f (! {
+            
+        }</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBjb21wb25lbnRXaWxsTW91bnQoKSB7CiAgICAgICAgdGhpcy5wcm9wcy5uYXZpZ2F0aW9uLnNldFBhcmFtcyh7CiAgICAgICAgICAgIGJhY2tFbmFibGVkOiBmYWxzZSwKICAgICAgICAgICAgdGl0bGU6ICdSZWdpc3RlcicKICAgICAgICB9KTsKICAgIH0KCg==</text>
+        <text encoding="base64">CiAgICAgICAgdHJ5IHsKICAgICAgICAgICAgCiAgICAgICAgfSBjYXRjaCAoZXJyb3IpIHsKICAgICAgICAgICAgdGhpcy5faGFuZGxlRXJyb3JNZXNzYWdlKGVycm9yKTsKICAgICAgICB9</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CgogICAgY29tcG9uZW50V2lsbE1vdW50KCkgewogICAgICAgIHRoaXMucHJvcHMubmF2aWdhdGlvbi5zZXRQYXJhbXMoewogICAgICAgICAgICBiYWNrRW5hYmxlZDogZmFsc2UsCiAgICAgICAgICAgIHRpdGxlOiAnTG9naW4nCiAgICAgICAgfSk7CiAgICB9</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coZGF0YSk7Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9XcmFwcGVyPgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICBpZiAoZXJyb3IuY29kZSA9PT0gJ2F1dGgvd3JvbmctcGFzc3dvcmQnKSB7CiAgICAgICAgICAgICAgICBhbGVydCgnV3JvbmcgcGFzc3dvcmQuJyk7CiAgICAgICAgICAgIH0gZWxzZSBpZiAoZXJyb3IuY29kZSA9PT0gJ2F1dGgvaW52YWxpZC1lbWFpbCcpIHsKICAgICAgICAgICAgICAgIAogICAgICAgICAgICB9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
