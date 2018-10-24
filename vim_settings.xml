@@ -50,12 +50,6 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" timestamp="1540239359764">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="15" />
-        <mark key="." line="8" column="15" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
       </file>
@@ -156,8 +150,8 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.js" timestamp="1540220828209">
-        <mark key="[" line="36" column="6" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.js" timestamp="1540389342778">
+        <mark key="[" line="22" column="45" />
         <mark key="]" line="36" column="6" />
         <mark key="." line="36" column="6" />
         <mark key="^" line="22" column="26" />
@@ -370,10 +364,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1540324462897">
-        <mark key="[" line="47" column="14" />
-        <mark key="]" line="49" column="0" />
-        <mark key="." line="49" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1540389879574">
+        <mark key="[" line="61" column="20" />
+        <mark key="]" line="61" column="20" />
+        <mark key="." line="61" column="20" />
+        <mark key="^" line="61" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540386984865">
         <mark key="a" line="73" column="33" />
@@ -382,8 +377,8 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540302284325">
-        <mark key="[" line="11" column="30" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LookupDetailView/index.js" timestamp="1540388987149">
+        <mark key="[" line="20" column="17" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
@@ -506,11 +501,11 @@
       <jump line="61" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">dGhpcy5zdGF0ZS5yZXBvcnRzLm1hcCgoaSwgaikgPT4gew==</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">dGhpcy5zdGF0ZS5yZXBvcnRzLm1hcCgoaSwgaikgPT4gew==</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -518,20 +513,20 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAgICAgICA8RmxhdExpc3QKICAgICAgICAgICAgICAgICAgICBkYXRhPXtbe2tleTogJ2EnfSwge2tleTogJ2InfV19CiAgICAgICAgICAgICAgICAgICAgcmVuZGVySXRlbT17KHtpdGVtfSkgPT4gPFRleHQ+e2l0ZW0ua2V5fTwvVGV4dD59CiAgICAgICAgICAgICAgICAvPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBGaXggdGhpcyBzbyBpdHMgZmxvYXRpbmcgaW4gdGhlIGNlbnRlciBvZiBzY3JlZW4gb3Igc29tZXRoaW5nCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">CiAgICAgICAgY29uc3QgdmFsaWRhdGVFbWFpbCA9IChlbWFpbCkgPT4gewoKICAgICAgICB9Owo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
@@ -540,13 +535,13 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvRm9jdXM9eyB0cnVlIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlLnRlc3QoU3RyaW5nKGVtYWlsKS50b0xvd2VyQ2FzZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRvRm9jdXM9eyB0cnVlIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIHJlID0gL14oKFtePD4oKVtdXFwuLDs6XHNAIl0rKFwuW148PigpW11cXC4sOzpcc0AiXSspKil8KCIuKyIpKUAoKFxbWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfVwuWzAtOV17MSwzfV0pfCgoW2EtekEtWlwtMC05XStcLikrW2EtekEtWl17Mix9KSkkLzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHJlLnRlc3QoU3RyaW5nKGVtYWlsKS50b0xvd2VyQ2FzZSgpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
