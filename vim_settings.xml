@@ -47,9 +47,10 @@
         <mark key="." line="10" column="42" />
         <mark key="^" line="10" column="42" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/MyAccount/index.js" timestamp="1540397142065">
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/MyAccount/index.js" timestamp="1540400069548">
+        <mark key="[" line="54" column="34" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.js" timestamp="1540386898283">
         <mark key="[" line="2" column="0" />
@@ -181,13 +182,13 @@
         <mark key="." line="1" column="25" />
         <mark key="^" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1540396949887">
-        <mark key="[" line="2" column="18" />
-        <mark key="]" line="2" column="18" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1540400130420">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
         <mark key="^" line="43" column="17" />
-        <mark key="." line="2" column="18" />
+        <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540386984865">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1540400092530">
         <mark key="a" line="73" column="33" />
         <mark key="'" line="2" column="7" />
         <mark key="[" line="78" column="18" />
@@ -306,8 +307,8 @@
       <jump line="60" column="22" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGxpbmUgfSBmcm9tICdyZWFjdC1uYXRpdmUtcGFwZXInOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICBfZW5kQWN0aXZpdHlJbmRpY2F0b3JzID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoeyBpc0RvaW5nQWN0aW9uOiBmYWxzZSB9KTsKICAgIH07</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -318,35 +319,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVhZGxpbmUgfSBmcm9tICdyZWFjdC1uYXRpdmUtcGFwZXInOwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICBfZW5kQWN0aXZpdHlJbmRpY2F0b3JzID0gKCkgPT4gewogICAgICAgIHRoaXMuc2V0U3RhdGUoeyBpc0RvaW5nQWN0aW9uOiBmYWxzZSB9KTsKICAgIH07</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQVBJIH0gZnJvbSAnLi4vLi4vbGliJzsK</text>
+      <register name="2" type="4">
+        <text encoding="base64">CiAgICBfc3RhcnRBY3Rpdml0eUluZGljYXRvcnMgPSAoKSA9PiB7CiAgICAgICAgdGhpcy5zZXRTdGF0ZSh7IGlzRG9pbmdBY3Rpb246IHRydWUgfSk7CiAgICB9Owo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbGlnblNlbGY6ICdzdHJldGNoJywK</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgdGhpcy5zdGF0ZSA9IHsKICAgICAgICAgICAgdXNlckRhdGE6IFtdLAogICAgICAgICAgICByZXBvcnRzOiBbXSwKICAgICAgICB9Ow==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IFJlcG9ydExpc3QgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9SZXBvcnRMaXN0JzsK</text>
+        <text encoding="base64">ICAgICAgICBhbGlnblNlbGY6ICdzdHJldGNoJywK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">ICAgIGhvbWU6IHsKICAgICAgICBmbGV4OiAxLAogICAgICAgIGJhY2tncm91bmRDb2xvcjogJyNmZmYnLAogICAgICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJywKICAgIH0s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnc3RyZXRjaCcsCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgIGNvbnRhaW5lcjogewogICAgICAgIGFsaWduSXRlbXM6ICdzdHJldGNoJywKICAgICAgICBhbGlnblNlbGY6ICdzdHJldGNoJywKICAgICAgICBmbGV4OiAxLAogICAgICAgIGZsZXhEaXJlY3Rpb246ICdjb2x1bW4nLAogICAgICAgIHBhZGRpbmc6IDE1LAogICAgICAgIHdpZHRoOiBEaW1lbnNpb25zLmdldCgnd2luZG93Jykud2lkdGgsCiAgICB9LAogICAgaGVhZGVyQ29udGFpbmVyOiB7CiAgICAgICAgYWxpZ25TZWxmOiAnc3RyZXRjaCcsCiAgICAgICAgYmFja2dyb3VuZENvbG9yOiAnI2VmZWZlZicsCiAgICAgICAgcGFkZGluZ1ZlcnRpY2FsOiAxMCwKICAgIH0sCiAgICBoZWFkZXI6IHsKICAgICAgICBhbGlnblNlbGY6ICdjZW50ZXInLAogICAgICAgIGNvbG9yOiAnIzAwMCcsCiAgICB9LA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnc3RyZXRjaCcsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhpdGVtKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgSGVhZGxpbmUgfSBmcm9tICdyZWFjdC1uYXRpdmUtcGFwZXInOwo=</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICBfZ2VuZXJhdGVDb21wb25lbnRMaXN0ID0gKCkgPT4gewogICAgICAgIHJldHVybiAoCiAgICAgICAgICAgIDxMaXN0LlNlY3Rpb24gdGl0bGU9IlJlY2VudCBTdWJtaXNzaW9ucyI+CiAgICAgICAgICAgICAgICB7IHRoaXMuc3RhdGUucmVwb3J0cy5tYXAoKGksIGopID0+IHsKICAgICAgICAgICAgICAgICAgICBjb25zdCBtb29kID0gaS5tb29kID09PSAnaGFwcHknID8gJ21vb2QnIDogJ21vb2QtYmFkJzsKCiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICgKICAgICAgICAgICAgICAgICAgICAgICAgPExpc3QuSXRlbQogICAgICAgICAgICAgICAgICAgICAgICAgICAga2V5PXtqfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgdGl0bGU9e2kucGxhdGVfbnVtYmVyICsgJyBmb3IgJyArIGkucmVhc29ufQogICAgICAgICAgICAgICAgICAgICAgICAgICAgZGVzY3JpcHRpb249e2kubG9jYXRpb24gKyAnIEAgJyArIGkudGltZXN0YW1wfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgbGVmdD17ICgpID0+IDxMaXN0Lkljb24gaWNvbj17bW9vZH0gY29sb3I9IiMwMDAiIC8+IH0KICAgICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgICApOwogICAgICAgICAgICAgICAgfSkgfQogICAgICAgICAgICA8L0xpc3QuU2VjdGlvbj4KICAgICAgICApOwogICAgfTsK</text>
+      <register name="9" type="2">
+        <text encoding="base64">aW1wb3J0IHsgQVBJIH0gZnJvbSAnLi4vLi4vbGliJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
