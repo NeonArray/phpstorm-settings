@@ -436,11 +436,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/posts/some-post.md" timestamp="1537299377621">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/package.json" timestamp="1540928972839">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="6" column="21" />
-        <mark key="^" line="6" column="21" />
-        <mark key="." line="6" column="21" />
+      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/package.json" timestamp="1541007159268">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/canvas.ts" timestamp="1540928336458">
         <mark key="[" line="1" column="47" />
@@ -553,18 +553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>if () {
-                // Vertical
-                console.log('vertical');
-            }
-
-            if (tile.y === 0 || tile.y === Cell.Rows) {
-                // Horizontal
-                console.log('horizontal');
-            }</text>
+        <text>./src/index.ts&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>gridSelections: number[];</text>
+        <text>./src/index.ts&quot;</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -611,7 +603,7 @@
         <text encoding="base64">ICAgICAgICBsZXQgdGlsZXM6IHN0cmluZ1tdOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -644,8 +636,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>eww</entry>
         <entry>:w</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
