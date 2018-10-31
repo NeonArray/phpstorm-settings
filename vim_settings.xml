@@ -233,11 +233,10 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Grid.ts" timestamp="1541000374223">
-        <mark key="[" line="35" column="30" />
-        <mark key="]" line="31" column="39" />
-        <mark key="." line="31" column="39" />
-        <mark key="^" line="31" column="39" />
+      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Grid.ts" timestamp="1541002211632">
+        <mark key="[" line="29" column="12" />
+        <mark key="]" line="29" column="12" />
+        <mark key="." line="29" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ingen-nedry/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1534778010328">
         <mark key="[" line="38" column="36" />
@@ -553,8 +552,16 @@
       <jump line="54" column="11" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZS54KTsK</text>
+      <register name="&quot;" type="4">
+        <text>if () {
+                // Vertical
+                console.log('vertical');
+            }
+
+            if (tile.y === 0 || tile.y === Cell.Rows) {
+                // Horizontal
+                console.log('horizontal');
+            }</text>
       </register>
       <register name="-" type="4">
         <text>gridSelections: number[];</text>
@@ -565,35 +572,43 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZS54KTsK</text>
+      <register name="1" type="4">
+        <text>if () {
+                // Vertical
+                console.log('vertical');
+            }
+
+            if (tile.y === 0 || tile.y === Cell.Rows) {
+                // Horizontal
+                console.log('horizontal');
+            }</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgIAogICAgICAgIGZvcih2YXIgaTogbnVtYmVyID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgdGhpcy5ncmlkQXJyYXlbaV0gPSBbXTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZvcih2YXIgajogbnVtYmVyID0gMDsgajwgMTA7IGorKykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZS54KTsK</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">ICAgICAgIAogICAgICAgIGZvcih2YXIgaTogbnVtYmVyID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgdGhpcy5ncmlkQXJyYXlbaV0gPSBbXTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZvcih2YXIgajogbnVtYmVyID0gMDsgajwgMTA7IGorKykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      </register>
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgIFtbXSwgW10sIFtdLCBbXSwgW11dLAogICAgICAgICAgICBbW10sIFtdLCBbXSwgW10sIFtdXSwKICAgICAgICAgICAgW1tdLCBbXSwgW10sIFtdLCBbXV0sCiAgICAgICAgICAgIFtbXSwgW10sIFtdLCBbXSwgW11dLAogICAgICAgICAgICBbW10sIFtdLCBbXSwgW10sIFtdXQogICAgICAgIF07</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZSk7Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">bXBvcnQgeyBjYW52YXMsIGNvbnRleHQgfSBmcm9tICcuL2NhbnZhcyc7CmltcG9ydCB7IENlbGwsIENvbG9yIH0gZnJvbSAnLi9lbnVtcyc7CmltcG9ydCB7IFRpbGUgfSBmcm9tICcuL2NsYXNzZXMvVGlsZSc7CgoKCgoKCgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">CmZ1bmN0aW9uIAo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">CiAgICAgICAgYXR0YWNoTGlzdGVuZXIoKTsK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBsZXQgdGlsZXM6IHN0cmluZ1tdOwo=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CnNoYWRvd0dyaWQoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
