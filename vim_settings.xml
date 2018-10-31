@@ -233,11 +233,10 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Grid.ts" timestamp="1540991229378">
-        <mark key="[" line="41" column="25" />
-        <mark key="]" line="40" column="14" />
-        <mark key="." line="40" column="14" />
-        <mark key="^" line="40" column="14" />
+      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Grid.ts" timestamp="1540994857760">
+        <mark key="[" line="26" column="49" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ingen-nedry/wp-content/themes/ingen-wordpress/lib/class-ingen.php" timestamp="1534778010328">
         <mark key="[" line="38" column="36" />
@@ -324,7 +323,12 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/header.module.css" timestamp="1537296272933">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Tile.ts" timestamp="1540931265373" />
+      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Tile.ts" timestamp="1540994724296">
+        <mark key="[" line="25" column="8" />
+        <mark key="]" line="24" column="13" />
+        <mark key="^" line="24" column="13" />
+        <mark key="." line="24" column="13" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/css/agent-locator-admin.css" timestamp="1537539791024">
         <mark key="[" line="0" column="15" />
       </file>
@@ -548,11 +552,11 @@
       <jump line="54" column="11" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">bXBvcnQgeyBjYW52YXMsIGNvbnRleHQgfSBmcm9tICcuL2NhbnZhcyc7CmltcG9ydCB7IENlbGwsIENvbG9yIH0gZnJvbSAnLi9lbnVtcyc7CmltcG9ydCB7IFRpbGUgfSBmcm9tICcuL2NsYXNzZXMvVGlsZSc7CgoKCgoKCgo=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZS54KTsK</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>gridSelections: number[];</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -560,35 +564,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">bXBvcnQgeyBjYW52YXMsIGNvbnRleHQgfSBmcm9tICcuL2NhbnZhcyc7CmltcG9ydCB7IENlbGwsIENvbG9yIH0gZnJvbSAnLi9lbnVtcyc7CmltcG9ydCB7IFRpbGUgfSBmcm9tICcuL2NsYXNzZXMvVGlsZSc7CgoKCgoKCgo=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZS54KTsK</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIAo=</text>
+        <text encoding="base64">ICAgICAgIAogICAgICAgIGZvcih2YXIgaTogbnVtYmVyID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgdGhpcy5ncmlkQXJyYXlbaV0gPSBbXTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZvcih2YXIgajogbnVtYmVyID0gMDsgajwgMTA7IGorKykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">CiAgICAgICAgYXR0YWNoTGlzdGVuZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgIFtbXSwgW10sIFtdLCBbXSwgW11dLAogICAgICAgICAgICBbW10sIFtdLCBbXSwgW10sIFtdXSwKICAgICAgICAgICAgW1tdLCBbXSwgW10sIFtdLCBbXV0sCiAgICAgICAgICAgIFtbXSwgW10sIFtdLCBbXSwgW11dLAogICAgICAgICAgICBbW10sIFtdLCBbXSwgW10sIFtdXQogICAgICAgIF07</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGlsZXM6IHN0cmluZ1tdOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZSk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">CnNoYWRvd0dyaWQoKTs=</text>
+        <text encoding="base64">bXBvcnQgeyBjYW52YXMsIGNvbnRleHQgfSBmcm9tICcuL2NhbnZhcyc7CmltcG9ydCB7IENlbGwsIENvbG9yIH0gZnJvbSAnLi9lbnVtcyc7CmltcG9ydCB7IFRpbGUgfSBmcm9tICcuL2NsYXNzZXMvVGlsZSc7CgoKCgoKCgo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJqc3giOiAicmVhY3QiLAo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CmZ1bmN0aW9uIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gYWxsIGZpbGVzIHdpdGggYSAnLnRzJyBvciAnLnRzeCcgZXh0ZW5zaW9uIHdpbGwgYmUgaGFuZGxlZCBieSAndHMtbG9hZGVyJwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CiAgICAgICAgYXR0YWNoTGlzdGVuZXIoKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAibW9kdWxlIjogImNvbW1vbmpzIiwK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdGlsZXM6IHN0cmluZ1tdOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAiZGlhZ25vc3RpY0luZm9ybWF0aW9uTWFwLmdlbmVyYXRlZC50cyIK</text>
+      <register name="9" type="4">
+        <text encoding="base64">CnNoYWRvd0dyaWQoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
