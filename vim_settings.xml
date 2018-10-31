@@ -140,6 +140,12 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" timestamp="1541013285202">
+        <mark key="'" line="14" column="0" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="/fragment.php" timestamp="1538663113095">
         <mark key="[" line="0" column="0" />
       </file>
@@ -152,10 +158,10 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.js" timestamp="1541010604280">
-        <mark key="[" line="66" column="28" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.js" timestamp="1541013300646">
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/config.js" timestamp="1540320106016">
         <mark key="[" line="10" column="30" />
@@ -281,6 +287,11 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/spark-plugin-boilerplate.php" timestamp="1538070103851">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/RegisterView/index.js" timestamp="1541013288428">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/index.php" timestamp="1538070097274">
         <mark key="[" line="0" column="0" />
       </file>
@@ -314,13 +325,12 @@
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1541010611008">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1541013265651">
         <mark key="a" line="73" column="33" />
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="76" column="31" />
-        <mark key="]" line="76" column="29" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="76" column="29" />
+        <mark key="[" line="115" column="0" />
+        <mark key="]" line="115" column="0" />
+        <mark key="." line="115" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -482,8 +492,8 @@
       <jump line="54" column="11" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>./src/index.ts&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLGRkCg==</text>
       </register>
       <register name="-" type="4">
         <text>./src/index.ts&quot;</text>
@@ -494,43 +504,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>if () {
-                // Vertical
-                console.log('vertical');
-            }
-
-            if (tile.y === 0 || tile.y === Cell.Rows) {
-                // Horizontal
-                console.log('horizontal');
-            }</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLGRkCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZS54KTsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmbGV4OiAxLAo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICAgIAogICAgICAgIGZvcih2YXIgaTogbnVtYmVyID0gMDsgaSA8IDEwOyBpKyspIHsKICAgICAgICAgICAgdGhpcy5ncmlkQXJyYXlbaV0gPSBbXTsKICAgICAgICAgICAgCiAgICAgICAgICAgIGZvcih2YXIgajogbnVtYmVyID0gMDsgajwgMTA7IGorKykgewogICAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0KICAgICAgICB9</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICBbCiAgICAgICAgICAgIFtbXSwgW10sIFtdLCBbXSwgW11dLAogICAgICAgICAgICBbW10sIFtdLCBbXSwgW10sIFtdXSwKICAgICAgICAgICAgW1tdLCBbXSwgW10sIFtdLCBbXV0sCiAgICAgICAgICAgIFtbXSwgW10sIFtdLCBbXSwgW11dLAogICAgICAgICAgICBbW10sIFtdLCBbXSwgW10sIFtdXQogICAgICAgIF07</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8Vmlldz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codGlsZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bXBvcnQgeyBjYW52YXMsIGNvbnRleHQgfSBmcm9tICcuL2NhbnZhcyc7CmltcG9ydCB7IENlbGwsIENvbG9yIH0gZnJvbSAnLi9lbnVtcyc7CmltcG9ydCB7IFRpbGUgfSBmcm9tICcuL2NsYXNzZXMvVGlsZSc7CgoKCgoKCgo=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBmbGV4OiAxLAo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmZ1bmN0aW9uIAo=</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWFyb3VuZCcsCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAgICAgYXR0YWNoTGlzdGVuZXIoKTsK</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmbGV4RmxvdzogJ2NvbHVtbiB3cmFwJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBsZXQgdGlsZXM6IHN0cmluZ1tdOwo=</text>
+        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
