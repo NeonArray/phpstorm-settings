@@ -24,6 +24,7 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1541102719856" />
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/CHANGELOG.md" timestamp="1537821370658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -34,6 +35,9 @@
         <mark key="[" line="75" column="24" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/code-block/index.pcss" timestamp="1537195164165">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/sentry.js" timestamp="1541103596286">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/style.css" timestamp="1537968866844">
@@ -47,6 +51,11 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/post-block/post-block.module.css" timestamp="1537325617731">
         <mark key="[" line="1" column="11" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/helpers.js" timestamp="1541100438737">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
@@ -75,8 +84,7 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/query.js" timestamp="1538676949000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1541007465502">
-        <mark key="[" line="4" column="56" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1541101119080">
         <mark key="]" line="42" column="0" />
         <mark key="." line="42" column="0" />
       </file>
@@ -91,6 +99,9 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1541103983836">
+        <mark key="[" line="17" column="19" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
@@ -139,6 +150,9 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1541103268631">
+        <mark key="[" line="7" column="10" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537974118993">
         <mark key="[" line="39" column="40" />
       </file>
@@ -174,6 +188,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.js" timestamp="1541099624764">
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="7" column="23" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/ingen/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1534782789482">
         <mark key="[" line="58" column="15" />
       </file>
@@ -183,7 +202,7 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541007366451">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541104137145">
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
@@ -261,18 +280,22 @@
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/LookupDetail/index.js" timestamp="1541090905153">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
       </file>
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1541013265651">
-        <mark key="a" line="73" column="33" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1541103937848">
+        <mark key="a" line="75" column="33" />
         <mark key="'" line="2" column="7" />
-        <mark key="[" line="115" column="0" />
-        <mark key="]" line="115" column="0" />
-        <mark key="." line="115" column="0" />
+        <mark key="]" line="118" column="0" />
+        <mark key="." line="118" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/grid.css" timestamp="1537302087752">
         <mark key="[" line="0" column="0" />
@@ -306,6 +329,12 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.babelrc" timestamp="1541102262781">
+        <mark key="[" line="1" column="26" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-meta-field-display.php" timestamp="1537459812631">
         <mark key="[" line="0" column="0" />
       </file>
@@ -320,7 +349,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="26" filename="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/piece-part-price-estimator-form.css" />
       <jump line="149" column="8" filename="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/functions.php" />
       <jump line="59" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/layouts/default.html" />
       <jump line="171" column="3" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/v.php" />
@@ -420,10 +448,11 @@
       <jump line="60" column="22" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" />
       <jump line="2" column="27" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.js" />
       <jump line="54" column="11" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/index.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/.jestconfig.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4OiAxLGRkCg==</text>
+        <text encoding="base64">InRyYW5zZm9ybUlnbm9yZVBhdHRlcm5zIjogWwo=</text>
       </register>
       <register name="-" type="4">
         <text>./src/index.ts&quot;</text>
@@ -435,34 +464,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4OiAxLGRkCg==</text>
+        <text encoding="base64">InRyYW5zZm9ybUlnbm9yZVBhdHRlcm5zIjogWwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBmbGV4OiAxLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhdGU9e3RoaXMufQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8Vmlldz4K</text>
+        <text encoding="base64">ICAgICAgICBmbGV4OiAxLGRkCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAvLyBmbGV4OiAxLAo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L1ZpZXc+Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBqdXN0aWZ5Q29udGVudDogJ3NwYWNlLWFyb3VuZCcsCg==</text>
+        <text encoding="base64">ICAgICAgICA8Vmlldz4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBmbGV4RmxvdzogJ2NvbHVtbiB3cmFwJywK</text>
+        <text encoding="base64">ICAgICAgICBhbGlnbkl0ZW1zOiAnY2VudGVyJywK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICAvLyBmbGV4OiAxLAo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
