@@ -162,6 +162,11 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/errorHandler.js" timestamp="1541164591137">
+        <mark key="[" line="33" column="4" />
+        <mark key="]" line="33" column="4" />
+        <mark key="." line="33" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
@@ -202,7 +207,7 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541104137145">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541164668265">
         <mark key="]" line="8" column="24" />
         <mark key="^" line="8" column="24" />
         <mark key="." line="8" column="24" />
@@ -291,7 +296,7 @@
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1541103937848">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.js" timestamp="1541163809322">
         <mark key="a" line="75" column="33" />
         <mark key="'" line="2" column="7" />
         <mark key="]" line="118" column="0" />
@@ -451,11 +456,11 @@
       <jump line="2" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/.jestconfig.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">InRyYW5zZm9ybUlnbm9yZVBhdHRlcm5zIjogWwo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>./src/index.ts&quot;</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
