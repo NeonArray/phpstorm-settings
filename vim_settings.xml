@@ -84,9 +84,10 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/query.js" timestamp="1538676949000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1541101119080">
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1541166938749">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/header.css" timestamp="1534257184608">
         <mark key="[" line="15" column="0" />
@@ -218,6 +219,11 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.js" timestamp="1541090105487">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/sin.js" timestamp="1541166998154">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -458,10 +464,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgbmV3IFNpbignbG9nZ2VkIGluJywgMCk7</text>
+        <text encoding="base64">CgpmdW5jdGlvbiBoYW5kbGVFcnJvcihlcnJvcikgewogICAgYWxlcnQoZXJyb3IpOwp9</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>import { Alert } from 'react-native';</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -470,34 +476,52 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgbmV3IFNpbignbG9nZ2VkIGluJywgMCk7</text>
+        <text encoding="base64">CgpmdW5jdGlvbiBoYW5kbGVFcnJvcihlcnJvcikgewogICAgYWxlcnQoZXJyb3IpOwp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTaW4oJycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogRG8gc29tZXRoaW5nIGhlcmUgdG8gaGFuZGxlIHRoZSAiZXJyb3IiCg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBhd2FpdCBTZW50cnkud2l0aFNjb3BlKHNjb3BlID0+IFNlbnRyeS5jYXB0dXJlRXhjZXB0aW9uKHRoaXMubWVzc2FnZSkpOwo=</text>
+      <register name="3" type="4">
+        <text>// TODO: Do something useful with this error
+            console.error(error);</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdsb2dnaW5nIG91dCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBTZW50cnlMb2c7Cg==</text>
+      <register name="5" type="4">
+        <text>switch (this.priority) {
+        case 0:
+            await this.reportMessage();
+            break;
+        case 1:
+            await Promise.all([this.reportMessage(), this.reportException() ]);
+            break;
+        case 2:
+            await this.reportMessage();
+            await this.reportException();
+            break;
+        case 3:
+            await this.reportMessage();
+            await this.reportException();
+            break;
+        default:
+            break;
+        }</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2VudHJ5U2V2ZXJpdHksIFNlbnRyeUxvZyB9IGZyb20gJ3JlYWN0LW5hdGl2ZS1zZW50cnknOwo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICBhc3luYyByZXBvcnRNZXNzYWdlKCkgewogICAgICAgIGF3YWl0IFNlbnRyeS5jYXB0dXJlTWVzc2FnZSh0aGlzLm1lc3NhZ2UpOwogICAgfQoKICAgIA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">InRyYW5zZm9ybUlnbm9yZVBhdHRlcm5zIjogWwo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">CgogICAgYXN5bmMgcHJvY2Vzc0V4Y2VwdGlvbigpIHsKICAgICAgICBzd2l0Y2ggKHRoaXMucHJpb3JpdHkpIHsKICAgICAgICBjYXNlIDA6CiAgICAgICAgICAgIGF3YWl0IHRoaXMucmVwb3J0TWVzc2FnZSgpOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDE6CiAgICAgICAgICAgIGF3YWl0IFByb21pc2UuYWxsKFt0aGlzLnJlcG9ydE1lc3NhZ2UoKSwgdGhpcy5yZXBvcnRFeGNlcHRpb24oKV0pOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDI6CiAgICAgICAgICAgIGF3YWl0IHRoaXMucmVwb3J0TWVzc2FnZSgpOwogICAgICAgICAgICBhd2FpdCB0aGlzLnJlcG9ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDM6CiAgICAgICAgICAgIGF3YWl0IHRoaXMucmVwb3J0TWVzc2FnZSgpOwogICAgICAgICAgICBhd2FpdCB0aGlzLnJlcG9ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICBicmVhazsKICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">CiAgICAgICAgbmV3IFNpbignbG9nZ2VkIGluJywgMCk7</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGxhdGU9e3RoaXMufQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTaW4oJycpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
