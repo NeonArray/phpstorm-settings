@@ -32,6 +32,9 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env.sample" timestamp="1541176058750">
+        <mark key="[" line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/CHANGELOG.md" timestamp="1537821370658">
         <mark key="[" line="0" column="0" />
       </file>
@@ -130,9 +133,11 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" timestamp="1541174799978">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="0" column="26" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.js" timestamp="1541176030445">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1538663113095">
         <mark key="[" line="0" column="0" />
@@ -155,7 +160,7 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1541170871981">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env" timestamp="1541176046548">
         <mark key="[" line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/agent-locator/agent-locator.php" timestamp="1537974118993">
@@ -196,8 +201,8 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.js" timestamp="1541173995766">
         <mark key="[" line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.js" timestamp="1541174261817">
-        <mark key="[" line="3" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.js" timestamp="1541176527765">
+        <mark key="[" line="16" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="^" line="8" column="23" />
         <mark key="." line="3" column="0" />
@@ -288,11 +293,11 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/spark-plugin-boilerplate.php" timestamp="1538070103851">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/RegisterView/index.js" timestamp="1541174894926">
-        <mark key="[" line="24" column="2" />
-        <mark key="]" line="22" column="12" />
-        <mark key="." line="22" column="12" />
-        <mark key="^" line="22" column="12" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/RegisterView/index.js" timestamp="1541176039029">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="21" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/index.php" timestamp="1538070097274">
         <mark key="[" line="0" column="0" />
@@ -495,7 +500,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
+        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
       </register>
       <register name="-" type="4">
         <text>import LookupDetail from '../LookupDetail';</text>
@@ -507,34 +512,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
+        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEFjY291bnRWaWV3IGZyb20gJy4uL0FjY291bnRWaWV3JzsK</text>
+        <text encoding="base64">Y29uc3QgTG9naW5WaWV3ID0gKHByb3BzKSA9PiAoCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5hdmlnYXRpb246IFByb3BUeXBlcy5vYmplY3QsCg==</text>
+        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IEFjY291bnRWaWV3IGZyb20gJy4uL0FjY291bnRWaWV3JzsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG5hdmlnYXRpb246IFByb3BUeXBlcy5vYmplY3QsCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">Ck15QWNjb3VudC5wcm9wVHlwZXMgPSB7CiAgICBuYXZpZ2F0aW9uOiBQcm9wVHlwZXMub2JqZWN0LAp9Ow==</text>
-      </register>
-      <register name="6" type="4">
-        <text encoding="base64">CmltcG9ydCB7IEhlbHBlcnMgfSBmcm9tICcuLi8uLi9saWInOw==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxIZWxwZXJUZXh0CiAgICAgICAgICAgICAgICAgICAgdHlwZT0iZXJyb3IiCiAgICAgICAgICAgICAgICAgICAgdmlzaWJsZT17dGhpcy5zdGF0ZS5wbGF0ZSAgfT4KICAgICAgICAgICAgICAgICAgICA0LTcgbGV0dGVycy9udW1iZXJzIHdpdGggbm8gc3BhY2VzIG9yIHNwZWNpYWwgY2hhcmFjdGVycwogICAgICAgICAgICAgICAgPC9IZWxwZXJUZXh0Pg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgPEhlbHBlclRleHQKICAgICAgICAgICAgICAgICAgICB0eXBlPSJlcnJvciIKICAgICAgICAgICAgICAgICAgICB2aXNpYmxlPXt0aGlzLnN0YXRlLnBsYXRlICYmICFIZWxwZXJzLnNhbml0aXplUGxhdGUodGhpcy5zdGF0ZS5wbGF0ZSl9PgogICAgICAgICAgICAgICAgICAgIDQtNyBsZXR0ZXJzL251bWJlcnMgd2l0aCBubyBzcGFjZXMgb3Igc3BlY2lhbCBjaGFyYWN0ZXJzCiAgICAgICAgICAgICAgICA8L0hlbHBlclRleHQ+</text>
-      </register>
       <register name="9" type="4">
-        <text encoding="base64">ICAgIAogICAgX3ZhbGlkYXRlUGxhdGVOdW1iZXIgPSAocGxhdGUpID0+IHsKICAgICAgICAKICAgIH07CiAgICA=</text>
+        <text encoding="base64">Ck15QWNjb3VudC5wcm9wVHlwZXMgPSB7CiAgICBuYXZpZ2F0aW9uOiBQcm9wVHlwZXMub2JqZWN0LAp9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
