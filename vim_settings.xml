@@ -50,6 +50,11 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/index.js" timestamp="1537193424978">
         <mark key="[" line="75" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Finalize/index.tsx" timestamp="1541432227422">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/code-block/index.pcss" timestamp="1537195164165">
         <mark key="[" line="0" column="0" />
       </file>
@@ -91,6 +96,11 @@
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Game.ts" timestamp="1540931527056">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.tsx" timestamp="1541431782587">
+        <mark key="[" line="14" column="21" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
@@ -108,6 +118,11 @@
         <mark key="[" line="13" column="28" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.tsx" timestamp="1541432782629">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/header.css" timestamp="1534257184608">
         <mark key="[" line="15" column="0" />
@@ -229,8 +244,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.js" timestamp="1541173995766">
-        <mark key="[" line="6" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.js" timestamp="1541431339254">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.js" timestamp="1541180661040">
         <mark key="[" line="16" column="0" />
@@ -538,7 +556,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CmludGVyZmFjZSBTdGF0ZSB7CiAgICAKfQ==</text>
+        <text>import PropTypes from 'prop-types';</text>
       </register>
       <register name="-" type="4">
         <text>import PropTypes from 'prop-types';</text>
@@ -550,35 +568,37 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CmludGVyZmFjZSBTdGF0ZSB7CiAgICAKfQ==</text>
+        <text encoding="base64">CkxvZ2luLnByb3BUeXBlcyA9IHsKICAgIG5hdmlnYXRpb246IFByb3BUeXBlcy5vYmplY3QsCn07</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Ly8gVE9ETzogRG8gc29tZXRoaW5nIHVzZWZ1bCB3aXRoIHRoaXMgZXJyb3IK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name="4" type="4">
-        <text>// TODO: Do something useful with this error
-            console.error(error);</text>
+        <text encoding="base64">CmludGVyZmFjZSBJVmFsdWUgewogICAgcHJvcDogYm9vbGVhbgp9</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZycpOwo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ClJlYXNvbi5wcm9wVHlwZXMgPSB7CiAgICBuYXZpZ2F0aW9uOiBQcm9wVHlwZXMub2JqZWN0LAp9Ow==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Y29uc3QgTG9naW5WaWV3ID0gKHByb3BzKSA9PiAoCg==</text>
+      <register name="7" type="4">
+        <text>c
+Authenticator.propTypes = {
+    navigation: PropTypes.object,
+};</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
+      <register name="8" type="4">
+        <text encoding="base64">CmludGVyZmFjZSBTdGF0ZSB7CiAgICAKfQ==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
