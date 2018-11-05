@@ -103,7 +103,7 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/query.js" timestamp="1538676949000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1541429525664">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" timestamp="1541429656915">
         <mark key="'" line="116" column="27" />
         <mark key="[" line="13" column="28" />
         <mark key="]" line="12" column="0" />
@@ -126,8 +126,8 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/sales-portal/style.css" timestamp="1536259573077">
         <mark key="[" line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1541103983836">
-        <mark key="[" line="17" column="19" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1541431077314">
+        <mark key="[" line="0" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
@@ -194,6 +194,11 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.tsx" timestamp="1541430825784">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
@@ -220,6 +225,7 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/CHANGELOG.md" timestamp="1537897890220">
         <mark key="[" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541430963255" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -244,11 +250,14 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541170900702">
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="32" column="67" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/rm-cli.config.js" timestamp="1541430476242">
+        <mark key="[" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541430991084">
+        <mark key="[" line="15" column="10" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="39" column="67" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/StatePicker/index.js" timestamp="1541174471718">
         <mark key="[" line="62" column="25" />
@@ -528,11 +537,11 @@
       <jump line="113" column="27" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CmludGVyZmFjZSBTdGF0ZSB7CiAgICAKfQ==</text>
       </register>
       <register name="-" type="4">
-        <text>import LookupDetail from '../LookupDetail';</text>
+        <text>import PropTypes from 'prop-types';</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -540,36 +549,36 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">CmludGVyZmFjZSBTdGF0ZSB7CiAgICAKfQ==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5lcnJvcihlcnJvcik7Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ly8gVE9ETzogRG8gc29tZXRoaW5nIHVzZWZ1bCB3aXRoIHRoaXMgZXJyb3IK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>// TODO: Do something useful with this error
             console.error(error);</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3NvbWV0aGluZycpOwo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">Y29uc3QgTG9naW5WaWV3ID0gKHByb3BzKSA9PiAoCg==</text>
+        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
+        <text encoding="base64">Y29uc3QgTG9naW5WaWV3ID0gKHByb3BzKSA9PiAoCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAo=</text>
+        <text encoding="base64">Ly8gVE9ETzogTmVlZHMgc3R5bGluZwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFdyYXBwZXIgZnJvbSAnLi4vLi4vY29tcG9uZW50cy9XcmFwcGVyJzsK</text>
+        <text encoding="base64">ICAgICAgICB0ZXh0QWxpZ246ICdjZW50ZXInLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
