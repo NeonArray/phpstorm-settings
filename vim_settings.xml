@@ -20,6 +20,9 @@
       <file name="/a.dummy" timestamp="1537898843827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/partials/agent-locator-public-display.php" timestamp="1541514179331">
+        <mark key="[" line="115" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/helpers.ts" timestamp="1541434096401">
         <mark key="[" line="4" column="4" />
       </file>
@@ -50,6 +53,9 @@
         <mark key="[" line="40" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1541102719856" />
+      <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/css/agent-locator-public-alt.css" timestamp="1541514245060">
+        <mark key="[" line="146" column="53" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/.env.sample" timestamp="1541176058750">
         <mark key="[" line="6" column="0" />
       </file>
@@ -619,6 +625,8 @@
       <last-search>bg_chemtrails</last-search>
       <last-offset />
       <last-pattern>bg_chemtrails</last-pattern>
+      <last-replace>~</last-replace>
+      <last-substitute>bg_chemtrails</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
