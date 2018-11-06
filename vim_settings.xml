@@ -29,8 +29,8 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/helpers.ts" timestamp="1541434096401">
         <mark key="[" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.tsx" timestamp="1541438769202">
-        <mark key="[" line="5" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.tsx" timestamp="1541525139662">
+        <mark key="[" line="4" column="53" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1541182811145">
         <mark key="[" line="23" column="28" />
@@ -55,7 +55,6 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1541102719856" />
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/css/agent-locator-public-alt.css" timestamp="1541514245060">
         <mark key="[" line="146" column="53" />
       </file>
@@ -71,8 +70,8 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/index.js" timestamp="1537193424978">
         <mark key="[" line="75" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Finalize/index.tsx" timestamp="1541432227422">
-        <mark key="[" line="11" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Finalize/index.tsx" timestamp="1541525475930">
+        <mark key="[" line="20" column="10" />
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
@@ -117,7 +116,7 @@
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Game.ts" timestamp="1540931527056">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.tsx" timestamp="1541437915598">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.tsx" timestamp="1541525415711">
         <mark key="[" line="8" column="21" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
@@ -138,6 +137,9 @@
         <mark key="[" line="19" column="7" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.ts" timestamp="1541525080456">
+        <mark key="[" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/header.css" timestamp="1534257184608">
         <mark key="[" line="15" column="0" />
@@ -235,7 +237,6 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/sin.ts" timestamp="1541434332563" />
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/errorHandler.js" timestamp="1541165769030">
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -272,7 +273,6 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/CHANGELOG.md" timestamp="1541517456428">
         <mark key="[" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541430963255" />
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -318,6 +318,11 @@
         <mark key="[" line="62" column="25" />
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.tsx" timestamp="1541525684882">
+        <mark key="[" line="79" column="30" />
+        <mark key="]" line="73" column="0" />
+        <mark key="." line="73" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/MyAccount/index.js" timestamp="1541174167943">
         <mark key="[" line="3" column="0" />
@@ -396,7 +401,6 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/category-list/index.js" timestamp="1537289355275">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/node_modules/react-native-sentry/lib/Sentry.d.ts" timestamp="1541180724245" />
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.js" timestamp="1541183438867">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
@@ -422,7 +426,6 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.ts" timestamp="1541434341570" />
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
       </file>
@@ -574,8 +577,8 @@
       <jump line="113" column="27" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CmNvbnN0IG1vb2RTaGFyZWRTdHlsZSA9IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJwp9Ow==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -586,39 +589,37 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CmNvbnN0IG1vb2RTaGFyZWRTdHlsZSA9IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJwp9Ow==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRzX3N1Ym1pdHRlZDogc3RyaW5nW10sCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name="4" type="4">
+        <text encoding="base64">CmNvbnN0IG1vb2RTaGFyZWRTdHlsZSA9IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJwp9Ow==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0sCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICByZXBvcnRzX3N1Ym1pdHRlZDogc3RyaW5nW10sCg==</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgcmVwb3J0c19zdWJtaXR0ZWQ6IFtdCiAgICAgICAgICAgIH0s</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>Mood.propTypes = {
     navigation: PropTypes.object,
 };</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">CmV4cG9ydCBpbnRlcmZhY2UgU3RhdGUgewogICAgCn0=</text>
-      </register>
-      <register name="8" type="4">
-        <text>LookupDetail.propTypes = {
-    navigation: PropTypes.object,
-};</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICJwcm9wLXR5cGVzIjtjCg==</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
