@@ -242,10 +242,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.tsx" timestamp="1541527745790">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.tsx" timestamp="1541536853236">
         <mark key="[" line="11" column="5" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
@@ -375,10 +375,11 @@
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.tsx" timestamp="1541527773252">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.tsx" timestamp="1541536906995">
+        <mark key="'" line="13" column="4" />
+        <mark key="[" line="13" column="2" />
+        <mark key="]" line="13" column="2" />
+        <mark key="." line="13" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/css/agent-locator-admin.css" timestamp="1537539791024">
         <mark key="[" line="0" column="15" />
@@ -489,7 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="5" filename="$USER_HOME$/Documents/projects/ocular-rhythm/website/src/layouts/default.html" />
       <jump line="171" column="3" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/mvc/v.php" />
       <jump line="58" column="50" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/membee-login.php" />
       <jump line="204" column="0" filename="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" />
@@ -589,13 +589,14 @@
       <jump line="54" column="11" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/index.ts" />
       <jump line="2" column="0" filename="$USER_HOME$/Documents/projects/license-plate-judas/.jestconfig.js" />
       <jump line="113" column="27" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>import PropTypes from 'prop-types';</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IGFueSw=</text>
       </register>
       <register name="-" type="4">
-        <text>import PropTypes from 'prop-types';</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IGFueSw=</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -604,27 +605,27 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CkFjY291bnRWaWV3LnByb3BUeXBlcyA9IHsKICAgIG5hdmlnYXRpb246IFByb3BUeXBlcy5vYmplY3QsCn07</text>
+        <text encoding="base64">ICAgICAgICBnb0JhY2s6ICgpID0+IHZvaWQsCiAgICAgICAgdG9nZ2xlRHJhd2VyOiAoKSA9PiB2b2lkLAogICAgICAgIGdldFBhcmFtOiAoa2V5OiBzdHJpbmcpID0+IHN0cmluZyw=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">CkFjY291bnRWaWV3LnByb3BUeXBlcyA9IHsKICAgIG5hdmlnYXRpb246IFByb3BUeXBlcy5vYmplY3QsCn07</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>TopBarNavigation.propTypes = {
     navigation: PropTypes.object,
 };</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAib3V0RGlyIjogImJ1aWxkL2Rpc3QiLAo=</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+        <text encoding="base64">ICAgICAgICAib3V0RGlyIjogImJ1aWxkL2Rpc3QiLAo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
@@ -632,8 +633,8 @@
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">CmNvbnN0IG1vb2RTaGFyZWRTdHlsZSA9IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJwp9Ow==</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
