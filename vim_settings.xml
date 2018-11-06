@@ -242,10 +242,10 @@
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.tsx" timestamp="1541430825784">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Wrapper/index.tsx" timestamp="1541527745790">
+        <mark key="[" line="11" column="5" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
@@ -272,6 +272,11 @@
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/CHANGELOG.md" timestamp="1541517456428">
         <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541526648107">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
@@ -319,10 +324,11 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.tsx" timestamp="1541525684882">
-        <mark key="[" line="79" column="30" />
-        <mark key="]" line="73" column="0" />
-        <mark key="." line="73" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.tsx" timestamp="1541527090105">
+        <mark key="[" line="5" column="55" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="2" column="64" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/MyAccount/index.js" timestamp="1541174167943">
         <mark key="[" line="3" column="0" />
@@ -368,6 +374,11 @@
         <mark key="]" line="14" column="15" />
         <mark key="^" line="14" column="15" />
         <mark key="." line="14" column="15" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.tsx" timestamp="1541527773252">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/admin/css/agent-locator-admin.css" timestamp="1537539791024">
         <mark key="[" line="0" column="15" />
@@ -455,6 +466,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/templates/single.php" timestamp="1537302732880">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.tsx" timestamp="1541527319941">
+        <mark key="[" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.ts" timestamp="1541434122956">
         <mark key="[" line="1" column="10" />
@@ -577,11 +591,11 @@
       <jump line="113" column="27" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+      <register name="&quot;" type="4">
+        <text>import PropTypes from 'prop-types';</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>import PropTypes from 'prop-types';</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -589,37 +603,37 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+      <register name="1" type="4">
+        <text encoding="base64">CkFjY291bnRWaWV3LnByb3BUeXBlcyA9IHsKICAgIG5hdmlnYXRpb246IFByb3BUeXBlcy5vYmplY3QsCn07</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">CmNvbnN0IG1vb2RTaGFyZWRTdHlsZSA9IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJwp9Ow==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIH0sCg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXBvcnRzX3N1Ym1pdHRlZDogc3RyaW5nW10sCg==</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmVwb3J0c19zdWJtaXR0ZWQ6IFtdCiAgICAgICAgICAgIH0s</text>
-      </register>
-      <register name="8" type="4">
-        <text>Mood.propTypes = {
+      <register name="3" type="4">
+        <text>TopBarNavigation.propTypes = {
     navigation: PropTypes.object,
 };</text>
       </register>
-      <register name="9" type="2">
+      <register name="4" type="2">
         <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAib3V0RGlyIjogImJ1aWxkL2Rpc3QiLAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXF1aXJlZD17dHJ1ZX0K</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">CmNvbnN0IG1vb2RTaGFyZWRTdHlsZSA9IHsKICAgIGFsaWduSXRlbXM6ICdjZW50ZXInLAogICAgZmxleDogMSwKICAgIGp1c3RpZnlDb250ZW50OiAnY2VudGVyJwp9Ow==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
