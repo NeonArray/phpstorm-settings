@@ -43,10 +43,11 @@
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1541602224676">
-        <mark key="[" line="11" column="42" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1541607494357">
+        <mark key="[" line="21" column="68" />
+        <mark key="]" line="21" column="65" />
+        <mark key="." line="21" column="65" />
+        <mark key="^" line="21" column="65" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/FinishView/index.tsx" timestamp="1541601358858">
         <mark key="[" line="2" column="0" />
@@ -81,6 +82,9 @@
         <mark key="]" line="25" column="0" />
         <mark key="." line="25" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/App.js" timestamp="1541609087604">
+        <mark key="[" line="0" column="30" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" timestamp="1541600475788">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
@@ -113,10 +117,11 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/sin.ts" timestamp="1541606630047">
-        <mark key="[" line="34" column="1" />
-        <mark key="]" line="34" column="1" />
-        <mark key="." line="34" column="1" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/sin.ts" timestamp="1541607835215">
+        <mark key="[" line="26" column="3" />
+        <mark key="]" line="23" column="7" />
+        <mark key="." line="23" column="7" />
+        <mark key="^" line="23" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/errorHandler.js" timestamp="1541165769030">
         <mark key="[" line="34" column="0" />
@@ -133,10 +138,10 @@
         <mark key="]" line="29" column="12" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541607160403">
-        <mark key="[" line="8" column="21" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541609331688">
+        <mark key="[" line="11" column="20" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
         <mark key="^" line="6" column="29" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.js" timestamp="1541431339254">
@@ -151,8 +156,11 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.ts" timestamp="1541602539077">
-        <mark key="[" line="27" column="48" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.ts" timestamp="1541609288147">
+        <mark key="[" line="14" column="20" />
+        <mark key="]" line="39" column="54" />
+        <mark key="^" line="39" column="54" />
+        <mark key="." line="39" column="54" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1541430991084">
         <mark key="[" line="15" column="10" />
@@ -352,7 +360,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRvbSIK</text>
+        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -364,34 +372,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRvbSIK</text>
+        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgImRvbSIK</text>
+      </register>
+      <register name="3" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGV4dDogJ0FzayBtZSBsYXRlcicsIG9uUHJlc3M6ICgpID0+IGNvbnNvbGUubG9nKCdBc2sgbWUgbGF0ZXIgcHJlc3NlZCcpfSwKICAgICAgICAgICAgICAgICAgICB7dGV4dDogJ0NhbmNlbCcsIG9uUHJlc3M6ICgpID0+IGNvbnNvbGUubG9nKCdDYW5jZWwgUHJlc3NlZCcpLCBzdHlsZTogJ2NhbmNlbCd9LA==</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIF0sCg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICJ0eXBlcyI6IFsK</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAidHlwZVBhdGNoZXMiCg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBiYXJTdHlsZTogeyBiYWNrZ3JvdW5kQ29sb3I6ICcjNjk0ZmFkJyB9LAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBpbmFjdGl2ZUNvbG9yOiAnIzNlMjQ2NScsCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmVDb2xvcjogJyNmMGVkZjYnLAo=</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFByb3BUeXBlcyBmcm9tICdwcm9wLXR5cGVzJzsK</text>
+        <text encoding="base64">ICAgICAgICBhY3RpdmVDb2xvcjogJyNmMGVkZjYnLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
