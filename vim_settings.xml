@@ -138,11 +138,17 @@
         <mark key="]" line="29" column="12" />
         <mark key="." line="29" column="12" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541609331688">
-        <mark key="[" line="11" column="20" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.gitignore" timestamp="1541618315537">
+        <mark key="[" line="6" column="7" />
+        <mark key="]" line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1541617381806">
+        <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
         <mark key="^" line="6" column="29" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.js" timestamp="1541431339254">
         <mark key="[" line="32" column="0" />
@@ -156,8 +162,8 @@
         <mark key="^" line="8" column="23" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.ts" timestamp="1541609288147">
-        <mark key="[" line="14" column="20" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.ts" timestamp="1541617712167">
+        <mark key="[" line="76" column="88" />
         <mark key="]" line="39" column="54" />
         <mark key="^" line="39" column="54" />
         <mark key="." line="39" column="54" />
@@ -360,7 +366,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICIuL2FwcCIsCg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -372,34 +378,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
+        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICIuL2FwcCIsCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImRvbSIK</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGV4dDogJ0FzayBtZSBsYXRlcicsIG9uUHJlc3M6ICgpID0+IGNvbnNvbGUubG9nKCdBc2sgbWUgbGF0ZXIgcHJlc3NlZCcpfSwKICAgICAgICAgICAgICAgICAgICB7dGV4dDogJ0NhbmNlbCcsIG9uUHJlc3M6ICgpID0+IGNvbnNvbGUubG9nKCdDYW5jZWwgUHJlc3NlZCcpLCBzdHlsZTogJ2NhbmNlbCd9LA==</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgIF0sCg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJ0eXBlcyI6IFsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAidHlwZVBhdGNoZXMiCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiYXJTdHlsZTogeyBiYWNrZ3JvdW5kQ29sb3I6ICcjNjk0ZmFkJyB9LAo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpbmFjdGl2ZUNvbG9yOiAnIzNlMjQ2NScsCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhY3RpdmVDb2xvcjogJyNmMGVkZjYnLAo=</text>
+        <text encoding="base64">ICAgICAgICBpbmFjdGl2ZUNvbG9yOiAnIzNlMjQ2NScsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
