@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/helpers.ts" timestamp="1541434096401">
         <mark key="[" line="4" column="4" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.tsx" timestamp="1541600491694">
-        <mark key="[" line="5" column="8" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Reason/index.tsx" timestamp="1541708662894">
+        <mark key="[" line="30" column="63" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.js" timestamp="1541182811145">
         <mark key="[" line="23" column="28" />
@@ -210,10 +210,10 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541706738303">
-        <mark key="[" line="28" column="32" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541709071881">
+        <mark key="[" line="43" column="13" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/themes/nedry-ingen-wordpress/template-home.php" timestamp="1537968663074">
         <mark key="[" line="12" column="83" />
@@ -540,6 +540,13 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/templates/single.php" timestamp="1537302732880">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.tsx" timestamp="1541708687583">
+        <mark key="'" line="2" column="8" />
+        <mark key="[" line="16" column="31" />
+        <mark key="]" line="23" column="27" />
+        <mark key="^" line="23" column="27" />
+        <mark key="." line="23" column="27" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.ts" timestamp="1541434122956">
         <mark key="[" line="1" column="10" />
       </file>
@@ -666,8 +673,8 @@
       <jump line="2" column="8" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICBsZXQgZGF0YTogYW55ID0gZmFsc2U7</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RGb290ZXJDb21wb25lbnQ9ezxMaXN0LlNlY3Rpb24gY2hpbGRyZW49e251bGx9Lz59Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">ICAgICAgICBsZXQgZGF0YTogYW55ID0gZmFsc2U7</text>
@@ -678,35 +685,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBrZXkKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogICAgICov</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RGb290ZXJDb21wb25lbnQ9ezxMaXN0LlNlY3Rpb24gY2hpbGRyZW49e251bGx9Lz59Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGEgdmFsdWUgZnJvbSBsb2NhbCBzdG9yYWdlIGJ5IGtleS4KICAgICAqCiAgICAgKiBAcGFyYW0ga2V5ICAgc3RyaW5nICBUaGUga2V5IHRvIHJldHJpZXZlLgogICAgICogQHJldHVybnMge1Byb21pc2U8Ym9vbGVhbj59CiAgICAgKi8=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RIZWFkZXJDb21wb25lbnQ9ezxMaXN0LlNlY3Rpb24gY2hpbGRyZW49e251bGx9IHRpdGxlPSJMYXRlc3QgUmVwb3J0cyIvPn0K</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">cHJpdmF0ZSByZWFkb25seSBfU2V2ZXJpdHlMZXZlbDogc3RyaW5nW10gPSBbCiAgICAgICAgImNyaXRpY2FsIiwKICAgICAgICAiZGVidWciLAogICAgICAgICJ3YXJuaW5nIiwKICAgICAgICAiZXJyb3IiLAogICAgICAgICJpbmZvIiwKICAgICAgICAiZmF0YWwiLAogICAgXTsKCiAgICBnZXQgU2V2ZXJpdHlMZXZlbCgpOiBzdHJpbmdbXSB7CiAgICAgICAgcmV0dXJuIHRoaXMuX1NldmVyaXR5TGV2ZWw7CiAgICB9CiAgICA=</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RGb290ZXJDb21wb25lbnQ9ezxMaXN0LlNlY3Rpb24gY2hpbGRyZW49e251bGx9Lz59Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwogICAgICAgIHRoaXMucHJpb3JpdHkgPSBwcmlvcml0eTsKICAgICAgICB0aGlzLmxldmVsID0gbGV2ZWw7</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIExpc3RIZWFkZXJDb21wb25lbnQ9ezxMaXN0LlNlY3Rpb24gY2hpbGRyZW49e251bGx9IHRpdGxlPSJMYXRlc3QgUmVwb3J0cyIvPn0K</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgcHJpb3JpdHk6IG51bWJlcjsKICAgIHByaXZhdGUgcmVhZG9ubHkgbGV2ZWw6IHN0cmluZzs=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBrZXkKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogICAgICov</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">CiAgICAgICAgdGhpcy5wcm9jZXNzRXhjZXB0aW9uKCk7</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGEgdmFsdWUgZnJvbSBsb2NhbCBzdG9yYWdlIGJ5IGtleS4KICAgICAqCiAgICAgKiBAcGFyYW0ga2V5ICAgc3RyaW5nICBUaGUga2V5IHRvIHJldHJpZXZlLgogICAgICogQHJldHVybnMge1Byb21pc2U8Ym9vbGVhbj59CiAgICAgKi8=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">CiAgICBwcml2YXRlIGFzeW5jIHByb2Nlc3NFeGNlcHRpb24oKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICBzd2l0Y2ggKHRoaXMucHJpb3JpdHkpIHsKICAgICAgICBjYXNlIDA6IC8vIEVycm9yIGZvciBVc2VyIGNvbnN1bXB0aW9uCgogICAgICAgICAgICBBbGVydC5hbGVydCgKICAgICAgICAgICAgICAgICdVaCBPaCcsCiAgICAgICAgICAgICAgICB0aGlzLm1lc3NhZ2UsCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBhd2FpdCB0aGlzLnJlcG9ydE1lc3NhZ2UoKTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgY2FzZSAxOiAvLyBMb2cgbWVzc2FnZSB0byBTZW50cnkKICAgICAgICAgICAgYXdhaXQgdGhpcy5yZXBvcnRNZXNzYWdlKCk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgMjogLy8gUmVwb3J0IGFuIGV4Y2VwdGlvbgogICAgICAgICAgICBhd2FpdCB0aGlzLnJlcG9ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDM6CiAgICAgICAgICAgIC8vIHNsYWNrIG9yIGVtYWlsIG5vdGlmaWNhdGlvbgogICAgICAgICAgICBicmVhazsKICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9CgoKICAgIHByaXZhdGUgYXN5bmMgcmVwb3J0TWVzc2FnZSgpOiBQcm9taXNlPGFueT4gewogICAgICAgIHJldHVybiBhd2FpdCBTZW50cnkuY2FwdHVyZU1lc3NhZ2UodGhpcy5tZXNzYWdlLCB7IGxldmVsOiB0aGlzLmxldmVsIH0pOwogICAgfQoKCiAgICBwcml2YXRlIGFzeW5jIHJlcG9ydEV4Y2VwdGlvbigpOiBQcm9taXNlPGFueT4gewogICAgICAgIHJldHVybiBhd2FpdCBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbih0aGlzLm1lc3NhZ2UpOwogICAgfQ==</text>
+        <text encoding="base64">cHJpdmF0ZSByZWFkb25seSBfU2V2ZXJpdHlMZXZlbDogc3RyaW5nW10gPSBbCiAgICAgICAgImNyaXRpY2FsIiwKICAgICAgICAiZGVidWciLAogICAgICAgICJ3YXJuaW5nIiwKICAgICAgICAiZXJyb3IiLAogICAgICAgICJpbmZvIiwKICAgICAgICAiZmF0YWwiLAogICAgXTsKCiAgICBnZXQgU2V2ZXJpdHlMZXZlbCgpOiBzdHJpbmdbXSB7CiAgICAgICAgcmV0dXJuIHRoaXMuX1NldmVyaXR5TGV2ZWw7CiAgICB9CiAgICA=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICIuL2FwcCIsCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwogICAgICAgIHRoaXMucHJpb3JpdHkgPSBwcmlvcml0eTsKICAgICAgICB0aGlzLmxldmVsID0gbGV2ZWw7</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgcHJpb3JpdHk6IG51bWJlcjsKICAgIHByaXZhdGUgcmVhZG9ubHkgbGV2ZWw6IHN0cmluZzs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
