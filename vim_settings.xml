@@ -116,6 +116,7 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/global/_body.css" timestamp="1537200536736">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/node_modules/@types/react-navigation/index.d.ts" timestamp="1541704648699" />
       <file name="$USER_HOME$/Documents/projects/mvc-fun/index.php" timestamp="1536856762121">
         <mark key="[" line="0" column="0" />
       </file>
@@ -246,6 +247,9 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/typings/navigation.ts" timestamp="1541704599859">
+        <mark key="[" line="6" column="55" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/StatePicker/index.tsx" timestamp="1541600555362">
         <mark key="[" line="11" column="27" />
         <mark key="]" line="2" column="0" />
@@ -375,8 +379,8 @@
         <mark key="^" line="39" column="67" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.tsx" timestamp="1541607441674">
-        <mark key="[" line="13" column="17" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.tsx" timestamp="1541704585058">
+        <mark key="[" line="29" column="48" />
         <mark key="]" line="13" column="16" />
         <mark key="." line="13" column="16" />
         <mark key="^" line="13" column="16" />
