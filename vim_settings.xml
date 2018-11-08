@@ -149,8 +149,8 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/typings/navigation.d.ts" timestamp="1541597849686">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.tsx" timestamp="1541606860683">
-        <mark key="[" line="5" column="32" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.tsx" timestamp="1541706805898">
+        <mark key="[" line="19" column="52" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -166,8 +166,8 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/query.js" timestamp="1538676949000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.tsx" timestamp="1541599878489">
-        <mark key="[" line="6" column="8" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.tsx" timestamp="1541706817506">
+        <mark key="[" line="76" column="52" />
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
@@ -210,8 +210,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541618890666">
-        <mark key="[" line="20" column="4" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541706738303">
+        <mark key="[" line="28" column="32" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
@@ -390,8 +390,8 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.tsx" timestamp="1541600532487">
-        <mark key="[" line="6" column="20" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.tsx" timestamp="1541706831047">
+        <mark key="[" line="61" column="52" />
         <mark key="]" line="6" column="8" />
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="8" />
