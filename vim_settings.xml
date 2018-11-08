@@ -505,8 +505,10 @@
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/node_modules/react-native-paper/package.json" timestamp="1541598761468" />
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.ts" timestamp="1541703853468">
-        <mark key="[" line="23" column="16" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/storage.ts" timestamp="1541705597322">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1538754527359">
         <mark key="[" line="0" column="0" />
@@ -665,10 +667,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">cHJpdmF0ZSByZWFkb25seSBfU2V2ZXJpdHlMZXZlbDogc3RyaW5nW10gPSBbCiAgICAgICAgImNyaXRpY2FsIiwKICAgICAgICAiZGVidWciLAogICAgICAgICJ3YXJuaW5nIiwKICAgICAgICAiZXJyb3IiLAogICAgICAgICJpbmZvIiwKICAgICAgICAiZmF0YWwiLAogICAgXTsKCiAgICBnZXQgU2V2ZXJpdHlMZXZlbCgpOiBzdHJpbmdbXSB7CiAgICAgICAgcmV0dXJuIHRoaXMuX1NldmVyaXR5TGV2ZWw7CiAgICB9CiAgICA=</text>
+        <text encoding="base64">ICAgICAgICBsZXQgZGF0YTogYW55ID0gZmFsc2U7</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text encoding="base64">ICAgICAgICBsZXQgZGF0YTogYW55ID0gZmFsc2U7</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -677,34 +679,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">cHJpdmF0ZSByZWFkb25seSBfU2V2ZXJpdHlMZXZlbDogc3RyaW5nW10gPSBbCiAgICAgICAgImNyaXRpY2FsIiwKICAgICAgICAiZGVidWciLAogICAgICAgICJ3YXJuaW5nIiwKICAgICAgICAiZXJyb3IiLAogICAgICAgICJpbmZvIiwKICAgICAgICAiZmF0YWwiLAogICAgXTsKCiAgICBnZXQgU2V2ZXJpdHlMZXZlbCgpOiBzdHJpbmdbXSB7CiAgICAgICAgcmV0dXJuIHRoaXMuX1NldmVyaXR5TGV2ZWw7CiAgICB9CiAgICA=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICoKICAgICAqIEBwYXJhbSBrZXkKICAgICAqIEByZXR1cm5zIHtQcm9taXNlPHZvaWQ+fQogICAgICov</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwogICAgICAgIHRoaXMucHJpb3JpdHkgPSBwcmlvcml0eTsKICAgICAgICB0aGlzLmxldmVsID0gbGV2ZWw7</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogR2V0IGEgdmFsdWUgZnJvbSBsb2NhbCBzdG9yYWdlIGJ5IGtleS4KICAgICAqCiAgICAgKiBAcGFyYW0ga2V5ICAgc3RyaW5nICBUaGUga2V5IHRvIHJldHJpZXZlLgogICAgICogQHJldHVybnMge1Byb21pc2U8Ym9vbGVhbj59CiAgICAgKi8=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgcHJpb3JpdHk6IG51bWJlcjsKICAgIHByaXZhdGUgcmVhZG9ubHkgbGV2ZWw6IHN0cmluZzs=</text>
+        <text encoding="base64">cHJpdmF0ZSByZWFkb25seSBfU2V2ZXJpdHlMZXZlbDogc3RyaW5nW10gPSBbCiAgICAgICAgImNyaXRpY2FsIiwKICAgICAgICAiZGVidWciLAogICAgICAgICJ3YXJuaW5nIiwKICAgICAgICAiZXJyb3IiLAogICAgICAgICJpbmZvIiwKICAgICAgICAiZmF0YWwiLAogICAgXTsKCiAgICBnZXQgU2V2ZXJpdHlMZXZlbCgpOiBzdHJpbmdbXSB7CiAgICAgICAgcmV0dXJuIHRoaXMuX1NldmVyaXR5TGV2ZWw7CiAgICB9CiAgICA=</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">CiAgICAgICAgdGhpcy5wcm9jZXNzRXhjZXB0aW9uKCk7</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm1lc3NhZ2UgPSBtZXNzYWdlOwogICAgICAgIHRoaXMucHJpb3JpdHkgPSBwcmlvcml0eTsKICAgICAgICB0aGlzLmxldmVsID0gbGV2ZWw7</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgcHJpb3JpdHk6IG51bWJlcjsKICAgIHByaXZhdGUgcmVhZG9ubHkgbGV2ZWw6IHN0cmluZzs=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">CiAgICAgICAgdGhpcy5wcm9jZXNzRXhjZXB0aW9uKCk7</text>
+      </register>
+      <register name="7" type="4">
         <text encoding="base64">CiAgICBwcml2YXRlIGFzeW5jIHByb2Nlc3NFeGNlcHRpb24oKTogUHJvbWlzZTxhbnk+IHsKICAgICAgICBzd2l0Y2ggKHRoaXMucHJpb3JpdHkpIHsKICAgICAgICBjYXNlIDA6IC8vIEVycm9yIGZvciBVc2VyIGNvbnN1bXB0aW9uCgogICAgICAgICAgICBBbGVydC5hbGVydCgKICAgICAgICAgICAgICAgICdVaCBPaCcsCiAgICAgICAgICAgICAgICB0aGlzLm1lc3NhZ2UsCiAgICAgICAgICAgICk7CgogICAgICAgICAgICBhd2FpdCB0aGlzLnJlcG9ydE1lc3NhZ2UoKTsKICAgICAgICAgICAgYnJlYWs7CiAgICAgICAgY2FzZSAxOiAvLyBMb2cgbWVzc2FnZSB0byBTZW50cnkKICAgICAgICAgICAgYXdhaXQgdGhpcy5yZXBvcnRNZXNzYWdlKCk7CiAgICAgICAgICAgIGJyZWFrOwogICAgICAgIGNhc2UgMjogLy8gUmVwb3J0IGFuIGV4Y2VwdGlvbgogICAgICAgICAgICBhd2FpdCB0aGlzLnJlcG9ydEV4Y2VwdGlvbigpOwogICAgICAgICAgICBicmVhazsKICAgICAgICBjYXNlIDM6CiAgICAgICAgICAgIC8vIHNsYWNrIG9yIGVtYWlsIG5vdGlmaWNhdGlvbgogICAgICAgICAgICBicmVhazsKICAgICAgICBkZWZhdWx0OgogICAgICAgICAgICBicmVhazsKICAgICAgICB9CiAgICB9CgoKICAgIHByaXZhdGUgYXN5bmMgcmVwb3J0TWVzc2FnZSgpOiBQcm9taXNlPGFueT4gewogICAgICAgIHJldHVybiBhd2FpdCBTZW50cnkuY2FwdHVyZU1lc3NhZ2UodGhpcy5tZXNzYWdlLCB7IGxldmVsOiB0aGlzLmxldmVsIH0pOwogICAgfQoKCiAgICBwcml2YXRlIGFzeW5jIHJlcG9ydEV4Y2VwdGlvbigpOiBQcm9taXNlPGFueT4gewogICAgICAgIHJldHVybiBhd2FpdCBTZW50cnkuY2FwdHVyZUV4Y2VwdGlvbih0aGlzLm1lc3NhZ2UpOwogICAgfQ==</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICIuL2FwcCIsCg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAicm9vdERpciI6ICJhcHAiLAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImRvbSIK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB7dGV4dDogJ0FzayBtZSBsYXRlcicsIG9uUHJlc3M6ICgpID0+IGNvbnNvbGUubG9nKCdBc2sgbWUgbGF0ZXIgcHJlc3NlZCcpfSwKICAgICAgICAgICAgICAgICAgICB7dGV4dDogJ0NhbmNlbCcsIG9uUHJlc3M6ICgpID0+IGNvbnNvbGUubG9nKCdDYW5jZWwgUHJlc3NlZCcpLCBzdHlsZTogJ2NhbmNlbCd9LA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
