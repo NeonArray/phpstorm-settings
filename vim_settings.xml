@@ -105,6 +105,9 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/2d-engine/src/Vigor.ts" timestamp="1541787469710">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/agent-locator.php" timestamp="1541517537558">
         <mark key="[" line="18" column="26" />
       </file>
@@ -275,8 +278,21 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/headless/index.php" timestamp="1536756331819">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/2d-engine/tsconfig.json" timestamp="1541787809488">
+        <mark key="[" line="6" column="26" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="34" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/header.module.css" timestamp="1537296272933">
         <mark key="[" line="0" column="23" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/2d-engine/package.json" timestamp="1541787645883">
+        <mark key="'" line="2" column="6" />
+        <mark key="[" line="9" column="22" />
+        <mark key="]" line="12" column="1" />
+        <mark key="^" line="12" column="1" />
+        <mark key="." line="12" column="1" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Tile.ts" timestamp="1541780223255">
         <mark key="[" line="0" column="0" />
@@ -391,9 +407,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
-      <jump line="47" column="2" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
-      <jump line="43" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
       <jump line="41" column="21" filename="$USER_HOME$/Documents/projects/clue-server/components/user/userController.js" />
       <jump line="52" column="22" filename="$USER_HOME$/Documents/projects/clue-server/components/user/userModel.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/websites/clue/wp-content/plugins/clue-client/core/utils/severity.class.php" />
@@ -491,10 +504,13 @@
       <jump line="17" column="92" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" />
       <jump line="1" column="26" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/package.json" />
       <jump line="10" column="4" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/Grid.ts" />
+      <jump line="5" column="16" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
+      <jump line="7" column="17" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
+      <jump line="2" column="6" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>import {canvas} from &quot;../../canvas&quot;;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAib3V0RmlsZSI6ICJidWlsZC9idW5kbGUuanMiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>import {canvas} from &quot;../../canvas&quot;;</text>
@@ -506,34 +522,34 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG5ldyhyb3dzOiBudW1iZXIsIGNvbHVtbnM6IG51bWJlcik6IEdyaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICAib3V0RmlsZSI6ICJidWlsZC9idW5kbGUuanMiLAo=</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi9HcmlkJzsK</text>
+        <text encoding="base64">ICAgIG5ldyhyb3dzOiBudW1iZXIsIGNvbHVtbnM6IG51bWJlcik6IEdyaWQ7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIG5ldyAocm93czogbnVtYmVyLCBjb2x1bW5zOiBudW1iZXIpOiBHcmlkOwo=</text>
+        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi9HcmlkJzsK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgIG5ldyAocm93czogbnVtYmVyLCBjb2x1bW5zOiBudW1iZXIpOiBHcmlkOwo=</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc2hhZG93R3JpZEFycmF5OiBudW1iZXJbXVtdID0gW107Cg==</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">ICAgIHg6ICgpID0+IG51bWJlcjsKICAgIHk6ICgpID0+IG51bWJlcjsKICAgIHg6ICh4OiBudW1iZXIpID0+IG51bGw7CiAgICB5OiAoeTogbnVtYmVyKSA9PiBudWxsOw==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgICAgInR5cGVSb290cyI6IFsKICAgICAgICAgICAgIi4vdHlwaW5ncyIKICAgICAgICBdLAogICAgICAgICJ0eXBlcyI6IFtd</text>
       </register>
-      <register name="7" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICJ0eXBpbmdzIjogWyIuL3R5cGluZ3MiXSwK</text>
       </register>
-      <register name="8" type="2">
+      <register name="9" type="2">
         <text encoding="base64">aW1wb3J0IHsgVmVjdG9yMiB9IGZyb20gIi4uL3R5cGVzIjsK</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgogICAgc3RhdGljIGNvbnZlcnRDb29yZGluYXRlVG9UaWxlUG9zaXRpb24oY29vcmRpbmF0ZXM6IFZlY3RvcjIpOiBWZWN0b3IyIHsKICAgICAgICByZXR1cm4gbmV3IFZlY3RvcjIoCiAgICAgICAgICAgIE1hdGgudHJ1bmMoY29vcmRpbmF0ZXMueCAvIENlbGwuV2lkdGgpLAogICAgICAgICAgICBNYXRoLnRydW5jKGNvb3JkaW5hdGVzLnkgLyBDZWxsLkhlaWdodCkKICAgICAgICApOwogICAgfQ==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
