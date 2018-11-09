@@ -179,10 +179,12 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" timestamp="1541773785000">
-        <mark key="[" line="17" column="121" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" timestamp="1541775520767">
+        <mark key="'" line="17" column="92" />
+        <mark key="[" line="18" column="133" />
+        <mark key="]" line="17" column="92" />
+        <mark key="." line="17" column="92" />
+        <mark key="^" line="17" column="92" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
@@ -456,7 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="50" filename="$USER_HOME$/Documents/websites/tcj/wp-content/plugins/membees-member-login-widget/membee-login.php" />
       <jump line="204" column="0" filename="&lt;1fd00168-22e5-4d17-8e9b-438763e00e38&gt;/wp-content/plugins/membees-member-login-widget/mvc/c.php" />
       <jump line="63" column="20" filename="$USER_HOME$/Documents/VVV/www/clue/public_html/wp-content/plugins/clue-client/core/triggers/core.class.php" />
       <jump line="46" column="19" filename="$USER_HOME$/Documents/projects/clue-server/package.json" />
@@ -556,6 +557,7 @@
       <jump line="113" column="27" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.js" />
       <jump line="8" column="4" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.tsx" />
       <jump line="2" column="8" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.tsx" />
+      <jump line="17" column="92" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
