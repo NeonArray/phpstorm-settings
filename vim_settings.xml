@@ -189,10 +189,10 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/single-product.php" timestamp="1536330304000">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/IGrid.ts" timestamp="1541781215922">
-        <mark key="[" line="9" column="44" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/IGrid.ts" timestamp="1541786458819">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
@@ -215,11 +215,12 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/firebase/index.js" timestamp="1541182747967">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/Grid.ts" timestamp="1541781020327">
+      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/Grid.ts" timestamp="1541786683280">
         <mark key="'" line="10" column="4" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+        <mark key="^" line="10" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
@@ -492,11 +493,11 @@
       <jump line="10" column="4" filename="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/Grid.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG5ldyhyb3dzOiBudW1iZXIsIGNvbHVtbnM6IG51bWJlcik6IEdyaWQ7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>import {canvas} from &quot;../../canvas&quot;;</text>
       </register>
       <register name="-" type="4">
-        <text>import type { Tile } from '../../typings';</text>
+        <text>import {canvas} from &quot;../../canvas&quot;;</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
