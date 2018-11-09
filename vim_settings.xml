@@ -105,9 +105,6 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/2d-engine/src/Vigor.ts" timestamp="1541787469710">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/agent-locator.php" timestamp="1541517537558">
         <mark key="[" line="18" column="26" />
       </file>
@@ -509,8 +506,8 @@
       <jump line="2" column="6" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAib3V0RmlsZSI6ICJidWlsZC9idW5kbGUuanMiLAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
       </register>
       <register name="-" type="4">
         <text>import {canvas} from &quot;../../canvas&quot;;</text>
@@ -521,35 +518,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAib3V0RmlsZSI6ICJidWlsZC9idW5kbGUuanMiLAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIG5ldyhyb3dzOiBudW1iZXIsIGNvbHVtbnM6IG51bWJlcik6IEdyaWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi9HcmlkJzsK</text>
+        <text encoding="base64">ICAgICAgICAib3V0RmlsZSI6ICJidWlsZC9idW5kbGUuanMiLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyAocm93czogbnVtYmVyLCBjb2x1bW5zOiBudW1iZXIpOiBHcmlkOwo=</text>
+        <text encoding="base64">ICAgIG5ldyhyb3dzOiBudW1iZXIsIGNvbHVtbnM6IG51bWJlcik6IEdyaWQ7Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi9HcmlkJzsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIG5ldyAocm93czogbnVtYmVyLCBjb2x1bW5zOiBudW1iZXIpOiBHcmlkOwo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgc2hhZG93R3JpZEFycmF5OiBudW1iZXJbXVtdID0gW107Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAgIHg6ICgpID0+IG51bWJlcjsKICAgIHk6ICgpID0+IG51bWJlcjsKICAgIHg6ICh4OiBudW1iZXIpID0+IG51bGw7CiAgICB5OiAoeTogbnVtYmVyKSA9PiBudWxsOw==</text>
       </register>
-      <register name="7" type="4">
+      <register name="9" type="4">
         <text encoding="base64">ICAgICAgInR5cGVSb290cyI6IFsKICAgICAgICAgICAgIi4vdHlwaW5ncyIKICAgICAgICBdLAogICAgICAgICJ0eXBlcyI6IFtd</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJ0eXBpbmdzIjogWyIuL3R5cGluZ3MiXSwK</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IHsgVmVjdG9yMiB9IGZyb20gIi4uL3R5cGVzIjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
