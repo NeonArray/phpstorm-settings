@@ -179,15 +179,15 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" timestamp="1541600475788">
-        <mark key="[" line="13" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" timestamp="1541773785000">
+        <mark key="[" line="17" column="121" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541709071881">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541772732969">
         <mark key="[" line="43" column="13" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -204,8 +204,11 @@
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-locator.php" timestamp="1536173855489">
         <mark key="[" line="27" column="64" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Logo/index.tsx" timestamp="1541434662632">
-        <mark key="[" line="4" column="10" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Logo/index.tsx" timestamp="1541772954575">
+        <mark key="[" line="5" column="4" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="4" />
+        <mark key="^" line="4" column="9" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-or-prismjs/package.json" timestamp="1537194185282">
         <mark key="[" line="1" column="25" />
@@ -555,11 +558,11 @@
       <jump line="2" column="8" filename="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.tsx" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">PFN2ZyBoZWlnaHQ9ezEwMH0gd2lkdGg9ezEwMH0+CiAgICAgICAgPFN2Zy5DaXJjbGUKICAgICAgICAgICAgY3g9ezUwfQogICAgICAgICAgICBjeT17NTB9CiAgICAgICAgICAgIHI9ezQ1fQogICAgICAgICAgICBzdHJva2VXaWR0aD17Mi41fQogICAgICAgICAgICBzdHJva2U9IiNlNzRjM2MiCiAgICAgICAgICAgIGZpbGw9IiNmMWM0MGYiCiAgICAgICAgLz4KICAgIDwvU3ZnPg==</text>
       </register>
       <register name="-" type="4">
-        <text>{</text>
+        <text>import { Svg } from 'expo';</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -567,40 +570,40 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PFN2ZyBoZWlnaHQ9ezEwMH0gd2lkdGg9ezEwMH0+CiAgICAgICAgPFN2Zy5DaXJjbGUKICAgICAgICAgICAgY3g9ezUwfQogICAgICAgICAgICBjeT17NTB9CiAgICAgICAgICAgIHI9ezQ1fQogICAgICAgICAgICBzdHJva2VXaWR0aD17Mi41fQogICAgICAgICAgICBzdHJva2U9IiNlNzRjM2MiCiAgICAgICAgICAgIGZpbGw9IiNmMWM0MGYiCiAgICAgICAgLz4KICAgIDwvU3ZnPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
+      <register name="2" type="4">
+        <text encoding="base64">IDxTdmcgaGVpZ2h0PXsxMDB9IHdpZHRoPXsxMDB9PgogICAgICAgIDxTdmcuQ2lyY2xlCiAgICAgICAgICAgIGN4PXs1MH0KICAgICAgICAgICAgY3k9ezUwfQogICAgICAgICAgICByPXs0NX0KICAgICAgICAgICAgc3Ryb2tlV2lkdGg9ezIuNX0KICAgICAgICAgICAgc3Ryb2tlPSIjZTc0YzNjIgogICAgICAgICAgICBmaWxsPSIjZjFjNDBmIgogICAgICAgIC8+CiAgICA8L1N2Zz4=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAiY29tcGlsZXJPcHRpb25zIjogewo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>declare interface Vector2 {
     
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>interface IPosition {
     x: number;
     y: number;
 }</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgcmVhZG9ubHkgOiBzdHJpbmcgPSAncHVycGxlJzsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">CiAgICAKICAgIHB1YmxpYyByZW1vdmVFbnRpdHkoZW50aXR5OiBFbnRpdHkpOiBib29sZWFuIHsKICAgICAgICAKICAgIH0=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CiAgICAgICAgdGhpcy5yZW5kZXIoKTs=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
