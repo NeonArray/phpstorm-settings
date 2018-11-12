@@ -253,6 +253,11 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/CHANGELOG.md" timestamp="1541517456428">
         <mark key="[" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tsconfig.json" timestamp="1542050422576">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="6" />
+        <mark key="." line="22" column="6" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/global/style.css" timestamp="1537324510408">
         <mark key="[" line="0" column="0" />
       </file>
@@ -282,7 +287,7 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app.json" timestamp="1542044795741">
         <mark key="[" line="8" column="25" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.tsx" timestamp="1542049063967">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.tsx" timestamp="1542050128912">
         <mark key="[" line="39" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/index.html" timestamp="1540930200862">
@@ -550,8 +555,8 @@
       <jump line="2" column="6" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">ICAidHlwZVJvb3RzIjogWwogICAgICAgICAgICAibm9kZV9tb2R1bGVzL0B0eXBlcyIKICAgICAgICBd</text>
       </register>
       <register name="-" type="4">
         <text>import {canvas} from &quot;../../canvas&quot;;</text>
@@ -562,29 +567,32 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ICAidHlwZVJvb3RzIjogWwogICAgICAgICAgICAibm9kZV9tb2R1bGVzL0B0eXBlcyIKICAgICAgICBd</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">Ki5sb2NrCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>Expo CLI
 - React Native
 - Typescript</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>&quot;include&quot;: [
         &quot;src/**/*&quot;
     ]</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">Cm5ldyBEZWNrKCk7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>class Suite {
     private readonly _cards: Card[];
 
@@ -593,14 +601,11 @@
     }
 }</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text encoding="base64">IHNldCByYW5rTmFtZShuYW1lOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLl9yYW5rTmFtZSA9IG5hbWU7CiAgICB9CgogICAgZ2V0IHJhbmtOYW1lKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3JhbmtOYW1lOwogICAgfQo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgX3JhbmtOYW1lOiBzdHJpbmc7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnJhbmtOYW1lID0gdGhpcy5fcmFua05hbWVzW3JhbmsgLSAyXTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgX3JhbmtOYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
