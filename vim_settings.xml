@@ -39,8 +39,8 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1542044784149">
-        <mark key="[" line="3" column="19" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1542046349343">
+        <mark key="[" line="36" column="25" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/typings/navigation.ts" timestamp="1541599770417">
         <mark key="[" line="5" column="38" />
@@ -245,6 +245,11 @@
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/Tile.ts" timestamp="1540928109688">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/.gitignore" timestamp="1542046318789">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/CHANGELOG.md" timestamp="1541517456428">
         <mark key="[" line="1" column="0" />
       </file>
@@ -283,7 +288,7 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/user.js" timestamp="1539113437580">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package-lock.json" timestamp="1542045049920">
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/package-lock.json" timestamp="1542045760963">
         <mark key="[" line="4487" column="27" />
       </file>
       <file name="D:/repos/quiet-and-the-goblet-of-tuna/src/config.js" timestamp="1538336309259">
@@ -539,10 +544,8 @@
       <jump line="2" column="6" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Expo CLI
-- React Native
-- Typescript</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>import {canvas} from &quot;../../canvas&quot;;</text>
@@ -553,23 +556,29 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Expo CLI
-- React Native
-- Typescript</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
+      <register name="2" type="2">
+        <text encoding="base64">Ki5sb2NrCg==</text>
+      </register>
+      <register name="3" type="4">
+        <text>Expo CLI
+- React Native
+- Typescript</text>
+      </register>
+      <register name="4" type="4">
         <text>&quot;include&quot;: [
         &quot;src/**/*&quot;
     ]</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text encoding="base64">Cm5ldyBEZWNrKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>class Suite {
     private readonly _cards: Card[];
 
@@ -578,22 +587,14 @@
     }
 }</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">IHNldCByYW5rTmFtZShuYW1lOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLl9yYW5rTmFtZSA9IG5hbWU7CiAgICB9CgogICAgZ2V0IHJhbmtOYW1lKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3JhbmtOYW1lOwogICAgfQo=</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgX3JhbmtOYW1lOiBzdHJpbmc7Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnJhbmtOYW1lID0gdGhpcy5fcmFua05hbWVzW3JhbmsgLSAyXTsK</text>
-      </register>
-      <register name="8" type="4">
-        <text>enum ranks {
-    &quot;Two&quot;, &quot;Three&quot;, &quot;Four&quot;, &quot;Five&quot;, &quot;Six&quot;, &quot;Seven&quot;, &quot;Eight&quot;, &quot;Nine&quot;, &quot;Ten&quot;, &quot;Jack&quot;, &quot;Queen&quot;, &quot;King&quot;, &quot;Ace&quot;,
-}</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
