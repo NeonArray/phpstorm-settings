@@ -84,8 +84,10 @@
       <file name="$USER_HOME$/Documents/projects/kentico/app/Providers/AppServiceProvider.php" timestamp="1536602295347">
         <mark key="[" line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/README.md" timestamp="1541013985762">
-        <mark key="[" line="1" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/README.md" timestamp="1542033797745">
+        <mark key="[" line="2" column="2" />
+        <mark key="]" line="2" column="2" />
+        <mark key="." line="2" column="2" />
       </file>
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-config.php" timestamp="1537967356725">
         <mark key="[" line="22" column="37" />
@@ -529,9 +531,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;include&quot;: [
-        &quot;src/**/*&quot;
-    ]</text>
+        <text>Expo CLI
+- React Native
+- Typescript</text>
       </register>
       <register name="-" type="4">
         <text>import {canvas} from &quot;../../canvas&quot;;</text>
@@ -543,17 +545,22 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;include&quot;: [
-        &quot;src/**/*&quot;
-    ]</text>
+        <text>Expo CLI
+- React Native
+- Typescript</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Cm5ldyBEZWNrKCk7Cg==</text>
+        <text>&quot;include&quot;: [
+        &quot;src/**/*&quot;
+    ]</text>
       </register>
       <register name="3" type="4">
+        <text encoding="base64">Cm5ldyBEZWNrKCk7Cg==</text>
+      </register>
+      <register name="4" type="4">
         <text>class Suite {
     private readonly _cards: Card[];
 
@@ -562,25 +569,22 @@
     }
 }</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text encoding="base64">IHNldCByYW5rTmFtZShuYW1lOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLl9yYW5rTmFtZSA9IG5hbWU7CiAgICB9CgogICAgZ2V0IHJhbmtOYW1lKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3JhbmtOYW1lOwogICAgfQo=</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgX3JhbmtOYW1lOiBzdHJpbmc7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICB0aGlzLnJhbmtOYW1lID0gdGhpcy5fcmFua05hbWVzW3JhbmsgLSAyXTsK</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>enum ranks {
     &quot;Two&quot;, &quot;Three&quot;, &quot;Four&quot;, &quot;Five&quot;, &quot;Six&quot;, &quot;Seven&quot;, &quot;Eight&quot;, &quot;Nine&quot;, &quot;Ten&quot;, &quot;Jack&quot;, &quot;Queen&quot;, &quot;King&quot;, &quot;Ace&quot;,
 }</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
