@@ -209,6 +209,12 @@
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/README.md" timestamp="1537821358360">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/blackjack/index.html" timestamp="1542033227038">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/kentico/app/Http/Controllers/home.php" timestamp="1536602386443">
         <mark key="[" line="8" column="6" />
       </file>
@@ -258,8 +264,10 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/rm-cli.config.js" timestamp="1541430476242">
         <mark key="[" line="0" column="1" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/blackjack/tsconfig.json" timestamp="1542031080586">
-        <mark key="[" line="6" column="25" />
+      <file name="$USER_HOME$/Documents/projects/blackjack/tsconfig.json" timestamp="1542033413160">
+        <mark key="[" line="13" column="4" />
+        <mark key="]" line="13" column="4" />
+        <mark key="." line="13" column="4" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/index.html" timestamp="1540930200862">
         <mark key="[" line="7" column="26" />
@@ -329,8 +337,10 @@
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/blackjack/src/Card.ts" timestamp="1542030853770">
-        <mark key="[" line="5" column="1" />
+      <file name="$USER_HOME$/Documents/projects/blackjack/src/Card.ts" timestamp="1542033340403">
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/AccountView/index.js" timestamp="1541174741909">
         <mark key="[" line="33" column="0" />
@@ -342,6 +352,12 @@
         <mark key="[" line="1" column="7" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/typings/components/tile.d.ts" timestamp="1541779284582">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/blackjack/package.json" timestamp="1542033380355">
+        <mark key="[" line="3" column="6" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/blackjack/src/index.ts" timestamp="1542033334945">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Dummy.txt" timestamp="1538754527359">
@@ -513,7 +529,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
+        <text>&quot;include&quot;: [
+        &quot;src/**/*&quot;
+    ]</text>
       </register>
       <register name="-" type="4">
         <text>import {canvas} from &quot;../../canvas&quot;;</text>
@@ -525,34 +543,44 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
+        <text>&quot;include&quot;: [
+        &quot;src/**/*&quot;
+    ]</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">Cm5ldyBEZWNrKCk7Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAib3V0RmlsZSI6ICJidWlsZC9idW5kbGUuanMiLAo=</text>
+      <register name="3" type="4">
+        <text>class Suite {
+    private readonly _cards: Card[];
+
+    constructor() {
+        this._cards ;
+    }
+}</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG5ldyhyb3dzOiBudW1iZXIsIGNvbHVtbnM6IG51bWJlcik6IEdyaWQ7Cg==</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHNldCByYW5rTmFtZShuYW1lOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLl9yYW5rTmFtZSA9IG5hbWU7CiAgICB9CgogICAgZ2V0IHJhbmtOYW1lKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3JhbmtOYW1lOwogICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">aW1wb3J0IEdyaWQgZnJvbSAnLi9HcmlkJzsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgX3JhbmtOYW1lOiBzdHJpbmc7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIG5ldyAocm93czogbnVtYmVyLCBjb2x1bW5zOiBudW1iZXIpOiBHcmlkOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnJhbmtOYW1lID0gdGhpcy5fcmFua05hbWVzW3JhbmsgLSAyXTsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc2hhZG93R3JpZEFycmF5OiBudW1iZXJbXVtdID0gW107Cg==</text>
+      <register name="7" type="4">
+        <text>enum ranks {
+    &quot;Two&quot;, &quot;Three&quot;, &quot;Four&quot;, &quot;Five&quot;, &quot;Six&quot;, &quot;Seven&quot;, &quot;Eight&quot;, &quot;Nine&quot;, &quot;Ten&quot;, &quot;Jack&quot;, &quot;Queen&quot;, &quot;King&quot;, &quot;Ace&quot;,
+}</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgIHg6ICgpID0+IG51bWJlcjsKICAgIHk6ICgpID0+IG51bWJlcjsKICAgIHg6ICh4OiBudW1iZXIpID0+IG51bGw7CiAgICB5OiAoeTogbnVtYmVyKSA9PiBudWxsOw==</text>
+        <text encoding="base64">CgpleHBvcnQgZGVmYXVsdCBjbGFzcyBWaWdvciB7CgogICAgcHJpdmF0ZSByZWFkb25seSBfdmVyc2lvbjogc3RyaW5nOwogICAgCiAgICBwdWJsaWMgY29uc3RydWN0b3IoKSB7CiAgICAgICAgdGhpcy5fdmVyc2lvbiA9ICcxLjAnOwogICAgfQp9</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgICAgInR5cGVSb290cyI6IFsKICAgICAgICAgICAgIi4vdHlwaW5ncyIKICAgICAgICBdLAogICAgICAgICJ0eXBlcyI6IFtd</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihwcm9wcyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
