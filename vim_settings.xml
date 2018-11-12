@@ -107,6 +107,15 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/typings/navigation.d.ts" timestamp="1541597849686">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/tslint.json" timestamp="1542058103299">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Authenticator/index.tsx" timestamp="1542058118223">
+        <mark key="[" line="14" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/index.js" timestamp="1537192010126">
         <mark key="[" line="53" column="18" />
       </file>
@@ -199,7 +208,9 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/MyAccount/index.tsx" timestamp="1542051706587" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/MyAccount/index.tsx" timestamp="1542058128648">
+        <mark key="[" line="20" column="4" />
+      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/README.txt" timestamp="1537898644358">
         <mark key="[" line="11" column="148" />
       </file>
@@ -557,10 +568,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgInR5cGVzIjogWwogICAgICAgICAgICAicmVhY3QiLCAicmVhY3QtbmF0aXZlIiwgImZpcmViYXNlIiwgInJlYWN0LW5hdmlnYXRpb24iLCAicmVhY3QtbmF0aXZlLXBhcGVyIgogICAgICAgIF0=</text>
+        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0s</text>
       </register>
       <register name="-" type="4">
-        <text>import {canvas} from &quot;../../canvas&quot;;</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -569,44 +580,45 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgInR5cGVzIjogWwogICAgICAgICAgICAicmVhY3QiLCAicmVhY3QtbmF0aXZlIiwgImZpcmViYXNlIiwgInJlYWN0LW5hdmlnYXRpb24iLCAicmVhY3QtbmF0aXZlLXBhcGVyIgogICAgICAgIF0=</text>
+        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0s</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
-        <text encoding="base64">ICAidHlwZVJvb3RzIjogWwogICAgICAgICAgICAibm9kZV9tb2R1bGVzL0B0eXBlcyIKICAgICAgICBd</text>
+        <text>&quot;env&quot;: {
+        &quot;browser&quot;: true,
+        &quot;es6&quot;: true
+    },</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>parserOptions&quot;: {
+        &quot;ecmaFeatures&quot;: {
+            &quot;jsx&quot;: true
+        },
+        &quot;ecmaVersion&quot;: 2018,
+        &quot;sourceType&quot;: &quot;module&quot;
+    },</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ki5sb2NrCg==</text>
+        <text encoding="base64">ICAgICJwYXJzZXIiOiAiYmFiZWwtdHNsaW50IiwK</text>
       </register>
       <register name="5" type="4">
+        <text encoding="base64">ICAgInR5cGVzIjogWwogICAgICAgICAgICAicmVhY3QiLCAicmVhY3QtbmF0aXZlIiwgImZpcmViYXNlIiwgInJlYWN0LW5hdmlnYXRpb24iLCAicmVhY3QtbmF0aXZlLXBhcGVyIgogICAgICAgIF0=</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAidHlwZVJvb3RzIjogWwogICAgICAgICAgICAibm9kZV9tb2R1bGVzL0B0eXBlcyIKICAgICAgICBd</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ki5sb2NrCg==</text>
+      </register>
+      <register name="9" type="4">
         <text>Expo CLI
 - React Native
 - Typescript</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;include&quot;: [
-        &quot;src/**/*&quot;
-    ]</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">Cm5ldyBEZWNrKCk7Cg==</text>
-      </register>
-      <register name="8" type="4">
-        <text>class Suite {
-    private readonly _cards: Card[];
-
-    constructor() {
-        this._cards ;
-    }
-}</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">IHNldCByYW5rTmFtZShuYW1lOiBzdHJpbmcpIHsKICAgICAgICB0aGlzLl9yYW5rTmFtZSA9IG5hbWU7CiAgICB9CgogICAgZ2V0IHJhbmtOYW1lKCk6IHN0cmluZyB7CiAgICAgICAgcmV0dXJuIHRoaXMuX3JhbmtOYW1lOwogICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
