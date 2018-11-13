@@ -18,6 +18,11 @@
       <file name="/a.dummy" timestamp="1537898843827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/LoginView/index.tsx" timestamp="1542132118951">
+        <mark key="[" line="2" column="15" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/helpers.ts" timestamp="1541434096401">
         <mark key="[" line="4" column="4" />
       </file>
@@ -39,8 +44,18 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ResetPasswordFinalize/index.tsx" timestamp="1542131611732">
+        <mark key="[" line="101" column="75" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/package.json" timestamp="1542054697790">
         <mark key="[" line="44" column="32" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/ResetPasswordView/index.tsx" timestamp="1542132086567">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/typings/navigation.ts" timestamp="1541599770417">
         <mark key="[" line="5" column="38" />
@@ -128,6 +143,9 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/api/query.js" timestamp="1538676949000">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Login/index.tsx" timestamp="1542132165884">
+        <mark key="[" line="121" column="67" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/config/index.ts" timestamp="1541525080456">
         <mark key="[" line="2" column="12" />
       </file>
@@ -149,18 +167,16 @@
       <file name="$USER_HOME$/Documents/websites/plugindev/wp-content/plugins/spark-plugin-boilerplate/uninstall.php" timestamp="1538070107228">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/NavigationDrawer/index.tsx" timestamp="1541776111342">
-        <mark key="'" line="17" column="92" />
-        <mark key="[" line="18" column="133" />
-        <mark key="]" line="17" column="92" />
-        <mark key="." line="17" column="92" />
-        <mark key="^" line="17" column="92" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/nucor-agent-locator/public/class-agent-locator-public.php" timestamp="1537893329240">
         <mark key="[" line="147" column="113" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Vector2/Vector2.ts" timestamp="1541780144763">
         <mark key="[" line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/RegisterView/index.tsx" timestamp="1542132106719">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ReportList/index.tsx" timestamp="1541777573730">
         <mark key="[" line="10" column="10" />
@@ -238,13 +254,6 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/firebase/index.js" timestamp="1541182747967">
         <mark key="[" line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Grid/Grid.ts" timestamp="1541786683280">
-        <mark key="'" line="10" column="4" />
-        <mark key="[" line="11" column="12" />
-        <mark key="]" line="10" column="20" />
-        <mark key="." line="10" column="20" />
-        <mark key="^" line="10" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/websites/challenger-lifts/wp-content/themes/challenger/page-products.php" timestamp="1536329908339">
         <mark key="[" line="9" column="4" />
       </file>
@@ -289,7 +298,7 @@
         <mark key="[" line="62" column="15" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.ts" timestamp="1542124429633">
-        <mark key="[" line="56" column="0" />
+        <mark key="[" line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/rm-cli.config.js" timestamp="1541430476242">
         <mark key="[" line="0" column="1" />
@@ -305,6 +314,7 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Lookup/index.tsx" timestamp="1542050128912">
         <mark key="[" line="39" column="36" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/Register/index.tsx" timestamp="1542131342900" />
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/index.html" timestamp="1540930200862">
         <mark key="[" line="7" column="26" />
       </file>
@@ -334,13 +344,6 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/header.module.css" timestamp="1537296272933">
         <mark key="[" line="0" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/2d-engine/package.json" timestamp="1541787645883">
-        <mark key="'" line="2" column="6" />
-        <mark key="[" line="9" column="22" />
-        <mark key="]" line="12" column="1" />
-        <mark key="^" line="12" column="1" />
-        <mark key="." line="12" column="1" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/classes/Tile.ts" timestamp="1541780223255">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -354,6 +357,12 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/.eslintrc.json" timestamp="1542047980829">
         <mark key="[" line="17" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/views/ResetPasswordFinalizeView/index.tsx" timestamp="1542132091503">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="16" column="34" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1541008973638">
         <mark key="[" line="50" column="25" />
@@ -376,10 +385,10 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/category-list/index.js" timestamp="1537289355275">
         <mark key="[" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ResetPassword/index.tsx" timestamp="1542124149149">
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ResetPassword/index.tsx" timestamp="1542131298125">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
@@ -394,6 +403,9 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Vector2/IVector2.ts" timestamp="1541780174318">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/App.tsx" timestamp="1542131675911">
+        <mark key="[" line="50" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
@@ -437,13 +449,6 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/templates/single.php" timestamp="1537302732880">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/TopBarNavigation/index.tsx" timestamp="1541708687583">
-        <mark key="'" line="2" column="8" />
-        <mark key="[" line="16" column="31" />
-        <mark key="]" line="23" column="27" />
-        <mark key="^" line="23" column="27" />
-        <mark key="." line="23" column="27" />
-      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/index.ts" timestamp="1541434122956">
         <mark key="[" line="1" column="10" />
       </file>
@@ -452,13 +457,6 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/posts/some-post.md" timestamp="1537299377621">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/package.json" timestamp="1541779314494">
-        <mark key="'" line="1" column="26" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="1" column="26" />
-        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/projects/puzzle-kingdom/src/components/Vector2/Vector2.d.ts" timestamp="1541779758224">
         <mark key="[" line="0" column="0" />
@@ -575,8 +573,8 @@
       <jump line="2" column="6" filename="$USER_HOME$/Documents/projects/2d-engine/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17ICgpID0+IHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnTG9naW4nKSB9CiAgICAgICAgICAgICAgICAgICAgbW9kZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICBhY2Nlc3NpYmlsaXR5TGFiZWw9IlJlZ2lzdGVyIj5Mb2dpbjwvQnV0dG9uPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8VGl0bGU+TGljZW5zZSBQbGF0ZSBKdWRhczwvVGl0bGU+Cg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -587,44 +585,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17ICgpID0+IHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnTG9naW4nKSB9CiAgICAgICAgICAgICAgICAgICAgbW9kZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICBhY2Nlc3NpYmlsaXR5TGFiZWw9IlJlZ2lzdGVyIj5Mb2dpbjwvQnV0dG9uPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8VGl0bGU+TGljZW5zZSBQbGF0ZSBKdWRhczwvVGl0bGU+Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">VGV4dElucHV0CiAgICAgICAgICAgICAgICAgICAgYXV0b0NhcGl0YWxpemU9Im5vbmUiCiAgICAgICAgICAgICAgICAgICAgbW9kZT0iZmxhdCIKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iTmV3IFBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgIHNlY3VyZVRleHRFbnRyeT17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZVRleHQ9eyh0ZXh0KSA9PiB0aGlzLnNldFN0YXRlKHsgZXJyb3JzOiBudWxsLCBwYXNzd29yZDogdGV4dCB9KX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8VGV4dElucHV0CiAgICAgICAgICAgICAgICAgICAgYXV0b0NhcGl0YWxpemU9Im5vbmUiCiAgICAgICAgICAgICAgICAgICAgbW9kZT0iZmxhdCIKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iUmVwZWF0IFBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgIHNlY3VyZVRleHRFbnRyeT17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZVRleHQ9eyh0ZXh0KSA9PiB0aGlzLnNldFN0YXRlKHsgZXJyb3JzOiBudWxsLCBjb25maXJtUGFzc3dvcmQ6IHRleHQgfSl9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPEhlbHBlclRleHQKICAgICAgICAgICAgICAgICAgICB0eXBlPSJlcnJvciIKICAgICAgICAgICAgICAgICAgICB2aXNpYmxlPXt0aGlzLnN0YXRlLnBhc3N3b3JkICE9PSB0aGlzLnN0YXRlLmNvbmZpcm1QYXNzd29yZH0+CiAgICAgICAgICAgICAgICAgICAgUGFzc3dvcmRzIGRvbid0IG1hdGNoCiAgICAgICAgICAgICAgICA8L0hlbHBlclRleHQ+Cg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8VGl0bGU+TGljZW5zZSBQbGF0ZSBKdWRhczwvVGl0bGU+Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0s</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8VGl0bGU+TGljZW5zZSBQbGF0ZSBKdWRhczwvVGl0bGU+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;env&quot;: {
-        &quot;browser&quot;: true,
-        &quot;es6&quot;: true
-    },</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8VGl0bGU+TGljZW5zZSBQbGF0ZSBKdWRhczwvVGl0bGU+Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>parserOptions&quot;: {
-        &quot;ecmaFeatures&quot;: {
-            &quot;jsx&quot;: true
-        },
-        &quot;ecmaVersion&quot;: 2018,
-        &quot;sourceType&quot;: &quot;module&quot;
-    },</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGVtYWlsOiBzdHJpbmcsCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICJwYXJzZXIiOiAiYmFiZWwtdHNsaW50IiwK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PFRleHRJbnB1dAogICAgICAgICAgICAgICAgICAgIGF1dG9DYXBpdGFsaXplPSJub25lIgogICAgICAgICAgICAgICAgICAgIG1vZGU9ImZsYXQiCiAgICAgICAgICAgICAgICAgICAgbGFiZWw9IiIKICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZVRleHQ9eyh0ZXh0KSA9PiB0aGlzLnNldFN0YXRlKHsgZXJyb3JzOiBudWxsLCBlbWFpbDogdGV4dCB9KX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8SGVscGVyVGV4dAogICAgICAgICAgICAgICAgICAgIHR5cGU9ImVycm9yIgogICAgICAgICAgICAgICAgICAgIHZpc2libGU9eyB0aGlzLnN0YXRlLmVtYWlsICE9PSAnJyAmJiAhSGVscGVycy5pc1ZhbGlkRW1haWwodGhpcy5zdGF0ZS5lbWFpbCkgfT4KICAgICAgICAgICAgICAgICAgICBFbWFpbCBBZGRyZXNzIGlzbid0IHZhbGlkCiAgICAgICAgICAgICAgICA8L0hlbHBlclRleHQ+</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">ICAgInR5cGVzIjogWwogICAgICAgICAgICAicmVhY3QiLCAicmVhY3QtbmF0aXZlIiwgImZpcmViYXNlIiwgInJlYWN0LW5hdmlnYXRpb24iLCAicmVhY3QtbmF0aXZlLXBhcGVyIgogICAgICAgIF0=</text>
+      <register name="7" type="2">
+        <text encoding="base64">aW1wb3J0IGZpcmViYXNlIGZyb20gJy4uLy4uL2ZpcmViYXNlJzsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAidHlwZVJvb3RzIjogWwogICAgICAgICAgICAibm9kZV9tb2R1bGVzL0B0eXBlcyIKICAgICAgICBd</text>
+        <text encoding="base64">Y29uc3QgdG9rZW46IHN0cmluZyB8IG51bGwgPSBhd2FpdCBmaXJlYmFzZS5hdXRoKCkuY3VycmVudFVzZXIudWlkOwogICAgICAgIGF3YWl0IFN0b3JhZ2Uuc2V0KCdUb2tlbicsIHRva2VuKTsK</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17ICgpID0+IHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnTG9naW4nKSB9CiAgICAgICAgICAgICAgICAgICAgbW9kZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICBhY2Nlc3NpYmlsaXR5TGFiZWw9IlJlZ2lzdGVyIj5Mb2dpbjwvQnV0dG9uPg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
