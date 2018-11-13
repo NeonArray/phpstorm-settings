@@ -288,6 +288,9 @@
       <file name="$USER_HOME$/Documents/websites/kentico/wp-content/themes/nedry-ingen-wordpress/config.yml" timestamp="1536685912696">
         <mark key="[" line="62" column="15" />
       </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/api.ts" timestamp="1542124429633">
+        <mark key="[" line="56" column="0" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/rm-cli.config.js" timestamp="1541430476242">
         <mark key="[" line="0" column="1" />
       </file>
@@ -372,6 +375,11 @@
       </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/components/category-list/index.js" timestamp="1537289355275">
         <mark key="[" line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ResetPassword/index.tsx" timestamp="1542124149149">
+        <mark key="[" line="90" column="0" />
+        <mark key="]" line="90" column="0" />
+        <mark key="." line="90" column="0" />
       </file>
       <file name="D:/repos/license-plate-judas/node_modules/react-native/Libraries/Core/Devtools/setupDevtools.js" timestamp="1538758206034">
         <mark key="[" line="50" column="10" />
@@ -568,7 +576,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0s</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17ICgpID0+IHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnTG9naW4nKSB9CiAgICAgICAgICAgICAgICAgICAgbW9kZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICBhY2Nlc3NpYmlsaXR5TGFiZWw9IlJlZ2lzdGVyIj5Mb2dpbjwvQnV0dG9uPg==</text>
       </register>
       <register name="-" type="4">
         <text />
@@ -580,18 +588,24 @@
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0s</text>
+        <text encoding="base64">CiAgICAgICAgICAgICAgICA8QnV0dG9uCiAgICAgICAgICAgICAgICAgICAgb25QcmVzcz17ICgpID0+IHRoaXMucHJvcHMubmF2aWdhdGlvbi5uYXZpZ2F0ZSgnTG9naW4nKSB9CiAgICAgICAgICAgICAgICAgICAgbW9kZT0idGV4dCIKICAgICAgICAgICAgICAgICAgICBhY2Nlc3NpYmlsaXR5TGFiZWw9IlJlZ2lzdGVyIj5Mb2dpbjwvQnV0dG9uPg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="4">
+        <text encoding="base64">VGV4dElucHV0CiAgICAgICAgICAgICAgICAgICAgYXV0b0NhcGl0YWxpemU9Im5vbmUiCiAgICAgICAgICAgICAgICAgICAgbW9kZT0iZmxhdCIKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iTmV3IFBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgIHNlY3VyZVRleHRFbnRyeT17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZVRleHQ9eyh0ZXh0KSA9PiB0aGlzLnNldFN0YXRlKHsgZXJyb3JzOiBudWxsLCBwYXNzd29yZDogdGV4dCB9KX0KICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICA8VGV4dElucHV0CiAgICAgICAgICAgICAgICAgICAgYXV0b0NhcGl0YWxpemU9Im5vbmUiCiAgICAgICAgICAgICAgICAgICAgbW9kZT0iZmxhdCIKICAgICAgICAgICAgICAgICAgICBsYWJlbD0iUmVwZWF0IFBhc3N3b3JkIgogICAgICAgICAgICAgICAgICAgIHNlY3VyZVRleHRFbnRyeT17dHJ1ZX0KICAgICAgICAgICAgICAgICAgICBvbkNoYW5nZVRleHQ9eyh0ZXh0KSA9PiB0aGlzLnNldFN0YXRlKHsgZXJyb3JzOiBudWxsLCBjb25maXJtUGFzc3dvcmQ6IHRleHQgfSl9CiAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgPEhlbHBlclRleHQKICAgICAgICAgICAgICAgICAgICB0eXBlPSJlcnJvciIKICAgICAgICAgICAgICAgICAgICB2aXNpYmxlPXt0aGlzLnN0YXRlLnBhc3N3b3JkICE9PSB0aGlzLnN0YXRlLmNvbmZpcm1QYXNzd29yZH0+CiAgICAgICAgICAgICAgICAgICAgUGFzc3dvcmRzIGRvbid0IG1hdGNoCiAgICAgICAgICAgICAgICA8L0hlbHBlclRleHQ+Cg==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgICJwbHVnaW5zIjogWwogICAgICAgICJyZWFjdCIKICAgIF0s</text>
+      </register>
+      <register name="4" type="4">
         <text>&quot;env&quot;: {
         &quot;browser&quot;: true,
         &quot;es6&quot;: true
     },</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>parserOptions&quot;: {
         &quot;ecmaFeatures&quot;: {
             &quot;jsx&quot;: true
@@ -600,25 +614,17 @@
         &quot;sourceType&quot;: &quot;module&quot;
     },</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICJwYXJzZXIiOiAiYmFiZWwtdHNsaW50IiwK</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text encoding="base64">ICAgInR5cGVzIjogWwogICAgICAgICAgICAicmVhY3QiLCAicmVhY3QtbmF0aXZlIiwgImZpcmViYXNlIiwgInJlYWN0LW5hdmlnYXRpb24iLCAicmVhY3QtbmF0aXZlLXBhcGVyIgogICAgICAgIF0=</text>
       </register>
-      <register name="6" type="4">
+      <register name="8" type="4">
         <text encoding="base64">ICAidHlwZVJvb3RzIjogWwogICAgICAgICAgICAibm9kZV9tb2R1bGVzL0B0eXBlcyIKICAgICAgICBd</text>
       </register>
-      <register name="7" type="2">
+      <register name="9" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ki5sb2NrCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>Expo CLI
-- React Native
-- Typescript</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
