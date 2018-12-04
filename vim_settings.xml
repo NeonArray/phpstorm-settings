@@ -12,6 +12,12 @@
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/firebase/index.js" timestamp="1541182747967">
         <mark key="[" line="21" column="0" />
       </file>
+      <file name="D:/repos/ocular-rhythm-site/src/pages/404.js" timestamp="1543776531292">
+        <mark key="[" line="13" column="39" />
+        <mark key="]" line="13" column="37" />
+        <mark key="^" line="13" column="37" />
+        <mark key="." line="13" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/lib/error.js" timestamp="1540567447279">
         <mark key="[" line="0" column="0" />
       </file>
@@ -265,7 +271,7 @@
       <file name="$USER_HOME$/Documents/projects/or-gatsby/src/posts/some-other-post.md" timestamp="1537279015401">
         <mark key="[" line="1" column="7" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/package.json" timestamp="1543697735996">
+      <file name="D:/repos/ocular-rhythm-site/package.json" timestamp="1543775978272">
         <mark key="'" line="20" column="31" />
         <mark key="[" line="6" column="25" />
         <mark key="]" line="5" column="17" />
@@ -356,11 +362,11 @@
       <file name="$USER_HOME$/Documents/websites/ptg/wp-content/themes/ptg-silicones/css/header.css" timestamp="1534257184608">
         <mark key="[" line="15" column="0" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/pages/index.js" timestamp="1543690270369">
-        <mark key="[" line="15" column="157" />
-        <mark key="]" line="15" column="157" />
-        <mark key="." line="15" column="157" />
-        <mark key="^" line="15" column="157" />
+      <file name="D:/repos/ocular-rhythm-site/src/pages/index.js" timestamp="1543776410531">
+        <mark key="[" line="12" column="19" />
+        <mark key="]" line="12" column="67" />
+        <mark key="." line="12" column="67" />
+        <mark key="^" line="12" column="67" />
       </file>
       <file name="$USER_HOME$/Documents/websites/nucor/wp-content/plugins/agent-locator/public/partials/agent-locator-meta-field-display.php" timestamp="1537459812631">
         <mark key="[" line="0" column="0" />
@@ -406,7 +412,9 @@
       <file name="$USER_HOME$/Documents/projects/kentico/.env" timestamp="1536608336451">
         <mark key="[" line="40" column="56" />
       </file>
-      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1543692791862" />
+      <file name="D:/repos/ocular-rhythm-site/src/global/style.css" timestamp="1543776088933">
+        <mark key="[" line="92" column="17" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/or-gatsby/node_modules/gatsby-remark-prismjs/dist/index.js" timestamp="1537192795879">
         <mark key="[" line="48" column="52" />
       </file>
