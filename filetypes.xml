@@ -1,11 +1,10 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="css" type="CSS" />
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.backup" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
       <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="temp-write-test-1502998737" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping ext="config" type="PLAIN_TEXT" />
       <mapping ext="liquid" type="Twig" />
       <mapping pattern="Procfile" type="UML" />
-      <removed_mapping ext="css" type="CSS" />
     </extensionMap>
   </component>
 </application>
