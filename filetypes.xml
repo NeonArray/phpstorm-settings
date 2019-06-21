@@ -1,20 +1,22 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.production" type="PLAIN_TEXT" />
-      <mapping pattern="htaccess" type="PLAIN_TEXT" />
-      <mapping pattern=".htaccess.backup" type="PLAIN_TEXT" />
       <mapping pattern=".ftpquota" type="PLAIN_TEXT" />
-      <mapping pattern="_headers" type="PLAIN_TEXT" />
-      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="temp-write-test-1502998737" type="PLAIN_TEXT" />
+      <mapping pattern=".env.production" type="PLAIN_TEXT" />
+      <mapping pattern=".env.local" type="PLAIN_TEXT" />
       <mapping pattern="_redirects" type="PLAIN_TEXT" />
       <mapping pattern=".htaccess.bak" type="PLAIN_TEXT" />
-      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccess.backup" type="PLAIN_TEXT" />
+      <mapping pattern="_headers" type="PLAIN_TEXT" />
+      <mapping pattern="htaccess" type="PLAIN_TEXT" />
       <mapping ext="jade" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
       <mapping ext="config" type="PLAIN_TEXT" />
-      <mapping ext="incl" type="Smarty" />
+      <removed_mapping ext="tpl" approved="true" type="Smarty" />
       <mapping ext="liquid" type="Twig" />
+      <mapping ext="incl" type="Twig" />
+      <mapping ext="tpl" type="Twig" />
       <mapping pattern="Procfile" type="UML" />
     </extensionMap>
   </component>
