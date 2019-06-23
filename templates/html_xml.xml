@@ -1,0 +1,9 @@
+<templateSet group="html/xml">
+  <template name="ah" value="aria-hidden=&quot;true&quot;" description="Add aria-hidden=&quot;true&quot; to an element" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="PHP" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
