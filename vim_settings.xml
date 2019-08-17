@@ -133,6 +133,11 @@
       <file name="$USER_HOME$/Documents/projects/ocular-rhythm-gatsby/src/components/header.module.css" timestamp="1537296272933">
         <mark key="[" line="0" column="23" />
       </file>
+      <file name="D:/repos/sarah-portfolio-gatsby/src/pages/blog/index.js" timestamp="1566062182934">
+        <mark key="[" line="26" column="13" />
+        <mark key="]" line="26" column="14" />
+        <mark key="." line="26" column="14" />
+      </file>
       <file name="$USER_HOME$/Documents/projects/license-plate-judas/app/components/ResetPasswordFinalize/index.tsx" timestamp="1542131611732">
         <mark key="[" line="101" column="75" />
         <mark key="]" line="13" column="0" />
@@ -187,6 +192,12 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="34" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="D:/repos/sarah-portfolio-gatsby/static/admin/config.yml" timestamp="1566062129927">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="25" column="80" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="/fragment.php" timestamp="1538663113095">
         <mark key="[" line="0" column="0" />
@@ -560,11 +571,11 @@
     </filemarks>
     <jumps />
     <registers>
-      <register name="&quot;" type="4">
-        <text />
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLSB7bGFiZWw6ICJUYWdzIiwgbmFtZTogInRhZ3MiLCB3aWRnZXQ6ICJsaXN0In0K</text>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>&quot;, widget: &quot;markdown&quot;}</text>
       </register>
       <register name="/" type="4">
         <text>bg_chemtrails</text>
@@ -572,35 +583,35 @@
       <register name="0" type="2">
         <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8L2Rpdj48IS0tIGVuZCAjaGVhZGVyIC0tPi0tPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci90ZW1wbGF0ZXMvaW5kZXguaHRtbAogICBYLUZyYW1lLU9wdGlvbnM6IERFTlkKICAgWC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jawogIAovdGVtcGxhdGVzL2luZGV4Mi5odG1sClgtRnJhbWUtT3B0aW9uczogU0FNRU9SSUdJTg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgLSB7bGFiZWw6ICJUYWdzIiwgbmFtZTogInRhZ3MiLCB3aWRnZXQ6ICJsaXN0In0K</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLSB7bGFiZWw6ICJGZWF0dXJlZCBQb3N0IiwgbmFtZTogImZlYXR1cmVkcG9zdCIsIHdpZGdldDogImJvb2xlYW4ifQo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">ICAgICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAgICAgInByZXR0aWVyIjogIl4xLjE0LjIiCiAgICB9LA==</text>
+        <text encoding="base64">Ci90ZW1wbGF0ZXMvaW5kZXguaHRtbAogICBYLUZyYW1lLU9wdGlvbnM6IERFTlkKICAgWC1YU1MtUHJvdGVjdGlvbjogMTsgbW9kZT1ibG9jawogIAovdGVtcGxhdGVzL2luZGV4Mi5odG1sClgtRnJhbWUtT3B0aW9uczogU0FNRU9SSUdJTg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICJrZXl3b3JkcyI6IFsKICAgICAgICAiZ2F0c2J5IgogICAgXSw=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">ICAgICJkZXZEZXBlbmRlbmNpZXMiOiB7CiAgICAgICAgInByZXR0aWVyIjogIl4xLjE0LjIiCiAgICB9LA==</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICJrZXl3b3JkcyI6IFsKICAgICAgICAiZ2F0c2J5IgogICAgXSw=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICB0aXRsZVRlbXBsYXRlOiB0aXRsZVRlbXBsYXRlCg==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPG1ldGEgcHJvcGVydHk9ImZiOmFwcF9pZCIgY29udGVudD0iIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzp1cmwiIGNvbnRlbnQ9Imh0dHBzOi8vZXhhbXBsZS5jb20vcGFnZS5odG1sIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0eXBlIiBjb250ZW50PSJ3ZWJzaXRlIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzp0aXRsZSIgY29udGVudD0iIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzppbWFnZSIgY29udGVudD0iIiAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzpkZXNjcmlwdGlvbiIgY29udGVudD17IGRhdGEuc2l0ZS5zaXRlTWV0YWRhdGEuZGVzY3JpcHRpb24gfSAvPgogICAgICAgICAgICAgICAgICAgIDxtZXRhIHByb3BlcnR5PSJvZzpzaXRlX25hbWUiIGNvbnRlbnQ9eyBkYXRhLnNpdGUuc2l0ZU1ldGFkYXRhLnRpdGxlIH0gLz4KICAgICAgICAgICAgICAgICAgICA8bWV0YSBwcm9wZXJ0eT0ib2c6bG9jYWxlIiBjb250ZW50PSJlbl9VUyIgLz4KICAgICAgICAgICAgICAgICAgICA8bWV0YSBwcm9wZXJ0eT0iYXJ0aWNsZTphdXRob3IiIGNvbnRlbnQ9IkFhcm9uIEFybmV5IiAvPgogICAgICAgICAgICAgICAgICAgICAgICA=</text>
-      </register>
-      <register name="9" type="4">
-        <text encoding="base64">ICAgZGVmYXVsdFRpdGxlOiB0aXRsZQogICAgICAgIHRpdGxlVGVtcGxhdGUKICAgICAgICBkZWZhdWx0RGVzY3JpcHRpb246IGRlc2NyaXB0aW9uCiAgICAgICAgc2l0ZVVybDogdXJsCiAgICAgICAgZGVmYXVsdEltYWdlOiBpbWFnZQogICAgICAgIHR3aXR0ZXJVc2VybmFtZQogICAgICB9IH0=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -668,6 +679,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
