@@ -8,7 +8,7 @@
     <variable name="CONDITION" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="schema" value="{% schema %}&#10;{&#10;    &quot;id&quot;: &quot;$NAME$&quot;,&#10;    &quot;settings&quot;: [&#10;        {&#10;            &quot;id&quot;: &quot;some_id&quot;,&#10;            &quot;type&quot;: &quot;text&quot;,&#10;            &quot;label&quot;: &quot;Some ID&quot;,&#10;            &quot;default&quot;: &quot;This is the default&quot;&#10;        }&#10;    ] &#10;}&#10;{% endschema %}" toReformat="false" toShortenFQNames="true">
+  <template name="schema" value="{% schema %}&#10;{&#10;    &quot;id&quot;: &quot;$NAME$&quot;,&#10;    &quot;settings&quot;: [&#10;        {&#10;            &quot;id&quot;: &quot;some_id&quot;,&#10;            &quot;type&quot;: &quot;text&quot;,&#10;            &quot;label&quot;: &quot;Some ID&quot;,&#10;            &quot;default&quot;: &quot;This is the default&quot;&#10;        }&#10;    ] &#10;}&#10;{% endschema %}" description="" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="Twig" value="true" />
